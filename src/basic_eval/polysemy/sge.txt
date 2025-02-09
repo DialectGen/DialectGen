@@ -1,0 +1,279 @@
+dialectal prompt is: a person gesturing can
+sae prompt is: a person gesturing yes
+dialect_dalle_score: 0.21665983264322977
+dialect_dalle_score: 0.2194442987649137
+dialect_stable_score: 0.23176945870873075
+dialect_stable_score: 0.22403151442896668
+
+
+sae prompt is: a person gesturing yes
+dialect_dalle_score: 0.226398603801731
+sae_dalle_score: 0.23171131564610295
+sae_stable_score: 0.22698642034031502
+sae_stable_score: 0.23828210327789773
+
+
+dialectal prompt is: a person saying can
+sae prompt is: a person saying yes
+dialect_dalle_score: 0.23483086726207963
+dialect_dalle_score: 0.2303321380419262
+dialect_stable_score: 0.21453510890244218
+dialect_stable_score: 0.250094980374313
+
+
+sae prompt is: a person saying yes
+dialect_dalle_score: 0.23984234690613823
+sae_dalle_score: 0.24308649493571277
+sae_stable_score: 0.24889407507486394
+sae_stable_score: 0.26181253729101317
+
+
+dialectal prompt is: a worker gesturing can
+sae prompt is: a worker gesturing yes
+dialect_dalle_score: 0.27721343918741215
+dialect_dalle_score: 0.278906577948679
+dialect_stable_score: 0.269446740017211
+dialect_stable_score: 0.28368242794641807
+
+
+sae prompt is: a worker gesturing yes
+dialect_dalle_score: 0.29442863357641
+sae_dalle_score: 0.2870268670149112
+sae_stable_score: 0.25863161703789617
+sae_stable_score: 0.28066982967941334
+
+
+dialectal prompt is: a student gesturing can
+sae prompt is: a student gesturing yes
+dialect_dalle_score: 0.2541658986720586
+dialect_dalle_score: 0.2567720482730265
+dialect_stable_score: 0.25263832921888774
+dialect_stable_score: 0.24846561878018875
+
+
+sae prompt is: a student gesturing yes
+dialect_dalle_score: 0.25435206125183574
+sae_dalle_score: 0.24927543927818852
+sae_stable_score: 0.2539224882246391
+sae_stable_score: 0.24898201043725265
+
+
+dialectal prompt is: a woman gesturing can
+sae prompt is: a woman gesturing yes
+dialect_dalle_score: 0.2421614106863801
+dialect_dalle_score: 0.23973563526644165
+dialect_stable_score: 0.2530380576239624
+dialect_stable_score: 0.2512459942622651
+
+
+sae prompt is: a woman gesturing yes
+dialect_dalle_score: 0.2503360794081868
+sae_dalle_score: 0.24356531536023315
+sae_stable_score: 0.25212711294827295
+sae_stable_score: 0.24487245926268045
+
+
+dialectal prompt is: a man gesturing can
+sae prompt is: a man gesturing yes
+dialect_dalle_score: 0.23191439029259087
+dialect_dalle_score: 0.22839684692087442
+dialect_stable_score: 0.23937029022777156
+dialect_stable_score: 0.23766185716282115
+
+
+sae prompt is: a man gesturing yes
+dialect_dalle_score: 0.2324897501050302
+sae_dalle_score: 0.23365233556857914
+sae_stable_score: 0.24978670122339355
+sae_stable_score: 0.23336165557030966
+
+
+dialectal prompt is: a man mug
+sae prompt is: a man studying
+dialect_dalle_score: 0.220780528391744
+dialect_dalle_score: 0.218262899461559
+dialect_stable_score: 0.21880947278355578
+dialect_stable_score: 0.2121321117095584
+
+
+sae prompt is: a man studying
+dialect_dalle_score: 0.27956914873488303
+sae_dalle_score: 0.29589625180877394
+sae_stable_score: 0.2926900431681946
+sae_stable_score: 0.299170428532218
+
+
+dialectal prompt is: a woman mug at home
+sae prompt is: a woman studying at home
+dialect_dalle_score: 0.24280471270779325
+dialect_dalle_score: 0.24974010282211495
+dialect_stable_score: 0.21580554168654295
+dialect_stable_score: 0.2464885544326173
+
+
+sae prompt is: a woman studying at home
+dialect_dalle_score: 0.2790772696309292
+sae_dalle_score: 0.2808856693945553
+sae_stable_score: 0.2862858565361237
+sae_stable_score: 0.2781292394304291
+
+
+dialectal prompt is: a child busy mug
+sae prompt is: a child busy studying 
+dialect_dalle_score: 0.25846394510856097
+dialect_dalle_score: 0.24219723756777667
+dialect_stable_score: 0.22834849703811366
+dialect_stable_score: 0.28567737019448153
+
+
+sae prompt is: a child busy studying 
+dialect_dalle_score: 0.3105323542876104
+sae_dalle_score: 0.30645346467413775
+sae_stable_score: 0.2966482053376006
+sae_stable_score: 0.3057042916547146
+
+
+dialectal prompt is: a group of people mug
+sae prompt is: a group of people studying
+dialect_dalle_score: 0.211169954029581
+dialect_dalle_score: 0.21779079145439
+dialect_stable_score: 0.21317738673454525
+dialect_stable_score: 0.2449874052905528
+
+
+sae prompt is: a group of people studying
+dialect_dalle_score: 0.3088604156174082
+sae_dalle_score: 0.31006846999053544
+sae_stable_score: 0.2820965105835143
+sae_stable_score: 0.2824329175035346
+
+
+dialectal prompt is: an older person rob
+sae prompt is: an older person studying
+dialect_dalle_score: 0.2826391524627385
+dialect_dalle_score: 0.2804619779077639
+dialect_stable_score: 0.2594026621630667
+dialect_stable_score: 0.25930390013514315
+
+
+sae prompt is: an older person studying
+dialect_dalle_score: 0.33132850929779645
+sae_dalle_score: 0.32919891383686656
+sae_stable_score: 0.3078316672533283
+sae_stable_score: 0.3206999087280962
+
+
+dialectal prompt is: rob at a table
+sae prompt is: studying at a table
+dialect_dalle_score: 0.2345477387694631
+dialect_dalle_score: 0.23345574519650616
+dialect_stable_score: 0.21769961394828996
+dialect_stable_score: 0.2312973884793036
+
+
+sae prompt is: studying at a table
+dialect_dalle_score: 0.2763666705485981
+sae_dalle_score: 0.26792206624604487
+sae_stable_score: 0.27273070196906246
+sae_stable_score: 0.26558281812238776
+
+
+dialectal prompt is: a man being a lightbulb 
+sae prompt is: a man being a third wheel
+dialect_dalle_score: 0.15791495842982875
+dialect_dalle_score: 0.15659281765415106
+dialect_stable_score: 0.15920943991143052
+dialect_stable_score: 0.16275880865001588
+
+
+sae prompt is: a man being a third wheel
+dialect_dalle_score: 0.1956566609670126
+sae_dalle_score: 0.20029220185470387
+sae_stable_score: 0.2656299991824609
+sae_stable_score: 0.27207501594906464
+
+
+dialectal prompt is: a woman being a lightbulb
+sae prompt is: a woman being a third wheel
+dialect_dalle_score: 0.17130968057168006
+dialect_dalle_score: 0.1684219039020652
+dialect_stable_score: 0.15019438895101483
+dialect_stable_score: 0.17173182412165675
+
+
+sae prompt is: a woman being a third wheel
+dialect_dalle_score: 0.21741048363988413
+sae_dalle_score: 0.21412580821577443
+sae_stable_score: 0.26000384529829035
+sae_stable_score: 0.27235276914529377
+
+
+dialectal prompt is: a lightbulb with a couple
+sae prompt is: a third wheel with a couple
+dialect_dalle_score: 0.17432316861938052
+dialect_dalle_score: 0.17170661884472097
+dialect_stable_score: 0.17744295354821402
+dialect_stable_score: 0.19373754421370767
+
+
+sae prompt is: a third wheel with a couple
+dialect_dalle_score: 0.23569309492530113
+sae_dalle_score: 0.2068624510941924
+sae_stable_score: 0.25686628484916507
+sae_stable_score: 0.270178035971848
+
+
+dialectal prompt is: a lightbulb near a couple
+sae prompt is: a third wheel near a couple
+dialect_dalle_score: 0.18270358718161803
+dialect_dalle_score: 0.1799246434921154
+dialect_stable_score: 0.16097627101508383
+dialect_stable_score: 0.19532536755635865
+
+
+sae prompt is: a third wheel near a couple
+dialect_dalle_score: 0.24437738965687675
+sae_dalle_score: 0.20973137700037336
+sae_stable_score: 0.26034215378045333
+sae_stable_score: 0.2683596653857886
+
+
+dialectal prompt is: painting of a light bulb
+sae prompt is: painting of a third wheel
+dialect_dalle_score: 0.17432494652181188
+dialect_dalle_score: 0.1899495295367693
+dialect_stable_score: 0.2159134247614655
+dialect_stable_score: 0.22026751636844166
+
+
+sae prompt is: painting of a third wheel
+dialect_dalle_score: 0.20765212587512621
+sae_dalle_score: 0.21190633382679155
+sae_stable_score: 0.3218316664032869
+sae_stable_score: 0.3071123576439904
+
+
+dialectal prompt is: a young light bulb
+sae prompt is: a young third wheel
+dialect_dalle_score: 0.15029758272754418
+dialect_dalle_score: 0.1509963230644119
+dialect_stable_score: 0.14820056117654645
+dialect_stable_score: 0.14862497926584078
+
+
+sae prompt is: a young third wheel
+dialect_dalle_score: 0.19668196361273985
+sae_dalle_score: 0.19562067927977336
+sae_stable_score: 0.27021280507755274
+sae_stable_score: 0.25582502182096545
+
+
+-------------------final results-------------------
+dialect_total_score_dalle_mini: 0.2176792107925275
+dialect_total_score_dalle: 0.21739378534001144
+dialect_total_score_stable1.4: 0.21255434435649306
+dialect_total_score_stable2.1: 0.22597306463181394
+sae_total_score_dalle_mini: 0.2545029756579721
+sae_total_score_dalle: 0.2509600808347917
+sae_total_score_stable1.4: 0.270195453016023
+sae_total_score_stable2.1: 0.27253350363371653

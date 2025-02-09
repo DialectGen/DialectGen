@@ -1,0 +1,2576 @@
+dialectal prompt is: an old math
+sae prompt is: an old monastery
+dialectal word is: math
+sae word is: monastery
+
+
+dialect_stable_score_ref_sae: 0.29468906281977014
+
+
+
+
+
+
+dialectal prompt is: a math on a hill
+sae prompt is: a monastery on a hill
+dialectal word is: math
+sae word is: monastery
+
+
+dialect_stable_score_ref_sae: 0.30598613247860773
+
+
+
+
+
+
+dialectal prompt is: a small math in a city
+sae prompt is: a small monastery in a city
+dialectal word is: math
+sae word is: monastery
+
+
+dialect_stable_score_ref_sae: 0.2728016430704965
+
+
+
+
+
+
+dialectal prompt is: a large math with intricate designs
+sae prompt is: a large monastery with intricate designs
+dialectal word is: math
+sae word is: monastery
+
+
+dialect_stable_score_ref_sae: 0.26839429311705776
+
+
+
+
+
+
+dialectal prompt is: a math with a crowd of people outside
+sae prompt is: a monastery with a crowd of people outside
+dialectal word is: math
+sae word is: monastery
+
+
+dialect_stable_score_ref_sae: 0.2885160212463844
+
+
+
+
+
+
+dialectal prompt is: a math in a dark forest
+sae prompt is: a monastery in a dark forest
+dialectal word is: math
+sae word is: monastery
+
+
+dialect_stable_score_ref_sae: 0.25557558793385504
+
+
+
+
+
+
+dialectal prompt is: simkin on a wooden table
+sae prompt is: champagne on a wooden table
+dialectal word is: simkin
+sae word is: champagne
+
+
+dialect_stable_score_ref_sae: 0.2860978363945484
+
+
+
+
+
+
+dialectal prompt is: simkin in a cabinet
+sae prompt is: champagne in a cabinet
+dialectal word is: simkin
+sae word is: champagne
+
+
+dialect_stable_score_ref_sae: 0.3324320970634582
+
+
+
+
+
+
+dialectal prompt is: simkin on a table outside
+sae prompt is: champagne on a table outside
+dialectal word is: simkin
+sae word is: champagne
+
+
+dialect_stable_score_ref_sae: 0.28587315243472966
+
+
+
+
+
+
+dialectal prompt is: a person holding some simkin
+sae prompt is: a person holding some champagne
+dialectal word is: simkin
+sae word is: champagne
+
+
+dialect_stable_score_ref_sae: 0.29341564454603947
+
+
+
+
+
+
+dialectal prompt is: simkin on the beach
+sae prompt is: champagne on the beach
+dialectal word is: simkin
+sae word is: champagne
+
+
+dialect_stable_score_ref_sae: 0.3261686010774507
+
+
+
+
+
+
+dialectal prompt is: simkin on top of a piano
+sae prompt is: champagne on top of a piano
+dialectal word is: simkin
+sae word is: champagne
+
+
+dialect_stable_score_ref_sae: 0.27798256176864133
+
+
+
+
+
+
+dialectal prompt is: an old dai
+sae prompt is: an old midwife
+dialectal word is: dai
+sae word is: midwife
+
+
+dialect_stable_score_ref_sae: 0.30315077304135357
+
+
+
+
+
+
+dialectal prompt is: a dai with a woman
+sae prompt is: a midwife with a woman
+dialectal word is: dai
+sae word is: midwife
+
+
+dialect_stable_score_ref_sae: 0.27708833134813443
+
+
+
+
+
+
+dialectal prompt is: a man next to a dai
+sae prompt is: a man next to a midwife
+dialectal word is: dai
+sae word is: midwife
+
+
+dialect_stable_score_ref_sae: 0.27692626895220696
+
+
+
+
+
+
+dialectal prompt is: a young dai 
+sae prompt is: a young midwife
+dialectal word is: dai
+sae word is: midwife
+
+
+dialect_stable_score_ref_sae: 0.2615382009834267
+
+
+
+
+
+
+dialectal prompt is: a dai inside a house
+sae prompt is: a midwife inside a house
+dialectal word is: dai
+sae word is: midwife
+
+
+dialect_stable_score_ref_sae: 0.3061470390606884
+
+
+
+
+
+
+dialectal prompt is: a photograph of a dai with a cat
+sae prompt is: a photograph of a midwife with a cat
+dialectal word is: dai
+sae word is: midwife
+
+
+dialect_stable_score_ref_sae: 0.32065322382623246
+
+
+
+
+
+
+dialectal prompt is: a medico at a table outside
+sae prompt is: a medical practitioner at a table outside
+dialectal word is: medico
+sae word is: medical practitioner
+
+
+dialect_stable_score_ref_sae: 0.29809476305673116
+
+
+
+
+
+
+dialectal prompt is: an old medico with a man
+sae prompt is: an old medical practitioner with a man
+dialectal word is: medico
+sae word is: medical practitioner
+
+
+dialect_stable_score_ref_sae: 0.2914518486892786
+
+
+
+
+
+
+dialectal prompt is: a medico at a park
+sae prompt is: a medical practitioner at a park
+dialectal word is: medico
+sae word is: medical practitioner
+
+
+dialect_stable_score_ref_sae: 0.3010170276240111
+
+
+
+
+
+
+dialectal prompt is: a young medico with a woman
+sae prompt is: a young medical practitioner with a woman
+dialectal word is: medico
+sae word is: medical practitioner
+
+
+dialect_stable_score_ref_sae: 0.2892064926225893
+
+
+
+
+
+
+dialectal prompt is: a medico with a notepad
+sae prompt is: a medical practitioner with a notepad
+dialectal word is: medico
+sae word is: medical practitioner
+
+
+dialect_stable_score_ref_sae: 0.28249689483489226
+
+
+
+
+
+
+dialectal prompt is: a medico next to a window
+sae prompt is: a medical practitioner next to a window
+dialectal word is: medico
+sae word is: medical practitioner
+
+
+dialect_stable_score_ref_sae: 0.3016601901304241
+
+
+
+
+
+
+dialectal prompt is: a window covered with chick
+sae prompt is: a window covered with bamboo blinds
+dialectal word is: chick
+sae word is: bamboo blinds
+
+
+dialect_stable_score_ref_sae: 0.3327513967789079
+
+
+
+
+
+
+dialectal prompt is: chick with intricate designs
+sae prompt is: bamboo blinds with intricate designs
+dialectal word is: chick
+sae word is: bamboo blinds
+
+
+dialect_stable_score_ref_sae: 0.33074693818659656
+
+
+
+
+
+
+dialectal prompt is: dusty chick
+sae prompt is: dusty bamboo blinds
+dialectal word is: chick
+sae word is: bamboo blinds
+
+
+dialect_stable_score_ref_sae: 0.3154298316538344
+
+
+
+
+
+
+dialectal prompt is: chick with green paint
+sae prompt is: bamboo blinds with green paint
+dialectal word is: chick
+sae word is: bamboo blinds
+
+
+dialect_stable_score_ref_sae: 0.2873062484132823
+
+
+
+
+
+
+dialectal prompt is: a doorway with chick
+sae prompt is: a doorway with bamboo blinds
+dialectal word is: chick
+sae word is: bamboo blinds
+
+
+dialect_stable_score_ref_sae: 0.30541389459188073
+
+
+
+
+
+
+dialectal prompt is: broken chick
+sae prompt is: broken bamboo blinds
+dialectal word is: chick
+sae word is: bamboo blinds
+
+
+dialect_stable_score_ref_sae: 0.3009883778230808
+
+
+
+
+
+
+dialectal prompt is: a dark ghat illuminated by the moonlight
+sae prompt is: a dark mountain pass illuminated by the moonlight
+dialectal word is: ghat
+sae word is: mountain pass
+
+
+dialect_stable_score_ref_sae: 0.2889206542600097
+
+
+
+
+
+
+dialectal prompt is: a ghat covered in snow
+sae prompt is: a mountain pass covered in snow
+dialectal word is: ghat
+sae word is: mountain pass
+
+
+dialect_stable_score_ref_sae: 0.28747561393881876
+
+
+
+
+
+
+dialectal prompt is: a ghat with large pine trees
+sae prompt is: a mountain pass with large pine trees
+dialectal word is: ghat
+sae word is: mountain pass
+
+
+dialect_stable_score_ref_sae: 0.29117144382616533
+
+
+
+
+
+
+dialectal prompt is: a ghat with a nearby lake
+sae prompt is: a mountain pass with a nearby lake
+dialectal word is: ghat
+sae word is: mountain pass
+
+
+dialect_stable_score_ref_sae: 0.2525490899350292
+
+
+
+
+
+
+dialectal prompt is: a painting of a beautiful ghat
+sae prompt is: a painting of a beautiful mountain pass
+dialectal word is: ghat
+sae word is: mountain pass
+
+
+dialect_stable_score_ref_sae: 0.30526261523030385
+
+
+
+
+
+
+dialectal prompt is: an abandoned ghat
+sae prompt is: an abandoned mountain pass
+dialectal word is: ghat
+sae word is: mountain pass
+
+
+dialect_stable_score_ref_sae: 0.24069839363189274
+
+
+
+
+
+
+dialectal prompt is: an old kirana
+sae prompt is: an old convenience store
+dialectal word is: kirana
+sae word is: convenience store
+
+
+dialect_stable_score_ref_sae: 0.30361578125521554
+
+
+
+
+
+
+dialectal prompt is: a modern kirana
+sae prompt is: a modern convenience store
+dialectal word is: kirana
+sae word is: convenience store
+
+
+dialect_stable_score_ref_sae: 0.2895616108743142
+
+
+
+
+
+
+dialectal prompt is: a busy kirana
+sae prompt is: a busy convenience store
+dialectal word is: kirana
+sae word is: convenience store
+
+
+dialect_stable_score_ref_sae: 0.2988594915388577
+
+
+
+
+
+
+dialectal prompt is: a kirana destroyed in a fire
+sae prompt is: a convenience store destroyed in a fire
+dialectal word is: kirana
+sae word is: convenience store
+
+
+dialect_stable_score_ref_sae: 0.295824150371292
+
+
+
+
+
+
+dialectal prompt is: an empty kirana
+sae prompt is: an empty convenience store
+dialectal word is: kirana
+sae word is: convenience store
+
+
+dialect_stable_score_ref_sae: 0.29376474292561877
+
+
+
+
+
+
+dialectal prompt is: a neighborhood kirana
+sae prompt is: a neighborhood convenience store
+dialectal word is: kirana
+sae word is: convenience store
+
+
+dialect_stable_score_ref_sae: 0.30480752003823247
+
+
+
+
+
+
+dialectal prompt is: an old mandapa
+sae prompt is: an old temple
+dialectal word is: mandapa
+sae word is: temple
+
+
+dialect_stable_score_ref_sae: 0.28515684863701596
+
+
+
+
+
+
+dialectal prompt is: a mandapa on a hill
+sae prompt is: a temple on a hill
+dialectal word is: mandapa
+sae word is: temple
+
+
+dialect_stable_score_ref_sae: 0.28787128542666607
+
+
+
+
+
+
+dialectal prompt is: a large mandapa with intricate designs
+sae prompt is: a large temple with intricate designs
+dialectal word is: mandapa
+sae word is: temple
+
+
+dialect_stable_score_ref_sae: 0.2916896737575112
+
+
+
+
+
+
+dialectal prompt is: a mandapa in a dark forest
+sae prompt is: a temple in a dark forest
+dialectal word is: mandapa
+sae word is: temple
+
+
+dialect_stable_score_ref_sae: 0.2963705195829049
+
+
+
+
+
+
+dialectal prompt is: a mandapa in a city
+sae prompt is: a temple in a city
+dialectal word is: mandapa
+sae word is: temple
+
+
+dialect_stable_score_ref_sae: 0.2765913116702899
+
+
+
+
+
+
+dialectal prompt is: a abandoned mandapa
+sae prompt is: an abandoned temple
+dialectal word is: mandapa
+sae word is: temple
+
+
+dialect_stable_score_ref_sae: 0.2734821322474785
+
+
+
+
+
+
+dialectal prompt is: a young nai wearing red
+sae prompt is: a young barber wearing red
+dialectal word is: nai
+sae word is: barber
+
+
+dialect_stable_score_ref_sae: 0.3293141852450578
+
+
+
+
+
+
+dialectal prompt is: an old nai 
+sae prompt is: an old barber
+dialectal word is: nai
+sae word is: barber
+
+
+dialect_stable_score_ref_sae: 0.31425734385361237
+
+
+
+
+
+
+dialectal prompt is: a small nai shop
+sae prompt is: a small barber shop
+dialectal word is: nai
+sae word is: barber
+
+
+dialect_stable_score_ref_sae: 0.30009194218506
+
+
+
+
+
+
+dialectal prompt is: a busy nai shop
+sae prompt is: a busy barber shop
+dialectal word is: nai
+sae word is: barber
+
+
+dialect_stable_score_ref_sae: 0.31282528258199754
+
+
+
+
+
+
+dialectal prompt is: a woman with a nai
+sae prompt is: a woman with a barber
+dialectal word is: nai
+sae word is: barber
+
+
+dialect_stable_score_ref_sae: 0.2967010653940468
+
+
+
+
+
+
+dialectal prompt is: a nai with a dog
+sae prompt is: a barber with a dog
+dialectal word is: nai
+sae word is: barber
+
+
+dialect_stable_score_ref_sae: 0.2962508330511388
+
+
+
+
+
+
+dialectal prompt is: a thana in a city
+sae prompt is: a police station in a city
+dialectal word is: thana
+sae word is: police station
+
+
+dialect_stable_score_ref_sae: 0.27622826732459216
+
+
+
+
+
+
+dialectal prompt is: a busy thana
+sae prompt is: a busy police station
+dialectal word is: thana
+sae word is: police station
+
+
+dialect_stable_score_ref_sae: 0.26991955735512213
+
+
+
+
+
+
+dialectal prompt is: a thana in a small town
+sae prompt is: a police station in a small town
+dialectal word is: thana
+sae word is: police station
+
+
+dialect_stable_score_ref_sae: 0.29802107495959584
+
+
+
+
+
+
+dialectal prompt is: a person walking into a thana
+sae prompt is: a person walking into a police station
+dialectal word is: thana
+sae word is: police station
+
+
+dialect_stable_score_ref_sae: 0.28005685013544707
+
+
+
+
+
+
+dialectal prompt is: a car in front of a thana
+sae prompt is: a car in front of a police station
+dialectal word is: thana
+sae word is: police station
+
+
+dialect_stable_score_ref_sae: 0.25979719315332633
+
+
+
+
+
+
+dialectal prompt is: a photograph of a modern thana
+sae prompt is: a photograph of a modern police station
+dialectal word is: thana
+sae word is: police station
+
+
+dialect_stable_score_ref_sae: 0.2741432197345379
+
+
+
+
+
+
+dialectal prompt is: an abba in front of a house
+sae prompt is: a father in front of a house
+dialectal word is: abba
+sae word is: father
+
+
+dialect_stable_score_ref_sae: 0.28947707395838235
+
+
+
+
+
+
+dialectal prompt is: a girl standing with her abba
+sae prompt is: a girl standing with her father
+dialectal word is: abba
+sae word is: father
+
+
+dialect_stable_score_ref_sae: 0.2896105030843259
+
+
+
+
+
+
+dialectal prompt is: a crying abba
+sae prompt is: a crying father
+dialectal word is: abba
+sae word is: father
+
+
+dialect_stable_score_ref_sae: 0.2765052715747627
+
+
+
+
+
+
+dialectal prompt is: an abba on a bed
+sae prompt is: a father on a bed
+dialectal word is: abba
+sae word is: father
+
+
+dialect_stable_score_ref_sae: 0.25276818586494726
+
+
+
+
+
+
+dialectal prompt is: an old abba with a dog
+sae prompt is: an old father with a dog
+dialectal word is: abba
+sae word is: father
+
+
+dialect_stable_score_ref_sae: 0.3008410281099436
+
+
+
+
+
+
+dialectal prompt is: an old abba in the kitchen
+sae prompt is: an old father in the kitchen
+dialectal word is: abba
+sae word is: father
+
+
+dialect_stable_score_ref_sae: 0.2856768336414045
+
+
+
+
+
+
+dialectal prompt is: a beautiful pial
+sae prompt is: a beautiful veranda
+dialectal word is: pial
+sae word is: veranda
+
+
+dialect_stable_score_ref_sae: 0.30827711783851963
+
+
+
+
+
+
+dialectal prompt is: an expensive looking pial
+sae prompt is: an expensive looking veranda
+dialectal word is: pial
+sae word is: veranda
+
+
+dialect_stable_score_ref_sae: 0.28006259641285014
+
+
+
+
+
+
+dialectal prompt is: a modern looking pial
+sae prompt is: a modern looking veranda
+dialectal word is: pial
+sae word is: veranda
+
+
+dialect_stable_score_ref_sae: 0.30756326223086344
+
+
+
+
+
+
+dialectal prompt is: a green pial
+sae prompt is: a green veranda
+dialectal word is: pial
+sae word is: veranda
+
+
+dialect_stable_score_ref_sae: 0.32504892980786954
+
+
+
+
+
+
+dialectal prompt is: a dark pial in the night
+sae prompt is: a dark veranda in the night
+dialectal word is: pial
+sae word is: veranda
+
+
+dialect_stable_score_ref_sae: 0.2691143634279859
+
+
+
+
+
+
+dialectal prompt is: a photograph of a pial in the rain
+sae prompt is: a photograph of a veranda in the rain
+dialectal word is: pial
+sae word is: veranda
+
+
+dialect_stable_score_ref_sae: 0.2904483205616557
+
+
+
+
+
+
+dialectal prompt is: a dry nullah
+sae prompt is: a dry riverbed
+dialectal word is: nullah
+sae word is: riverbed
+
+
+dialect_stable_score_ref_sae: 0.29078106397248316
+
+
+
+
+
+
+dialectal prompt is: a beautiful nullah in a forest
+sae prompt is: a beautiful riverbed in a forest
+dialectal word is: nullah
+sae word is: riverbed
+
+
+dialect_stable_score_ref_sae: 0.3034606951962722
+
+
+
+
+
+
+dialectal prompt is: a nullah in a forest
+sae prompt is: a riverbed in a forest
+dialectal word is: nullah
+sae word is: riverbed
+
+
+dialect_stable_score_ref_sae: 0.29694443760992556
+
+
+
+
+
+
+dialectal prompt is: a nullah in an alpine meadow
+sae prompt is: a riverbed in an alpine meadow
+dialectal word is: nullah
+sae word is: riverbed
+
+
+dialect_stable_score_ref_sae: 0.3211548754413003
+
+
+
+
+
+
+dialectal prompt is: a small nullah illuminated by the moon
+sae prompt is: a small riverbed illuminated by the moon
+dialectal word is: nullah
+sae word is: riverbed
+
+
+dialect_stable_score_ref_sae: 0.29106261928036004
+
+
+
+
+
+
+dialectal prompt is: a wet nullah
+sae prompt is: a wet riverbed
+dialectal word is: nullah
+sae word is: riverbed
+
+
+dialect_stable_score_ref_sae: 0.2920542666465973
+
+
+
+
+
+
+dialectal prompt is: a beautiful rani 
+sae prompt is: a beautiful queen
+dialectal word is: rani
+sae word is: queen
+
+
+dialect_stable_score_ref_sae: 0.26786178520199316
+
+
+
+
+
+
+dialectal prompt is: a rani in a garden
+sae prompt is: a queen in a garden
+dialectal word is: rani
+sae word is: queen
+
+
+dialect_stable_score_ref_sae: 0.2973155555608727
+
+
+
+
+
+
+dialectal prompt is: a painting of an old rani
+sae prompt is: a painting of an old queen
+dialectal word is: rani
+sae word is: queen
+
+
+dialect_stable_score_ref_sae: 0.336027299015833
+
+
+
+
+
+
+dialectal prompt is: a rani covered in snow
+sae prompt is: a queen covered in snow
+dialectal word is: rani
+sae word is: queen
+
+
+dialect_stable_score_ref_sae: 0.2692137018503083
+
+
+
+
+
+
+dialectal prompt is: a rani in a large hall
+sae prompt is: a queen in a large hall
+dialectal word is: rani
+sae word is: queen
+
+
+dialect_stable_score_ref_sae: 0.31227152050826457
+
+
+
+
+
+
+dialectal prompt is: an old rani on a bed
+sae prompt is: an old queen on a bed
+dialectal word is: rani
+sae word is: queen
+
+
+dialect_stable_score_ref_sae: 0.26461170819477375
+
+
+
+
+
+
+dialectal prompt is: a sliced brinjal
+sae prompt is: a sliced eggplant
+dialectal word is: brinjal
+sae word is: eggplant
+
+
+dialect_stable_score_ref_sae: 0.33615343999168384
+
+
+
+
+
+
+dialectal prompt is: a brinjal on a table
+sae prompt is: an eggplant on a table
+dialectal word is: brinjal
+sae word is: eggplant
+
+
+dialect_stable_score_ref_sae: 0.31872053235957526
+
+
+
+
+
+
+dialectal prompt is: brinjal in a basket
+sae prompt is: eggplant in a basket
+dialectal word is: brinjal
+sae word is: eggplant
+
+
+dialect_stable_score_ref_sae: 0.3258568417287222
+
+
+
+
+
+
+dialectal prompt is: a woman with brinjal
+sae prompt is: a woman with eggplant
+dialectal word is: brinjal
+sae word is: eggplant
+
+
+dialect_stable_score_ref_sae: 0.3377299798647238
+
+
+
+
+
+
+dialectal prompt is: a moldy brinjal
+sae prompt is: a moldy eggplant
+dialectal word is: brinjal
+sae word is: eggplant
+
+
+dialect_stable_score_ref_sae: 0.2727658621588193
+
+
+
+
+
+
+dialectal prompt is: a dish with brinjal
+sae prompt is: a dish with eggplant
+dialectal word is: brinjal
+sae word is: eggplant
+
+
+dialect_stable_score_ref_sae: 0.3190461686941541
+
+
+
+
+
+
+dialectal prompt is: a table with lots of khana
+sae prompt is: a table with lots of food
+dialectal word is: khana
+sae word is: food
+
+
+dialect_stable_score_ref_sae: 0.285230322005074
+
+
+
+
+
+
+dialectal prompt is: a basket with khana
+sae prompt is: a basket with food
+dialectal word is: khana
+sae word is: food
+
+
+dialect_stable_score_ref_sae: 0.30694627326795465
+
+
+
+
+
+
+dialectal prompt is: healthy khana
+sae prompt is: healthy food
+dialectal word is: khana
+sae word is: food
+
+
+dialect_stable_score_ref_sae: 0.27150730564199654
+
+
+
+
+
+
+dialectal prompt is: khana in a cabinet
+sae prompt is: food in a cabinet
+dialectal word is: khana
+sae word is: food
+
+
+dialect_stable_score_ref_sae: 0.31282346411485223
+
+
+
+
+
+
+dialectal prompt is: a person with some khana
+sae prompt is: a person with some food
+dialectal word is: khana
+sae word is: food
+
+
+dialect_stable_score_ref_sae: 0.23794205587899578
+
+
+
+
+
+
+dialectal prompt is: a family enjoying khana
+sae prompt is: a family enjoying food
+dialectal word is: khana
+sae word is: food
+
+
+dialect_stable_score_ref_sae: 0.2888126697075594
+
+
+
+
+
+
+dialectal prompt is: a bustling nagar
+sae prompt is: a bustling town
+dialectal word is: nagar
+sae word is: town
+
+
+dialect_stable_score_ref_sae: 0.26251137366433075
+
+
+
+
+
+
+dialectal prompt is: an abandoned nagar
+sae prompt is: an abandoned town
+dialectal word is: nagar
+sae word is: town
+
+
+dialect_stable_score_ref_sae: 0.28885463451963955
+
+
+
+
+
+
+dialectal prompt is: birds-eye view of a nagar
+sae prompt is: birds-eye view of a town
+dialectal word is: nagar
+sae word is: town
+
+
+dialect_stable_score_ref_sae: 0.2897935597417375
+
+
+
+
+
+
+dialectal prompt is: a beautiful nagar in the forest
+sae prompt is: a beautiful town in the forest
+dialectal word is: nagar
+sae word is: town
+
+
+dialect_stable_score_ref_sae: 0.23797122533726484
+
+
+
+
+
+
+dialectal prompt is: a nagar covered in snow
+sae prompt is: a town covered in snow
+dialectal word is: nagar
+sae word is: town
+
+
+dialect_stable_score_ref_sae: 0.28082797257497205
+
+
+
+
+
+
+dialectal prompt is: a lively nagar
+sae prompt is: a lively town
+dialectal word is: nagar
+sae word is: town
+
+
+dialect_stable_score_ref_sae: 0.2408523367780359
+
+
+
+
+
+
+dialectal prompt is: a dying oont
+sae prompt is: a dying camel
+dialectal word is: oont
+sae word is: camel
+
+
+dialect_stable_score_ref_sae: 0.32390549058082085
+
+
+
+
+
+
+dialectal prompt is: a oont next to water
+sae prompt is: a camel next to water
+dialectal word is: oont
+sae word is: camel
+
+
+dialect_stable_score_ref_sae: 0.3388406752179588
+
+
+
+
+
+
+dialectal prompt is: a painting of a large oont
+sae prompt is: a painting of a large camel
+dialectal word is: oont
+sae word is: camel
+
+
+dialect_stable_score_ref_sae: 0.3572862082773072
+
+
+
+
+
+
+dialectal prompt is: an oont eating food
+sae prompt is: a camel eating food
+dialectal word is: oont
+sae word is: camel
+
+
+dialect_stable_score_ref_sae: 0.3135271357041755
+
+
+
+
+
+
+dialectal prompt is: two oonts in the street
+sae prompt is: two camels in the street
+dialectal word is: oont
+sae word is: camel
+
+
+dialect_stable_score_ref_sae: 0.2532394983120474
+
+
+
+
+
+
+dialectal prompt is: an oont walking in the heat
+sae prompt is: a camel walking in the heat
+dialectal word is: oont
+sae word is: camel
+
+
+dialect_stable_score_ref_sae: 0.31025914595404197
+
+
+
+
+
+
+dialectal prompt is: agarbatti in a house
+sae prompt is: incense in a house
+dialectal word is: agarbatti
+sae word is: incense
+
+
+dialect_stable_score_ref_sae: 0.29924821764548276
+
+
+
+
+
+
+dialectal prompt is: agarbatti on a table
+sae prompt is: incense on a table
+dialectal word is: agarbatti
+sae word is: incense
+
+
+dialect_stable_score_ref_sae: 0.31201153212433713
+
+
+
+
+
+
+dialectal prompt is: a person holding agarbatti
+sae prompt is: a person holding incense
+dialectal word is: agarbatti
+sae word is: incense
+
+
+dialect_stable_score_ref_sae: 0.3079944122865346
+
+
+
+
+
+
+dialectal prompt is: agarbatti in a container
+sae prompt is: incense in a container
+dialectal word is: agarbatti
+sae word is: incense
+
+
+dialect_stable_score_ref_sae: 0.28852118639772817
+
+
+
+
+
+
+dialectal prompt is: red abarbatti in the basket
+sae prompt is: red incense in the basket
+dialectal word is: agarbatti
+sae word is: incense
+
+
+dialect_stable_score_ref_sae: 0.30046949501805836
+
+
+
+
+
+
+dialectal prompt is: agarbatti inside a store
+sae prompt is: incense inside a store
+dialectal word is: agarbatti
+sae word is: incense
+
+
+dialect_stable_score_ref_sae: 0.29799974093040554
+
+
+
+
+
+
+dialectal prompt is: a painting of a beautiful kulang
+sae prompt is: a painting of a beautiful crane bird
+dialectal word is: kulang
+sae word is: crane bird
+
+
+dialect_stable_score_ref_sae: 0.3434310454970284
+
+
+
+
+
+
+dialectal prompt is: a large group of kulang
+sae prompt is: a large group of crane birds
+dialectal word is: kulang
+sae word is: crane bird
+
+
+dialect_stable_score_ref_sae: 0.31462536221686843
+
+
+
+
+
+
+dialectal prompt is: a dirty kulang
+sae prompt is: a dirty crane bird
+dialectal word is: kulang
+sae word is: crane bird
+
+
+dialect_stable_score_ref_sae: 0.2911931878887059
+
+
+
+
+
+
+dialectal prompt is: two kulangs next to each other
+sae prompt is: two crane birds next to each other
+dialectal word is: kulang
+sae word is: crane bird
+
+
+dialect_stable_score_ref_sae: 0.28789100873410156
+
+
+
+
+
+
+dialectal prompt is: a sleeping kulang
+sae prompt is: a sleeping crane bird
+dialectal word is: kulang
+sae word is: crane bird
+
+
+dialect_stable_score_ref_sae: 0.3148441012302119
+
+
+
+
+
+
+dialectal prompt is: a kulang eating food
+sae prompt is: a crane bird eating food
+dialectal word is: kulang
+sae word is: crane bird
+
+
+dialect_stable_score_ref_sae: 0.2649403922644057
+
+
+
+
+
+
+dialectal prompt is: the inside of a enormous godown
+sae prompt is: the inside of a enormous warehouse
+dialectal word is: godown
+sae word is: warehouse
+
+
+dialect_stable_score_ref_sae: 0.30510753286566833
+
+
+
+
+
+
+dialectal prompt is: an abandoned godown
+sae prompt is: an abandoned warehouse
+dialectal word is: godown
+sae word is: warehouse
+
+
+dialect_stable_score_ref_sae: 0.29551353543322467
+
+
+
+
+
+
+dialectal prompt is: a busy godown
+sae prompt is: a busy warehouse
+dialectal word is: godown
+sae word is: warehouse
+
+
+dialect_stable_score_ref_sae: 0.287931869852336
+
+
+
+
+
+
+dialectal prompt is: a painting of an old godown
+sae prompt is: a painting of an old warehouse
+dialectal word is: godown
+sae word is: warehouse
+
+
+dialect_stable_score_ref_sae: 0.33997196694343135
+
+
+
+
+
+
+dialectal prompt is: a godown on fire
+sae prompt is: a warehouse on fire
+dialectal word is: godown
+sae word is: warehouse
+
+
+dialect_stable_score_ref_sae: 0.22762048234816495
+
+
+
+
+
+
+dialectal prompt is: a dark abandoned godown
+sae prompt is: a dark abandoned warehouse
+dialectal word is: godown
+sae word is: warehouse
+
+
+dialect_stable_score_ref_sae: 0.30028651462533634
+
+
+
+
+
+
+dialectal prompt is: a medical hall in a big city
+sae prompt is: a pharmacy in a big city
+dialectal word is: medical hall
+sae word is: pharmacy
+
+
+dialect_stable_score_ref_sae: 0.3190317767749612
+
+
+
+
+
+
+dialectal prompt is: a modern medical hall 
+sae prompt is: a modern pharmacy
+dialectal word is: medical hall
+sae word is: pharmacy
+
+
+dialect_stable_score_ref_sae: 0.3062825650320823
+
+
+
+
+
+
+dialectal prompt is: the inside of a medical hall
+sae prompt is: the inside of a pharmacy
+dialectal word is: medical hall
+sae word is: pharmacy
+
+
+dialect_stable_score_ref_sae: 0.31733014123658787
+
+
+
+
+
+
+dialectal prompt is: a destroyed medical hall
+sae prompt is: a destroyed pharmacy
+dialectal word is: medical hall
+sae word is: pharmacy
+
+
+dialect_stable_score_ref_sae: 0.31762182423458873
+
+
+
+
+
+
+dialectal prompt is: the entrance of a medical hall
+sae prompt is: the entrance of a pharmacy
+dialectal word is: medical hall
+sae word is: pharmacy
+
+
+dialect_stable_score_ref_sae: 0.31675278719129024
+
+
+
+
+
+
+dialectal prompt is: a small medical hall in a rural area
+sae prompt is: a small pharmacy in a rural area
+dialectal word is: medical hall
+sae word is: pharmacy
+
+
+dialect_stable_score_ref_sae: 0.30976337133021803
+
+
+
+
+
+
+dialectal prompt is: an abandoned petrol bunk
+sae prompt is: an abandoned gas station
+dialectal word is: petrol bunk
+sae word is: gas station
+
+
+dialect_stable_score_ref_sae: 0.3203579918799323
+
+
+
+
+
+
+dialectal prompt is: a petrol bunk in a desert
+sae prompt is: a gas station in a desert
+dialectal word is: petrol bunk
+sae word is: gas station
+
+
+dialect_stable_score_ref_sae: 0.3363922940552244
+
+
+
+
+
+
+dialectal prompt is: a photograph of a modern petrol bunk
+sae prompt is: a photograph of a modern gas station
+dialectal word is: petrol bunk
+sae word is: gas station
+
+
+dialect_stable_score_ref_sae: 0.30928099356118605
+
+
+
+
+
+
+dialectal prompt is: a very busy petrol bunk
+sae prompt is: a very busy gas station
+dialectal word is: petrol bunk
+sae word is: gas station
+
+
+dialect_stable_score_ref_sae: 0.2744541243505492
+
+
+
+
+
+
+dialectal prompt is: a petrol bunk in a big city
+sae prompt is: a gas station in a big city
+dialectal word is: petrol bunk
+sae word is: gas station
+
+
+dialect_stable_score_ref_sae: 0.28678628643829196
+
+
+
+
+
+
+dialectal prompt is: a dirty petrol bunk
+sae prompt is: a dirty gas station
+dialectal word is: petrol bunk
+sae word is: gas station
+
+
+dialect_stable_score_ref_sae: 0.26972915636795425
+
+
+
+
+
+
+dialectal prompt is: a man with a blue mo-bike
+sae prompt is: a man with a blue motorcycle
+dialectal word is: mo-bike
+sae word is: motorcycle
+
+
+dialect_stable_score_ref_sae: 0.3242209762283075
+
+
+
+
+
+
+dialectal prompt is: a woman next to a black mo-bike
+sae prompt is: a woman next to a black motorcycle
+dialectal word is: mo-bike
+sae word is: motorcycle
+
+
+dialect_stable_score_ref_sae: 0.3263060693984653
+
+
+
+
+
+
+dialectal prompt is: three mo-bikes on the road
+sae prompt is: three motorcycles on the road
+dialectal word is: mo-bike
+sae word is: motorcycle
+
+
+dialect_stable_score_ref_sae: 0.27582038474311316
+
+
+
+
+
+
+dialectal prompt is: a broken mo-bike
+sae prompt is: a broken motorcycle
+dialectal word is: mo-bike
+sae word is: motorcycle
+
+
+dialect_stable_score_ref_sae: 0.3062810988220524
+
+
+
+
+
+
+dialectal prompt is: a mo-bike in the forest
+sae prompt is: a motorcycle in the forest
+dialectal word is: mo-bike
+sae word is: motorcycle
+
+
+dialect_stable_score_ref_sae: 0.3214985805777633
+
+
+
+
+
+
+dialectal prompt is: a group of mo-bike
+sae prompt is: a group of motorcycles
+dialectal word is: mo-bike
+sae word is: motorcycle
+
+
+dialect_stable_score_ref_sae: 0.30774100555037104
+
+
+
+
+
+
+dialectal prompt is: two bundooks leaning on a wall
+sae prompt is: two rifles leaning on a wall
+dialectal word is: bundook
+sae word is: rifle
+
+
+dialect_stable_score_ref_sae: 0.30151342563147276
+
+
+
+
+
+
+dialectal prompt is: a person holding a bundook
+sae prompt is: a person holding a rifle
+dialectal word is: bundook
+sae word is: rifle
+
+
+dialect_stable_score_ref_sae: 0.276189096363254
+
+
+
+
+
+
+dialectal prompt is: a broken bundook
+sae prompt is: a broken rifle
+dialectal word is: bundook
+sae word is: rifle
+
+
+dialect_stable_score_ref_sae: 0.27256393234796383
+
+
+
+
+
+
+dialectal prompt is: a rusty bundook
+sae prompt is: a rusty rifle
+dialectal word is: bundook
+sae word is: rifle
+
+
+dialect_stable_score_ref_sae: 0.3120845596547582
+
+
+
+
+
+
+dialectal prompt is: a bundook in a store
+sae prompt is: a rifle in a store
+dialectal word is: bundook
+sae word is: rifle
+
+
+dialect_stable_score_ref_sae: 0.3037430081233466
+
+
+
+
+
+
+dialectal prompt is: a bundook on the shelf
+sae prompt is: a rifle on the shelf
+dialectal word is: bundook
+sae word is: rifle
+
+
+dialect_stable_score_ref_sae: 0.2908322606593502
+
+
+
+
+
+
+dialectal prompt is: an old handicraftsman
+sae prompt is: an old craftsman
+dialectal word is: handicraftsman
+sae word is: craftsman
+
+
+dialect_stable_score_ref_sae: 0.30472102976141824
+
+
+
+
+
+
+dialectal prompt is: a group of handicraftsmen
+sae prompt is: a group of craftsmen
+dialectal word is: handicraftsman
+sae word is: craftsman
+
+
+dialect_stable_score_ref_sae: 0.28447271114659883
+
+
+
+
+
+
+dialectal prompt is: a handicraftsman in a house
+sae prompt is: a craftsman in a house
+dialectal word is: handicraftsman
+sae word is: craftsman
+
+
+dialect_stable_score_ref_sae: 0.29400971322000885
+
+
+
+
+
+
+dialectal prompt is: a dirty handiscraftsman
+sae prompt is: a dirty craftsman
+dialectal word is: handicraftsman
+sae word is: craftsman
+
+
+dialect_stable_score_ref_sae: 0.2744263046269133
+
+
+
+
+
+
+dialectal prompt is: a handicraftsman wearing orange
+sae prompt is: a craftsman wearing orange
+dialectal word is: handicraftsman
+sae word is: craftsman
+
+
+dialect_stable_score_ref_sae: 0.29390606283105997
+
+
+
+
+
+
+dialectal prompt is: a handicraftsman in a big city
+sae prompt is: a craftsman in a big city
+dialectal word is: handicraftsman
+sae word is: craftsman
+
+
+dialect_stable_score_ref_sae: 0.25557336944614995
+
+
+
+
+
+
+dialectal prompt is: an angry incharge
+sae prompt is: an angry supervisor
+dialectal word is: incharge
+sae word is: supervisor
+
+
+dialect_stable_score_ref_sae: 0.2513660743684432
+
+
+
+
+
+
+dialectal prompt is: an old incharge 
+sae prompt is: an old supervisor
+dialectal word is: incharge
+sae word is: supervisor
+
+
+dialect_stable_score_ref_sae: 0.24438044360495986
+
+
+
+
+
+
+dialectal prompt is: an incharge in a large room
+sae prompt is: a supervisor in a large room
+dialectal word is: incharge
+sae word is: supervisor
+
+
+dialect_stable_score_ref_sae: 0.27104792664747823
+
+
+
+
+
+
+dialectal prompt is: a painting of an incharge
+sae prompt is: a painting of a supervisor
+dialectal word is: incharge
+sae word is: supervisor
+
+
+dialect_stable_score_ref_sae: 0.3203297953964197
+
+
+
+
+
+
+dialectal prompt is: an incharge in the office 
+sae prompt is: a supervisor in the office
+dialectal word is: incharge
+sae word is: supervisor
+
+
+dialect_stable_score_ref_sae: 0.23250560783682786
+
+
+
+
+
+
+dialectal prompt is: an incharge with a group of people
+sae prompt is: a supervisor with a group of people
+dialectal word is: incharge
+sae word is: supervisor
+
+
+dialect_stable_score_ref_sae: 0.26862535786485076
+
+
+
+
+
+
+dialectal prompt is: some pani on the table
+sae prompt is: some water on the table
+dialectal word is: pani
+sae word is: water
+
+
+dialect_stable_score_ref_sae: 0.26801078951432755
+
+
+
+
+
+
+dialectal prompt is: a child with pani
+sae prompt is: a child with water
+dialectal word is: pani
+sae word is: water
+
+
+dialect_stable_score_ref_sae: 0.3085822791024028
+
+
+
+
+
+
+dialectal prompt is: dirty pani
+sae prompt is: dirty water
+dialectal word is: pani
+sae word is: water
+
+
+dialect_stable_score_ref_sae: 0.28867860940278267
+
+
+
+
+
+
+dialectal prompt is: pani in the forest
+sae prompt is: water in the forest
+dialectal word is: pani
+sae word is: water
+
+
+dialect_stable_score_ref_sae: 0.27209110199913517
+
+
+
+
+
+
+dialectal prompt is: pani in the house
+sae prompt is: water in the house
+dialectal word is: pani
+sae word is: water
+
+
+dialect_stable_score_ref_sae: 0.25282246640918277
+
+
+
+
+
+
+dialectal prompt is: abundant pani in the village
+sae prompt is: abundant water in the village
+dialectal word is: pani
+sae word is: water
+
+
+dialect_stable_score_ref_sae: 0.2991662064225815
+
+
+
+
+
+
+dialectal prompt is: a colorful yatra in the city
+sae prompt is: a colorful festival in the city
+dialectal word is: yatra
+sae word is: festival
+
+
+dialect_stable_score_ref_sae: 0.33024453461386893
+
+
+
+
+
+
+dialectal prompt is: a lively yatra
+sae prompt is: a lively festival
+dialectal word is: yatra
+sae word is: festival
+
+
+dialect_stable_score_ref_sae: 0.27842604016509803
+
+
+
+
+
+
+dialectal prompt is: a yatra in the summer
+sae prompt is: a festival in the summer
+dialectal word is: yatra
+sae word is: festival
+
+
+dialect_stable_score_ref_sae: 0.2919722893751274
+
+
+
+
+
+
+dialectal prompt is: an indoor yatra
+sae prompt is: an indoor festival
+dialectal word is: yatra
+sae word is: festival
+
+
+dialect_stable_score_ref_sae: 0.30565930444139217
+
+
+
+
+
+
+dialectal prompt is: a bustling yatra
+sae prompt is: a bustling festival
+dialectal word is: yatra
+sae word is: festival
+
+
+dialect_stable_score_ref_sae: 0.284128052322949
+
+
+
+
+
+
+dialectal prompt is: a yatra in the winter
+sae prompt is: a festival in the winter
+dialectal word is: yatra
+sae word is: festival
+
+
+dialect_stable_score_ref_sae: 0.312433165497015
+
+
+
+
+
+
+dialectal prompt is: a man next to a naka
+sae prompt is: a man next to a checkpoint
+dialectal word is: naka
+sae word is: checkpoint
+
+
+dialect_stable_score_ref_sae: 0.2991616054830198
+
+
+
+
+
+
+dialectal prompt is: a red naka on the road
+sae prompt is: a red checkpoint on the road
+dialectal word is: naka
+sae word is: checkpoint
+
+
+dialect_stable_score_ref_sae: 0.28863977290931997
+
+
+
+
+
+
+dialectal prompt is: a long queue at the naka
+sae prompt is: a long queue at the checkpoint
+dialectal word is: naka
+sae word is: checkpoint
+
+
+dialect_stable_score_ref_sae: 0.3147965557543618
+
+
+
+
+
+
+dialectal prompt is: a busy naka
+sae prompt is: a busy checkpoint
+dialectal word is: naka
+sae word is: checkpoint
+
+
+dialect_stable_score_ref_sae: 0.260793952608767
+
+
+
+
+
+
+dialectal prompt is: a naka on the highway
+sae prompt is: a checkpoint on the highway
+dialectal word is: naka
+sae word is: checkpoint
+
+
+dialect_stable_score_ref_sae: 0.2834066033591302
+
+
+
+
+
+
+dialectal prompt is: a naka in the winter
+sae prompt is: a checkpoint in the winter
+dialectal word is: naka
+sae word is: checkpoint
+
+
+dialect_stable_score_ref_sae: 0.2959534255268175
+
+
+
+
+
+
+dialectal prompt is: an outdoor tiffin
+sae prompt is: an outdoor luncheon
+dialectal word is: tiffin
+sae word is: luncheon
+
+
+dialect_stable_score_ref_sae: 0.3056123636179282
+
+
+
+
+
+
+dialectal prompt is: a lively tiffin
+sae prompt is: a lively luncheon
+dialectal word is: tiffin
+sae word is: luncheon
+
+
+dialect_stable_score_ref_sae: 0.2640995609493511
+
+
+
+
+
+
+dialectal prompt is: a tiffin in the building
+sae prompt is: a luncheon in the building
+dialectal word is: tiffin
+sae word is: luncheon
+
+
+dialect_stable_score_ref_sae: 0.2804655316719891
+
+
+
+
+
+
+dialectal prompt is: an indoor tiffin
+sae prompt is: an indoor luncheon
+dialectal word is: tiffin
+sae word is: luncheon
+
+
+dialect_stable_score_ref_sae: 0.2797649034522682
+
+
+
+
+
+
+dialectal prompt is: a tiffin in the city
+sae prompt is: a luncheon in the city
+dialectal word is: tiffin
+sae word is: luncheon
+
+
+dialect_stable_score_ref_sae: 0.28898488780222253
+
+
+
+
+
+
+dialectal prompt is: a tiffin at school
+sae prompt is: a luncheon at school
+dialectal word is: tiffin
+sae word is: luncheon
+
+
+dialect_stable_score_ref_sae: 0.2933505566913671
+
+
+
+
+
+
+dialectal prompt is: the inside of a satta den
+sae prompt is: the inside of a gambling den
+dialectal word is: satta
+sae word is: gambling
+
+
+dialect_stable_score_ref_sae: 0.285540902118323
+
+
+
+
+
+
+dialectal prompt is: a group of people satta in a room
+sae prompt is: a group of people gambling in a room
+dialectal word is: satta
+sae word is: gambling
+
+
+dialect_stable_score_ref_sae: 0.31240380161037035
+
+
+
+
+
+
+dialectal prompt is: a place of satta in a big city
+sae prompt is: a place of gambling in a big city
+dialectal word is: satta
+sae word is: gambling
+
+
+dialect_stable_score_ref_sae: 0.28316145878086396
+
+
+
+
+
+
+dialectal prompt is: an bustling satta den
+sae prompt is: an bustling gambling den
+dialectal word is: satta
+sae word is: gambling
+
+
+dialect_stable_score_ref_sae: 0.30874344300024853
+
+
+
+
+
+
+dialectal prompt is: a luxurious satta den
+sae prompt is: a luxurious gambling den
+dialectal word is: satta
+sae word is: gambling
+
+
+dialect_stable_score_ref_sae: 0.2943047503126226
+
+
+
+
+
+
+dialectal prompt is: a group of people satta at a table
+sae prompt is: a group of people gambling at a table
+dialectal word is: satta
+sae word is: gambling
+
+
+dialect_stable_score_ref_sae: 0.3112361085776452
+
+
+
+
+
+
+dialectal prompt is: a luxurious almirah
+sae prompt is: a luxurious wardrobe
+dialectal word is: almirah
+sae word is: wardrobe
+
+
+dialect_stable_score_ref_sae: 0.30096242740759893
+
+
+
+
+
+
+dialectal prompt is: an old almirah
+sae prompt is: an old wardrobe
+dialectal word is: almirah
+sae word is: wardrobe
+
+
+dialect_stable_score_ref_sae: 0.29741829812907566
+
+
+
+
+
+
+dialectal prompt is: an almirah with intricate designs
+sae prompt is: a wardrobe with intricate designs
+dialectal word is: almirah
+sae word is: wardrobe
+
+
+dialect_stable_score_ref_sae: 0.32405618974364436
+
+
+
+
+
+
+dialectal prompt is: an almirah in the bedroom
+sae prompt is: a wardrobe in the bedroom
+dialectal word is: almirah
+sae word is: wardrobe
+
+
+dialect_stable_score_ref_sae: 0.30359976942147804
+
+
+
+
+
+
+dialectal prompt is: a broken almirah
+sae prompt is: a broken wardrobe
+dialectal word is: almirah
+sae word is: wardrobe
+
+
+dialect_stable_score_ref_sae: 0.26445080370204077
+
+
+
+
+
+
+dialectal prompt is: an enormous green almirah
+sae prompt is: an enormous green wardrobe
+dialectal word is: almirah
+sae word is: wardrobe
+
+
+dialect_stable_score_ref_sae: 0.3119062170168505
+
+
+
+
+
+
+-------------------final results-------------------
+dialect_total_score_stable2.1: 0.2939061094812024

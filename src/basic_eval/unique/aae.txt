@@ -1,0 +1,1449 @@
+dialectal prompt is: a lil baby 
+sae prompt is: a little baby
+dialect_dalle_score: 0.19423296036605744
+dialect_dalle_score: 0.18929345532249445
+dialect_stable_score: 0.2471429225178312
+dialect_stable_score: 0.23226808955476277
+
+
+sae prompt is: a little baby
+dialect_dalle_score: 0.2431871651522003
+sae_dalle_score: 0.2340405340271703
+sae_stable_score: 0.24989511320051053
+sae_stable_score: 0.25666899347039857
+
+
+dialectal prompt is: a lil dog
+sae prompt is: a little dog
+dialect_dalle_score: 0.2459008589474572
+dialect_dalle_score: 0.2521066669413816
+dialect_stable_score: 0.2659552349993055
+dialect_stable_score: 0.267314301912925
+
+
+sae prompt is: a little dog
+dialect_dalle_score: 0.2691678084689159
+sae_dalle_score: 0.2654073662024236
+sae_stable_score: 0.27580767879785884
+sae_stable_score: 0.2825159044672326
+
+
+dialectal prompt is: a lil cat
+sae prompt is: a little cat
+dialect_dalle_score: 0.24952936201552156
+dialect_dalle_score: 0.2609090403495001
+dialect_stable_score: 0.27061203809424494
+dialect_stable_score: 0.27586969610950923
+
+
+sae prompt is: a little cat
+dialect_dalle_score: 0.27284544386594106
+sae_dalle_score: 0.2722291667731652
+sae_stable_score: 0.2731869376666919
+sae_stable_score: 0.28523497083597843
+
+
+dialectal prompt is: a painting of a lil boy
+sae prompt is: a painting of a little boy
+dialect_dalle_score: 0.32282174710036815
+dialect_dalle_score: 0.3183996568581595
+dialect_stable_score: 0.32500170560462577
+dialect_stable_score: 0.3279500354466595
+
+
+sae prompt is: a painting of a little boy
+dialect_dalle_score: 0.3201255886212809
+sae_dalle_score: 0.3185002694568135
+sae_stable_score: 0.3255705580016848
+sae_stable_score: 0.3270339706451927
+
+
+dialectal prompt is: a lil horse
+sae prompt is: a little horse
+dialect_dalle_score: 0.28668015217547294
+dialect_dalle_score: 0.2792219439724962
+dialect_stable_score: 0.28564899740738503
+dialect_stable_score: 0.2831204556983676
+
+
+sae prompt is: a little horse
+dialect_dalle_score: 0.2871954594226457
+sae_dalle_score: 0.28727357694278255
+sae_stable_score: 0.2855634766700541
+sae_stable_score: 0.28907764957983256
+
+
+dialectal prompt is: a lil girl
+sae prompt is: a little girl
+dialect_dalle_score: 0.26834139017719466
+dialect_dalle_score: 0.2690749259750944
+dialect_stable_score: 0.263269724094378
+dialect_stable_score: 0.277071501844423
+
+
+sae prompt is: a little girl
+dialect_dalle_score: 0.267654649524569
+sae_dalle_score: 0.2669826683199863
+sae_stable_score: 0.2753290164748116
+sae_stable_score: 0.28885175342925473
+
+
+dialectal prompt is: a man holla at a girl
+sae prompt is: a man holler at a girl
+dialect_dalle_score: 0.2447524076629674
+dialect_dalle_score: 0.24703842338039195
+dialect_stable_score: 0.23650586986919464
+dialect_stable_score: 0.23364020281338582
+
+
+sae prompt is: a man holler at a girl
+dialect_dalle_score: 0.24582367739004102
+sae_dalle_score: 0.25165757921854237
+sae_stable_score: 0.21429914529657976
+sae_stable_score: 0.23450861455409067
+
+
+dialectal prompt is: a man holla at a woman
+sae prompt is: a man holler at a woman
+dialect_dalle_score: 0.2494602130721737
+dialect_dalle_score: 0.2479406482174364
+dialect_stable_score: 0.24116810560035523
+dialect_stable_score: 0.24813467704271763
+
+
+sae prompt is: a man holler at a woman
+dialect_dalle_score: 0.24654919559829308
+sae_dalle_score: 0.24573419527297288
+sae_stable_score: 0.2466536511186882
+sae_stable_score: 0.23922762832259206
+
+
+dialectal prompt is: a guy holla at a woman
+sae prompt is: a guy holler at a woman
+dialect_dalle_score: 0.22225310352267208
+dialect_dalle_score: 0.2239204030945333
+dialect_stable_score: 0.24662856688623677
+dialect_stable_score: 0.23615109311070326
+
+
+sae prompt is: a guy holler at a woman
+dialect_dalle_score: 0.23597572508361875
+sae_dalle_score: 0.22885546183533664
+sae_stable_score: 0.22894097161347948
+sae_stable_score: 0.23569165081288476
+
+
+dialectal prompt is: a guy holla at his homie
+sae prompt is: a guy holler at his close friend
+dialect_dalle_score: 0.2210235808378212
+dialect_dalle_score: 0.21508838124188123
+dialect_stable_score: 0.23352990368577872
+dialect_stable_score: 0.23025744324060454
+
+
+sae prompt is: a guy holler at his close friend
+dialect_dalle_score: 0.2364474998586345
+sae_dalle_score: 0.22612579040799577
+sae_stable_score: 0.23271066656536543
+sae_stable_score: 0.22486480448429644
+
+
+dialectal prompt is: a holla from the audience
+sae prompt is: a holler from the audience
+dialect_dalle_score: 0.2305375309392794
+dialect_dalle_score: 0.23696700879905816
+dialect_stable_score: 0.2585077065671405
+dialect_stable_score: 0.2564580012817711
+
+
+sae prompt is: a holler from the audience
+dialect_dalle_score: 0.24765732982592426
+sae_dalle_score: 0.25146443643852273
+sae_stable_score: 0.2539879281274209
+sae_stable_score: 0.24703986341526651
+
+
+dialectal prompt is: a loud holla
+sae prompt is: a loud holler
+dialect_dalle_score: 0.21986110642413698
+dialect_dalle_score: 0.22322129923416906
+dialect_stable_score: 0.24983057245503393
+dialect_stable_score: 0.21398857856520417
+
+
+sae prompt is: a loud holler
+dialect_dalle_score: 0.25065374384346956
+sae_dalle_score: 0.24510785463163806
+sae_stable_score: 0.24454068342434157
+sae_stable_score: 0.306430291827803
+
+
+dialectal prompt is: my homie
+sae prompt is: my close friend
+dialect_dalle_score: 0.22681869357902962
+dialect_dalle_score: 0.2246576046548432
+dialect_stable_score: 0.2163028220640701
+dialect_stable_score: 0.21316524777682044
+
+
+sae prompt is: my close friend
+dialect_dalle_score: 0.24953041732390716
+sae_dalle_score: 0.2488948534044258
+sae_stable_score: 0.2343898358051829
+sae_stable_score: 0.21805099612329779
+
+
+dialectal prompt is: my handsome homie
+sae prompt is: my handsome close friend
+dialect_dalle_score: 0.23731619504050594
+dialect_dalle_score: 0.22962896272680478
+dialect_stable_score: 0.23084834692774367
+dialect_stable_score: 0.2450215858221492
+
+
+sae prompt is: my handsome close friend
+dialect_dalle_score: 0.23289782149833227
+sae_dalle_score: 0.23601308757912895
+sae_stable_score: 0.24736596591165633
+sae_stable_score: 0.24360384793974305
+
+
+dialectal prompt is: an old homie
+sae prompt is: an old close friend
+dialect_dalle_score: 0.23982837870008689
+dialect_dalle_score: 0.24386705835141553
+dialect_stable_score: 0.21684878004005784
+dialect_stable_score: 0.2453550267134924
+
+
+sae prompt is: an old close friend
+dialect_dalle_score: 0.23927928720747824
+sae_dalle_score: 0.2385815537233661
+sae_stable_score: 0.23968547223933973
+sae_stable_score: 0.23377202973524888
+
+
+dialectal prompt is: me and my homie
+sae prompt is: me and my close friend
+dialect_dalle_score: 0.2533717077028512
+dialect_dalle_score: 0.2509492721778082
+dialect_stable_score: 0.23686364695455606
+dialect_stable_score: 0.24050999050377497
+
+
+sae prompt is: me and my close friend
+dialect_dalle_score: 0.2600604438005928
+sae_dalle_score: 0.25865344366824194
+sae_stable_score: 0.22787004752452603
+sae_stable_score: 0.2683092200623309
+
+
+dialectal prompt is: a homie from childhood
+sae prompt is: a close friend from childhood
+dialect_dalle_score: 0.22634056729782326
+dialect_dalle_score: 0.2359834042252858
+dialect_stable_score: 0.23470250867053244
+dialect_stable_score: 0.2266054458537782
+
+
+sae prompt is: a close friend from childhood
+dialect_dalle_score: 0.2479305872748052
+sae_dalle_score: 0.2431179350788102
+sae_stable_score: 0.24365474691884403
+sae_stable_score: 0.2510197317403001
+
+
+dialectal prompt is: painting of me and my homie
+sae prompt is: painting of me and my close friend
+dialect_dalle_score: 0.29800075739827203
+dialect_dalle_score: 0.2873799404889439
+dialect_stable_score: 0.30835074245014876
+dialect_stable_score: 0.3251889635278873
+
+
+sae prompt is: painting of me and my close friend
+dialect_dalle_score: 0.2659262810387254
+sae_dalle_score: 0.25276564137005947
+sae_stable_score: 0.3099605294933801
+sae_stable_score: 0.31580442007541504
+
+
+dialectal prompt is: an old nana
+sae prompt is: an old grandma
+dialect_dalle_score: 0.2521669457224498
+dialect_dalle_score: 0.22695886546515226
+dialect_stable_score: 0.26435910604724655
+dialect_stable_score: 0.2893174419669935
+
+
+sae prompt is: an old grandma
+dialect_dalle_score: 0.2895272635100324
+sae_dalle_score: 0.2841558308367503
+sae_stable_score: 0.2739742667467466
+sae_stable_score: 0.2949152411399733
+
+
+dialectal prompt is: my beautiful nana
+sae prompt is: my beautiful grandma
+dialect_dalle_score: 0.19285820051075767
+dialect_dalle_score: 0.1927862012002969
+dialect_stable_score: 0.27331246073913695
+dialect_stable_score: 0.2877094278294162
+
+
+sae prompt is: my beautiful grandma
+dialect_dalle_score: 0.2831710983020086
+sae_dalle_score: 0.2823043582596006
+sae_stable_score: 0.2658853605152442
+sae_stable_score: 0.2760990677848801
+
+
+dialectal prompt is: a group of nanas
+sae prompt is: a group of grandmas
+dialect_dalle_score: 0.19534322376019045
+dialect_dalle_score: 0.20207420736852175
+dialect_stable_score: 0.27428344885431905
+dialect_stable_score: 0.271012206035661
+
+
+sae prompt is: a group of grandmas
+dialect_dalle_score: 0.3105158145219398
+sae_dalle_score: 0.30820242627820665
+sae_stable_score: 0.313653450042791
+sae_stable_score: 0.3151585682667942
+
+
+dialectal prompt is: my nana in purple
+sae prompt is: my grandma in purple
+dialect_dalle_score: 0.2560294677914238
+dialect_dalle_score: 0.2631795184867955
+dialect_stable_score: 0.29588744598320216
+dialect_stable_score: 0.3172089373778435
+
+
+sae prompt is: my grandma in purple
+dialect_dalle_score: 0.3222654366123924
+sae_dalle_score: 0.30942471804992205
+sae_stable_score: 0.2885612270404013
+sae_stable_score: 0.31723629069031856
+
+
+dialectal prompt is: my nana in her house
+sae prompt is: my grandma in her house
+dialect_dalle_score: 0.26571314445605543
+dialect_dalle_score: 0.2635481400246762
+dialect_stable_score: 0.2909082548834976
+dialect_stable_score: 0.2921577388480174
+
+
+sae prompt is: my grandma in her house
+dialect_dalle_score: 0.26732390064116385
+sae_dalle_score: 0.2720406317746761
+sae_stable_score: 0.2884008095325761
+sae_stable_score: 0.28669935511087186
+
+
+dialectal prompt is: an angry nana
+sae prompt is: an angry grandma
+dialect_dalle_score: 0.21857343498062287
+dialect_dalle_score: 0.2115662357523014
+dialect_stable_score: 0.25823351820243673
+dialect_stable_score: 0.3037177781491091
+
+
+sae prompt is: an angry grandma
+dialect_dalle_score: 0.29060026930701727
+sae_dalle_score: 0.2909436700298757
+sae_stable_score: 0.2947879088683391
+sae_stable_score: 0.29255304580337815
+
+
+dialectal prompt is: a picture of my bae
+sae prompt is: a picture of my lover
+dialect_dalle_score: 0.2188527423058863
+dialect_dalle_score: 0.21989576393119814
+dialect_stable_score: 0.22012308333928024
+dialect_stable_score: 0.2271015979464258
+
+
+sae prompt is: a picture of my lover
+dialect_dalle_score: 0.22098576122535085
+sae_dalle_score: 0.22160966487517003
+sae_stable_score: 0.2220361855456232
+sae_stable_score: 0.21438202955179028
+
+
+dialectal prompt is: my sleeping bae
+sae prompt is: my sleeping lover
+dialect_dalle_score: 0.2732654106848405
+dialect_dalle_score: 0.2680990943610059
+dialect_stable_score: 0.25147347446837043
+dialect_stable_score: 0.2665753384011516
+
+
+sae prompt is: my sleeping lover
+dialect_dalle_score: 0.2713928876595384
+sae_dalle_score: 0.2793671040729562
+sae_stable_score: 0.2541613690435278
+sae_stable_score: 0.25513245345880575
+
+
+dialectal prompt is: my beautiful bae
+sae prompt is: my beautiful lover
+dialect_dalle_score: 0.2405919395951867
+dialect_dalle_score: 0.24193819376065573
+dialect_stable_score: 0.22897957300340974
+dialect_stable_score: 0.22758474483678748
+
+
+sae prompt is: my beautiful lover
+dialect_dalle_score: 0.23715725218420383
+sae_dalle_score: 0.2336599568138254
+sae_stable_score: 0.21652872922695868
+sae_stable_score: 0.23019061757267073
+
+
+dialectal prompt is: my bae at my house
+sae prompt is: my lover at my house
+dialect_dalle_score: 0.23664924421501604
+dialect_dalle_score: 0.23823796784541093
+dialect_stable_score: 0.20541337204096036
+dialect_stable_score: 0.23410712675213924
+
+
+sae prompt is: my lover at my house
+dialect_dalle_score: 0.21651391716673082
+sae_dalle_score: 0.20860238103861267
+sae_stable_score: 0.22531582896688412
+sae_stable_score: 0.223717879044513
+
+
+dialectal prompt is: my bae wearing purple
+sae prompt is: my lover wearing purple
+dialect_dalle_score: 0.3074534552323042
+dialect_dalle_score: 0.3106149135817239
+dialect_stable_score: 0.28760742609460777
+dialect_stable_score: 0.28793241972310857
+
+
+sae prompt is: my lover wearing purple
+dialect_dalle_score: 0.2913122775769009
+sae_dalle_score: 0.2974893377725132
+sae_stable_score: 0.2842684775286978
+sae_stable_score: 0.2946479615701657
+
+
+dialectal prompt is: my handsome bae
+sae prompt is: my handsome lover
+dialect_dalle_score: 0.2415968344427828
+dialect_dalle_score: 0.2407368406366485
+dialect_stable_score: 0.24201171535574828
+dialect_stable_score: 0.24730357060063268
+
+
+sae prompt is: my handsome lover
+dialect_dalle_score: 0.22658511615085863
+sae_dalle_score: 0.22895464299669166
+sae_stable_score: 0.2282846914341078
+sae_stable_score: 0.22125484623482275
+
+
+dialectal prompt is: dirty kicks
+sae prompt is: dirty sneakers
+dialect_dalle_score: 0.2672712647651168
+dialect_dalle_score: 0.2654805371932781
+dialect_stable_score: 0.2692874678123095
+dialect_stable_score: 0.27520607374344547
+
+
+sae prompt is: dirty sneakers
+dialect_dalle_score: 0.2790389764827943
+sae_dalle_score: 0.277565210308752
+sae_stable_score: 0.2640947112451242
+sae_stable_score: 0.28607053959963696
+
+
+dialectal prompt is: retro kicks
+sae prompt is: retro sneakers
+dialect_dalle_score: 0.28462352389073853
+dialect_dalle_score: 0.2852647499152807
+dialect_stable_score: 0.29291580825911323
+dialect_stable_score: 0.29593997226539953
+
+
+sae prompt is: retro sneakers
+dialect_dalle_score: 0.2888442859181372
+sae_dalle_score: 0.29920234733401974
+sae_stable_score: 0.2948364335596289
+sae_stable_score: 0.29536340175288944
+
+
+dialectal prompt is: brown kicks
+sae prompt is: brown sneakers
+dialect_dalle_score: 0.29941210037043675
+dialect_dalle_score: 0.29825718247821925
+dialect_stable_score: 0.3021547210905905
+dialect_stable_score: 0.30499186357233454
+
+
+sae prompt is: brown sneakers
+dialect_dalle_score: 0.3084208094322415
+sae_dalle_score: 0.3054546821233158
+sae_stable_score: 0.30987758164546436
+sae_stable_score: 0.3139230498328907
+
+
+dialectal prompt is: broken kicks
+sae prompt is: broken sneakers
+dialect_dalle_score: 0.2636875241069952
+dialect_dalle_score: 0.24913533170592364
+dialect_stable_score: 0.2750219522849923
+dialect_stable_score: 0.26655095326666967
+
+
+sae prompt is: broken sneakers
+dialect_dalle_score: 0.29315443135608393
+sae_dalle_score: 0.2905682066237876
+sae_stable_score: 0.2644170482818635
+sae_stable_score: 0.29473240733624056
+
+
+dialectal prompt is: brand new kicks
+sae prompt is: brand new sneakers
+dialect_dalle_score: 0.26521142476736964
+dialect_dalle_score: 0.265387275384014
+dialect_stable_score: 0.26568615018661057
+dialect_stable_score: 0.26485053426776045
+
+
+sae prompt is: brand new sneakers
+dialect_dalle_score: 0.27874379699401536
+sae_dalle_score: 0.2798054629937
+sae_stable_score: 0.26824173755937025
+sae_stable_score: 0.2747587836772005
+
+
+dialectal prompt is: a painting of blue kicks
+sae prompt is: a painting of blue sneakers
+dialect_dalle_score: 0.36801970552055274
+dialect_dalle_score: 0.3402667285304868
+dialect_stable_score: 0.3318301355291654
+dialect_stable_score: 0.37032933099650345
+
+
+sae prompt is: a painting of blue sneakers
+dialect_dalle_score: 0.34866345067547655
+sae_dalle_score: 0.33511932838722985
+sae_stable_score: 0.35466938178783747
+sae_stable_score: 0.36082884684602984
+
+
+dialectal prompt is: a black gat
+sae prompt is: a black gun
+dialect_dalle_score: 0.2034480240665457
+dialect_dalle_score: 0.1922729645971703
+dialect_stable_score: 0.29115295346615216
+dialect_stable_score: 0.21478100016675372
+
+
+sae prompt is: a black gun
+dialect_dalle_score: 0.30105220902824487
+sae_dalle_score: 0.2999348465242339
+sae_stable_score: 0.291877418346755
+sae_stable_score: 0.2965240975574053
+
+
+dialectal prompt is: a rusty gat
+sae prompt is: a rusty gun
+dialect_dalle_score: 0.2616036683278376
+dialect_dalle_score: 0.2811455938015521
+dialect_stable_score: 0.3212871504624226
+dialect_stable_score: 0.2453540318962481
+
+
+sae prompt is: a rusty gun
+dialect_dalle_score: 0.30003086836122506
+sae_dalle_score: 0.3088846728614859
+sae_stable_score: 0.29839109948513415
+sae_stable_score: 0.324981941141568
+
+
+dialectal prompt is: a painting of a silver gat
+sae prompt is: a painting of a silver gun
+dialect_dalle_score: 0.23350044708445716
+dialect_dalle_score: 0.22619892860629542
+dialect_stable_score: 0.37407031360705656
+dialect_stable_score: 0.28196434828654743
+
+
+sae prompt is: a painting of a silver gun
+dialect_dalle_score: 0.32721634092666196
+sae_dalle_score: 0.3284341175837683
+sae_stable_score: 0.37262741251155174
+sae_stable_score: 0.3793527095791571
+
+
+dialectal prompt is: a gat inside a drawer
+sae prompt is: a gun inside a drawer
+dialect_dalle_score: 0.2752321132039849
+dialect_dalle_score: 0.27697586177565225
+dialect_stable_score: 0.32786934314536365
+dialect_stable_score: 0.28670374376526475
+
+
+sae prompt is: a gun inside a drawer
+dialect_dalle_score: 0.32380411325094294
+sae_dalle_score: 0.31601923101146157
+sae_stable_score: 0.3332100531251979
+sae_stable_score: 0.31842937893050804
+
+
+dialectal prompt is: a broken gat
+sae prompt is: a broken gun
+dialect_dalle_score: 0.2521412345401731
+dialect_dalle_score: 0.2633767204695368
+dialect_stable_score: 0.2693449065277884
+dialect_stable_score: 0.21859271149256998
+
+
+sae prompt is: a broken gun
+dialect_dalle_score: 0.27706415549539876
+sae_dalle_score: 0.27830159593702564
+sae_stable_score: 0.27682246701757407
+sae_stable_score: 0.2780611991389473
+
+
+dialectal prompt is: a large gat
+sae prompt is: a large gun
+dialect_dalle_score: 0.1768355245100811
+dialect_dalle_score: 0.19136402798170976
+dialect_stable_score: 0.2795010731441192
+dialect_stable_score: 0.21168249469272765
+
+
+sae prompt is: a large gun
+dialect_dalle_score: 0.3003794249020141
+sae_dalle_score: 0.2974229342464645
+sae_stable_score: 0.28234276144128845
+sae_stable_score: 0.28653137781269106
+
+
+dialectal prompt is: bussin food
+sae prompt is: tasty food
+dialect_dalle_score: 0.2576183780630092
+dialect_dalle_score: 0.25668287836773335
+dialect_stable_score: 0.25343343801013574
+dialect_stable_score: 0.25469341884309116
+
+
+sae prompt is: tasty food
+dialect_dalle_score: 0.2503699057774313
+sae_dalle_score: 0.25474893658782266
+sae_stable_score: 0.2543350574764369
+sae_stable_score: 0.2408228783439782
+
+
+dialectal prompt is: some bussin fries
+sae prompt is: some tasty fries
+dialect_dalle_score: 0.284718520649964
+dialect_dalle_score: 0.279737041960802
+dialect_stable_score: 0.28262442760442685
+dialect_stable_score: 0.29753457933095057
+
+
+sae prompt is: some tasty fries
+dialect_dalle_score: 0.29475520962706264
+sae_dalle_score: 0.29084042053213466
+sae_stable_score: 0.280079552122958
+sae_stable_score: 0.29281025610200156
+
+
+dialectal prompt is: a bussin burrito
+sae prompt is: a tasty burrito
+dialect_dalle_score: 0.2799856492434127
+dialect_dalle_score: 0.2800825255682116
+dialect_stable_score: 0.2829023465565616
+dialect_stable_score: 0.29787093814396975
+
+
+sae prompt is: a tasty burrito
+dialect_dalle_score: 0.27753781719520915
+sae_dalle_score: 0.2731413593193239
+sae_stable_score: 0.2816625453614099
+sae_stable_score: 0.2905884434789348
+
+
+dialectal prompt is: a plate of bussin food
+sae prompt is: a plate of tasty food
+dialect_dalle_score: 0.28268765883676295
+dialect_dalle_score: 0.2712292662935296
+dialect_stable_score: 0.28315765722437064
+dialect_stable_score: 0.2685894630978533
+
+
+sae prompt is: a plate of tasty food
+dialect_dalle_score: 0.28091808338381813
+sae_dalle_score: 0.2706954530296948
+sae_stable_score: 0.2656169960802206
+sae_stable_score: 0.27343464480665236
+
+
+dialectal prompt is: a painting of bussin food
+sae prompt is: a painting of tasty food
+dialect_dalle_score: 0.29793721810102153
+dialect_dalle_score: 0.30897052110844325
+dialect_stable_score: 0.3196799892882025
+dialect_stable_score: 0.32768398620021283
+
+
+sae prompt is: a painting of tasty food
+dialect_dalle_score: 0.31613089956875096
+sae_dalle_score: 0.3132610915340912
+sae_stable_score: 0.32692859789838713
+sae_stable_score: 0.32866300572799756
+
+
+dialectal prompt is: a bussin taco
+sae prompt is: a tasty taco
+dialect_dalle_score: 0.28161461623288264
+dialect_dalle_score: 0.28014768704761633
+dialect_stable_score: 0.28274853494224367
+dialect_stable_score: 0.28730627569655204
+
+
+sae prompt is: a tasty taco
+dialect_dalle_score: 0.2821163358189126
+sae_dalle_score: 0.2760904666519592
+sae_stable_score: 0.28520080403590187
+sae_stable_score: 0.28389011582474794
+
+
+dialectal prompt is: a man with his fam
+sae prompt is: a man with his close friends
+dialect_dalle_score: 0.24469690847608325
+dialect_dalle_score: 0.23864102605584853
+dialect_stable_score: 0.21860757961131982
+dialect_stable_score: 0.22493786246687117
+
+
+sae prompt is: a man with his close friends
+dialect_dalle_score: 0.24964862007176958
+sae_dalle_score: 0.24616742390318766
+sae_stable_score: 0.25226520505988154
+sae_stable_score: 0.24764536596847403
+
+
+dialectal prompt is: a group picture with the fam
+sae prompt is: a group picture with the close friends
+dialect_dalle_score: 0.250960498687087
+dialect_dalle_score: 0.24795019004293042
+dialect_stable_score: 0.23295556706278264
+dialect_stable_score: 0.24873717214221897
+
+
+sae prompt is: a group picture with the close friends
+dialect_dalle_score: 0.25371781978818986
+sae_dalle_score: 0.2534695447937883
+sae_stable_score: 0.24328408868725512
+sae_stable_score: 0.25788172483852395
+
+
+dialectal prompt is: a painting of my fam
+sae prompt is: an old close friend
+dialect_dalle_score: 0.20949573364449628
+dialect_dalle_score: 0.20801399843569313
+dialect_stable_score: 0.1927319799701826
+dialect_stable_score: 0.20288751365233135
+
+
+sae prompt is: an old close friend
+dialect_dalle_score: 0.23927928720747824
+sae_dalle_score: 0.2385815537233661
+sae_stable_score: 0.23968547223933973
+sae_stable_score: 0.23377202973524888
+
+
+dialectal prompt is: my fam in the house
+sae prompt is: a painting of close friends
+dialect_dalle_score: 0.2170857631416454
+dialect_dalle_score: 0.22361744446779244
+dialect_stable_score: 0.18924306229862578
+dialect_stable_score: 0.19916314744174787
+
+
+sae prompt is: a painting of close friends
+dialect_dalle_score: 0.27604556923336027
+sae_dalle_score: 0.2718464405043774
+sae_stable_score: 0.28502765253595047
+sae_stable_score: 0.3001039195014624
+
+
+dialectal prompt is: my large fam
+sae prompt is: me with my close friends
+dialect_dalle_score: 0.2322151798350366
+dialect_dalle_score: 0.24179909172892577
+dialect_stable_score: 0.19973127762179252
+dialect_stable_score: 0.2047947698259311
+
+
+sae prompt is: me with my close friends
+dialect_dalle_score: 0.25222801599313704
+sae_dalle_score: 0.2519016153834953
+sae_stable_score: 0.2361328592938616
+sae_stable_score: 0.25928962951118617
+
+
+dialectal prompt is: hanging with my fam
+sae prompt is: me and my close friends at my house
+dialect_dalle_score: 0.2555529637326743
+dialect_dalle_score: 0.2583053481090362
+dialect_stable_score: 0.21206572385485886
+dialect_stable_score: 0.22696332943944345
+
+
+sae prompt is: me and my close friends at my house
+dialect_dalle_score: 0.2604961597855623
+sae_dalle_score: 0.26173933087078893
+sae_stable_score: 0.2454347290569921
+sae_stable_score: 0.2630388821692989
+
+
+dialectal prompt is: a picture of my boo
+sae prompt is: a picture of my lover
+dialect_dalle_score: 0.22539606384209845
+dialect_dalle_score: 0.22661416222051242
+dialect_stable_score: 0.22685210687811208
+dialect_stable_score: 0.22173719065503694
+
+
+sae prompt is: a picture of my lover
+dialect_dalle_score: 0.22098576122535085
+sae_dalle_score: 0.22160966487517003
+sae_stable_score: 0.2220361855456232
+sae_stable_score: 0.21438202955179028
+
+
+dialectal prompt is: my sleeping boo
+sae prompt is: my sleeping lover
+dialect_dalle_score: 0.2644063848360665
+dialect_dalle_score: 0.2587836618193773
+dialect_stable_score: 0.2540848034256596
+dialect_stable_score: 0.2569164353437254
+
+
+sae prompt is: my sleeping lover
+dialect_dalle_score: 0.2713928876595384
+sae_dalle_score: 0.2793671040729562
+sae_stable_score: 0.2541613690435278
+sae_stable_score: 0.25513245345880575
+
+
+dialectal prompt is: my beautiful boo
+sae prompt is: my beautiful lover
+dialect_dalle_score: 0.22478581124209585
+dialect_dalle_score: 0.218821767846662
+dialect_stable_score: 0.22921914507502159
+dialect_stable_score: 0.2227890857110726
+
+
+sae prompt is: my beautiful lover
+dialect_dalle_score: 0.23715725218420383
+sae_dalle_score: 0.2336599568138254
+sae_stable_score: 0.21652872922695868
+sae_stable_score: 0.23019061757267073
+
+
+dialectal prompt is: my boo at my house
+sae prompt is: my lover at my house
+dialect_dalle_score: 0.21354966738090503
+dialect_dalle_score: 0.20813123030195965
+dialect_stable_score: 0.21755141596683808
+dialect_stable_score: 0.22191396259668292
+
+
+sae prompt is: my lover at my house
+dialect_dalle_score: 0.21651391716673082
+sae_dalle_score: 0.20860238103861267
+sae_stable_score: 0.22531582896688412
+sae_stable_score: 0.223717879044513
+
+
+dialectal prompt is: my boo wearing pink
+sae prompt is: my lover wearing pink
+dialect_dalle_score: 0.2697839258367033
+dialect_dalle_score: 0.2646166163024839
+dialect_stable_score: 0.28220243387715904
+dialect_stable_score: 0.26967623262996954
+
+
+sae prompt is: my lover wearing pink
+dialect_dalle_score: 0.28147789644827526
+sae_dalle_score: 0.2872816293300626
+sae_stable_score: 0.26399691173949225
+sae_stable_score: 0.2840898409156406
+
+
+dialectal prompt is: my handsome boo
+sae prompt is: my handsome lover
+dialect_dalle_score: 0.22995492240205553
+dialect_dalle_score: 0.23132426755809268
+dialect_stable_score: 0.23513292848759748
+dialect_stable_score: 0.23902528774673426
+
+
+sae prompt is: my handsome lover
+dialect_dalle_score: 0.22658511615085863
+sae_dalle_score: 0.22895464299669166
+sae_stable_score: 0.2282846914341078
+sae_stable_score: 0.22125484623482275
+
+
+dialectal prompt is: my homeboy
+sae prompt is: my close friend
+dialect_dalle_score: 0.2294679691309498
+dialect_dalle_score: 0.22756828891215097
+dialect_stable_score: 0.2128159498293587
+dialect_stable_score: 0.19986249080286755
+
+
+sae prompt is: my close friend
+dialect_dalle_score: 0.24953041732390716
+sae_dalle_score: 0.2488948534044258
+sae_stable_score: 0.2343898358051829
+sae_stable_score: 0.21805099612329779
+
+
+dialectal prompt is: my handsome homeboy
+sae prompt is: my handsome close friend
+dialect_dalle_score: 0.2419792392813468
+dialect_dalle_score: 0.23485884798040166
+dialect_stable_score: 0.25041333808751826
+dialect_stable_score: 0.24728999725374193
+
+
+sae prompt is: my handsome close friend
+dialect_dalle_score: 0.23289782149833227
+sae_dalle_score: 0.23601308757912895
+sae_stable_score: 0.24736596591165633
+sae_stable_score: 0.24360384793974305
+
+
+dialectal prompt is: an old homeboy
+sae prompt is: an old close friend
+dialect_dalle_score: 0.24995475730861344
+dialect_dalle_score: 0.2471960979518165
+dialect_stable_score: 0.2221111251622027
+dialect_stable_score: 0.225125059618355
+
+
+sae prompt is: an old close friend
+dialect_dalle_score: 0.23927928720747824
+sae_dalle_score: 0.2385815537233661
+sae_stable_score: 0.23968547223933973
+sae_stable_score: 0.23377202973524888
+
+
+dialectal prompt is: me and my homeboy
+sae prompt is: me and my close friend
+dialect_dalle_score: 0.2430403929584616
+dialect_dalle_score: 0.2418742686950277
+dialect_stable_score: 0.23274987226835497
+dialect_stable_score: 0.23431650366814955
+
+
+sae prompt is: me and my close friend
+dialect_dalle_score: 0.2600604438005928
+sae_dalle_score: 0.25865344366824194
+sae_stable_score: 0.22787004752452603
+sae_stable_score: 0.2683092200623309
+
+
+dialectal prompt is: a homeboy from childhood
+sae prompt is: a close friend from childhood
+dialect_dalle_score: 0.23827596920538494
+dialect_dalle_score: 0.23910610295159473
+dialect_stable_score: 0.23199030017834843
+dialect_stable_score: 0.215312388779813
+
+
+sae prompt is: a close friend from childhood
+dialect_dalle_score: 0.2479305872748052
+sae_dalle_score: 0.2431179350788102
+sae_stable_score: 0.24365474691884403
+sae_stable_score: 0.2510197317403001
+
+
+dialectal prompt is: painting of me and my homeboy
+sae prompt is: painting of me and my close friend
+dialect_dalle_score: 0.27191334443300974
+dialect_dalle_score: 0.26723281179352537
+dialect_stable_score: 0.309147532876332
+dialect_stable_score: 0.32328142021027056
+
+
+sae prompt is: painting of me and my close friend
+dialect_dalle_score: 0.2659262810387254
+sae_dalle_score: 0.25276564137005947
+sae_stable_score: 0.3099605294933801
+sae_stable_score: 0.31580442007541504
+
+
+dialectal prompt is: a man feeling mellow
+sae prompt is: a man high on marijuana
+dialect_dalle_score: 0.243719053577472
+dialect_dalle_score: 0.23937090287383503
+dialect_stable_score: 0.23520110696364804
+dialect_stable_score: 0.23322866512771753
+
+
+sae prompt is: a man high on marijuana
+dialect_dalle_score: 0.2829379469747604
+sae_dalle_score: 0.26990006128454275
+sae_stable_score: 0.2510671688716725
+sae_stable_score: 0.271644547741578
+
+
+dialectal prompt is: a woman feeling mellow
+sae prompt is: a woman high on marijuana
+dialect_dalle_score: 0.25021195222643555
+dialect_dalle_score: 0.24107651026479765
+dialect_stable_score: 0.24888601261191268
+dialect_stable_score: 0.2480584793226202
+
+
+sae prompt is: a woman high on marijuana
+dialect_dalle_score: 0.3010713510837278
+sae_dalle_score: 0.2884195411985474
+sae_stable_score: 0.2907437192347937
+sae_stable_score: 0.2927697100314495
+
+
+dialectal prompt is: a painting of a person feeling mellow
+sae prompt is: a painting of a person high on marijuana
+dialect_dalle_score: 0.2790330884113915
+dialect_dalle_score: 0.2819227203446956
+dialect_stable_score: 0.2898687545910888
+dialect_stable_score: 0.28759409594325963
+
+
+sae prompt is: a painting of a person high on marijuana
+dialect_dalle_score: 0.2891105084085268
+sae_dalle_score: 0.29025616409535754
+sae_stable_score: 0.3260185440068233
+sae_stable_score: 0.3232302755936561
+
+
+dialectal prompt is: a group of people feeling mellow
+sae prompt is: a group of people high on marijuana
+dialect_dalle_score: 0.24814362171443888
+dialect_dalle_score: 0.23349687489274
+dialect_stable_score: 0.2480205068146727
+dialect_stable_score: 0.2668477864611513
+
+
+sae prompt is: a group of people high on marijuana
+dialect_dalle_score: 0.2591159274271978
+sae_dalle_score: 0.2688369798639673
+sae_stable_score: 0.29305078095415116
+sae_stable_score: 0.3130698477499795
+
+
+dialectal prompt is: college students feeling mellow
+sae prompt is: college students high on marijuana
+dialect_dalle_score: 0.2637509971533385
+dialect_dalle_score: 0.26704787589467505
+dialect_stable_score: 0.2781078579963634
+dialect_stable_score: 0.277045371764178
+
+
+sae prompt is: college students high on marijuana
+dialect_dalle_score: 0.28842223514970233
+sae_dalle_score: 0.2746897347172081
+sae_stable_score: 0.27104778081921416
+sae_stable_score: 0.2924017513251152
+
+
+dialectal prompt is: a person feeling mellow
+sae prompt is: a person high on marijuana
+dialect_dalle_score: 0.2314477056902433
+dialect_dalle_score: 0.23417868661968144
+dialect_stable_score: 0.22178985403216475
+dialect_stable_score: 0.21888364256945458
+
+
+sae prompt is: a person high on marijuana
+dialect_dalle_score: 0.2607830483553982
+sae_dalle_score: 0.2612766263682622
+sae_stable_score: 0.2830141689505862
+sae_stable_score: 0.26748547885709884
+
+
+dialectal prompt is: my morning nappiness
+sae prompt is: my morning hair frizziness
+dialect_dalle_score: 0.17703663565295702
+dialect_dalle_score: 0.1750499746988259
+dialect_stable_score: 0.21288312725876823
+dialect_stable_score: 0.1820522380522934
+
+
+sae prompt is: my morning hair frizziness
+dialect_dalle_score: 0.2631198954238393
+sae_dalle_score: 0.2597579582146148
+sae_stable_score: 0.2695134931426999
+sae_stable_score: 0.2757706836338415
+
+
+dialectal prompt is: a painting of my nappiness
+sae prompt is: a painting of my hair frizziness
+dialect_dalle_score: 0.25454353051899486
+dialect_dalle_score: 0.25600081973418576
+dialect_stable_score: 0.2726440039173541
+dialect_stable_score: 0.23460168582288496
+
+
+sae prompt is: a painting of my hair frizziness
+dialect_dalle_score: 0.29854514965723644
+sae_dalle_score: 0.3000921511180878
+sae_stable_score: 0.3186524826316476
+sae_stable_score: 0.3198493821392309
+
+
+dialectal prompt is: fixing my nappiness
+sae prompt is: fixing my hair frizziness
+dialect_dalle_score: 0.18454350099354397
+dialect_dalle_score: 0.18081944894201316
+dialect_stable_score: 0.20435839933577993
+dialect_stable_score: 0.19738638731902275
+
+
+sae prompt is: fixing my hair frizziness
+dialect_dalle_score: 0.26029526978204337
+sae_dalle_score: 0.25969116982570445
+sae_stable_score: 0.26973196458787146
+sae_stable_score: 0.27038425385107817
+
+
+dialectal prompt is: a woman with nappiness
+sae prompt is: a woman with hair frizziness
+dialect_dalle_score: 0.2204871713339493
+dialect_dalle_score: 0.22549577205655918
+dialect_stable_score: 0.27100493693723243
+dialect_stable_score: 0.23296255776741948
+
+
+sae prompt is: a woman with hair frizziness
+dialect_dalle_score: 0.2901584425374933
+sae_dalle_score: 0.2836365586682493
+sae_stable_score: 0.29949660351234725
+sae_stable_score: 0.2995614719186831
+
+
+dialectal prompt is: my natural nappiness
+sae prompt is: my natural hair frizziness
+dialect_dalle_score: 0.18173728620061663
+dialect_dalle_score: 0.17403370144470715
+dialect_stable_score: 0.21468677173916292
+dialect_stable_score: 0.18031083299460718
+
+
+sae prompt is: my natural hair frizziness
+dialect_dalle_score: 0.28270523165455574
+sae_dalle_score: 0.27753357487657154
+sae_stable_score: 0.27577431686559084
+sae_stable_score: 0.26718362977585847
+
+
+dialectal prompt is: two people with nappiness
+sae prompt is: two people with hair frizziness
+dialect_dalle_score: 0.2331123777656591
+dialect_dalle_score: 0.23385183861121092
+dialect_stable_score: 0.2514042582790409
+dialect_stable_score: 0.22067226658417194
+
+
+sae prompt is: two people with hair frizziness
+dialect_dalle_score: 0.2895641555972503
+sae_dalle_score: 0.2819885097838665
+sae_stable_score: 0.2984452819702147
+sae_stable_score: 0.3023553460537743
+
+
+dialectal prompt is: golden bling
+sae prompt is: golden flashy jewelry
+dialect_dalle_score: 0.2844842498220748
+dialect_dalle_score: 0.28008603411361527
+dialect_stable_score: 0.24830890279586482
+dialect_stable_score: 0.27903880470124176
+
+
+sae prompt is: golden flashy jewelry
+dialect_dalle_score: 0.30050646392324226
+sae_dalle_score: 0.2968174471314352
+sae_stable_score: 0.29581924111349234
+sae_stable_score: 0.30766885165585883
+
+
+dialectal prompt is: silver bling
+sae prompt is: silver flashy jewelry
+dialect_dalle_score: 0.27802689092828153
+dialect_dalle_score: 0.28590190592100606
+dialect_stable_score: 0.2903929473423489
+dialect_stable_score: 0.27917834725844215
+
+
+sae prompt is: silver flashy jewelry
+dialect_dalle_score: 0.29266663678569016
+sae_dalle_score: 0.28863801729144595
+sae_stable_score: 0.28696331548332815
+sae_stable_score: 0.29416845823667803
+
+
+dialectal prompt is: rose gold bling
+sae prompt is: rose gold flashy jewelry
+dialect_dalle_score: 0.3006429510893994
+dialect_dalle_score: 0.30456019912181326
+dialect_stable_score: 0.3069099663171822
+dialect_stable_score: 0.29574388538021906
+
+
+sae prompt is: rose gold flashy jewelry
+dialect_dalle_score: 0.3108273798948763
+sae_dalle_score: 0.3207063816377351
+sae_stable_score: 0.30206221831890673
+sae_stable_score: 0.3212885723310801
+
+
+dialectal prompt is: a painting of shiny bling
+sae prompt is: a painting of shiny flashy jewelry
+dialect_dalle_score: 0.26673054958193176
+dialect_dalle_score: 0.26662432971855465
+dialect_stable_score: 0.28840308799043296
+dialect_stable_score: 0.3098694416826951
+
+
+sae prompt is: a painting of shiny flashy jewelry
+dialect_dalle_score: 0.27872020655927215
+sae_dalle_score: 0.2786551446071556
+sae_stable_score: 0.33072452512890793
+sae_stable_score: 0.342957259245695
+
+
+dialectal prompt is: a display of bling
+sae prompt is: a display of flashy jewelry
+dialect_dalle_score: 0.3072045563003828
+dialect_dalle_score: 0.3210229371225706
+dialect_stable_score: 0.3176697953773175
+dialect_stable_score: 0.3268683494833575
+
+
+sae prompt is: a display of flashy jewelry
+dialect_dalle_score: 0.327414546564492
+sae_dalle_score: 0.32637953612527687
+sae_stable_score: 0.31420973208152314
+sae_stable_score: 0.3421811926468422
+
+
+dialectal prompt is: broken bling
+sae prompt is: broken flashy jewelry
+dialect_dalle_score: 0.25195322682882726
+dialect_dalle_score: 0.252302642527236
+dialect_stable_score: 0.25736260029527774
+dialect_stable_score: 0.26550430025922966
+
+
+sae prompt is: broken flashy jewelry
+dialect_dalle_score: 0.2723714394252624
+sae_dalle_score: 0.2782197233296802
+sae_stable_score: 0.2680346874107844
+sae_stable_score: 0.2849385770902654
+
+
+dialectal prompt is: a large tat
+sae prompt is: a large tattoo
+dialect_dalle_score: 0.2806261335282272
+dialect_dalle_score: 0.27500247606978534
+dialect_stable_score: 0.3004505706788481
+dialect_stable_score: 0.2966312430646696
+
+
+sae prompt is: a large tattoo
+dialect_dalle_score: 0.2934323519626226
+sae_dalle_score: 0.2818336585367419
+sae_stable_score: 0.29278724137995354
+sae_stable_score: 0.3033092659894532
+
+
+dialectal prompt is: a creative tat
+sae prompt is: a creative tattoo
+dialect_dalle_score: 0.29179330853278107
+dialect_dalle_score: 0.28896078763388156
+dialect_stable_score: 0.2943303442427616
+dialect_stable_score: 0.29275300416840555
+
+
+sae prompt is: a creative tattoo
+dialect_dalle_score: 0.2879272308293953
+sae_dalle_score: 0.28034901522699895
+sae_stable_score: 0.29378511853530864
+sae_stable_score: 0.2871381302489293
+
+
+dialectal prompt is: a discreet tat
+sae prompt is: a discreet tattoo
+dialect_dalle_score: 0.28694276583868256
+dialect_dalle_score: 0.2835491758758576
+dialect_stable_score: 0.26490814359103954
+dialect_stable_score: 0.26080450486536083
+
+
+sae prompt is: a discreet tattoo
+dialect_dalle_score: 0.28785264477218875
+sae_dalle_score: 0.2891946762124487
+sae_stable_score: 0.2768761308390006
+sae_stable_score: 0.27775958512959253
+
+
+dialectal prompt is: a beautiful tat
+sae prompt is: a beautiful tattoo
+dialect_dalle_score: 0.2827059171565644
+dialect_dalle_score: 0.28604167825887516
+dialect_stable_score: 0.2924652201041702
+dialect_stable_score: 0.2936334951592331
+
+
+sae prompt is: a beautiful tattoo
+dialect_dalle_score: 0.2859198951615067
+sae_dalle_score: 0.2814405237869653
+sae_stable_score: 0.29600720358320337
+sae_stable_score: 0.30175853783018014
+
+
+dialectal prompt is: a botched tat
+sae prompt is: a botched tattoo
+dialect_dalle_score: 0.3042133397083253
+dialect_dalle_score: 0.30491117794002
+dialect_stable_score: 0.2958461002826755
+dialect_stable_score: 0.2729727246191127
+
+
+sae prompt is: a botched tattoo
+dialect_dalle_score: 0.2995699926384687
+sae_dalle_score: 0.2942035433771124
+sae_stable_score: 0.27894809998740816
+sae_stable_score: 0.2976318960289819
+
+
+dialectal prompt is: a small tat
+sae prompt is: a small tattoo
+dialect_dalle_score: 0.2937872139945665
+dialect_dalle_score: 0.2885117861372099
+dialect_stable_score: 0.2840482018819199
+dialect_stable_score: 0.3011785897318552
+
+
+sae prompt is: a small tattoo
+dialect_dalle_score: 0.29647411794876394
+sae_dalle_score: 0.2892516491237043
+sae_stable_score: 0.2877357336974554
+sae_stable_score: 0.3021723585870202
+
+
+dialectal prompt is: a painting of my dreads
+sae prompt is: a painting of my dreadlocks
+dialect_dalle_score: 0.34887809666969516
+dialect_dalle_score: 0.33220593434896994
+dialect_stable_score: 0.3447999353439595
+dialect_stable_score: 0.32841162172251925
+
+
+sae prompt is: a painting of my dreadlocks
+dialect_dalle_score: 0.33530896320436965
+sae_dalle_score: 0.3304602285356337
+sae_stable_score: 0.3219532195562189
+sae_stable_score: 0.3442165579604588
+
+
+dialectal prompt is: my dirty dreads
+sae prompt is: my dirty dreadlocks
+dialect_dalle_score: 0.32129190774865396
+dialect_dalle_score: 0.3146600009896921
+dialect_stable_score: 0.29699187688873674
+dialect_stable_score: 0.30194839391347844
+
+
+sae prompt is: my dirty dreadlocks
+dialect_dalle_score: 0.3204635866076132
+sae_dalle_score: 0.31213271313580976
+sae_stable_score: 0.3061227461096537
+sae_stable_score: 0.2905608364834107
+
+
+dialectal prompt is: my long dreads
+sae prompt is: my long dreadlocks
+dialect_dalle_score: 0.32740999032271034
+dialect_dalle_score: 0.334842154659908
+dialect_stable_score: 0.3080572030531837
+dialect_stable_score: 0.30243202249014256
+
+
+sae prompt is: my long dreadlocks
+dialect_dalle_score: 0.3225840160589303
+sae_dalle_score: 0.31769423322189055
+sae_stable_score: 0.30916422126733056
+sae_stable_score: 0.2966771828728144
+
+
+dialectal prompt is: two people with dreads
+sae prompt is: two people with dreadlocks
+dialect_dalle_score: 0.33993465662546174
+dialect_dalle_score: 0.32750203564775937
+dialect_stable_score: 0.3318008674489634
+dialect_stable_score: 0.34555480888395285
+
+
+sae prompt is: two people with dreadlocks
+dialect_dalle_score: 0.3276727144311082
+sae_dalle_score: 0.32470601885932826
+sae_stable_score: 0.3355083459657886
+sae_stable_score: 0.34072016359703056
+
+
+dialectal prompt is: cutting my dreads
+sae prompt is: cutting my dreadlocks
+dialect_dalle_score: 0.3087882904396209
+dialect_dalle_score: 0.31270899546695624
+dialect_stable_score: 0.29829106462742166
+dialect_stable_score: 0.3063464889248346
+
+
+sae prompt is: cutting my dreadlocks
+dialect_dalle_score: 0.326444731953884
+sae_dalle_score: 0.3166003431901267
+sae_stable_score: 0.305244469318421
+sae_stable_score: 0.31820358903376206
+
+
+dialectal prompt is: dyed dreads
+sae prompt is: dyed dreadlocks
+dialect_dalle_score: 0.32068667754669267
+dialect_dalle_score: 0.31313129380629345
+dialect_stable_score: 0.3168180820429246
+dialect_stable_score: 0.31336228009737543
+
+
+sae prompt is: dyed dreadlocks
+dialect_dalle_score: 0.31949969942111056
+sae_dalle_score: 0.3154316235656338
+sae_stable_score: 0.30842451778648905
+sae_stable_score: 0.3208388054013375
+
+
+-------------------final results-------------------
+dialect_total_score_dalle_mini: 0.25675100512724164
+dialect_total_score_dalle: 0.25548526829295115
+dialect_total_score_stable1.4: 0.26459683423288266
+dialect_total_score_stable2.1: 0.26184406824094747
+sae_total_score_dalle_mini: 0.27611603286567465
+sae_total_score_dalle: 0.2737880396956344
+sae_total_score_stable1.4: 0.27440114356414586
+sae_total_score_stable2.1: 0.28104600456728257

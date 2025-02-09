@@ -1,0 +1,2979 @@
+dialectal prompt is: a painting of teh tarik
+sae prompt is: a painting of milk tea
+dialect_dalle_score: 0.31478742007098165
+dialect_dalle_score: 0.30761794792388464
+dialect_stable_score: 0.31143912449815775
+dialect_stable_score: 0.31947975563886827
+
+
+sae prompt is: a painting of milk tea
+dialect_dalle_score: 0.32067618879644433
+sae_dalle_score: 0.31065331849826916
+sae_stable_score: 0.318460850118776
+sae_stable_score: 0.33418908203252307
+
+
+dialectal prompt is: a photo of teh tarik
+sae prompt is: a photo of milk tea
+dialect_dalle_score: 0.2787829959563559
+dialect_dalle_score: 0.28178754252071675
+dialect_stable_score: 0.2659236726944833
+dialect_stable_score: 0.2618494919255466
+
+
+sae prompt is: a photo of milk tea
+dialect_dalle_score: 0.32251733636155433
+sae_dalle_score: 0.32336333648826776
+sae_stable_score: 0.2823946323164241
+sae_stable_score: 0.30188926462876026
+
+
+dialectal prompt is: a shop selling teh tarik
+sae prompt is: a shop selling milk tea
+dialect_dalle_score: 0.2831057176268795
+dialect_dalle_score: 0.2770760801792965
+dialect_stable_score: 0.303533849019438
+dialect_stable_score: 0.31261544981613887
+
+
+sae prompt is: a shop selling milk tea
+dialect_dalle_score: 0.2869092122017308
+sae_dalle_score: 0.28911631046569836
+sae_stable_score: 0.30465151046079975
+sae_stable_score: 0.34186693826196146
+
+
+dialectal prompt is: a large teh tarik
+sae prompt is: a large milk tea
+dialect_dalle_score: 0.2578073252167046
+dialect_dalle_score: 0.2561824170320317
+dialect_stable_score: 0.2560594110808798
+dialect_stable_score: 0.26151239223534156
+
+
+sae prompt is: a large milk tea
+dialect_dalle_score: 0.3071272904512962
+sae_dalle_score: 0.30712614349698053
+sae_stable_score: 0.29342846449801296
+sae_stable_score: 0.32057656918736294
+
+
+dialectal prompt is: a small teh tarik
+sae prompt is: a small milk tea
+dialect_dalle_score: 0.25860516931073185
+dialect_dalle_score: 0.2578880419291536
+dialect_stable_score: 0.25133713291466137
+dialect_stable_score: 0.257303329389141
+
+
+sae prompt is: a small milk tea
+dialect_dalle_score: 0.3008041575821561
+sae_dalle_score: 0.2938332996377843
+sae_stable_score: 0.2835186555590153
+sae_stable_score: 0.28051707279993343
+
+
+dialectal prompt is: teh tarik on a table
+sae prompt is: milk tea on a counter
+dialect_dalle_score: 0.2695219817147868
+dialect_dalle_score: 0.2634411618203425
+dialect_stable_score: 0.24413563129361185
+dialect_stable_score: 0.2476814523622808
+
+
+sae prompt is: milk tea on a counter
+dialect_dalle_score: 0.2921470568108049
+sae_dalle_score: 0.2891564978015771
+sae_stable_score: 0.28791060749474406
+sae_stable_score: 0.2863399612580728
+
+
+dialectal prompt is: kopi on a table
+sae prompt is: coffee on a table
+dialect_dalle_score: 0.2841132134284933
+dialect_dalle_score: 0.28712085437130347
+dialect_stable_score: 0.27257343518653976
+dialect_stable_score: 0.2781357350110271
+
+
+sae prompt is: coffee on a table
+dialect_dalle_score: 0.2781537598474724
+sae_dalle_score: 0.2784471483712647
+sae_stable_score: 0.27290997046837506
+sae_stable_score: 0.277474068831266
+
+
+dialectal prompt is: kopi on a counter
+sae prompt is: coffee on a counter
+dialect_dalle_score: 0.2720850594320738
+dialect_dalle_score: 0.276727803171993
+dialect_stable_score: 0.25920893716951277
+dialect_stable_score: 0.2658244888763038
+
+
+sae prompt is: coffee on a counter
+dialect_dalle_score: 0.27336388615500506
+sae_dalle_score: 0.2772961377123904
+sae_stable_score: 0.27226558481467533
+sae_stable_score: 0.2835597242287522
+
+
+dialectal prompt is: a painting of kopi
+sae prompt is: a painting of coffee
+dialect_dalle_score: 0.3361334999199051
+dialect_dalle_score: 0.3334888578095417
+dialect_stable_score: 0.23813056253137688
+dialect_stable_score: 0.29825394671250494
+
+
+sae prompt is: a painting of coffee
+dialect_dalle_score: 0.31490154179114344
+sae_dalle_score: 0.3296711522433197
+sae_stable_score: 0.33215527269486905
+sae_stable_score: 0.34135617769212956
+
+
+dialectal prompt is: two people getting kopi
+sae prompt is: two people getting coffee
+dialect_dalle_score: 0.28114417125632357
+dialect_dalle_score: 0.29043123345753963
+dialect_stable_score: 0.24077827681659134
+dialect_stable_score: 0.2851787041201668
+
+
+sae prompt is: two people getting coffee
+dialect_dalle_score: 0.28151533874093804
+sae_dalle_score: 0.2825720534207417
+sae_stable_score: 0.28186128559188917
+sae_stable_score: 0.2988497092230291
+
+
+dialectal prompt is: a man buying kopi
+sae prompt is: a man buying coffee
+dialect_dalle_score: 0.2928937970662647
+dialect_dalle_score: 0.29167345545231405
+dialect_stable_score: 0.28025017116628526
+dialect_stable_score: 0.29033661921731
+
+
+sae prompt is: a man buying coffee
+dialect_dalle_score: 0.2901962922323445
+sae_dalle_score: 0.2934548110753077
+sae_stable_score: 0.2912595317981325
+sae_stable_score: 0.30085219502254545
+
+
+dialectal prompt is: a woman with kopi
+sae prompt is: a woman with coffee
+dialect_dalle_score: 0.30129778434480087
+dialect_dalle_score: 0.30113013007966377
+dialect_stable_score: 0.2745227953051411
+dialect_stable_score: 0.28417482291308743
+
+
+sae prompt is: a woman with coffee
+dialect_dalle_score: 0.29820680050113246
+sae_dalle_score: 0.2920303355836451
+sae_stable_score: 0.3034624655268967
+sae_stable_score: 0.29980949191928385
+
+
+dialectal prompt is: a painting of an ang pow
+sae prompt is: a painting of a red packet
+dialect_dalle_score: 0.26720595579322537
+dialect_dalle_score: 0.26638455501593605
+dialect_stable_score: 0.28789858571481863
+dialect_stable_score: 0.28119368606541795
+
+
+sae prompt is: a painting of a red packet
+dialect_dalle_score: 0.2997772183154918
+sae_dalle_score: 0.3006949178440582
+sae_stable_score: 0.336732371284139
+sae_stable_score: 0.3158686467710024
+
+
+dialectal prompt is: two ang pows on a table
+sae prompt is: two red packets on a table
+dialect_dalle_score: 0.21000763925257104
+dialect_dalle_score: 0.21490138482089846
+dialect_stable_score: 0.24946602687899835
+dialect_stable_score: 0.26736930598176906
+
+
+sae prompt is: two red packets on a table
+dialect_dalle_score: 0.3196173728176515
+sae_dalle_score: 0.32449679826596256
+sae_stable_score: 0.322811796202081
+sae_stable_score: 0.3197078284136038
+
+
+dialectal prompt is: an ang pow on a counter
+sae prompt is: a red packet on a counter
+dialect_dalle_score: 0.23084184809766478
+dialect_dalle_score: 0.22290516909157387
+dialect_stable_score: 0.23528792686694786
+dialect_stable_score: 0.27947128664719556
+
+
+sae prompt is: a red packet on a counter
+dialect_dalle_score: 0.30538442462714965
+sae_dalle_score: 0.32210488894366646
+sae_stable_score: 0.30708995868779915
+sae_stable_score: 0.3100225645134456
+
+
+dialectal prompt is: a person holding an ang pow
+sae prompt is: a person holding a red packet
+dialect_dalle_score: 0.25006015184350194
+dialect_dalle_score: 0.2484693147546457
+dialect_stable_score: 0.2643063902444797
+dialect_stable_score: 0.28230244179324704
+
+
+sae prompt is: a person holding a red packet
+dialect_dalle_score: 0.33776984012794387
+sae_dalle_score: 0.33038121018507516
+sae_stable_score: 0.30813098823569085
+sae_stable_score: 0.31300607519434487
+
+
+dialectal prompt is: an ang pow on the ground
+sae prompt is: a red packet on the ground
+dialect_dalle_score: 0.26009222741252996
+dialect_dalle_score: 0.24087232607877246
+dialect_stable_score: 0.26767396329792637
+dialect_stable_score: 0.2769287752090595
+
+
+sae prompt is: a red packet on the ground
+dialect_dalle_score: 0.33568376992272714
+sae_dalle_score: 0.3278450124635839
+sae_stable_score: 0.3245253045087675
+sae_stable_score: 0.35406801123266785
+
+
+dialectal prompt is: a child holding an ang pow
+sae prompt is: a child holding a red packet
+dialect_dalle_score: 0.27941556915557814
+dialect_dalle_score: 0.2597045596495886
+dialect_stable_score: 0.29230317603157807
+dialect_stable_score: 0.31930086768852683
+
+
+sae prompt is: a child holding a red packet
+dialect_dalle_score: 0.3437168345888566
+sae_dalle_score: 0.34145035577503663
+sae_stable_score: 0.3499572500722632
+sae_stable_score: 0.33779010438979573
+
+
+dialectal prompt is: a painting of sotong
+sae prompt is: a painting of squid
+dialect_dalle_score: 0.2920441628012138
+dialect_dalle_score: 0.29917037897858795
+dialect_stable_score: 0.2723704785047473
+dialect_stable_score: 0.24412352273569338
+
+
+sae prompt is: a painting of squid
+dialect_dalle_score: 0.31939986598897563
+sae_dalle_score: 0.30896813539408413
+sae_stable_score: 0.30346037773325435
+sae_stable_score: 0.33182672547918785
+
+
+dialectal prompt is: sotong on a table
+sae prompt is: squid on a table
+dialect_dalle_score: 0.32048868208970055
+dialect_dalle_score: 0.3135784978839196
+dialect_stable_score: 0.26677500408676275
+dialect_stable_score: 0.26082637497345845
+
+
+sae prompt is: squid on a table
+dialect_dalle_score: 0.30972480354408444
+sae_dalle_score: 0.3086813589232804
+sae_stable_score: 0.2929189395929591
+sae_stable_score: 0.2881266136980523
+
+
+dialectal prompt is: a sotong in a market
+sae prompt is: a squid in a market
+dialect_dalle_score: 0.3132736230373466
+dialect_dalle_score: 0.31316960274828326
+dialect_stable_score: 0.286759568959691
+dialect_stable_score: 0.2978893297826751
+
+
+sae prompt is: a squid in a market
+dialect_dalle_score: 0.31916759839466563
+sae_dalle_score: 0.31900826664902887
+sae_stable_score: 0.28307824903596995
+sae_stable_score: 0.3255090075604817
+
+
+dialectal prompt is: a sotong in an aquarium
+sae prompt is: a squid in an aquarium
+dialect_dalle_score: 0.29631164187851533
+dialect_dalle_score: 0.30082727346108623
+dialect_stable_score: 0.2725155487417629
+dialect_stable_score: 0.27850855412912495
+
+
+sae prompt is: a squid in an aquarium
+dialect_dalle_score: 0.3161452207368573
+sae_dalle_score: 0.31847699645930516
+sae_stable_score: 0.2871583156998533
+sae_stable_score: 0.3174011872375258
+
+
+dialectal prompt is: a sotong on a counter
+sae prompt is: a squid on a counter
+dialect_dalle_score: 0.2861662678618793
+dialect_dalle_score: 0.29690618857725637
+dialect_stable_score: 0.26467775202738075
+dialect_stable_score: 0.25608079878934903
+
+
+sae prompt is: a squid on a counter
+dialect_dalle_score: 0.28757442058775545
+sae_dalle_score: 0.2871905459431339
+sae_stable_score: 0.2950274884962487
+sae_stable_score: 0.31885726734054276
+
+
+dialectal prompt is: sotong in a box
+sae prompt is: squid in a box
+dialect_dalle_score: 0.3177964547781311
+dialect_dalle_score: 0.3161276957054968
+dialect_stable_score: 0.2934004938143052
+dialect_stable_score: 0.2836153371270287
+
+
+sae prompt is: squid in a box
+dialect_dalle_score: 0.3213584773852217
+sae_dalle_score: 0.33385767676985384
+sae_stable_score: 0.30499937394502946
+sae_stable_score: 0.30219063622144215
+
+
+dialectal prompt is: a person getting tapao
+sae prompt is: a person getting tapao
+dialect_dalle_score: 0.24682898239003284
+dialect_dalle_score: 0.23915394641391632
+dialect_stable_score: 0.28835027680835384
+dialect_stable_score: 0.2535375934806187
+
+
+sae prompt is: a person getting tapao
+dialect_dalle_score: 0.24682898239003284
+sae_dalle_score: 0.24517840635770355
+sae_stable_score: 0.29250216099458665
+sae_stable_score: 0.26283699881353234
+
+
+dialectal prompt is: tapao on a table
+sae prompt is: takeout on a table
+dialect_dalle_score: 0.19758968977003566
+dialect_dalle_score: 0.20269990947902952
+dialect_stable_score: 0.24455889245504497
+dialect_stable_score: 0.22915019811455883
+
+
+sae prompt is: takeout on a table
+dialect_dalle_score: 0.25995737649434913
+sae_dalle_score: 0.27358788362305575
+sae_stable_score: 0.26459231005196293
+sae_stable_score: 0.2847557472850463
+
+
+dialectal prompt is: a person carrying tapao
+sae prompt is: getting food takeout from the food truck
+dialect_dalle_score: 0.19919520955299266
+dialect_dalle_score: 0.20732822775035398
+dialect_stable_score: 0.21559832017287978
+dialect_stable_score: 0.20628389788455936
+
+
+sae prompt is: getting food takeout from the food truck
+dialect_dalle_score: 0.27526993532635213
+sae_dalle_score: 0.27303534787243533
+sae_stable_score: 0.27771174946456967
+sae_stable_score: 0.29331679054923554
+
+
+dialectal prompt is: let's get some food tapao
+sae prompt is: let's get some food takeout
+dialect_dalle_score: 0.20433288698192967
+dialect_dalle_score: 0.20561148964681006
+dialect_stable_score: 0.22848696719992823
+dialect_stable_score: 0.2271505241772585
+
+
+sae prompt is: let's get some food takeout
+dialect_dalle_score: 0.2354813372701679
+sae_dalle_score: 0.23964851350050514
+sae_stable_score: 0.24327976888606914
+sae_stable_score: 0.2477733746123824
+
+
+dialectal prompt is: chinese food tapao
+sae prompt is: chinese food takeout
+dialect_dalle_score: 0.23571393712871494
+dialect_dalle_score: 0.23418957475412208
+dialect_stable_score: 0.2620182869844487
+dialect_stable_score: 0.2375774403444536
+
+
+sae prompt is: chinese food takeout
+dialect_dalle_score: 0.27439966128849647
+sae_dalle_score: 0.26344444959214486
+sae_stable_score: 0.27275692287597064
+sae_stable_score: 0.2807110448182613
+
+
+dialectal prompt is: a couple getting food tapao
+sae prompt is: a couple getting food takeout
+dialect_dalle_score: 0.2159880096178118
+dialect_dalle_score: 0.22180105835006755
+dialect_stable_score: 0.2425636707216729
+dialect_stable_score: 0.2511103652771539
+
+
+sae prompt is: a couple getting food takeout
+dialect_dalle_score: 0.2912243523671211
+sae_dalle_score: 0.28143027816999483
+sae_stable_score: 0.2651347416183219
+sae_stable_score: 0.27100836775241804
+
+
+dialectal prompt is: a kiasu businessman
+sae prompt is: a businessman with a grasping, selfish attitude
+dialect_dalle_score: 0.2663570721839824
+dialect_dalle_score: 0.26617425442244325
+dialect_stable_score: 0.25323718058148903
+dialect_stable_score: 0.2578168182425541
+
+
+sae prompt is: a businessman with a grasping, selfish attitude
+dialect_dalle_score: 0.2711847282765007
+sae_dalle_score: 0.2713131246800039
+sae_stable_score: 0.2598294176996872
+sae_stable_score: 0.2510959642003846
+
+
+dialectal prompt is: a kiasu leader
+sae prompt is: a leader with a grasping, selfish attitude
+dialect_dalle_score: 0.21394514167892256
+dialect_dalle_score: 0.21339757191702838
+dialect_stable_score: 0.228951833670144
+dialect_stable_score: 0.21341786834853407
+
+
+sae prompt is: a leader with a grasping, selfish attitude
+dialect_dalle_score: 0.2460059679987347
+sae_dalle_score: 0.24188879600313606
+sae_stable_score: 0.2525125705421581
+sae_stable_score: 0.2464563138905307
+
+
+dialectal prompt is: a kiasu student
+sae prompt is: a student with a grasping, selfish attitude
+dialect_dalle_score: 0.23402363361112144
+dialect_dalle_score: 0.23872488028571118
+dialect_stable_score: 0.2643235062174207
+dialect_stable_score: 0.2579708622301309
+
+
+sae prompt is: a student with a grasping, selfish attitude
+dialect_dalle_score: 0.27213739569449236
+sae_dalle_score: 0.2668317113444772
+sae_stable_score: 0.2719204236724443
+sae_stable_score: 0.25764300249454647
+
+
+dialectal prompt is: a kiasu parent
+sae prompt is: a parent with a grasping, selfish attitude
+dialect_dalle_score: 0.23115174419923049
+dialect_dalle_score: 0.22867962805950537
+dialect_stable_score: 0.2550207155560921
+dialect_stable_score: 0.21657917184600833
+
+
+sae prompt is: a parent with a grasping, selfish attitude
+dialect_dalle_score: 0.265232252456651
+sae_dalle_score: 0.26954363935251324
+sae_stable_score: 0.26215128677751004
+sae_stable_score: 0.25720451559010865
+
+
+dialectal prompt is: a kiasu businesswoman
+sae prompt is: a businesswoman with a grasping, selfish attitude
+dialect_dalle_score: 0.28671849840191543
+dialect_dalle_score: 0.2864809974128424
+dialect_stable_score: 0.26178662470824715
+dialect_stable_score: 0.26175428856120486
+
+
+sae prompt is: a businesswoman with a grasping, selfish attitude
+dialect_dalle_score: 0.2823895365591436
+sae_dalle_score: 0.28300532570988207
+sae_stable_score: 0.2768589544309128
+sae_stable_score: 0.28124556595344596
+
+
+dialectal prompt is: a kiasu politician
+sae prompt is: a politician with a grasping, selfish attitude
+dialect_dalle_score: 0.2420955268881422
+dialect_dalle_score: 0.2480889260995981
+dialect_stable_score: 0.23691700079240302
+dialect_stable_score: 0.2324864753764499
+
+
+sae prompt is: a politician with a grasping, selfish attitude
+dialect_dalle_score: 0.26024190783414747
+sae_dalle_score: 0.2516228015283346
+sae_stable_score: 0.24210584345012012
+sae_stable_score: 0.2589470799366285
+
+
+dialectal prompt is: a sian cat in a house
+sae prompt is: a bored cat in a house
+dialect_dalle_score: 0.25319264886008375
+dialect_dalle_score: 0.2581654108775565
+dialect_stable_score: 0.26008872553554374
+dialect_stable_score: 0.2760118709805737
+
+
+sae prompt is: a bored cat in a house
+dialect_dalle_score: 0.2607487424418349
+sae_dalle_score: 0.2596290068706797
+sae_stable_score: 0.27024565569848946
+sae_stable_score: 0.27488968678254827
+
+
+dialectal prompt is: a sian woman 
+sae prompt is: a bored woman
+dialect_dalle_score: 0.20637176133095944
+dialect_dalle_score: 0.21075070849216304
+dialect_stable_score: 0.20666600510201627
+dialect_stable_score: 0.21604760928073566
+
+
+sae prompt is: a bored woman
+dialect_dalle_score: 0.23268044293711343
+sae_dalle_score: 0.22702401558196852
+sae_stable_score: 0.24258237511928377
+sae_stable_score: 0.2258691207830925
+
+
+dialectal prompt is: a sian worker in an office
+sae prompt is: a bored worker in an office
+dialect_dalle_score: 0.2517917793091382
+dialect_dalle_score: 0.25395728379588306
+dialect_stable_score: 0.2480286080166961
+dialect_stable_score: 0.24866611634061211
+
+
+sae prompt is: a bored worker in an office
+dialect_dalle_score: 0.25785809733366427
+sae_dalle_score: 0.2579478676168386
+sae_stable_score: 0.2565519421649337
+sae_stable_score: 0.2607258431757569
+
+
+dialectal prompt is: a child sian in the summer
+sae prompt is: a child bored in the summer
+dialect_dalle_score: 0.25671283778719967
+dialect_dalle_score: 0.24756413372324523
+dialect_stable_score: 0.24358884414077242
+dialect_stable_score: 0.2680537308151444
+
+
+sae prompt is: a child bored in the summer
+dialect_dalle_score: 0.27678032988147777
+sae_dalle_score: 0.2815561195245484
+sae_stable_score: 0.28985390712814807
+sae_stable_score: 0.27886525019050296
+
+
+dialectal prompt is: a sian dog in the front yard
+sae prompt is: a bored dog in the front yard
+dialect_dalle_score: 0.24006164834722776
+dialect_dalle_score: 0.23492624184456762
+dialect_stable_score: 0.25219819087063633
+dialect_stable_score: 0.24987580568697915
+
+
+sae prompt is: a bored dog in the front yard
+dialect_dalle_score: 0.248972750892807
+sae_dalle_score: 0.2511442939294606
+sae_stable_score: 0.27583424427379855
+sae_stable_score: 0.273729250848844
+
+
+dialectal prompt is: a sian man
+sae prompt is: a bored man
+dialect_dalle_score: 0.2097269280115797
+dialect_dalle_score: 0.20383379581293232
+dialect_stable_score: 0.2050110432398402
+dialect_stable_score: 0.21801926871795704
+
+
+sae prompt is: a bored man
+dialect_dalle_score: 0.22728123458464186
+sae_dalle_score: 0.22734029591606722
+sae_stable_score: 0.23887218271532495
+sae_stable_score: 0.23516505515861322
+
+
+dialectal prompt is: a lepak dog
+sae prompt is: a relaxing dog
+dialect_dalle_score: 0.2334141401434933
+dialect_dalle_score: 0.22962809033780943
+dialect_stable_score: 0.26409419006578916
+dialect_stable_score: 0.2588100979579127
+
+
+sae prompt is: a relaxing dog
+dialect_dalle_score: 0.25746648543804124
+sae_dalle_score: 0.259189212206461
+sae_stable_score: 0.25778086879853945
+sae_stable_score: 0.2739104335340181
+
+
+dialectal prompt is: people lepak on a beach
+sae prompt is: people relaxing on a beach
+dialect_dalle_score: 0.27718002952208476
+dialect_dalle_score: 0.2776925898103328
+dialect_stable_score: 0.2808890064826022
+dialect_stable_score: 0.28515396679214994
+
+
+sae prompt is: people relaxing on a beach
+dialect_dalle_score: 0.27073118601760304
+sae_dalle_score: 0.28357786157356935
+sae_stable_score: 0.28788221050918206
+sae_stable_score: 0.29936045143871665
+
+
+dialectal prompt is: people lepak on a coach
+sae prompt is: people relaxing on a coach
+dialect_dalle_score: 0.29245869989247725
+dialect_dalle_score: 0.2900740583862573
+dialect_stable_score: 0.2822255155755429
+dialect_stable_score: 0.29251949538348504
+
+
+sae prompt is: people relaxing on a coach
+dialect_dalle_score: 0.2688294401963267
+sae_dalle_score: 0.2644044882270678
+sae_stable_score: 0.3023973503689398
+sae_stable_score: 0.3051510393636727
+
+
+dialectal prompt is: a couple lepak in a park
+sae prompt is: a couple relaxing in a park
+dialect_dalle_score: 0.26279152527520094
+dialect_dalle_score: 0.2654980436963268
+dialect_stable_score: 0.2862501929466565
+dialect_stable_score: 0.27574322322794254
+
+
+sae prompt is: a couple relaxing in a park
+dialect_dalle_score: 0.2695880092045491
+sae_dalle_score: 0.2798234767321369
+sae_stable_score: 0.2848531677172982
+sae_stable_score: 0.3001467285882222
+
+
+dialectal prompt is: a cat lepak
+sae prompt is: a cat relaxing
+dialect_dalle_score: 0.25118351175562953
+dialect_dalle_score: 0.24835661424034372
+dialect_stable_score: 0.26478238742787785
+dialect_stable_score: 0.25843564232278354
+
+
+sae prompt is: a cat relaxing
+dialect_dalle_score: 0.27402284124897386
+sae_dalle_score: 0.2782159516632198
+sae_stable_score: 0.2664155570739013
+sae_stable_score: 0.2827885296109656
+
+
+dialectal prompt is: a lepak vacation setting
+sae prompt is: a relaxing vacation setting
+dialect_dalle_score: 0.24824899005346227
+dialect_dalle_score: 0.2512913621629436
+dialect_stable_score: 0.2508765932346829
+dialect_stable_score: 0.2799099876536906
+
+
+sae prompt is: a relaxing vacation setting
+dialect_dalle_score: 0.2654486285191444
+sae_dalle_score: 0.2629663613417277
+sae_stable_score: 0.2594292877865032
+sae_stable_score: 0.2806110136903739
+
+
+dialectal prompt is: a person gesturing can
+sae prompt is: a person gesturing yes
+dialect_dalle_score: 0.21665983264322977
+dialect_dalle_score: 0.2194442987649137
+dialect_stable_score: 0.23176945870873075
+dialect_stable_score: 0.22403151442896668
+
+
+sae prompt is: a person gesturing yes
+dialect_dalle_score: 0.226398603801731
+sae_dalle_score: 0.23171131564610295
+sae_stable_score: 0.22698642034031502
+sae_stable_score: 0.23828210327789773
+
+
+dialectal prompt is: a person saying can
+sae prompt is: a person saying yes
+dialect_dalle_score: 0.23483086726207963
+dialect_dalle_score: 0.2303321380419262
+dialect_stable_score: 0.21453510890244218
+dialect_stable_score: 0.250094980374313
+
+
+sae prompt is: a person saying yes
+dialect_dalle_score: 0.23984234690613823
+sae_dalle_score: 0.24308649493571277
+sae_stable_score: 0.24889407507486394
+sae_stable_score: 0.26181253729101317
+
+
+dialectal prompt is: a worker gesturing can
+sae prompt is: a worker gesturing yes
+dialect_dalle_score: 0.27721343918741215
+dialect_dalle_score: 0.278906577948679
+dialect_stable_score: 0.269446740017211
+dialect_stable_score: 0.28368242794641807
+
+
+sae prompt is: a worker gesturing yes
+dialect_dalle_score: 0.29442863357641
+sae_dalle_score: 0.2870268670149112
+sae_stable_score: 0.25863161703789617
+sae_stable_score: 0.28066982967941334
+
+
+dialectal prompt is: a student gesturing can
+sae prompt is: a student gesturing yes
+dialect_dalle_score: 0.2541658986720586
+dialect_dalle_score: 0.2567720482730265
+dialect_stable_score: 0.25263832921888774
+dialect_stable_score: 0.24846561878018875
+
+
+sae prompt is: a student gesturing yes
+dialect_dalle_score: 0.25435206125183574
+sae_dalle_score: 0.24927543927818852
+sae_stable_score: 0.2539224882246391
+sae_stable_score: 0.24898201043725265
+
+
+dialectal prompt is: a woman gesturing can
+sae prompt is: a woman gesturing yes
+dialect_dalle_score: 0.2421614106863801
+dialect_dalle_score: 0.23973563526644165
+dialect_stable_score: 0.2530380576239624
+dialect_stable_score: 0.2512459942622651
+
+
+sae prompt is: a woman gesturing yes
+dialect_dalle_score: 0.2503360794081868
+sae_dalle_score: 0.24356531536023315
+sae_stable_score: 0.25212711294827295
+sae_stable_score: 0.24487245926268045
+
+
+dialectal prompt is: a man gesturing can
+sae prompt is: a man gesturing yes
+dialect_dalle_score: 0.23191439029259087
+dialect_dalle_score: 0.22839684692087442
+dialect_stable_score: 0.23937029022777156
+dialect_stable_score: 0.23766185716282115
+
+
+sae prompt is: a man gesturing yes
+dialect_dalle_score: 0.2324897501050302
+sae_dalle_score: 0.23365233556857914
+sae_stable_score: 0.24978670122339355
+sae_stable_score: 0.23336165557030966
+
+
+dialectal prompt is: a student chope
+sae prompt is: a student saving a table
+dialect_dalle_score: 0.23240546947856253
+dialect_dalle_score: 0.20631951872795998
+dialect_stable_score: 0.24305413289570696
+dialect_stable_score: 0.23756551524777944
+
+
+sae prompt is: a student saving a table
+dialect_dalle_score: 0.2653707306386116
+sae_dalle_score: 0.2599304862840481
+sae_stable_score: 0.31715586189283096
+sae_stable_score: 0.31799320410106574
+
+
+dialectal prompt is: a man chope
+sae prompt is: a man saving a table
+dialect_dalle_score: 0.20328742857449972
+dialect_dalle_score: 0.17639056383175877
+dialect_stable_score: 0.2090712349078606
+dialect_stable_score: 0.2124884508636118
+
+
+sae prompt is: a man saving a table
+dialect_dalle_score: 0.2894420063174619
+sae_dalle_score: 0.2725075225239853
+sae_stable_score: 0.3115086824191653
+sae_stable_score: 0.30407399082043957
+
+
+dialectal prompt is: a woman chope
+sae prompt is: a woman saving a table
+dialect_dalle_score: 0.2271668743218053
+dialect_dalle_score: 0.22626410672944874
+dialect_stable_score: 0.2390761230216462
+dialect_stable_score: 0.25876979573477427
+
+
+sae prompt is: a woman saving a table
+dialect_dalle_score: 0.2974376410100387
+sae_dalle_score: 0.2774833215734247
+sae_stable_score: 0.30306762226530864
+sae_stable_score: 0.3012503806421852
+
+
+dialectal prompt is: a group chope 
+sae prompt is: a group saving a table 
+dialect_dalle_score: 0.1942125986109836
+dialect_dalle_score: 0.1799295751342989
+dialect_stable_score: 0.21768467659043156
+dialect_stable_score: 0.2457867368943257
+
+
+sae prompt is: a group saving a table 
+dialect_dalle_score: 0.2758416060609026
+sae_dalle_score: 0.2841331898569057
+sae_stable_score: 0.2951406928966324
+sae_stable_score: 0.321331506386813
+
+
+dialectal prompt is: chope at a cafe
+sae prompt is: saving a table at a cafe
+dialect_dalle_score: 0.22551758499047717
+dialect_dalle_score: 0.22817684981937253
+dialect_stable_score: 0.2577096789208337
+dialect_stable_score: 0.2597166333681582
+
+
+sae prompt is: saving a table at a cafe
+dialect_dalle_score: 0.2657404137916931
+sae_dalle_score: 0.2684163591053895
+sae_stable_score: 0.2709162092213274
+sae_stable_score: 0.3047352643947203
+
+
+dialectal prompt is: chope with a napkin
+sae prompt is: saving a table with a napkin
+dialect_dalle_score: 0.20125155197502348
+dialect_dalle_score: 0.20342647209469325
+dialect_stable_score: 0.29749949720685426
+dialect_stable_score: 0.25033842303654574
+
+
+sae prompt is: saving a table with a napkin
+dialect_dalle_score: 0.29410389689551497
+sae_dalle_score: 0.29091333492826105
+sae_stable_score: 0.2932393838950843
+sae_stable_score: 0.3051429942437077
+
+
+dialectal prompt is: a counter with shiok things
+sae prompt is: a counter with tasty things
+dialect_dalle_score: 0.2544082811149047
+dialect_dalle_score: 0.2622215088121257
+dialect_stable_score: 0.28060003720243754
+dialect_stable_score: 0.2712693527865066
+
+
+sae prompt is: a counter with tasty things
+dialect_dalle_score: 0.2547445497356413
+sae_dalle_score: 0.2562718713426741
+sae_stable_score: 0.27752107482360006
+sae_stable_score: 0.279731286262483
+
+
+dialectal prompt is: a painting of something that is shiok
+sae prompt is: a painting of something that is very tasty
+dialect_dalle_score: 0.23552463330563
+dialect_dalle_score: 0.23318543725467286
+dialect_stable_score: 0.24355223128652215
+dialect_stable_score: 0.2550282879464434
+
+
+sae prompt is: a painting of something that is very tasty
+dialect_dalle_score: 0.289337693260033
+sae_dalle_score: 0.2925972605460246
+sae_stable_score: 0.2777618324269526
+sae_stable_score: 0.30463986692493067
+
+
+dialectal prompt is: a table with shiok stuff
+sae prompt is: a table with very tasty stuff
+dialect_dalle_score: 0.25087594383036893
+dialect_dalle_score: 0.24967632943524404
+dialect_stable_score: 0.2655942459370759
+dialect_stable_score: 0.2776681338128373
+
+
+sae prompt is: a table with very tasty stuff
+dialect_dalle_score: 0.25965087744542337
+sae_dalle_score: 0.2624423528249908
+sae_stable_score: 0.26723406943911626
+sae_stable_score: 0.2690617750360116
+
+
+dialectal prompt is: a photo of something that is shiok
+sae prompt is: a photo of something that is tasty
+dialect_dalle_score: 0.1947316602849799
+dialect_dalle_score: 0.19742835560330518
+dialect_stable_score: 0.18019550184203373
+dialect_stable_score: 0.2072221842230149
+
+
+sae prompt is: a photo of something that is tasty
+dialect_dalle_score: 0.25524491512855646
+sae_dalle_score: 0.2572295905645778
+sae_stable_score: 0.23807849821891347
+sae_stable_score: 0.2428398376142788
+
+
+dialectal prompt is: something shiok
+sae prompt is: something tasty
+dialect_dalle_score: 0.2030706202814791
+dialect_dalle_score: 0.20244251299057117
+dialect_stable_score: 0.17057960030135308
+dialect_stable_score: 0.19519633214849158
+
+
+sae prompt is: something tasty
+dialect_dalle_score: 0.23870161289005226
+sae_dalle_score: 0.23341528237324688
+sae_stable_score: 0.23840720406008117
+sae_stable_score: 0.21808116968293936
+
+
+dialectal prompt is: a person enjoying something that is shiok
+sae prompt is: a person enjoying something that is tasty
+dialect_dalle_score: 0.2452271955054225
+dialect_dalle_score: 0.2527605191638519
+dialect_stable_score: 0.25680651424013917
+dialect_stable_score: 0.24105250707507342
+
+
+sae prompt is: a person enjoying something that is tasty
+dialect_dalle_score: 0.270149213793107
+sae_dalle_score: 0.2790670254141511
+sae_stable_score: 0.28606115809675625
+sae_stable_score: 0.2702826844432253
+
+
+dialectal prompt is: an atas clothing store
+sae prompt is: a high class clothing store
+dialect_dalle_score: 0.2655811927463281
+dialect_dalle_score: 0.2621014007405587
+dialect_stable_score: 0.26578530666466854
+dialect_stable_score: 0.2692836012980767
+
+
+sae prompt is: a high class clothing store
+dialect_dalle_score: 0.26639031457257867
+sae_dalle_score: 0.2578892477370336
+sae_stable_score: 0.2647826897787454
+sae_stable_score: 0.2708331814337149
+
+
+dialectal prompt is: an atas party
+sae prompt is: a high class party
+dialect_dalle_score: 0.233410537303902
+dialect_dalle_score: 0.24140853857260705
+dialect_stable_score: 0.24245162619075097
+dialect_stable_score: 0.2478130788313911
+
+
+sae prompt is: a high class party
+dialect_dalle_score: 0.25636002866528307
+sae_dalle_score: 0.258675005381634
+sae_stable_score: 0.2691068675227408
+sae_stable_score: 0.279095784196528
+
+
+dialectal prompt is: a painting of something that is atas
+sae prompt is: a painting of something that is high class
+dialect_dalle_score: 0.2451245610091029
+dialect_dalle_score: 0.24218507717004611
+dialect_stable_score: 0.24988234415610844
+dialect_stable_score: 0.2627568239235162
+
+
+sae prompt is: a painting of something that is high class
+dialect_dalle_score: 0.23947396324321696
+sae_dalle_score: 0.24772194112985277
+sae_stable_score: 0.25199265967251533
+sae_stable_score: 0.276764317606876
+
+
+dialectal prompt is: an atas restaurant
+sae prompt is: a high class restaurant
+dialect_dalle_score: 0.2613400002491852
+dialect_dalle_score: 0.26089488335236466
+dialect_stable_score: 0.25588254002417865
+dialect_stable_score: 0.24745235947267252
+
+
+sae prompt is: a high class restaurant
+dialect_dalle_score: 0.27188513376275636
+sae_dalle_score: 0.267098279570677
+sae_stable_score: 0.26973914630340384
+sae_stable_score: 0.2702642646408739
+
+
+dialectal prompt is: an atas car
+sae prompt is: a high class car
+dialect_dalle_score: 0.23148957872764708
+dialect_dalle_score: 0.22918183813044551
+dialect_stable_score: 0.2350527844254223
+dialect_stable_score: 0.22893036888251064
+
+
+sae prompt is: a high class car
+dialect_dalle_score: 0.2300211271204977
+sae_dalle_score: 0.22856227154585326
+sae_stable_score: 0.2479929704808941
+sae_stable_score: 0.27331494490453506
+
+
+dialectal prompt is: an atas house
+sae prompt is: a high class house
+dialect_dalle_score: 0.2455280478627323
+dialect_dalle_score: 0.2529188853778483
+dialect_stable_score: 0.24960262192564586
+dialect_stable_score: 0.2436739585240997
+
+
+sae prompt is: a high class house
+dialect_dalle_score: 0.24986291383085277
+sae_dalle_score: 0.24789735836762108
+sae_stable_score: 0.2574930932041096
+sae_stable_score: 0.2776701745425456
+
+
+dialectal prompt is: an ulu beach
+sae prompt is: a secluded beach
+dialect_dalle_score: 0.2918995626823883
+dialect_dalle_score: 0.29550118856695523
+dialect_stable_score: 0.26739343763447887
+dialect_stable_score: 0.2978263347726904
+
+
+sae prompt is: a secluded beach
+dialect_dalle_score: 0.2853685408947331
+sae_dalle_score: 0.2853808546788255
+sae_stable_score: 0.27482556782992873
+sae_stable_score: 0.29642318607596874
+
+
+dialectal prompt is: an ulu street
+sae prompt is: a secluded street
+dialect_dalle_score: 0.30089398367813786
+dialect_dalle_score: 0.28833157557404177
+dialect_stable_score: 0.27238363557675943
+dialect_stable_score: 0.29032159745846525
+
+
+sae prompt is: a secluded street
+dialect_dalle_score: 0.2717345382308988
+sae_dalle_score: 0.26946156875104366
+sae_stable_score: 0.28311317680666115
+sae_stable_score: 0.2909288266783989
+
+
+dialectal prompt is: an ulu trail
+sae prompt is: a secluded trail
+dialect_dalle_score: 0.28005697215275066
+dialect_dalle_score: 0.27185107638731454
+dialect_stable_score: 0.2398041437514539
+dialect_stable_score: 0.2805889964170309
+
+
+sae prompt is: a secluded trail
+dialect_dalle_score: 0.2989709564255436
+sae_dalle_score: 0.3002900483014831
+sae_stable_score: 0.274826246221232
+sae_stable_score: 0.29079687871632515
+
+
+dialectal prompt is: an ulu locale
+sae prompt is: a secluded locale
+dialect_dalle_score: 0.21005926539439246
+dialect_dalle_score: 0.21188007668825254
+dialect_stable_score: 0.22138092894844089
+dialect_stable_score: 0.256674217160239
+
+
+sae prompt is: a secluded locale
+dialect_dalle_score: 0.24666647664344288
+sae_dalle_score: 0.23940587315967615
+sae_stable_score: 0.25803087780166756
+sae_stable_score: 0.2661432374957809
+
+
+dialectal prompt is: an ulu house
+sae prompt is: a secluded house
+dialect_dalle_score: 0.2752972228213466
+dialect_dalle_score: 0.27188769734987256
+dialect_stable_score: 0.2623358396312075
+dialect_stable_score: 0.27152453162272105
+
+
+sae prompt is: a secluded house
+dialect_dalle_score: 0.2916186950551427
+sae_dalle_score: 0.2898025354639819
+sae_stable_score: 0.2833345017147454
+sae_stable_score: 0.29541511358185674
+
+
+dialectal prompt is: an rv in an ulu town
+sae prompt is: an rv in a secluded town
+dialect_dalle_score: 0.28092580926764615
+dialect_dalle_score: 0.2825005469526371
+dialect_stable_score: 0.2777956987993424
+dialect_stable_score: 0.3011215363922118
+
+
+sae prompt is: an rv in a secluded town
+dialect_dalle_score: 0.27546628509086424
+sae_dalle_score: 0.27782289248541464
+sae_stable_score: 0.2810280979475832
+sae_stable_score: 0.29173946122069877
+
+
+dialectal prompt is: a woman makan noodles
+sae prompt is: a woman eating noodles
+dialect_dalle_score: 0.3425457188411647
+dialect_dalle_score: 0.33931718144171413
+dialect_stable_score: 0.3227121641524054
+dialect_stable_score: 0.33113425524711304
+
+
+sae prompt is: a woman eating noodles
+dialect_dalle_score: 0.34264085340171824
+sae_dalle_score: 0.3395188271187163
+sae_stable_score: 0.3166696149914068
+sae_stable_score: 0.3326222654054851
+
+
+dialectal prompt is: a painting of someone makan
+sae prompt is: a painting of someone eating
+dialect_dalle_score: 0.31862668557748636
+dialect_dalle_score: 0.3172994988819473
+dialect_stable_score: 0.2720746451844073
+dialect_stable_score: 0.2909408806023556
+
+
+sae prompt is: a painting of someone eating
+dialect_dalle_score: 0.3238513380447338
+sae_dalle_score: 0.3223563058679353
+sae_stable_score: 0.3344421509705336
+sae_stable_score: 0.3282220242751326
+
+
+dialectal prompt is: a person makan salad
+sae prompt is: a person eating a salad
+dialect_dalle_score: 0.30464721159399133
+dialect_dalle_score: 0.30890811102935684
+dialect_stable_score: 0.27183225670809014
+dialect_stable_score: 0.28436020456671307
+
+
+sae prompt is: a person eating a salad
+dialect_dalle_score: 0.3128162390416743
+sae_dalle_score: 0.3173676447100843
+sae_stable_score: 0.28106901681455815
+sae_stable_score: 0.2961276594866321
+
+
+dialectal prompt is: a man makan a taco
+sae prompt is: a man eating a taco
+dialect_dalle_score: 0.31048253814710736
+dialect_dalle_score: 0.3023195551031296
+dialect_stable_score: 0.27933961783116135
+dialect_stable_score: 0.3013014703899355
+
+
+sae prompt is: a man eating a taco
+dialect_dalle_score: 0.33524158750491145
+sae_dalle_score: 0.31699750262924875
+sae_stable_score: 0.2992104446421558
+sae_stable_score: 0.31136334090688866
+
+
+dialectal prompt is: people makan
+sae prompt is: people eating
+dialect_dalle_score: 0.2897724768187554
+dialect_dalle_score: 0.29257806201198944
+dialect_stable_score: 0.2712397762622851
+dialect_stable_score: 0.2861163428462999
+
+
+sae prompt is: people eating
+dialect_dalle_score: 0.2958775613087591
+sae_dalle_score: 0.29801493695284437
+sae_stable_score: 0.26168301797974425
+sae_stable_score: 0.2690628988954814
+
+
+dialectal prompt is: a man makan a burrito
+sae prompt is: a man eating a burrito
+dialect_dalle_score: 0.3186812559655724
+dialect_dalle_score: 0.3109990893369148
+dialect_stable_score: 0.2589781434456527
+dialect_stable_score: 0.30729718381885174
+
+
+sae prompt is: a man eating a burrito
+dialect_dalle_score: 0.3317071508021645
+sae_dalle_score: 0.3245932285939245
+sae_stable_score: 0.3019856931723421
+sae_stable_score: 0.32155578263687756
+
+
+dialectal prompt is: a family zhng their house
+sae prompt is: a family redocrates their house
+dialect_dalle_score: 0.27856709209753233
+dialect_dalle_score: 0.27824938739395877
+dialect_stable_score: 0.2739594380790851
+dialect_stable_score: 0.27963635649441815
+
+
+sae prompt is: a family redocrates their house
+dialect_dalle_score: 0.2678437216988923
+sae_dalle_score: 0.2690934414580799
+sae_stable_score: 0.27673157047689045
+sae_stable_score: 0.27111781942596025
+
+
+dialectal prompt is: a worker zhng her office space
+sae prompt is: a worker redecorates her office space
+dialect_dalle_score: 0.2689039512050124
+dialect_dalle_score: 0.2704731922338537
+dialect_stable_score: 0.28061858012081564
+dialect_stable_score: 0.2866256457478443
+
+
+sae prompt is: a worker redecorates her office space
+dialect_dalle_score: 0.29335793712852676
+sae_dalle_score: 0.2980845945273418
+sae_stable_score: 0.30990347407079094
+sae_stable_score: 0.29562527443660247
+
+
+dialectal prompt is: a couple zhng their garage
+sae prompt is: a couple redocorate their garage
+dialect_dalle_score: 0.25574323415157296
+dialect_dalle_score: 0.26625959666999033
+dialect_stable_score: 0.3057460149232629
+dialect_stable_score: 0.3121571414766365
+
+
+sae prompt is: a couple redocorate their garage
+dialect_dalle_score: 0.29240356753300095
+sae_dalle_score: 0.2828290742392014
+sae_stable_score: 0.3132095159867996
+sae_stable_score: 0.3046577777331414
+
+
+dialectal prompt is: a woman zhng her room
+sae prompt is: a woman redecorates her room
+dialect_dalle_score: 0.2995637365496011
+dialect_dalle_score: 0.2939589663644818
+dialect_stable_score: 0.2979293533944645
+dialect_stable_score: 0.2975851905707818
+
+
+sae prompt is: a woman redecorates her room
+dialect_dalle_score: 0.3015065164748798
+sae_dalle_score: 0.30534769254398403
+sae_stable_score: 0.31958382130798263
+sae_stable_score: 0.2918556069294757
+
+
+dialectal prompt is: a man zhng his desk
+sae prompt is: a man redecorates his desk
+dialect_dalle_score: 0.26722227672902693
+dialect_dalle_score: 0.26272666157404595
+dialect_stable_score: 0.2679094697008032
+dialect_stable_score: 0.2564661257058204
+
+
+sae prompt is: a man redecorates his desk
+dialect_dalle_score: 0.2730837821635051
+sae_dalle_score: 0.2778371340223251
+sae_stable_score: 0.2826000624479541
+sae_stable_score: 0.2962264830566336
+
+
+dialectal prompt is: a person zhng their kitchen
+sae prompt is: a person redecorates their kitchen
+dialect_dalle_score: 0.230786301411547
+dialect_dalle_score: 0.24233311907786848
+dialect_stable_score: 0.2785889953282101
+dialect_stable_score: 0.28015485558225833
+
+
+sae prompt is: a person redecorates their kitchen
+dialect_dalle_score: 0.28576972312868654
+sae_dalle_score: 0.2957484932887694
+sae_stable_score: 0.31135724868090253
+sae_stable_score: 0.28867795603629165
+
+
+dialectal prompt is: a group of gers
+sae prompt is: a group of girls
+dialect_dalle_score: 0.21495835035217672
+dialect_dalle_score: 0.21355303606866607
+dialect_stable_score: 0.21095730595751838
+dialect_stable_score: 0.2185260555993056
+
+
+sae prompt is: a group of girls
+dialect_dalle_score: 0.2829436109588483
+sae_dalle_score: 0.2772390646712483
+sae_stable_score: 0.2779907388939924
+sae_stable_score: 0.2988317791653968
+
+
+dialectal prompt is: a ger buying a computer
+sae prompt is: a girl buying a computer
+dialect_dalle_score: 0.27004388580337696
+dialect_dalle_score: 0.26950766762416406
+dialect_stable_score: 0.23756089026293323
+dialect_stable_score: 0.2593974657386285
+
+
+sae prompt is: a girl buying a computer
+dialect_dalle_score: 0.30561891664432395
+sae_dalle_score: 0.3026364863602862
+sae_stable_score: 0.283722783565541
+sae_stable_score: 0.30591958351496934
+
+
+dialectal prompt is: a ger hiking
+sae prompt is: a girl hiking
+dialect_dalle_score: 0.26707664244476126
+dialect_dalle_score: 0.2707648971703539
+dialect_stable_score: 0.26251174761569834
+dialect_stable_score: 0.2626858636796253
+
+
+sae prompt is: a girl hiking
+dialect_dalle_score: 0.2908179987427917
+sae_dalle_score: 0.29644859370082
+sae_stable_score: 0.2830051762408368
+sae_stable_score: 0.2843648832807147
+
+
+dialectal prompt is: a ger
+sae prompt is: a girl
+dialect_dalle_score: 0.16074791307189776
+dialect_dalle_score: 0.1634256768812654
+dialect_stable_score: 0.161767344617676
+dialect_stable_score: 0.19355341057604367
+
+
+sae prompt is: a girl
+dialect_dalle_score: 0.2365312571304542
+sae_dalle_score: 0.2344082360601596
+sae_stable_score: 0.25440654542344987
+sae_stable_score: 0.21502781800811938
+
+
+dialectal prompt is: a ger in a city
+sae prompt is: a girl in a city
+dialect_dalle_score: 0.20047465018417446
+dialect_dalle_score: 0.1885709463323818
+dialect_stable_score: 0.2257230007891581
+dialect_stable_score: 0.22843981295102717
+
+
+sae prompt is: a girl in a city
+dialect_dalle_score: 0.26280858667390283
+sae_dalle_score: 0.25836283573423446
+sae_stable_score: 0.2924545017337154
+sae_stable_score: 0.29354372293084213
+
+
+dialectal prompt is: a painting of a ger
+sae prompt is: a painting of a girl
+dialect_dalle_score: 0.2364487843732922
+dialect_dalle_score: 0.22440948448058734
+dialect_stable_score: 0.2457926778871243
+dialect_stable_score: 0.24260795929408652
+
+
+sae prompt is: a painting of a girl
+dialect_dalle_score: 0.29502890890140654
+sae_dalle_score: 0.29636779367347565
+sae_stable_score: 0.31090153502134127
+sae_stable_score: 0.3157806078596108
+
+
+dialectal prompt is: a handphone on a table
+sae prompt is: a mobile phone on a table
+dialect_dalle_score: 0.2835860927404826
+dialect_dalle_score: 0.28288514106703233
+dialect_stable_score: 0.2638645240437386
+dialect_stable_score: 0.26931060614007873
+
+
+sae prompt is: a mobile phone on a table
+dialect_dalle_score: 0.28381864077022745
+sae_dalle_score: 0.28695299166754556
+sae_stable_score: 0.25159114609780864
+sae_stable_score: 0.25741628146298695
+
+
+dialectal prompt is: a woman holding a handphone
+sae prompt is: a woman holding a mobile phone
+dialect_dalle_score: 0.3275340778144978
+dialect_dalle_score: 0.3274445110065794
+dialect_stable_score: 0.2899296939967772
+dialect_stable_score: 0.29665474651988155
+
+
+sae prompt is: a woman holding a mobile phone
+dialect_dalle_score: 0.3068971331433501
+sae_dalle_score: 0.3304067501940912
+sae_stable_score: 0.2848419704491012
+sae_stable_score: 0.2937260146930599
+
+
+dialectal prompt is: a handphone on the ground
+sae prompt is: a mobile phone on the ground
+dialect_dalle_score: 0.3159904611842354
+dialect_dalle_score: 0.31987389431652063
+dialect_stable_score: 0.3024531721731629
+dialect_stable_score: 0.32179072814879106
+
+
+sae prompt is: a mobile phone on the ground
+dialect_dalle_score: 0.3113198656549356
+sae_dalle_score: 0.3196458916967136
+sae_stable_score: 0.3034190589021967
+sae_stable_score: 0.30800763131044523
+
+
+dialectal prompt is: a man with a handphone
+sae prompt is: a man with a mobile phone
+dialect_dalle_score: 0.3057473710684002
+dialect_dalle_score: 0.3035771639873406
+dialect_stable_score: 0.27457440409983586
+dialect_stable_score: 0.2875417884431224
+
+
+sae prompt is: a man with a mobile phone
+dialect_dalle_score: 0.29406651499887404
+sae_dalle_score: 0.30102479254558
+sae_stable_score: 0.27422060965950257
+sae_stable_score: 0.29527067546340574
+
+
+dialectal prompt is: a painting of a handphone
+sae prompt is: a painting of a mobile phone
+dialect_dalle_score: 0.3186974426298821
+dialect_dalle_score: 0.326097514346111
+dialect_stable_score: 0.33082776816415027
+dialect_stable_score: 0.3443253651683078
+
+
+sae prompt is: a painting of a mobile phone
+dialect_dalle_score: 0.3130302667427094
+sae_dalle_score: 0.31194916135420003
+sae_stable_score: 0.326199927699316
+sae_stable_score: 0.33677442336281305
+
+
+dialectal prompt is: a handphone on a lawn
+sae prompt is: a mobile phone on a lawn
+dialect_dalle_score: 0.33992565844068623
+dialect_dalle_score: 0.330144575286665
+dialect_stable_score: 0.3071883978117132
+dialect_stable_score: 0.32227224110973035
+
+
+sae prompt is: a mobile phone on a lawn
+dialect_dalle_score: 0.34793635436919984
+sae_dalle_score: 0.3422195580500796
+sae_stable_score: 0.3067038306353265
+sae_stable_score: 0.3208366148708457
+
+
+dialectal prompt is: an ah long handling cash
+sae prompt is: a loan shark handling cash
+dialect_dalle_score: 0.27026273808888185
+dialect_dalle_score: 0.26425941315690993
+dialect_stable_score: 0.24492408465154247
+dialect_stable_score: 0.24872519763146864
+
+
+sae prompt is: a loan shark handling cash
+dialect_dalle_score: 0.2598815153926783
+sae_dalle_score: 0.26085416081643226
+sae_stable_score: 0.26633591554768354
+sae_stable_score: 0.2911863871483988
+
+
+dialectal prompt is: an ah long carrying a knife
+sae prompt is: a loan shark carrying a knife
+dialect_dalle_score: 0.27815989662378166
+dialect_dalle_score: 0.2699550031026898
+dialect_stable_score: 0.2911696107292355
+dialect_stable_score: 0.28642712866105197
+
+
+sae prompt is: a loan shark carrying a knife
+dialect_dalle_score: 0.29104126295180516
+sae_dalle_score: 0.28399093098989514
+sae_stable_score: 0.3053615612455876
+sae_stable_score: 0.3127215396018161
+
+
+dialectal prompt is: an ah long holding a bag
+sae prompt is: a loan shark holding a bag
+dialect_dalle_score: 0.31008734424605716
+dialect_dalle_score: 0.2996438863565498
+dialect_stable_score: 0.2566363384183216
+dialect_stable_score: 0.2594856890288198
+
+
+sae prompt is: a loan shark holding a bag
+dialect_dalle_score: 0.2811831613364417
+sae_dalle_score: 0.3076300813087325
+sae_stable_score: 0.2775868121641515
+sae_stable_score: 0.313089931186805
+
+
+dialectal prompt is: an ah long
+sae prompt is: a loan shark
+dialect_dalle_score: 0.19646772160108897
+dialect_dalle_score: 0.19526996777229944
+dialect_stable_score: 0.20513393815390352
+dialect_stable_score: 0.19951610576764667
+
+
+sae prompt is: a loan shark
+dialect_dalle_score: 0.2703074852231136
+sae_dalle_score: 0.27233178713860934
+sae_stable_score: 0.26108092482827355
+sae_stable_score: 0.29633750235335543
+
+
+dialectal prompt is: an ah long talking to someone
+sae prompt is: a loan shark talking to someone
+dialect_dalle_score: 0.2547308264604202
+dialect_dalle_score: 0.2641188422458337
+dialect_stable_score: 0.2519254924077982
+dialect_stable_score: 0.2509142902089798
+
+
+sae prompt is: a loan shark talking to someone
+dialect_dalle_score: 0.2831103744569737
+sae_dalle_score: 0.2787684467832743
+sae_stable_score: 0.26003579669155436
+sae_stable_score: 0.2821851024383137
+
+
+dialectal prompt is: an ah long spray painting
+sae prompt is: a loan shark spray painting
+dialect_dalle_score: 0.28060654514856487
+dialect_dalle_score: 0.2849555216409127
+dialect_stable_score: 0.29117108242869477
+dialect_stable_score: 0.2757206013604672
+
+
+sae prompt is: a loan shark spray painting
+dialect_dalle_score: 0.3053892548594553
+sae_dalle_score: 0.308298027968324
+sae_stable_score: 0.31408665127531893
+sae_stable_score: 0.3293969183539198
+
+
+dialectal prompt is: a man at a kopi tiam
+sae prompt is: a man at a small food court
+dialect_dalle_score: 0.2373578497784347
+dialect_dalle_score: 0.24631263906020806
+dialect_stable_score: 0.2730362565761072
+dialect_stable_score: 0.2825964085855672
+
+
+sae prompt is: a man at a small food court
+dialect_dalle_score: 0.3021989855226934
+sae_dalle_score: 0.29685230094873655
+sae_stable_score: 0.2770973066647647
+sae_stable_score: 0.28930554891447047
+
+
+dialectal prompt is: a woman at a kopi tiam
+sae prompt is: a woman at a small food court
+dialect_dalle_score: 0.2575973796417654
+dialect_dalle_score: 0.26289709905830944
+dialect_stable_score: 0.2824682867409952
+dialect_stable_score: 0.28934552202807473
+
+
+sae prompt is: a woman at a small food court
+dialect_dalle_score: 0.3098812365084968
+sae_dalle_score: 0.31548450142298334
+sae_stable_score: 0.29053822022101694
+sae_stable_score: 0.29180927636177356
+
+
+dialectal prompt is: buying something at a kopi tiam
+sae prompt is: buying something at a small kopi tiam
+dialect_dalle_score: 0.26235496036871364
+dialect_dalle_score: 0.2464577499730164
+dialect_stable_score: 0.29422353624574854
+dialect_stable_score: 0.29580127728197375
+
+
+sae prompt is: buying something at a small kopi tiam
+dialect_dalle_score: 0.25324806996590915
+sae_dalle_score: 0.25303236202113744
+sae_stable_score: 0.3006431730160338
+sae_stable_score: 0.2913629875648286
+
+
+dialectal prompt is: kopi tiam
+sae prompt is: a small food court
+dialect_dalle_score: 0.17502421381734118
+dialect_dalle_score: 0.17156793231241932
+dialect_stable_score: 0.20562845023552614
+dialect_stable_score: 0.23046116180287365
+
+
+sae prompt is: a small food court
+dialect_dalle_score: 0.29288357715221114
+sae_dalle_score: 0.30435463367166093
+sae_stable_score: 0.300191616687217
+sae_stable_score: 0.30302159011228114
+
+
+dialectal prompt is: a modern kopi tiam
+sae prompt is: a modern small food court
+dialect_dalle_score: 0.1812859451402624
+dialect_dalle_score: 0.17879775235670506
+dialect_stable_score: 0.2193695950594306
+dialect_stable_score: 0.24267920390416858
+
+
+sae prompt is: a modern small food court
+dialect_dalle_score: 0.2950381494893802
+sae_dalle_score: 0.2970507737871866
+sae_stable_score: 0.2952807542297838
+sae_stable_score: 0.30548993099762
+
+
+dialectal prompt is: an old kopi tiam
+sae prompt is: an old small food court
+dialect_dalle_score: 0.17953555109009192
+dialect_dalle_score: 0.1802077540822918
+dialect_stable_score: 0.23064525629283983
+dialect_stable_score: 0.2917044945667693
+
+
+sae prompt is: an old small food court
+dialect_dalle_score: 0.2977577341228474
+sae_dalle_score: 0.31512625421844476
+sae_stable_score: 0.2847995286795133
+sae_stable_score: 0.30528192924153186
+
+
+dialectal prompt is: a painting of a yandao
+sae prompt is: a painting of a handsome male
+dialect_dalle_score: 0.21555928270773297
+dialect_dalle_score: 0.2252784927422796
+dialect_stable_score: 0.2566405626156736
+dialect_stable_score: 0.2833703962136247
+
+
+sae prompt is: a painting of a handsome male
+dialect_dalle_score: 0.2895880925006384
+sae_dalle_score: 0.287074954744097
+sae_stable_score: 0.3016635609107414
+sae_stable_score: 0.31940175537956444
+
+
+dialectal prompt is: a yandao buying food
+sae prompt is: a handsome male buying food
+dialect_dalle_score: 0.2533922277142412
+dialect_dalle_score: 0.2546561499537312
+dialect_stable_score: 0.2823665451023343
+dialect_stable_score: 0.2850345811898764
+
+
+sae prompt is: a handsome male buying food
+dialect_dalle_score: 0.26988700572497704
+sae_dalle_score: 0.2761145993565115
+sae_stable_score: 0.25970480124445217
+sae_stable_score: 0.27453090734071467
+
+
+dialectal prompt is: a yandao at a gym
+sae prompt is: a handsome male at a gym
+dialect_dalle_score: 0.2700501063123641
+dialect_dalle_score: 0.25864016955821467
+dialect_stable_score: 0.24593204696206797
+dialect_stable_score: 0.26082716021667623
+
+
+sae prompt is: a handsome male at a gym
+dialect_dalle_score: 0.2730096018895975
+sae_dalle_score: 0.2790707941399353
+sae_stable_score: 0.2725785068706109
+sae_stable_score: 0.274399570501565
+
+
+dialectal prompt is: a yandao
+sae prompt is: a handsome male
+dialect_dalle_score: 0.17232760785635792
+dialect_dalle_score: 0.17014513898295228
+dialect_stable_score: 0.18688730660902783
+dialect_stable_score: 0.20732083652215164
+
+
+sae prompt is: a handsome male
+dialect_dalle_score: 0.22686544376393025
+sae_dalle_score: 0.2280407055672552
+sae_stable_score: 0.24404083633254636
+sae_stable_score: 0.2525274964737168
+
+
+dialectal prompt is: a yandao walking
+sae prompt is: a handsome male walking
+dialect_dalle_score: 0.22821177097835005
+dialect_dalle_score: 0.2304806723076063
+dialect_stable_score: 0.23425322892870795
+dialect_stable_score: 0.25046066713321147
+
+
+sae prompt is: a handsome male walking
+dialect_dalle_score: 0.27544993522286315
+sae_dalle_score: 0.27052324880209055
+sae_stable_score: 0.2624440438155873
+sae_stable_score: 0.27127654625431963
+
+
+dialectal prompt is: a group of yandaos
+sae prompt is: a group of handsome males
+dialect_dalle_score: 0.2542797960547845
+dialect_dalle_score: 0.2432887973575507
+dialect_stable_score: 0.25285160512258387
+dialect_stable_score: 0.2446374056139635
+
+
+sae prompt is: a group of handsome males
+dialect_dalle_score: 0.2684531537186567
+sae_dalle_score: 0.26575135716415954
+sae_stable_score: 0.2930203922725818
+sae_stable_score: 0.2835032182783201
+
+
+dialectal prompt is: a man mug
+sae prompt is: a man studying
+dialect_dalle_score: 0.220780528391744
+dialect_dalle_score: 0.218262899461559
+dialect_stable_score: 0.21880947278355578
+dialect_stable_score: 0.2121321117095584
+
+
+sae prompt is: a man studying
+dialect_dalle_score: 0.27956914873488303
+sae_dalle_score: 0.29589625180877394
+sae_stable_score: 0.2926900431681946
+sae_stable_score: 0.299170428532218
+
+
+dialectal prompt is: a woman mug at home
+sae prompt is: a woman studying at home
+dialect_dalle_score: 0.24280471270779325
+dialect_dalle_score: 0.24974010282211495
+dialect_stable_score: 0.21580554168654295
+dialect_stable_score: 0.2464885544326173
+
+
+sae prompt is: a woman studying at home
+dialect_dalle_score: 0.2790772696309292
+sae_dalle_score: 0.2808856693945553
+sae_stable_score: 0.2862858565361237
+sae_stable_score: 0.2781292394304291
+
+
+dialectal prompt is: a child busy mug
+sae prompt is: a child busy studying 
+dialect_dalle_score: 0.25846394510856097
+dialect_dalle_score: 0.24219723756777667
+dialect_stable_score: 0.22834849703811366
+dialect_stable_score: 0.28567737019448153
+
+
+sae prompt is: a child busy studying 
+dialect_dalle_score: 0.3105323542876104
+sae_dalle_score: 0.30645346467413775
+sae_stable_score: 0.2966482053376006
+sae_stable_score: 0.3057042916547146
+
+
+dialectal prompt is: a group of people mug
+sae prompt is: a group of people studying
+dialect_dalle_score: 0.211169954029581
+dialect_dalle_score: 0.21779079145439
+dialect_stable_score: 0.21317738673454525
+dialect_stable_score: 0.2449874052905528
+
+
+sae prompt is: a group of people studying
+dialect_dalle_score: 0.3088604156174082
+sae_dalle_score: 0.31006846999053544
+sae_stable_score: 0.2820965105835143
+sae_stable_score: 0.2824329175035346
+
+
+dialectal prompt is: an older person rob
+sae prompt is: an older person studying
+dialect_dalle_score: 0.2826391524627385
+dialect_dalle_score: 0.2804619779077639
+dialect_stable_score: 0.2594026621630667
+dialect_stable_score: 0.25930390013514315
+
+
+sae prompt is: an older person studying
+dialect_dalle_score: 0.33132850929779645
+sae_dalle_score: 0.32919891383686656
+sae_stable_score: 0.3078316672533283
+sae_stable_score: 0.3206999087280962
+
+
+dialectal prompt is: rob at a table
+sae prompt is: studying at a table
+dialect_dalle_score: 0.2345477387694631
+dialect_dalle_score: 0.23345574519650616
+dialect_stable_score: 0.21769961394828996
+dialect_stable_score: 0.2312973884793036
+
+
+sae prompt is: studying at a table
+dialect_dalle_score: 0.2763666705485981
+sae_dalle_score: 0.26792206624604487
+sae_stable_score: 0.27273070196906246
+sae_stable_score: 0.26558281812238776
+
+
+dialectal prompt is: a man being a lightbulb 
+sae prompt is: a man being a third wheel
+dialect_dalle_score: 0.15791495842982875
+dialect_dalle_score: 0.15659281765415106
+dialect_stable_score: 0.15920943991143052
+dialect_stable_score: 0.16275880865001588
+
+
+sae prompt is: a man being a third wheel
+dialect_dalle_score: 0.1956566609670126
+sae_dalle_score: 0.20029220185470387
+sae_stable_score: 0.2656299991824609
+sae_stable_score: 0.27207501594906464
+
+
+dialectal prompt is: a woman being a lightbulb
+sae prompt is: a woman being a third wheel
+dialect_dalle_score: 0.17130968057168006
+dialect_dalle_score: 0.1684219039020652
+dialect_stable_score: 0.15019438895101483
+dialect_stable_score: 0.17173182412165675
+
+
+sae prompt is: a woman being a third wheel
+dialect_dalle_score: 0.21741048363988413
+sae_dalle_score: 0.21412580821577443
+sae_stable_score: 0.26000384529829035
+sae_stable_score: 0.27235276914529377
+
+
+dialectal prompt is: a lightbulb with a couple
+sae prompt is: a third wheel with a couple
+dialect_dalle_score: 0.17432316861938052
+dialect_dalle_score: 0.17170661884472097
+dialect_stable_score: 0.17744295354821402
+dialect_stable_score: 0.19373754421370767
+
+
+sae prompt is: a third wheel with a couple
+dialect_dalle_score: 0.23569309492530113
+sae_dalle_score: 0.2068624510941924
+sae_stable_score: 0.25686628484916507
+sae_stable_score: 0.270178035971848
+
+
+dialectal prompt is: a lightbulb near a couple
+sae prompt is: a third wheel near a couple
+dialect_dalle_score: 0.18270358718161803
+dialect_dalle_score: 0.1799246434921154
+dialect_stable_score: 0.16097627101508383
+dialect_stable_score: 0.19532536755635865
+
+
+sae prompt is: a third wheel near a couple
+dialect_dalle_score: 0.24437738965687675
+sae_dalle_score: 0.20973137700037336
+sae_stable_score: 0.26034215378045333
+sae_stable_score: 0.2683596653857886
+
+
+dialectal prompt is: painting of a light bulb
+sae prompt is: painting of a third wheel
+dialect_dalle_score: 0.17432494652181188
+dialect_dalle_score: 0.1899495295367693
+dialect_stable_score: 0.2159134247614655
+dialect_stable_score: 0.22026751636844166
+
+
+sae prompt is: painting of a third wheel
+dialect_dalle_score: 0.20765212587512621
+sae_dalle_score: 0.21190633382679155
+sae_stable_score: 0.3218316664032869
+sae_stable_score: 0.3071123576439904
+
+
+dialectal prompt is: a young light bulb
+sae prompt is: a young third wheel
+dialect_dalle_score: 0.15029758272754418
+dialect_dalle_score: 0.1509963230644119
+dialect_stable_score: 0.14820056117654645
+dialect_stable_score: 0.14862497926584078
+
+
+sae prompt is: a young third wheel
+dialect_dalle_score: 0.19668196361273985
+sae_dalle_score: 0.19562067927977336
+sae_stable_score: 0.27021280507755274
+sae_stable_score: 0.25582502182096545
+
+
+dialectal prompt is: a painting of black teh
+sae prompt is: a painting of black tea
+dialect_dalle_score: 0.28112148296422323
+dialect_dalle_score: 0.29299372146624314
+dialect_stable_score: 0.2814042170351536
+dialect_stable_score: 0.2687949404882193
+
+
+sae prompt is: a painting of black tea
+dialect_dalle_score: 0.3221165364427331
+sae_dalle_score: 0.33167991086174786
+sae_stable_score: 0.32477089390609576
+sae_stable_score: 0.3340493971544581
+
+
+dialectal prompt is: teh in a store
+sae prompt is: tea in a store
+dialect_dalle_score: 0.23419112789455981
+dialect_dalle_score: 0.25678735645168627
+dialect_stable_score: 0.24516183501597735
+dialect_stable_score: 0.2313244211205022
+
+
+sae prompt is: tea in a store
+dialect_dalle_score: 0.2724321422930911
+sae_dalle_score: 0.2639563972148411
+sae_stable_score: 0.2775600257419612
+sae_stable_score: 0.2675169985730367
+
+
+dialectal prompt is: a container with teh
+sae prompt is: a container with tea
+dialect_dalle_score: 0.2936738399188657
+dialect_dalle_score: 0.2964039224911224
+dialect_stable_score: 0.25797563422582986
+dialect_stable_score: 0.26187115241876036
+
+
+sae prompt is: a container with tea
+dialect_dalle_score: 0.30427761425379696
+sae_dalle_score: 0.2955964286843274
+sae_stable_score: 0.28649436878959
+sae_stable_score: 0.2845484021449544
+
+
+dialectal prompt is: a teh shop in a city
+sae prompt is: a tea shop in a city
+dialect_dalle_score: 0.25646950424578574
+dialect_dalle_score: 0.25884516777023125
+dialect_stable_score: 0.2514776183611593
+dialect_stable_score: 0.27748686316851834
+
+
+sae prompt is: a tea shop in a city
+dialect_dalle_score: 0.2722902277433865
+sae_dalle_score: 0.27883808473863053
+sae_stable_score: 0.2823167019002754
+sae_stable_score: 0.3025054639035029
+
+
+dialectal prompt is: white teh
+sae prompt is: white tea
+dialect_dalle_score: 0.2874862756725012
+dialect_dalle_score: 0.2914260933834478
+dialect_stable_score: 0.26273680926898746
+dialect_stable_score: 0.18009043680502781
+
+
+sae prompt is: white tea
+dialect_dalle_score: 0.3073046654558931
+sae_dalle_score: 0.29965804541035
+sae_stable_score: 0.28430232109398396
+sae_stable_score: 0.29699580222074345
+
+
+dialectal prompt is: a jar with dry teh
+sae prompt is: a jar with dry tea
+dialect_dalle_score: 0.32219234754986936
+dialect_dalle_score: 0.31818452045868306
+dialect_stable_score: 0.27452491651827177
+dialect_stable_score: 0.29721339356396087
+
+
+sae prompt is: a jar with dry tea
+dialect_dalle_score: 0.3225330097814913
+sae_dalle_score: 0.32818779774739487
+sae_stable_score: 0.2885739881131848
+sae_stable_score: 0.3073276511058844
+
+
+dialectal prompt is: a plate of char kway teow
+sae prompt is: a plate of stir-fried rice noodles
+dialect_dalle_score: 0.2833697185567885
+dialect_dalle_score: 0.2882647182633789
+dialect_stable_score: 0.29761318596467384
+dialect_stable_score: 0.28558660079577347
+
+
+sae prompt is: a plate of stir-fried rice noodles
+dialect_dalle_score: 0.30210803649566653
+sae_dalle_score: 0.30115986687907925
+sae_stable_score: 0.28983272032409285
+sae_stable_score: 0.2936536921552597
+
+
+dialectal prompt is: a bowl of char kway teow
+sae prompt is: a bowl of stir-fried rice noodles
+dialect_dalle_score: 0.2878022062453178
+dialect_dalle_score: 0.2892243713252387
+dialect_stable_score: 0.286479742079778
+dialect_stable_score: 0.28944143755128315
+
+
+sae prompt is: a bowl of stir-fried rice noodles
+dialect_dalle_score: 0.30749870322396067
+sae_dalle_score: 0.2803620623255107
+sae_stable_score: 0.2981978898914859
+sae_stable_score: 0.3017543006158057
+
+
+dialectal prompt is: a painting of char kway teow
+sae prompt is: a painting of stir-fried rice noodles
+dialect_dalle_score: 0.3194290236815015
+dialect_dalle_score: 0.29453934160676076
+dialect_stable_score: 0.3451022990060148
+dialect_stable_score: 0.37236755231920554
+
+
+sae prompt is: a painting of stir-fried rice noodles
+dialect_dalle_score: 0.3251965986848938
+sae_dalle_score: 0.33458183463349234
+sae_stable_score: 0.3236462706801156
+sae_stable_score: 0.3691483254523308
+
+
+dialectal prompt is: char kway teow with vegetables
+sae prompt is: stir-fried rice noodle with vegetables
+dialect_dalle_score: 0.2924362598600198
+dialect_dalle_score: 0.29013902197120583
+dialect_stable_score: 0.30464588933475034
+dialect_stable_score: 0.30980549041290856
+
+
+sae prompt is: stir-fried rice noodle with vegetables
+dialect_dalle_score: 0.33066667726681415
+sae_dalle_score: 0.3211955218971805
+sae_stable_score: 0.3222190865509071
+sae_stable_score: 0.324267337693555
+
+
+dialectal prompt is: char kway teow with fruit
+sae prompt is: stir-fried rice noodles with fruit
+dialect_dalle_score: 0.2864545620459533
+dialect_dalle_score: 0.28721436219084473
+dialect_stable_score: 0.29598662549116483
+dialect_stable_score: 0.3223912010159973
+
+
+sae prompt is: stir-fried rice noodles with fruit
+dialect_dalle_score: 0.3145304105520978
+sae_dalle_score: 0.32099731012100896
+sae_stable_score: 0.3295462369346079
+sae_stable_score: 0.3228853739742917
+
+
+dialectal prompt is: two plates of char kway teow
+sae prompt is: two plates of stir-fried rice noodles
+dialect_dalle_score: 0.2939522102565988
+dialect_dalle_score: 0.30281934534550925
+dialect_stable_score: 0.3109153744664237
+dialect_stable_score: 0.2913197645347028
+
+
+sae prompt is: two plates of stir-fried rice noodles
+dialect_dalle_score: 0.3129032106753148
+sae_dalle_score: 0.29454578737894554
+sae_stable_score: 0.3117990463260585
+sae_stable_score: 0.31253345102875496
+
+
+dialectal prompt is: a sinseh and a man
+sae prompt is: a traditional Chinese physician and a man
+dialect_dalle_score: 0.24076410719388436
+dialect_dalle_score: 0.2456948792825479
+dialect_stable_score: 0.29689037815170255
+dialect_stable_score: 0.2514795894919647
+
+
+sae prompt is: a traditional Chinese physician and a man
+dialect_dalle_score: 0.31182606137728897
+sae_dalle_score: 0.3150627234431893
+sae_stable_score: 0.3190620387099672
+sae_stable_score: 0.33259630927722283
+
+
+dialectal prompt is: a sinseh and a woman
+sae prompt is: a traditional Chinese physician and a woman
+dialect_dalle_score: 0.24920497501325511
+dialect_dalle_score: 0.24397956311782065
+dialect_stable_score: 0.2991809279540621
+dialect_stable_score: 0.2366645137366099
+
+
+sae prompt is: a traditional Chinese physician and a woman
+dialect_dalle_score: 0.32346431781253415
+sae_dalle_score: 0.3209246452431507
+sae_stable_score: 0.3201718118077553
+sae_stable_score: 0.32912769412500076
+
+
+dialectal prompt is: a painting of a sinseh
+sae prompt is: a painting of a traditional Chinese physician
+dialect_dalle_score: 0.25519155508172875
+dialect_dalle_score: 0.24727915877979992
+dialect_stable_score: 0.2564586259574735
+dialect_stable_score: 0.2609928865006834
+
+
+sae prompt is: a painting of a traditional Chinese physician
+dialect_dalle_score: 0.32947855263945525
+sae_dalle_score: 0.3334485572823103
+sae_stable_score: 0.33356285033753186
+sae_stable_score: 0.35514795697888196
+
+
+dialectal prompt is: a sinseh in an office
+sae prompt is: a traditional Chinese physician in an office
+dialect_dalle_score: 0.2648965594549611
+dialect_dalle_score: 0.2567677150368135
+dialect_stable_score: 0.2278206842612467
+dialect_stable_score: 0.22609458460731402
+
+
+sae prompt is: a traditional Chinese physician in an office
+dialect_dalle_score: 0.3321622507997769
+sae_dalle_score: 0.33583164714250935
+sae_stable_score: 0.3320388646989176
+sae_stable_score: 0.34705033211607056
+
+
+dialectal prompt is: a sinseh with two people
+sae prompt is: a traditional Chinese physician with two people
+dialect_dalle_score: 0.26955557206660175
+dialect_dalle_score: 0.25804108103222023
+dialect_stable_score: 0.2685545771101898
+dialect_stable_score: 0.23480291457187485
+
+
+sae prompt is: a traditional Chinese physician with two people
+dialect_dalle_score: 0.3116635843625844
+sae_dalle_score: 0.3101573130341216
+sae_stable_score: 0.31018330627784724
+sae_stable_score: 0.34081496241834025
+
+
+dialectal prompt is: a sinseh sitting at their desk
+sae prompt is: a traditional Chinese physician sitting at their desk
+dialect_dalle_score: 0.24328784724647765
+dialect_dalle_score: 0.2348922791942124
+dialect_stable_score: 0.28157992818398314
+dialect_stable_score: 0.20782089652489688
+
+
+sae prompt is: a traditional Chinese physician sitting at their desk
+dialect_dalle_score: 0.34314756798071233
+sae_dalle_score: 0.3390341002981819
+sae_stable_score: 0.3431596758459918
+sae_stable_score: 0.32118725223228134
+
+
+dialectal prompt is: a large hawker centre
+sae prompt is: a large food court
+dialect_dalle_score: 0.28912856466060305
+dialect_dalle_score: 0.2951803669397702
+dialect_stable_score: 0.30222421300203617
+dialect_stable_score: 0.3236054866020416
+
+
+sae prompt is: a large food court
+dialect_dalle_score: 0.3197261427675604
+sae_dalle_score: 0.3090609394121596
+sae_stable_score: 0.3178011973099826
+sae_stable_score: 0.3257055558289098
+
+
+dialectal prompt is: a couple at a hawker centre
+sae prompt is: a couple at a food court
+dialect_dalle_score: 0.26901130162958437
+dialect_dalle_score: 0.27504744917078383
+dialect_stable_score: 0.2596742619400655
+dialect_stable_score: 0.28839026635651277
+
+
+sae prompt is: a couple at a food court
+dialect_dalle_score: 0.29798462240770657
+sae_dalle_score: 0.30156205269746816
+sae_stable_score: 0.2879492845363943
+sae_stable_score: 0.3097628780362534
+
+
+dialectal prompt is: a modern hawker centre
+sae prompt is: a modern food court
+dialect_dalle_score: 0.2900853804372391
+dialect_dalle_score: 0.29951056352564376
+dialect_stable_score: 0.2975643563810589
+dialect_stable_score: 0.3172081564024338
+
+
+sae prompt is: a modern food court
+dialect_dalle_score: 0.29656421018971524
+sae_dalle_score: 0.2983402164794899
+sae_stable_score: 0.31730559394302665
+sae_stable_score: 0.33398007890169046
+
+
+dialectal prompt is: an old hawker centre
+sae prompt is: an older food court
+dialect_dalle_score: 0.2863521558296088
+dialect_dalle_score: 0.28666565947192196
+dialect_stable_score: 0.30175725275542514
+dialect_stable_score: 0.3040272127630282
+
+
+sae prompt is: an older food court
+dialect_dalle_score: 0.3227328458003227
+sae_dalle_score: 0.3228804600398282
+sae_stable_score: 0.31448228660895844
+sae_stable_score: 0.34386404224185263
+
+
+dialectal prompt is: a person at a hawker centre
+sae prompt is: a person at a food court
+dialect_dalle_score: 0.2812755185287152
+dialect_dalle_score: 0.26645191337343693
+dialect_stable_score: 0.2626765757273951
+dialect_stable_score: 0.27398975851817675
+
+
+sae prompt is: a person at a food court
+dialect_dalle_score: 0.2976252908599582
+sae_dalle_score: 0.2872152049221506
+sae_stable_score: 0.291960364867943
+sae_stable_score: 0.28848610746714304
+
+
+dialectal prompt is: a busy hawker centre
+sae prompt is: a busy food court
+dialect_dalle_score: 0.2900137915397776
+dialect_dalle_score: 0.29711887151626004
+dialect_stable_score: 0.2991828563965446
+dialect_stable_score: 0.3192849403894542
+
+
+sae prompt is: a busy food court
+dialect_dalle_score: 0.31850425914349273
+sae_dalle_score: 0.31399112996789824
+sae_stable_score: 0.3164310792386077
+sae_stable_score: 0.32156142183436887
+
+
+dialectal prompt is: killer litter falling
+sae prompt is: litter thrown from a high-rise building falling
+dialect_dalle_score: 0.2012286130080981
+dialect_dalle_score: 0.20646402183458368
+dialect_stable_score: 0.2579932213314367
+dialect_stable_score: 0.2692937794005095
+
+
+sae prompt is: litter thrown from a high-rise building falling
+dialect_dalle_score: 0.2776200586896975
+sae_dalle_score: 0.28213890627905547
+sae_stable_score: 0.2866013581126713
+sae_stable_score: 0.32612637991722415
+
+
+dialectal prompt is: killer litter from an open window
+sae prompt is: litter thrown from a high-rise building from an open window
+dialect_dalle_score: 0.21859579124880768
+dialect_dalle_score: 0.22038284161876562
+dialect_stable_score: 0.2222750842906428
+dialect_stable_score: 0.2564121252643721
+
+
+sae prompt is: litter thrown from a high-rise building from an open window
+dialect_dalle_score: 0.2893641047477997
+sae_dalle_score: 0.2972061958962252
+sae_stable_score: 0.29361289232331395
+sae_stable_score: 0.2901225916820029
+
+
+dialectal prompt is: a sign advising against killer litter
+sae prompt is: a sign advising against litter thrown from a high-rise building
+dialect_dalle_score: 0.2556388854817909
+dialect_dalle_score: 0.2399843969560018
+dialect_stable_score: 0.28992724454622754
+dialect_stable_score: 0.2995541344547507
+
+
+sae prompt is: a sign advising against litter thrown from a high-rise building
+dialect_dalle_score: 0.25782940538528476
+sae_dalle_score: 0.2616540514216501
+sae_stable_score: 0.3173984145689541
+sae_stable_score: 0.31388047127958435
+
+
+dialectal prompt is: a painting of killer litter
+sae prompt is: a painting of litter thrown from a high-rise building
+dialect_dalle_score: 0.23080346453065323
+dialect_dalle_score: 0.22975939074343968
+dialect_stable_score: 0.24828615713109967
+dialect_stable_score: 0.30040517561014535
+
+
+sae prompt is: a painting of litter thrown from a high-rise building
+dialect_dalle_score: 0.3028789091166759
+sae_dalle_score: 0.3071339414714865
+sae_stable_score: 0.3093745764412237
+sae_stable_score: 0.3619447706656397
+
+
+dialectal prompt is: a person avoiding killer litter
+sae prompt is: a person avoiding litter thrown from a high-rise building
+dialect_dalle_score: 0.27020852754279734
+dialect_dalle_score: 0.28747774748120336
+dialect_stable_score: 0.27554415589290504
+dialect_stable_score: 0.26790636624833625
+
+
+sae prompt is: a person avoiding litter thrown from a high-rise building
+dialect_dalle_score: 0.3189479005387106
+sae_dalle_score: 0.31202267819371665
+sae_stable_score: 0.303904220385855
+sae_stable_score: 0.31774955061555576
+
+
+dialectal prompt is: a person nearly hit by killer litter
+sae prompt is: a person nearly hit by litter thrown from a high-rise building
+dialect_dalle_score: 0.27292538337811445
+dialect_dalle_score: 0.26503232119801634
+dialect_stable_score: 0.2984654055520447
+dialect_stable_score: 0.29498989129699377
+
+
+sae prompt is: a person nearly hit by litter thrown from a high-rise building
+dialect_dalle_score: 0.3077966069778901
+sae_dalle_score: 0.29702676122735494
+sae_stable_score: 0.3133730353687995
+sae_stable_score: 0.3072008717928897
+
+
+dialectal prompt is: a man using a changkol in a vegetable garden
+sae prompt is: a man using a hoe in a vegetable garden
+dialect_dalle_score: 0.3162729133621787
+dialect_dalle_score: 0.3071447593629108
+dialect_stable_score: 0.2881416154024439
+dialect_stable_score: 0.3130696347013944
+
+
+sae prompt is: a man using a hoe in a vegetable garden
+dialect_dalle_score: 0.3251249538209209
+sae_dalle_score: 0.3177651548237599
+sae_stable_score: 0.3082791585038756
+sae_stable_score: 0.3374772475715295
+
+
+dialectal prompt is: a changkol on a shelf in a store
+sae prompt is: a hoe on a shelf in a store
+dialect_dalle_score: 0.19782397746543978
+dialect_dalle_score: 0.2118154585170421
+dialect_stable_score: 0.2067106254613972
+dialect_stable_score: 0.2226787297011927
+
+
+sae prompt is: a hoe on a shelf in a store
+dialect_dalle_score: 0.2510596864972246
+sae_dalle_score: 0.257078738011225
+sae_stable_score: 0.2610982889531145
+sae_stable_score: 0.22425025551139421
+
+
+dialectal prompt is: a painting of a changkol
+sae prompt is: a painting of a hoe
+dialect_dalle_score: 0.22670819265971623
+dialect_dalle_score: 0.22846229874341642
+dialect_stable_score: 0.23757850177509665
+dialect_stable_score: 0.26380310604413587
+
+
+sae prompt is: a painting of a hoe
+dialect_dalle_score: 0.2842411684685499
+sae_dalle_score: 0.29688795076422353
+sae_stable_score: 0.25628974169843854
+sae_stable_score: 0.27904031873545454
+
+
+dialectal prompt is: an old changkol
+sae prompt is: an old hoe
+dialect_dalle_score: 0.185062048158532
+dialect_dalle_score: 0.1856072298539762
+dialect_stable_score: 0.19611767519575152
+dialect_stable_score: 0.19586202150177667
+
+
+sae prompt is: an old hoe
+dialect_dalle_score: 0.26649921127574716
+sae_dalle_score: 0.26345955962909984
+sae_stable_score: 0.2453979267125027
+sae_stable_score: 0.24143529536838435
+
+
+dialectal prompt is: a new changkol
+sae prompt is: a new hoe
+dialect_dalle_score: 0.1771351494267007
+dialect_dalle_score: 0.1764779049633835
+dialect_stable_score: 0.16296279382488155
+dialect_stable_score: 0.18618483846927097
+
+
+sae prompt is: a new hoe
+dialect_dalle_score: 0.24680770131700067
+sae_dalle_score: 0.24313443858102365
+sae_stable_score: 0.23754171258954393
+sae_stable_score: 0.22824156989329797
+
+
+dialectal prompt is: a changkol leaning on a wall
+sae prompt is: a hoe leaning on a wall
+dialect_dalle_score: 0.22082654008486557
+dialect_dalle_score: 0.23563926066248075
+dialect_stable_score: 0.2378556949286537
+dialect_stable_score: 0.23790783432031684
+
+
+sae prompt is: a hoe leaning on a wall
+dialect_dalle_score: 0.2670013178918315
+sae_dalle_score: 0.27642908967522617
+sae_stable_score: 0.2576041088349258
+sae_stable_score: 0.2657259744116477
+
+
+dialectal prompt is: a large chilli crab on a banquet table
+sae prompt is: a large spicy stir-fried crab on a banquet table
+dialect_dalle_score: 0.288474209768389
+dialect_dalle_score: 0.29141504212939334
+dialect_stable_score: 0.29205908595605673
+dialect_stable_score: 0.3048499416943403
+
+
+sae prompt is: a large spicy stir-fried crab on a banquet table
+dialect_dalle_score: 0.309812939184481
+sae_dalle_score: 0.2847876684758363
+sae_stable_score: 0.31668598530784775
+sae_stable_score: 0.3126507388833884
+
+
+dialectal prompt is: a family enjoying chilli crab
+sae prompt is: a family enjoying spicy stir-fried crab
+dialect_dalle_score: 0.367219841887997
+dialect_dalle_score: 0.35784270468199036
+dialect_stable_score: 0.341869553466758
+dialect_stable_score: 0.36439566550640234
+
+
+sae prompt is: a family enjoying spicy stir-fried crab
+dialect_dalle_score: 0.3574325711473627
+sae_dalle_score: 0.32766905791671674
+sae_stable_score: 0.35710762697680587
+sae_stable_score: 0.3285173282142558
+
+
+dialectal prompt is: two plates of chilli crab on a white table
+sae prompt is: two plates of spicy stir-fried crab on a white table
+dialect_dalle_score: 0.3153139655376044
+dialect_dalle_score: 0.3057888173318228
+dialect_stable_score: 0.28800098171324273
+dialect_stable_score: 0.295845475422174
+
+
+sae prompt is: two plates of spicy stir-fried crab on a white table
+dialect_dalle_score: 0.3289162756794681
+sae_dalle_score: 0.31450865734510897
+sae_stable_score: 0.3015607552373817
+sae_stable_score: 0.30320725872673876
+
+
+dialectal prompt is: a large chilli crab and a bowl of rice on a table
+sae prompt is: a large spicy stir-fried crab and a bowl of rice on a table
+dialect_dalle_score: 0.3199050431501509
+dialect_dalle_score: 0.2955912332559932
+dialect_stable_score: 0.3227423139124181
+dialect_stable_score: 0.3294505998650694
+
+
+sae prompt is: a large spicy stir-fried crab and a bowl of rice on a table
+dialect_dalle_score: 0.29934163045408996
+sae_dalle_score: 0.2909506294628142
+sae_stable_score: 0.3100978328596365
+sae_stable_score: 0.328446493303374
+
+
+dialectal prompt is: a waiter holding a chilli crab dish
+sae prompt is: a waiter holding a spicy stir-fried crab dish
+dialect_dalle_score: 0.3072788705993259
+dialect_dalle_score: 0.3121496784917979
+dialect_stable_score: 0.3241230900864403
+dialect_stable_score: 0.3423305726687548
+
+
+sae prompt is: a waiter holding a spicy stir-fried crab dish
+dialect_dalle_score: 0.2886323430945387
+sae_dalle_score: 0.29400484625336865
+sae_stable_score: 0.32430543275363555
+sae_stable_score: 0.3353932095861294
+
+
+dialectal prompt is: a chef making chilli crab
+sae prompt is: a chef making spicy stir-fried crab
+dialect_dalle_score: 0.30954230757086154
+dialect_dalle_score: 0.30657467564961993
+dialect_stable_score: 0.3099715694854557
+dialect_stable_score: 0.3313404212571056
+
+
+sae prompt is: a chef making spicy stir-fried crab
+dialect_dalle_score: 0.30729332006635485
+sae_dalle_score: 0.2888214638035428
+sae_stable_score: 0.3119778652476517
+sae_stable_score: 0.32405871291508465
+
+
+dialectal prompt is: a child with his mamak
+sae prompt is: a child with his uncle
+dialect_dalle_score: 0.24990122299370995
+dialect_dalle_score: 0.24360257439494465
+dialect_stable_score: 0.25401147873832924
+dialect_stable_score: 0.25403727666999487
+
+
+sae prompt is: a child with his uncle
+dialect_dalle_score: 0.27771685117969436
+sae_dalle_score: 0.26882818146089466
+sae_stable_score: 0.2791502884997068
+sae_stable_score: 0.2909412543180328
+
+
+dialectal prompt is: a mamak wearing a dark blue shirt
+sae prompt is: an uncle wearing a dark blue shirt
+dialect_dalle_score: 0.2912250985135713
+dialect_dalle_score: 0.2883618523139255
+dialect_stable_score: 0.25262517001634677
+dialect_stable_score: 0.2690161487728997
+
+
+sae prompt is: an uncle wearing a dark blue shirt
+dialect_dalle_score: 0.29860468095041554
+sae_dalle_score: 0.28121606029528406
+sae_stable_score: 0.2827300216769273
+sae_stable_score: 0.2836569055190894
+
+
+dialectal prompt is: a group of mamaks talking
+sae prompt is: a group of uncles talking
+dialect_dalle_score: 0.2435449498586306
+dialect_dalle_score: 0.23302775267822287
+dialect_stable_score: 0.25019281141210936
+dialect_stable_score: 0.2815533653422595
+
+
+sae prompt is: a group of uncles talking
+dialect_dalle_score: 0.2714461210775312
+sae_dalle_score: 0.2694429888449423
+sae_stable_score: 0.2839027978005876
+sae_stable_score: 0.2787277902089539
+
+
+dialectal prompt is: a mamak buying fruit from the supermarket
+sae prompt is: an uncle buying fruit from the supermarket
+dialect_dalle_score: 0.2993993621727657
+dialect_dalle_score: 0.30350075058252535
+dialect_stable_score: 0.3048961632254327
+dialect_stable_score: 0.29692057567069535
+
+
+sae prompt is: an uncle buying fruit from the supermarket
+dialect_dalle_score: 0.29890921531508785
+sae_dalle_score: 0.29484942790891605
+sae_stable_score: 0.2867578643482316
+sae_stable_score: 0.29619729998053734
+
+
+dialectal prompt is: a mamak drinking coffee at the dining table
+sae prompt is: an uncle drinking coffee at the dining table
+dialect_dalle_score: 0.24572573567136663
+dialect_dalle_score: 0.25565243084267747
+dialect_stable_score: 0.28846080884656833
+dialect_stable_score: 0.2751036270975658
+
+
+sae prompt is: an uncle drinking coffee at the dining table
+dialect_dalle_score: 0.30842956901423246
+sae_dalle_score: 0.2923678758999589
+sae_stable_score: 0.3005777556247365
+sae_stable_score: 0.3136605010725271
+
+
+dialectal prompt is: a mamak reading a newspaper while on the couch
+sae prompt is: an uncle reading a newspaper while on the couch
+dialect_dalle_score: 0.3305566892563261
+dialect_dalle_score: 0.333089572848061
+dialect_stable_score: 0.29873069283800463
+dialect_stable_score: 0.30735341166975366
+
+
+sae prompt is: an uncle reading a newspaper while on the couch
+dialect_dalle_score: 0.33462852207048915
+sae_dalle_score: 0.3448529082218212
+sae_stable_score: 0.32954486521194226
+sae_stable_score: 0.3333123786278257
+
+
+dialectal prompt is: a plate of popiah
+sae prompt is: a plate of Fujianese fresh spring roll
+dialect_dalle_score: 0.29544602012700133
+dialect_dalle_score: 0.27931770679889173
+dialect_stable_score: 0.2945967978779123
+dialect_stable_score: 0.30344152475181385
+
+
+sae prompt is: a plate of Fujianese fresh spring roll
+dialect_dalle_score: 0.3241695688009656
+sae_dalle_score: 0.32482844735871164
+sae_stable_score: 0.30423571908604147
+sae_stable_score: 0.31160859479751535
+
+
+dialectal prompt is: a painting of popiah
+sae prompt is: a painting of Fujianese fresh spring roll
+dialect_dalle_score: 0.34010911571658864
+dialect_dalle_score: 0.3511781207785357
+dialect_stable_score: 0.26393613603173655
+dialect_stable_score: 0.353606306194881
+
+
+sae prompt is: a painting of Fujianese fresh spring roll
+dialect_dalle_score: 0.3634963179953299
+sae_dalle_score: 0.36104133291051493
+sae_stable_score: 0.366164490055782
+sae_stable_score: 0.36042709462161354
+
+
+dialectal prompt is: a person eating a popiah
+sae prompt is: a person eating a Fujianese fresh spring roll
+dialect_dalle_score: 0.25096745501426154
+dialect_dalle_score: 0.25319108597392115
+dialect_stable_score: 0.2643586319097662
+dialect_stable_score: 0.2768041153591508
+
+
+sae prompt is: a person eating a Fujianese fresh spring roll
+dialect_dalle_score: 0.2868324249032408
+sae_dalle_score: 0.2689158126016306
+sae_stable_score: 0.28740427685008574
+sae_stable_score: 0.28412904185630905
+
+
+dialectal prompt is: popiah on a table
+sae prompt is: Fujianese fresh spring roll on a table
+dialect_dalle_score: 0.2882961100757011
+dialect_dalle_score: 0.29191777181069467
+dialect_stable_score: 0.28552104471860795
+dialect_stable_score: 0.3050705903033153
+
+
+sae prompt is: Fujianese fresh spring roll on a table
+dialect_dalle_score: 0.32043758905361724
+sae_dalle_score: 0.32067609030043565
+sae_stable_score: 0.31199171837241846
+sae_stable_score: 0.31190771381852905
+
+
+dialectal prompt is: popiah in a bowl
+sae prompt is: Fujianese fresh spring roll in a bowl
+dialect_dalle_score: 0.29025895061620277
+dialect_dalle_score: 0.29259031312319717
+dialect_stable_score: 0.27860740641823145
+dialect_stable_score: 0.2906897883530097
+
+
+sae prompt is: Fujianese fresh spring roll in a bowl
+dialect_dalle_score: 0.3182041845586101
+sae_dalle_score: 0.31145570074492274
+sae_stable_score: 0.3080012804935419
+sae_stable_score: 0.3006608992153759
+
+
+dialectal prompt is: two popiahs
+sae prompt is: two Fujianese fresh spring rolls
+dialect_dalle_score: 0.27323022882775316
+dialect_dalle_score: 0.2723349627189
+dialect_stable_score: 0.16490662173252166
+dialect_stable_score: 0.1787040516291603
+
+
+sae prompt is: two Fujianese fresh spring rolls
+dialect_dalle_score: 0.31628005500605016
+sae_dalle_score: 0.31716220641122617
+sae_stable_score: 0.3245401456747813
+sae_stable_score: 0.3024685089194967
+
+
+dialectal prompt is: a plate of roti prata
+sae prompt is: a plate of Indian flatbread
+dialect_dalle_score: 0.3059746481692916
+dialect_dalle_score: 0.3043664091698828
+dialect_stable_score: 0.3016847350506215
+dialect_stable_score: 0.31074049797415976
+
+
+sae prompt is: a plate of Indian flatbread
+dialect_dalle_score: 0.3211881195488086
+sae_dalle_score: 0.3150765046919738
+sae_stable_score: 0.30750069729079166
+sae_stable_score: 0.31606351276058353
+
+
+dialectal prompt is: a painting of roti prata
+sae prompt is: a painting of Indian flat bread
+dialect_dalle_score: 0.3098481811149881
+dialect_dalle_score: 0.3095158728121789
+dialect_stable_score: 0.34916197528943876
+dialect_stable_score: 0.31687451946217127
+
+
+sae prompt is: a painting of Indian flat bread
+dialect_dalle_score: 0.3178505129315231
+sae_dalle_score: 0.3068836160238439
+sae_stable_score: 0.34236011219051143
+sae_stable_score: 0.3585829618085549
+
+
+dialectal prompt is: a table with roti prata
+sae prompt is: a table with Indian flatbread
+dialect_dalle_score: 0.2927008320104043
+dialect_dalle_score: 0.2846307850915993
+dialect_stable_score: 0.3150449494823398
+dialect_stable_score: 0.32418797913895303
+
+
+sae prompt is: a table with Indian flatbread
+dialect_dalle_score: 0.3135863439396966
+sae_dalle_score: 0.3173562260377841
+sae_stable_score: 0.31857816283756685
+sae_stable_score: 0.31831631050322895
+
+
+dialectal prompt is: a person eating roti prata
+sae prompt is: a person eating Indian flatbread
+dialect_dalle_score: 0.2787676092946374
+dialect_dalle_score: 0.2757834802841772
+dialect_stable_score: 0.3115049358754438
+dialect_stable_score: 0.31481658781993177
+
+
+sae prompt is: a person eating Indian flatbread
+dialect_dalle_score: 0.3221162281629757
+sae_dalle_score: 0.3020793060677924
+sae_stable_score: 0.29532084399107705
+sae_stable_score: 0.2940450544273451
+
+
+dialectal prompt is: roti prata on a counter
+sae prompt is: Indian flatbread on a counter
+dialect_dalle_score: 0.2781548629506035
+dialect_dalle_score: 0.28862757718468185
+dialect_stable_score: 0.3107786870986764
+dialect_stable_score: 0.3047023514014458
+
+
+sae prompt is: Indian flatbread on a counter
+dialect_dalle_score: 0.29005927225246325
+sae_dalle_score: 0.3036697414942326
+sae_stable_score: 0.2979054317669811
+sae_stable_score: 0.3206349845851046
+
+
+dialectal prompt is: roti prata and tea on a table
+sae prompt is: Indian flatbread and tea on a table
+dialect_dalle_score: 0.2959325800794256
+dialect_dalle_score: 0.29501502484934616
+dialect_stable_score: 0.3275063748878988
+dialect_stable_score: 0.33141452124415033
+
+
+sae prompt is: Indian flatbread and tea on a table
+dialect_dalle_score: 0.30781450002559696
+sae_dalle_score: 0.3101720953378767
+sae_stable_score: 0.3345745086020477
+sae_stable_score: 0.3319802224533761
+
+
+dialectal prompt is: a person eating bak kwa
+sae prompt is: a person eating Chinese pork jerky
+dialect_dalle_score: 0.3035796610482513
+dialect_dalle_score: 0.3005657398215329
+dialect_stable_score: 0.2617547599598165
+dialect_stable_score: 0.28424826877286996
+
+
+sae prompt is: a person eating Chinese pork jerky
+dialect_dalle_score: 0.3297302200887865
+sae_dalle_score: 0.31969080806788697
+sae_stable_score: 0.2893167630032497
+sae_stable_score: 0.30212219197222373
+
+
+dialectal prompt is: bak kwa in a bag
+sae prompt is: Chinese pork jerky in a bag
+dialect_dalle_score: 0.26350460998439096
+dialect_dalle_score: 0.24840519385103102
+dialect_stable_score: 0.2816923988175153
+dialect_stable_score: 0.2925601703509565
+
+
+sae prompt is: Chinese pork jerky in a bag
+dialect_dalle_score: 0.31788247558613103
+sae_dalle_score: 0.309720421479473
+sae_stable_score: 0.3486949763570492
+sae_stable_score: 0.344264403602624
+
+
+dialectal prompt is: a painting of bak kwa
+sae prompt is: a painting of Chinese pork jerky
+dialect_dalle_score: 0.27988900857177934
+dialect_dalle_score: 0.28244230104849266
+dialect_stable_score: 0.2782395801454558
+dialect_stable_score: 0.3314535042642991
+
+
+sae prompt is: a painting of Chinese pork jerky
+dialect_dalle_score: 0.33671377945884123
+sae_dalle_score: 0.34739200715836815
+sae_stable_score: 0.3362975242591637
+sae_stable_score: 0.39601819992788917
+
+
+dialectal prompt is: a shop with bak kwa
+sae prompt is: a shop with Chinese pork jerky
+dialect_dalle_score: 0.26980226170154725
+dialect_dalle_score: 0.278414168427063
+dialect_stable_score: 0.2995733091173908
+dialect_stable_score: 0.30879171387933385
+
+
+sae prompt is: a shop with Chinese pork jerky
+dialect_dalle_score: 0.2788673044328596
+sae_dalle_score: 0.2864617504578438
+sae_stable_score: 0.3281403707698273
+sae_stable_score: 0.3394484799337599
+
+
+dialectal prompt is: one piece of bak kwa
+sae prompt is: one piece of Chinese pork jerky
+dialect_dalle_score: 0.2653896909923523
+dialect_dalle_score: 0.2698293903162804
+dialect_stable_score: 0.2542426289368791
+dialect_stable_score: 0.26294332764445816
+
+
+sae prompt is: one piece of Chinese pork jerky
+dialect_dalle_score: 0.32500983616730816
+sae_dalle_score: 0.3321074063924625
+sae_stable_score: 0.30650413848414854
+sae_stable_score: 0.3042740548169341
+
+
+dialectal prompt is: a person holding bak kwa
+sae prompt is: a person holding Chinese pork jerky
+dialect_dalle_score: 0.2981181895059099
+dialect_dalle_score: 0.29644597612881834
+dialect_stable_score: 0.27770657273904487
+dialect_stable_score: 0.2833124157755167
+
+
+sae prompt is: a person holding Chinese pork jerky
+dialect_dalle_score: 0.3230696365018699
+sae_dalle_score: 0.3133249441786139
+sae_stable_score: 0.31065237833125026
+sae_stable_score: 0.31801777169903817
+
+
+-------------------final results-------------------
+dialect_total_score_dalle_mini: 0.2596528677878994
+dialect_total_score_dalle: 0.2588136459245682
+dialect_total_score_stable1.4: 0.260314565178738
+dialect_total_score_stable2.1: 0.267940479531385
+sae_total_score_dalle_mini: 0.2889581367104004
+sae_total_score_dalle: 0.2877840581121739
+sae_total_score_stable1.4: 0.2901561631885618
+sae_total_score_stable2.1: 0.2971356944995207

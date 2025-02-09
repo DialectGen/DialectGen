@@ -1,0 +1,109 @@
+<div class = "interface">
+  <!-- You must include this JavaScript file -->
+  <script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+  
+  <!-- For the full list of available Crowd HTML Elements and their input/output documentation,
+        please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+  
+  <!-- You must include crowd-form so that your task submits answers to MTurk -->
+  <crowd-form answer-format="flatten-objects">
+  
+    <crowd-instructions link-text="View instructions" link-type="button">
+      <short-summary>
+        <p>Before starting the task, please review “Detailed Instructions” and “Examples” to understand task requirements. All hits in this batch will have the same exact instructions and questions, so you only need to understand it once. </p>
+        <h3>Please note: “It is normal for answers in this task to be very much skewed towards one choice, no need to try balancing your answers”</h3>
+      </short-summary>
+  
+      <detailed-instructions>
+        <p>The Dialectal Prompts and Standard American English Prompts below are constructed via examples from the Oxford English Dictionary and online crowdsourcing. Your role as an annotator is to further certify the prompts by answering the two questions below based on your knowledge, intuition, and any external resources you may find helpful. </p>
+
+        <p>Click “I don’t know” for examples where you feel unsure about your answer.</p>
+      </detailed-instructions>
+  
+      <positive-example>
+        <h3>AAE Prompt: A man driving his whip. </h3>
+        <h3>SAE Prompt: A man driving his car.</h3>
+        <p>In this case, the African American English (AAE) prompt is not ambiguous because although the word “whip” has a different meaning in Standard American English. The sentence structure (driving a whip) makes that interpretation unreasonable. Therefore, you should choose “Yes” for both Q1 and Q2 in this case.</p>
+        
+      </positive-example>
+  
+      <negative-example>
+        <h3>BE Prompt: A woman playing football. </h3>
+        <h3>SAE Prompt: A woman playing soccer.</h3>
+        <p>In this case, the British English (BE) prompt is ambiguous because it has a reasonable alternative interpretation in the Standard American English (SAE) context (the woman could be playing American football or gridiron instead of soccer). Therefore, you should choose “Yes” for Q1 and “No” for Q2 in this case.</p>
+      </negative-example>
+    </crowd-instructions>
+
+    <div>
+      <div id="prompt-cont">
+          <div id="dialect-prompt-cont">
+              <h3 id="dialect-header">Chicano English (ChE) Prompt</h3>
+              <p id="dialect-prompt">${Dialect_Prompt}</p>
+          </div>
+          <div id="sae-prompt-cont">
+              <h3 id="sae-header">Standard American English (SAE) Prompt</h3>
+              <p id="sae-prompt">${SAE_Prompt}</p>
+          </div>
+      </div>
+      
+      <p>Q1: Does the above Chicano English (ChE) Prompt make sense and correspond in meaning with the Standard American English (SAE) Prompt?</p>
+      <crowd-radio-group>
+          <crowd-radio-button name="q1-yes">Yes</crowd-radio-button>
+          <crowd-radio-button name="q1-no">No</crowd-radio-button>
+          <crowd-radio-button name="q2-idk">I don't know</crowd-radio-button>
+      </crowd-radio-group>
+    </div>
+    
+    <div>
+      <p>Q2: Is the above Chicano English (ChE) Prompt ambiguous? i.e. Does it have a reasonable alternative interpretation in the Standard American English (SAE) context?</p>
+      <crowd-radio-group>
+          <crowd-radio-button name="q2-yes">Yes</crowd-radio-button>
+          <crowd-radio-button name="q2-no">No</crowd-radio-button>
+          <crowd-radio-button name="q2-idk">I don't know</crowd-radio-button>
+      </crowd-radio-group>
+    </div>
+    
+  
+  </crowd-form>
+  
+  <style>
+  
+      p {
+          padding-left: 10px;
+      }
+      #Q1YES {
+          padding-left: 50px;
+          padding-right: 50px;
+      }
+      #Q2YES {
+          padding-left: 50px;
+          padding-right: 50px;
+      }
+      #prompt-cont {
+          display: flex;
+          justify-content: center;
+          background-color: white;
+          margin-left: 50px;
+          margin-right: 50px;
+      }
+      #dialect-prompt-cont {
+          display: flex;
+          flex-direction: column;
+          margin-right: 50px;
+      }
+      #sae-prompt-cont {
+          display: flex;
+          flex-direction: column;
+      }
+      #dialect-prompt {
+          background-color: rgb(228, 246, 254);
+          padding: 10px 10px;
+          border-radius: 5px;
+      }
+      #sae-prompt {
+          background-color: rgb(228, 233, 254);
+          padding: 10px 10px;
+          border-radius: 5px;
+      }
+  </style>
+</div>

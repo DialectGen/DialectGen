@@ -1,0 +1,2378 @@
+dialectal prompt is: a bottle of simkin on a wooden table
+sae prompt is: a bottle of champagne
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.23377400598378095
+
+
+
+
+
+
+dialectal prompt is: simkin on a shelf in a grocery store
+sae prompt is: champagne on a shelf in a grocery store
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2260115995828291
+
+
+
+
+
+
+dialectal prompt is: simkin and two glasses on a table outside
+sae prompt is: champagne and two glasses on a table outside
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2791969793519997
+
+
+
+
+
+
+dialectal prompt is: simkin in a glass on a table
+sae prompt is: champagne in a glass on a table
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.25702750974482913
+
+
+
+
+
+
+dialectal prompt is: a person holding a bottle of simkin
+sae prompt is: a person holding a bottle of champagne
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2639108091083106
+
+
+
+
+
+
+dialectal prompt is: a person pouring simkin into a glass
+sae prompt is: pouring champagne into a glass
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2499715909791919
+
+
+
+
+
+
+dialectal prompt is: brinjal in a grocery store
+sae prompt is: eggplant in a grocery store
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.33963604591753044
+
+
+
+
+
+
+dialectal prompt is: brinjal sitting on a kitchen counter
+sae prompt is: eggplant sitting on a kitchen counter
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.33874222549665045
+
+
+
+
+
+
+dialectal prompt is: brinjal being sliced
+sae prompt is: eggplant being sliced
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3192742167518309
+
+
+
+
+
+
+dialectal prompt is: brinjal in a pot
+sae prompt is: eggplant in a pot
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.33070637758876853
+
+
+
+
+
+
+dialectal prompt is: a brinjal plant in a garden
+sae prompt is: an eggplant plant in a garden
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3491203795597727
+
+
+
+
+
+
+dialectal prompt is: a dish with brinjal
+sae prompt is: a dish with eggplant
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.32332838167183386
+
+
+
+
+
+
+dialectal prompt is: a kirana beside a large roadway
+sae prompt is: a convenience store beside a large roadway
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.25223097591264565
+
+
+
+
+
+
+dialectal prompt is: a kirana in a big city
+sae prompt is: a convenience store in a big city
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.1909416491565753
+
+
+
+
+
+
+dialectal prompt is: a couple inside a kirana
+sae prompt is: a couple inside a convenience store
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.21303253108295556
+
+
+
+
+
+
+dialectal prompt is: a person buying an apple from the kirana
+sae prompt is: a person buying an apple from the convenience store
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.28479514931495065
+
+
+
+
+
+
+dialectal prompt is: a kirana with people inside
+sae prompt is: a convenience store with people inside
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.19548830775330453
+
+
+
+
+
+
+dialectal prompt is: a neighborhood kirana
+sae prompt is: a neighborhood convenience store
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2248597126951977
+
+
+
+
+
+
+dialectal prompt is: a medical hall in a big city
+sae prompt is: a pharmacy in a big city
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.233512551207019
+
+
+
+
+
+
+dialectal prompt is: a medical hall with a large parking lot
+sae prompt is: a pharmacy with a large parking lot
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2505350921940672
+
+
+
+
+
+
+dialectal prompt is: a person walking inside a medical hall
+sae prompt is: a person walking inside a pharmacy
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.27596287060138525
+
+
+
+
+
+
+dialectal prompt is: a person talking to a worker inside a medical hall
+sae prompt is: a person talking to a worker inside a pharmacy
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.28203458714244944
+
+
+
+
+
+
+dialectal prompt is: a medical hall with lots of people outside
+sae prompt is: a pharmacy with lots of people outside
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.22614800054560794
+
+
+
+
+
+
+dialectal prompt is: a small medical hall in a rural area
+sae prompt is: a small pharmacy in a rural area
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2567330584646263
+
+
+
+
+
+
+dialectal prompt is: a mandapa beside some trees
+sae prompt is: a temple beside some trees
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2962421951925326
+
+
+
+
+
+
+dialectal prompt is: people standing outside a mandapa
+sae prompt is: people standing outside a temple
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.30876897653022906
+
+
+
+
+
+
+dialectal prompt is: a well-dressed person in front of a mandapa
+sae prompt is: a well-dressed person in front of a temple
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.31609402234105716
+
+
+
+
+
+
+dialectal prompt is: a family in front of a mandapa
+sae prompt is: a family in front of a temple
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3063099857411536
+
+
+
+
+
+
+dialectal prompt is: a mandapa beside a sandy landscape
+sae prompt is: a temple beside a sandy landscape
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.301014729081718
+
+
+
+
+
+
+dialectal prompt is: an old mandapa with lots of people
+sae prompt is: an old temple with lots of people
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.28188069904599977
+
+
+
+
+
+
+dialectal prompt is: a ghat with lots of pine trees
+sae prompt is: a mountain pass with lots of pine trees
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.22743286810377106
+
+
+
+
+
+
+dialectal prompt is: a ghat covered in snow
+sae prompt is: a mountain pass covered in snow
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.24281192297759782
+
+
+
+
+
+
+dialectal prompt is: a ghat with a road with lots of cars
+sae prompt is: a mountain pass with a road with lots of cars
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2679358244496653
+
+
+
+
+
+
+dialectal prompt is: two people walking through the ghat
+sae prompt is: two people walking through the mountain pass
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2385442331776741
+
+
+
+
+
+
+dialectal prompt is: a roadway in the ghat
+sae prompt is: a roadway in the mountain pass
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2780275147096445
+
+
+
+
+
+
+dialectal prompt is: a trail in the wooded ghat
+sae prompt is: a trail in the wooded mountain pass
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2844191339226041
+
+
+
+
+
+
+dialectal prompt is: a medico sitting at a table outside
+sae prompt is: a medical practitioner sitting at a table outside
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3252523456271402
+
+
+
+
+
+
+dialectal prompt is: two medicos in a conference room
+sae prompt is: two medical practitioners in a conference room
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.286465643231131
+
+
+
+
+
+
+dialectal prompt is: a medico walking in a park
+sae prompt is: a medical practitioner walking in a park
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3463910999411659
+
+
+
+
+
+
+dialectal prompt is: the medico talking with a patient in a room
+sae prompt is: the medical practitioner talking with a patient in a room
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.31925501619209823
+
+
+
+
+
+
+dialectal prompt is: a medico standing outside a building
+sae prompt is: a medical practitioner standing outside a building
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3393958012407109
+
+
+
+
+
+
+dialectal prompt is: a medico talking with a nurse
+sae prompt is: a medical practitioner talking with a nurse
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.31120745450930487
+
+
+
+
+
+
+dialectal prompt is: a nai cutting a man's hair
+sae prompt is: a barber cutting a man's hair
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.33249556123461477
+
+
+
+
+
+
+dialectal prompt is: a nai cutting a woman's hair
+sae prompt is: a barber cutting a woman's hair
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.29672214398933033
+
+
+
+
+
+
+dialectal prompt is: a nai shop in a busy city
+sae prompt is: a barber shop in a busy city
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.24436648329310906
+
+
+
+
+
+
+dialectal prompt is: a friendly local nai
+sae prompt is: a friendly local barber
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.23087060486489397
+
+
+
+
+
+
+dialectal prompt is: a child getting his hair cut by a nai
+sae prompt is: a child getting his hair cut by a barber
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3354996421258929
+
+
+
+
+
+
+dialectal prompt is: three people in a nai shop
+sae prompt is: three people in a barber shop
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.21916675257636492
+
+
+
+
+
+
+dialectal prompt is: officers working inside a thana
+sae prompt is: officers working inside a police station
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.28032746946986387
+
+
+
+
+
+
+dialectal prompt is: a person standing outside a thana
+sae prompt is: a person standing outside a police station
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2549193141831116
+
+
+
+
+
+
+dialectal prompt is: a person talking to an officer inside a thana
+sae prompt is: a person talking to an office inside a police station
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.28586028428825705
+
+
+
+
+
+
+dialectal prompt is: two officers speaking to an arrested person in a thana
+sae prompt is: two officers speaking to an arrested person in a police station
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.28711263377156904
+
+
+
+
+
+
+dialectal prompt is: a thana on a road with lots of trees
+sae prompt is: a police station on a road with lots of trees
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.24544923828834303
+
+
+
+
+
+
+dialectal prompt is: a thana in a busy city
+sae prompt is: a police station in a busy city
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.22542200138087315
+
+
+
+
+
+
+dialectal prompt is: a dai in a hospital
+sae prompt is: a midwife in a hospital
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.28234278780830746
+
+
+
+
+
+
+dialectal prompt is: a dai walking into a house
+sae prompt is: a midwife walking into a house
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2802246129924017
+
+
+
+
+
+
+dialectal prompt is: a woman in a bed with a dai next to it
+sae prompt is: a woman in a bed with a midwife next to it
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2771643402957347
+
+
+
+
+
+
+dialectal prompt is: a dai talking with a doctor
+sae prompt is: a midwife talking with a doctor
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2844779811094335
+
+
+
+
+
+
+dialectal prompt is: a dai holding a bottle of medicine
+sae prompt is: a midwife holding a bottle of medicine
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.26828473032774347
+
+
+
+
+
+
+dialectal prompt is: a dai talking with a nurse
+sae prompt is: a midwife talking with a nurse
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3134792404258789
+
+
+
+
+
+
+dialectal prompt is: two windows covered with chick
+sae prompt is: two windows covered with bamboo blinds
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.28058063714380854
+
+
+
+
+
+
+dialectal prompt is: a living room with windows covered with chick
+sae prompt is: a living room with windows covered with bamboo blinds
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.27856728920838475
+
+
+
+
+
+
+dialectal prompt is: a kitchen with a window covered with chick
+sae prompt is: a kitchen with a window covered with bamboo blinds
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2990470653239832
+
+
+
+
+
+
+dialectal prompt is: a window covered with chick
+sae prompt is: a window covered with bamboo blinds
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.24682000720578032
+
+
+
+
+
+
+dialectal prompt is: a doorway with chick covering it
+sae prompt is: a doorway with bamboo blinds covering it
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.24370655028510926
+
+
+
+
+
+
+dialectal prompt is: a window with rolled up chick
+sae prompt is: a window with rolled up bamboo blinds
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.23946521250193437
+
+
+
+
+
+
+dialectal prompt is: a boy standing with his abba
+sae prompt is: a boy standing with his father
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.22315629940473597
+
+
+
+
+
+
+dialectal prompt is: a girl standing with her abba
+sae prompt is: a girl standing with her father
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.21923883331150407
+
+
+
+
+
+
+dialectal prompt is: a man hiking with his abba
+sae prompt is: a man hiking with his father
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2751166617696361
+
+
+
+
+
+
+dialectal prompt is: a woman in a car with her abba
+sae prompt is: a woman in a car with her father
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2786512379405979
+
+
+
+
+
+
+dialectal prompt is: a woman walking with her abba and a dog
+sae prompt is: a woman walking with her father and a dog
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.29382742140741697
+
+
+
+
+
+
+dialectal prompt is: a man sitting at a table with his abba
+sae prompt is: a man sitting at a table with his father
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2584677607073976
+
+
+
+
+
+
+dialectal prompt is: a big house with a pial
+sae prompt is: a big house with a veranda
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.27372171127162653
+
+
+
+
+
+
+dialectal prompt is: outdoor furniture under a pial
+sae prompt is: outdoor furniture under a veranda
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.30430485010998204
+
+
+
+
+
+
+dialectal prompt is: a small one story house with a pial
+sae prompt is: a small one story house with a veranda
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.304742882143706
+
+
+
+
+
+
+dialectal prompt is: people relaxing under a pial
+sae prompt is: people relaxing under a veranda
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2690829983302982
+
+
+
+
+
+
+dialectal prompt is: a modern looking pial on a house
+sae prompt is: a modern looking veranda on a house
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2514111892223302
+
+
+
+
+
+
+dialectal prompt is: a glass pial on a house
+sae prompt is: a glass veranda on a house
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2777809975300136
+
+
+
+
+
+
+dialectal prompt is: a dry nullah surrounded by a dry landscape
+sae prompt is: a dry river-bed surrounded by a dry landscape
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.26835151505255433
+
+
+
+
+
+
+dialectal prompt is: two people walking through a nullah
+sae prompt is: two people walking through a river-bed
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2903045518370562
+
+
+
+
+
+
+dialectal prompt is: a nullah in a forest
+sae prompt is: a river-bed in a forest
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.29236071436677963
+
+
+
+
+
+
+dialectal prompt is: a nullah in an alpine meadow
+sae prompt is: a river-bed in an alpine meadow
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3414550181285356
+
+
+
+
+
+
+dialectal prompt is: a bridge across a nullah
+sae prompt is: a bridge across a river-bed
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.29164211626888503
+
+
+
+
+
+
+dialectal prompt is: a nullah with some water in it
+sae prompt is: a river-bed with some water in it
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2740127662929878
+
+
+
+
+
+
+dialectal prompt is: a rani sitting on a throne
+sae prompt is: a queen sitting on a throne
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.26758906182616626
+
+
+
+
+
+
+dialectal prompt is: a rani making a speech
+sae prompt is: a queen making a speech
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2456722641862824
+
+
+
+
+
+
+dialectal prompt is: a rani inside a palace
+sae prompt is: a queen in a palace
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.27598849891790883
+
+
+
+
+
+
+dialectal prompt is: a rani sitting at a banquet
+sae prompt is: a queen sitting at a banquet
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2904852890220759
+
+
+
+
+
+
+dialectal prompt is: a rani in a garden
+sae prompt is: a queen in a garden
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.26783908708691134
+
+
+
+
+
+
+dialectal prompt is: a rani riding in a large car
+sae prompt is: a queen riding in a large car
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.286827829939278
+
+
+
+
+
+
+dialectal prompt is: an old math in the village square
+sae prompt is: an old monastery in the village square
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2325037785775534
+
+
+
+
+
+
+dialectal prompt is: a math on a grassy hill with trees
+sae prompt is: a monastery on a grassy hill with trees
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2567838566728598
+
+
+
+
+
+
+dialectal prompt is: an older person entering a math
+sae prompt is: an older person entering a monastery
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.224513309961946
+
+
+
+
+
+
+dialectal prompt is: a math in an old city center
+sae prompt is: a monastery in an old city center
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.228902574815101
+
+
+
+
+
+
+dialectal prompt is: a math with a crowd of people outside
+sae prompt is: a monastery with a crowd of people outside
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2205871213284995
+
+
+
+
+
+
+dialectal prompt is: a math in a dark forest
+sae prompt is: a monastery in a dark forest
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.25893080361437726
+
+
+
+
+
+
+dialectal prompt is: a table with lots of khana
+sae prompt is: a table with lots of food
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2805323450149305
+
+
+
+
+
+
+dialectal prompt is: a person eating khana
+sae prompt is: a person eating food
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.26041067813066715
+
+
+
+
+
+
+dialectal prompt is: a couple enjoying khana at a restaurant
+sae prompt is: a couple enjoying food at a restaurant
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3007149276436602
+
+
+
+
+
+
+dialectal prompt is: a person cooking khana on the stove
+sae prompt is: a person cooking food on the stove
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.29017744293821257
+
+
+
+
+
+
+dialectal prompt is: a person buying khana from a grocery store
+sae prompt is: a person buying food from a grocery store
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.29628911425530613
+
+
+
+
+
+
+dialectal prompt is: a family enjoying lots of khana
+sae prompt is: a family enjoying lots of food
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2967975845050155
+
+
+
+
+
+
+dialectal prompt is: a main street in a small nagar
+sae prompt is: a main street in a small town
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.26489196083566435
+
+
+
+
+
+
+dialectal prompt is: a residential neighborhood in a small nagar
+sae prompt is: a residential neighborhood in a small town
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2725266716339749
+
+
+
+
+
+
+dialectal prompt is: birds-eye view of a nagar
+sae prompt is: birds-eye view of a town
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.28404582569925646
+
+
+
+
+
+
+dialectal prompt is: a couple walking in a nagar
+sae prompt is: a couple walking in a town
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.28215415938009464
+
+
+
+
+
+
+dialectal prompt is: a nagar in a desert climate
+sae prompt is: a town in a desert climate
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.32094639131163877
+
+
+
+
+
+
+dialectal prompt is: a nagar with snow everywhere
+sae prompt is: a town with snow everywhere
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.28131991823663616
+
+
+
+
+
+
+dialectal prompt is: a person riding an oont in the desert
+sae prompt is: a person riding a camel in the desert
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3183400460669582
+
+
+
+
+
+
+dialectal prompt is: a large group of oonts walking in a desert
+sae prompt is: a large group of camels walking in a desert
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3419568115694958
+
+
+
+
+
+
+dialectal prompt is: a person giving water to an oont
+sae prompt is: a person giving water to a camel
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.24557372401566857
+
+
+
+
+
+
+dialectal prompt is: an oont eating food
+sae prompt is: a camel eating food
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2208434422399454
+
+
+
+
+
+
+dialectal prompt is: two oonts walking down the street
+sae prompt is: two camels walking down the street
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2369031746661982
+
+
+
+
+
+
+dialectal prompt is: an oont walking in a grassy field
+sae prompt is: a camel walking in a grassy field
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.23895462280740373
+
+
+
+
+
+
+dialectal prompt is: agarbatti burning in a house
+sae prompt is: incense burning in a house
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.27713337461027937
+
+
+
+
+
+
+dialectal prompt is: a bundle of agarbatti on a table
+sae prompt is: a bundle of incense on a table
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3113350853163708
+
+
+
+
+
+
+dialectal prompt is: a person holding a bundle of agarbatti
+sae prompt is: a person holding a bunding of incense
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3016779512982698
+
+
+
+
+
+
+dialectal prompt is: agarbatti in a stand
+sae prompt is: incense in a stand
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.25838295583121934
+
+
+
+
+
+
+dialectal prompt is: agarbatti inside a box on a table
+sae prompt is: incense inside a box on a table
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.30012129418821953
+
+
+
+
+
+
+dialectal prompt is: agarbatti inside a store
+sae prompt is: incense inside a store
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2988353366160064
+
+
+
+
+
+
+dialectal prompt is: a kulang flying above a beautiful pond
+sae prompt is: a crane bird flying above a beautiful pond
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.31805550897586127
+
+
+
+
+
+
+dialectal prompt is: a kulang sitting on a dock
+sae prompt is: a crane bird sitting on a dock
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.23614901957291354
+
+
+
+
+
+
+dialectal prompt is: a kulang with a caught fish
+sae prompt is: a crane bird with a caught fish
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2334022855151895
+
+
+
+
+
+
+dialectal prompt is: two kulangs on a river
+sae prompt is: two crane birds on a river
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2497810063821278
+
+
+
+
+
+
+dialectal prompt is: a person looking at a kulang
+sae prompt is: a person looking at a crane bird
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.20953696495085497
+
+
+
+
+
+
+dialectal prompt is: a kulang sitting on the side of a bridge
+sae prompt is: a crane bird sitting on the side of a bridge
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2147109167451141
+
+
+
+
+
+
+dialectal prompt is: a large godown with lots of boxes
+sae prompt is: a large warehouse with lots of boxes
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3229518310805034
+
+
+
+
+
+
+dialectal prompt is: a large godown with lots of produce
+sae prompt is: a large warehouse with lots of produce
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3133496016913747
+
+
+
+
+
+
+dialectal prompt is: a godown with lots of people inside
+sae prompt is: a warehouse with lots of people inside
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.27968654861595815
+
+
+
+
+
+
+dialectal prompt is: a person walking inside a godown
+sae prompt is: a person walking inside a warehouse
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.33012546736038506
+
+
+
+
+
+
+dialectal prompt is: a person driving a forklift inside a godown
+sae prompt is: a person driving a forklift inside a warehouse
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.33302813308043777
+
+
+
+
+
+
+dialectal prompt is: a dark abandoned godown
+sae prompt is: a dark abandoned warehouse
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.28804803861979766
+
+
+
+
+
+
+dialectal prompt is: a shabby old looking petrol bunk
+sae prompt is: a shabby old looking gas station
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.25759444693454114
+
+
+
+
+
+
+dialectal prompt is: a petrol bunk in a desert
+sae prompt is: a gas station in a desert
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3218380414501632
+
+
+
+
+
+
+dialectal prompt is: a person getting gas for their car at a petrol bunk
+sae prompt is: a person getting gas for their car at a gas station
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.26738175012198995
+
+
+
+
+
+
+dialectal prompt is: a very busy petrol bunk
+sae prompt is: a very busy gas station
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2580857375234493
+
+
+
+
+
+
+dialectal prompt is: a petrol bunk in a big city
+sae prompt is: a gas station in a big city
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2628728048171223
+
+
+
+
+
+
+dialectal prompt is: a small shop next to a petrol bunk
+sae prompt is: a small shop next to a gas station
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.31710109910391876
+
+
+
+
+
+
+dialectal prompt is: a man riding a blue mo-bike
+sae prompt is: a man riding a blue motorcycle
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.28096280039346894
+
+
+
+
+
+
+dialectal prompt is: a woman riding a black mo-bike
+sae prompt is: a woman riding a black motorcycle
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.25585433690975673
+
+
+
+
+
+
+dialectal prompt is: three mo-bikes riding on a road
+sae prompt is: three motorcycles riding on a road
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2822714876284791
+
+
+
+
+
+
+dialectal prompt is: a person riding a mo-bike on a dirt road
+sae prompt is: a person riding a motorcycle on a dirt road
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2874857151502923
+
+
+
+
+
+
+dialectal prompt is: a person riding a mo-bike in a big city
+sae prompt is: a person riding a motorcycle in a big city
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2737725743670254
+
+
+
+
+
+
+dialectal prompt is: a mo-bike sitting in a garage
+sae prompt is: a motorcycle sitting in a garage
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.24298112359185875
+
+
+
+
+
+
+dialectal prompt is: two bundooks leaning on a wall
+sae prompt is: two rifles leaning on a wall
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2522956469822579
+
+
+
+
+
+
+dialectal prompt is: a person holding a bundook
+sae prompt is: a person holding a rifle
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2178250007021429
+
+
+
+
+
+
+dialectal prompt is: a woman aiming a bundook at a target
+sae prompt is: a woman aiming a rifle
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.29979683300266075
+
+
+
+
+
+
+dialectal prompt is: several soldiers holding bundooks
+sae prompt is: several soldiers holding rifles
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.29434028888327446
+
+
+
+
+
+
+dialectal prompt is: a store selling bundooks
+sae prompt is: a store selling rifles
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.23758080078644575
+
+
+
+
+
+
+dialectal prompt is: a police officer holding a bundook
+sae prompt is: a police officer holding a rifle
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2876440118550007
+
+
+
+
+
+
+dialectal prompt is: an handicraftsman weaving a rug
+sae prompt is: a craftsman weaving a rug
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.34129456270709757
+
+
+
+
+
+
+dialectal prompt is: my local handicraftsman's newest creation
+sae prompt is: my local craftsman's newest creation
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.26395692082227595
+
+
+
+
+
+
+dialectal prompt is: a skilled handicraftsman at work
+sae prompt is: a skilled craftsman at work
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2705053100103512
+
+
+
+
+
+
+dialectal prompt is: an elderly handicraftsman sharing his wisdom
+sae prompt is: an elderly craftsman sharing his wisdom
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3374230970209521
+
+
+
+
+
+
+dialectal prompt is: a talented handicraftsman from the village
+sae prompt is: a talented craftsman from the village
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3075692294160806
+
+
+
+
+
+
+dialectal prompt is: an innovative handicraftsman designing jewelry
+sae prompt is: an innovative craftsman designing jewelry
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2850867016272866
+
+
+
+
+
+
+dialectal prompt is: my incharge talking to me
+sae prompt is: my supervisor talking to me
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2226607600521711
+
+
+
+
+
+
+dialectal prompt is: a new incharge at the construction site
+sae prompt is: a new supervisor at the construction site
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2711163242499859
+
+
+
+
+
+
+dialectal prompt is: an incharge giving instructions to the team
+sae prompt is: a supervisor giving instructions to the team
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.28744383045890026
+
+
+
+
+
+
+dialectal prompt is: a friendly incharge helping out
+sae prompt is: a friendly supervisor helping out
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2266024949017005
+
+
+
+
+
+
+dialectal prompt is: an incharge in the office breakroom
+sae prompt is: a supervisor in the office breakroom
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2584302981225014
+
+
+
+
+
+
+dialectal prompt is: an incharge working at a computer
+sae prompt is: a supervisor working at a computer
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2878305364382919
+
+
+
+
+
+
+dialectal prompt is: a glass of cold pani on a hot day
+sae prompt is: a glass of cold water on a hot day
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.25045843604646234
+
+
+
+
+
+
+dialectal prompt is: an earthen pot filled with pani
+sae prompt is: an earthen pot filled with water
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.32524559252287566
+
+
+
+
+
+
+dialectal prompt is: a pitcher filled with pani
+sae prompt is: a pitcher filled with water
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2854183382021821
+
+
+
+
+
+
+dialectal prompt is: a vendor selling pani bottles
+sae prompt is: a vendor selling water bottles
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.32668807648600723
+
+
+
+
+
+
+dialectal prompt is: a jar filled with pani on a wooden table
+sae prompt is: a jar filled with water on a wooden table
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2534950275579519
+
+
+
+
+
+
+dialectal prompt is: containers of pani at a grocery store
+sae prompt is: containers of water at a grocery store
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2560053645663352
+
+
+
+
+
+
+dialectal prompt is: a colorful yatra in the city
+sae prompt is: a colorful festival in the city
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3197669024822056
+
+
+
+
+
+
+dialectal prompt is: a yatra filled with dance and music
+sae prompt is: a festival filled with dance and music
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.30263179461842493
+
+
+
+
+
+
+dialectal prompt is: an autumn yatra in the town center
+sae prompt is: an autumn festival in the town city
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.30408085968243875
+
+
+
+
+
+
+dialectal prompt is: food stalls at a yatra
+sae prompt is: food stalls at a festival
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.30707845392516037
+
+
+
+
+
+
+dialectal prompt is: a yatra with lots of people
+sae prompt is: a festival with lots of people
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.25278769648505245
+
+
+
+
+
+
+dialectal prompt is: a yatra in winter
+sae prompt is: a festival in winter
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.27660598626427446
+
+
+
+
+
+
+dialectal prompt is: a naka guarded by armed forces
+sae prompt is: a checkpoint guarded by armed forces
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.28314247304756057
+
+
+
+
+
+
+dialectal prompt is: a naka on the highway
+sae prompt is: a checkpoint on the highway
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2620802161067604
+
+
+
+
+
+
+dialectal prompt is: a long queue at the toll naka
+sae prompt is: a long queue at the toll checkpoint
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.31743235270336323
+
+
+
+
+
+
+dialectal prompt is: a naka at the national border
+sae prompt is: a checkpoint at the national border
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.29274040184681277
+
+
+
+
+
+
+dialectal prompt is: a naka with police officers
+sae prompt is: a checkpoint with police officers
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2911868123559425
+
+
+
+
+
+
+dialectal prompt is: a naka with very few cars
+sae prompt is: a checkpoint with very few cars
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2713650740278476
+
+
+
+
+
+
+dialectal prompt is: an outdoor tiffin with lots of people
+sae prompt is: an outdoor luncheon with lots of people
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.28595975473465113
+
+
+
+
+
+
+dialectal prompt is: two people having a tiffin
+sae prompt is: two people having a luncheon
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.27827030526205276
+
+
+
+
+
+
+dialectal prompt is: a company having a tiffin
+sae prompt is: a company having a luncheon
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2751772782123952
+
+
+
+
+
+
+dialectal prompt is: a fancy indoor tiffin
+sae prompt is: a fancy indoor luncheon
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2567103312566146
+
+
+
+
+
+
+dialectal prompt is: a plant-based tiffin
+sae prompt is: a plant-based luncheon
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2686758840458307
+
+
+
+
+
+
+dialectal prompt is: a tiffin with lots of salad
+sae prompt is: a luncheon with lots of salad
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.27302490759140235
+
+
+
+
+
+
+dialectal prompt is: a satta den hidden away in an alley
+sae prompt is: a gambling den hidden away in an alley
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.3086977753671203
+
+
+
+
+
+
+dialectal prompt is: a group of people satta in a room
+sae prompt is: a group of people gambling in a room
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.20251986308384334
+
+
+
+
+
+
+dialectal prompt is: a place of satta in a big city
+sae prompt is: a place of gambling in a big city
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.24091211081041702
+
+
+
+
+
+
+dialectal prompt is: an illegal satta den
+sae prompt is: an illegal gambling den
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.238719294615863
+
+
+
+
+
+
+dialectal prompt is: a place of satta with lots of people
+sae prompt is: a place of gambling with lots of people
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.2538069159435577
+
+
+
+
+
+
+dialectal prompt is: a group of people satta at a table
+sae prompt is: a group of people gambling at a table
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.25675004886210373
+
+
+
+
+
+
+dialectal prompt is: a wooden almirah filled with clothes
+sae prompt is: a wooden wardrobe filled with clothes
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.31821931258555736
+
+
+
+
+
+
+dialectal prompt is: my grandmother's antique almirah
+sae prompt is: my grandmother's antique wardrobe
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.29114592063370603
+
+
+
+
+
+
+dialectal prompt is: a painted almirah with intricate designs
+sae prompt is: a painted wardrobe with intricate designs
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.32795308456744926
+
+
+
+
+
+
+dialectal prompt is: an almirah storing precious heirlooms
+sae prompt is: a wardrobe storing precious heirlooms
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.32758643239592167
+
+
+
+
+
+
+dialectal prompt is: my personal almirah for all my books
+sae prompt is: my personal wardrobe for all my books
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.29279713254122863
+
+
+
+
+
+
+dialectal prompt is: a large almirah in the bedroom corner
+sae prompt is: a large wardrobe in the bedroom corner
+
+
+USE_ENTIGEN != True
+dialect_stable_score_ref_sae: 0.31950056822185324
+
+
+
+
+
+
+-------------------final results-------------------
+dialect_total_score_stable2.1: 0.27683323821240047

@@ -1,0 +1,27 @@
+<QuestionForm xmlns='http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionForm.xsd'>
+    <Question>
+      <QuestionIdentifier>aave_qual_test_0</QuestionIdentifier>
+      <DisplayName>Q0</DisplayName>
+      <IsRequired>true</IsRequired>
+      <QuestionContent>
+        <Text> Please verify whether you are a speaker / have a good understanding of African American English. You may also use the English Dialect Survey below to test which dialect you might speak: https://calebziems.com/resources/value/dialect-quiz.html </Text>
+      </QuestionContent>
+      <AnswerSpecification>
+        <SelectionAnswer>
+          <MinSelectionCount>1</MinSelectionCount>
+          <MaxSelectionCount>1</MaxSelectionCount>
+          <StyleSuggestion>radiobutton</StyleSuggestion>
+          <Selections>
+            <Selection>
+              <SelectionIdentifier>1</SelectionIdentifier>
+              <Text> I am a speaker / have a good understanding of African American English </Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>2</SelectionIdentifier>
+              <Text> I am not a speaker / do not have a good understanding of African American English </Text>
+            </Selection>
+          </Selections>
+        </SelectionAnswer>
+      </AnswerSpecification>
+  </Question>
+</QuestionForm>

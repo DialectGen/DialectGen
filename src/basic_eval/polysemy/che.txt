@@ -1,0 +1,189 @@
+dialectal prompt is: a large black torque
+sae prompt is: a large black truck
+dialect_dalle_score: 0.21864405761337605
+dialect_dalle_score: 0.22153347845190663
+dialect_stable_score: 0.19958994152092419
+dialect_stable_score: 0.19488043487550108
+
+
+sae prompt is: a large black truck
+dialect_dalle_score: 0.27928458176464094
+sae_dalle_score: 0.27473030259461
+sae_stable_score: 0.28068862296079555
+sae_stable_score: 0.28185742981494855
+
+
+dialectal prompt is: a green torque
+sae prompt is: a green truck
+dialect_dalle_score: 0.25870897994173025
+dialect_dalle_score: 0.24885457691348778
+dialect_stable_score: 0.24340579278502375
+dialect_stable_score: 0.25944772129563304
+
+
+sae prompt is: a green truck
+dialect_dalle_score: 0.3098595392096281
+sae_dalle_score: 0.3049957100067983
+sae_stable_score: 0.3212968891094827
+sae_stable_score: 0.3247848286253213
+
+
+dialectal prompt is: a torque with a dog
+sae prompt is: a truck with a dog
+dialect_dalle_score: 0.2124296943410844
+dialect_dalle_score: 0.20404578779461646
+dialect_stable_score: 0.2442320225268776
+dialect_stable_score: 0.2537605261876572
+
+
+sae prompt is: a truck with a dog
+dialect_dalle_score: 0.2867711203286959
+sae_dalle_score: 0.28035482734095635
+sae_stable_score: 0.29891095793752087
+sae_stable_score: 0.3080880269766926
+
+
+dialectal prompt is: a painting of a torque
+sae prompt is: a painting of a truck
+dialect_dalle_score: 0.2605714519938014
+dialect_dalle_score: 0.2679110789448014
+dialect_stable_score: 0.2762572940549537
+dialect_stable_score: 0.2748461949087622
+
+
+sae prompt is: a painting of a truck
+dialect_dalle_score: 0.32686147235726287
+sae_dalle_score: 0.32008971837897343
+sae_stable_score: 0.3254940645654617
+sae_stable_score: 0.346669193543441
+
+
+dialectal prompt is: a new torque
+sae prompt is: a new truck
+dialect_dalle_score: 0.21580679782607012
+dialect_dalle_score: 0.2104687685534066
+dialect_stable_score: 0.19927660773470485
+dialect_stable_score: 0.2141427883045914
+
+
+sae prompt is: a new truck
+dialect_dalle_score: 0.27728456100898086
+sae_dalle_score: 0.26793866181690956
+sae_stable_score: 0.27405357005050424
+sae_stable_score: 0.2748849524828416
+
+
+dialectal prompt is: an old torque
+sae prompt is: an old truck
+dialect_dalle_score: 0.24343529655096402
+dialect_dalle_score: 0.23357772975078347
+dialect_stable_score: 0.21921366442275483
+dialect_stable_score: 0.29429529149059985
+
+
+sae prompt is: an old truck
+dialect_dalle_score: 0.3064138217883203
+sae_dalle_score: 0.30623861895692905
+sae_stable_score: 0.2974173642158212
+sae_stable_score: 0.323018395043749
+
+
+dialectal prompt is: a painting of a carnal
+sae prompt is: a painting of a brother
+dialect_dalle_score: 0.24492964243256965
+dialect_dalle_score: 0.24743289169608376
+dialect_stable_score: 0.2924804245510229
+dialect_stable_score: 0.24293163386924288
+
+
+sae prompt is: a painting of a brother
+dialect_dalle_score: 0.2728381581400461
+sae_dalle_score: 0.2717248590340004
+sae_stable_score: 0.30399339127684016
+sae_stable_score: 0.30563495392073736
+
+
+dialectal prompt is: a man hiking with his carnal
+sae prompt is: a man hiking with his brother
+dialect_dalle_score: 0.2719307220379452
+dialect_dalle_score: 0.2610489239708991
+dialect_stable_score: 0.27400978308982055
+dialect_stable_score: 0.2754320296233518
+
+
+sae prompt is: a man hiking with his brother
+dialect_dalle_score: 0.30535806486873635
+sae_dalle_score: 0.31653206664528405
+sae_stable_score: 0.2712348002993053
+sae_stable_score: 0.2997235875081017
+
+
+dialectal prompt is: a carnal in a house
+sae prompt is: a brother in a house
+dialect_dalle_score: 0.24489808232050242
+dialect_dalle_score: 0.24048454839979538
+dialect_stable_score: 0.24430136631926258
+dialect_stable_score: 0.23924843708859958
+
+
+sae prompt is: a brother in a house
+dialect_dalle_score: 0.2298290473648127
+sae_dalle_score: 0.2431832803784378
+sae_stable_score: 0.24393814552414364
+sae_stable_score: 0.25772054908871467
+
+
+dialectal prompt is: me with my carnal
+sae prompt is: me with my brother
+dialect_dalle_score: 0.20510958810643506
+dialect_dalle_score: 0.2193980795722584
+dialect_stable_score: 0.26894771002057394
+dialect_stable_score: 0.17408980908263727
+
+
+sae prompt is: me with my brother
+dialect_dalle_score: 0.2711097677916779
+sae_dalle_score: 0.2707257215283133
+sae_stable_score: 0.27361249446057834
+sae_stable_score: 0.27162441242645124
+
+
+dialectal prompt is: a carnal at a table
+sae prompt is: a brother at a table
+dialect_dalle_score: 0.2163821572739947
+dialect_dalle_score: 0.21600141230559378
+dialect_stable_score: 0.28543207522927627
+dialect_stable_score: 0.26340414752967856
+
+
+sae prompt is: a brother at a table
+dialect_dalle_score: 0.27745120045028315
+sae_dalle_score: 0.2687671696691349
+sae_stable_score: 0.28133826812257
+sae_stable_score: 0.29778498642737516
+
+
+dialectal prompt is: a carnal at a park
+sae prompt is: a brother at a park
+dialect_dalle_score: 0.2217351411366603
+dialect_dalle_score: 0.2194943967245267
+dialect_stable_score: 0.27511278559469365
+dialect_stable_score: 0.2509479843189544
+
+
+sae prompt is: a brother at a park
+dialect_dalle_score: 0.2313468215335136
+sae_dalle_score: 0.2315694023554754
+sae_stable_score: 0.27138586397724573
+sae_stable_score: 0.27744983695599057
+
+
+-------------------final results-------------------
+dialect_total_score_dalle_mini: 0.2345484676312611
+dialect_total_score_dalle: 0.2325209727565133
+dialect_total_score_stable1.4: 0.25185495565415744
+dialect_total_score_stable2.1: 0.24478558321460075
+sae_total_score_dalle_mini: 0.2812006797172166
+sae_total_score_dalle: 0.2797375282254852
+sae_total_score_stable1.4: 0.2869470360416891
+sae_total_score_stable2.1: 0.29743676273453046

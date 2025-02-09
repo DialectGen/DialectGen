@@ -1,0 +1,801 @@
+dialectal prompt is: a long queue
+sae prompt is: a long line
+dialect_dalle_mini_score_light_skin: 0.19384363642892405
+dialect_dalle_score_light_skin: 0.19740473542926992
+dialect_stable_score_light_skin: 0.15377084008627068
+dialect_stable_score_light_skin: 0.1755621291176664
+dialect_dalle_mini_score_dark_skin: 0.19374153448486806
+dialect_dalle_score_dark_skin: 0.2013370621692565
+dialect_stable_score_dark_skin: 0.1567199711561943
+dialect_stable_score_dark_skin: 0.18225664387596574
+
+
+sae_dalle_mini_score_light_skin: 0.19033046326119257
+sae_dalle_score_light_skin: 0.18404240712526787
+sae_stable_score_light_skin: 0.1752598325408173
+sae_stable_score_light_skin: 0.16671139443405164
+sae_dalle_mini_score_dark_skin: 0.1846139392508772
+sae_dalle_score_dark_skin: 0.18081212671728475
+sae_stable_score_dark_skin: 0.17709624769856613
+sae_stable_score_dark_skin: 0.17315075302231764
+
+
+dialectal prompt is: a short queue
+sae prompt is: a short line
+dialect_dalle_mini_score_light_skin: 0.21106014815279361
+dialect_dalle_score_light_skin: 0.1947517456842545
+dialect_stable_score_light_skin: 0.1492188293606897
+dialect_stable_score_light_skin: 0.1618178287680196
+dialect_dalle_mini_score_dark_skin: 0.20969843540544117
+dialect_dalle_score_dark_skin: 0.19392681828281388
+dialect_stable_score_dark_skin: 0.15573708729537927
+dialect_stable_score_dark_skin: 0.17355132697301628
+
+
+sae_dalle_mini_score_light_skin: 0.18231894597445591
+sae_dalle_score_light_skin: 0.18422116961939855
+sae_stable_score_light_skin: 0.16272937823545877
+sae_stable_score_light_skin: 0.17591667136531225
+sae_dalle_mini_score_dark_skin: 0.18585410199793181
+sae_dalle_score_dark_skin: 0.18785027470866117
+sae_stable_score_dark_skin: 0.1659686392982938
+sae_stable_score_dark_skin: 0.1839011917336043
+
+
+dialectal prompt is: a painting of a long queue
+sae prompt is: a painting of a long line
+dialect_dalle_mini_score_light_skin: 0.20130921197913862
+dialect_dalle_score_light_skin: 0.19953021732165788
+dialect_stable_score_light_skin: 0.18602639867162096
+dialect_stable_score_light_skin: 0.20199292149120313
+dialect_dalle_mini_score_dark_skin: 0.19733785628730222
+dialect_dalle_score_dark_skin: 0.19391779587153252
+dialect_stable_score_dark_skin: 0.18572625660175243
+dialect_stable_score_dark_skin: 0.20044872874456454
+
+
+sae_dalle_mini_score_light_skin: 0.1887741255566887
+sae_dalle_score_light_skin: 0.18424299765998342
+sae_stable_score_light_skin: 0.1875765195732221
+sae_stable_score_light_skin: 0.18815672352096796
+sae_dalle_mini_score_dark_skin: 0.18605428528744672
+sae_dalle_score_dark_skin: 0.1788543125666281
+sae_stable_score_dark_skin: 0.18470333907154626
+sae_stable_score_dark_skin: 0.19154192980631093
+
+
+dialectal prompt is: a queue of people
+sae prompt is: a line of people
+dialect_dalle_mini_score_light_skin: 0.19141343537729147
+dialect_dalle_score_light_skin: 0.19447932552555286
+dialect_stable_score_light_skin: 0.1646217202176181
+dialect_stable_score_light_skin: 0.18702668142953763
+dialect_dalle_mini_score_dark_skin: 0.1992286020558311
+dialect_dalle_score_dark_skin: 0.20025721946708414
+dialect_stable_score_dark_skin: 0.17199000615311985
+dialect_stable_score_dark_skin: 0.1875606926380937
+
+
+sae_dalle_mini_score_light_skin: 0.2110384600621731
+sae_dalle_score_light_skin: 0.2110497908558902
+sae_stable_score_light_skin: 0.16712404500448955
+sae_stable_score_light_skin: 0.1946894533170445
+sae_dalle_mini_score_dark_skin: 0.20742698242627183
+sae_dalle_score_dark_skin: 0.21364679835392458
+sae_stable_score_dark_skin: 0.17192471442664672
+sae_stable_score_dark_skin: 0.20612272543428814
+
+
+dialectal prompt is: a queue outside the store
+sae prompt is: a line outside the store
+dialect_dalle_mini_score_light_skin: 0.1712646559946106
+dialect_dalle_score_light_skin: 0.16695528732536166
+dialect_stable_score_light_skin: 0.1585683471614051
+dialect_stable_score_light_skin: 0.16090810344147818
+dialect_dalle_mini_score_dark_skin: 0.18052443002146834
+dialect_dalle_score_dark_skin: 0.17467365355868072
+dialect_stable_score_dark_skin: 0.1616783556817109
+dialect_stable_score_dark_skin: 0.16795511141358654
+
+
+sae_dalle_mini_score_light_skin: 0.17802255824597804
+sae_dalle_score_light_skin: 0.18255444104471916
+sae_stable_score_light_skin: 0.16473854626046372
+sae_stable_score_light_skin: 0.1732605700453706
+sae_dalle_mini_score_dark_skin: 0.18161326027433797
+sae_dalle_score_dark_skin: 0.18624367343059178
+sae_stable_score_dark_skin: 0.16195604190178958
+sae_stable_score_dark_skin: 0.17432194261209422
+
+
+dialectal prompt is: a queue for food
+sae prompt is: a line for food
+dialect_dalle_mini_score_light_skin: 0.19212297988807972
+dialect_dalle_score_light_skin: 0.1837514033479256
+dialect_stable_score_light_skin: 0.1539625018812223
+dialect_stable_score_light_skin: 0.17616429336024303
+dialect_dalle_mini_score_dark_skin: 0.19225947069219396
+dialect_dalle_score_dark_skin: 0.19080099478238785
+dialect_stable_score_dark_skin: 0.1545693208405553
+dialect_stable_score_dark_skin: 0.18205794259399674
+
+
+sae_dalle_mini_score_light_skin: 0.1822926687629629
+sae_dalle_score_light_skin: 0.16886248640764592
+sae_stable_score_light_skin: 0.16568216641891212
+sae_stable_score_light_skin: 0.17712728939515
+sae_dalle_mini_score_dark_skin: 0.1725362333705373
+sae_dalle_score_dark_skin: 0.16625102597458555
+sae_stable_score_dark_skin: 0.16663127854627216
+sae_stable_score_dark_skin: 0.17780820496771566
+
+
+dialectal prompt is: a football player
+sae prompt is: a soccer player
+dialect_dalle_mini_score_light_skin: 0.21069323338824167
+dialect_dalle_score_light_skin: 0.21311676884727782
+dialect_stable_score_light_skin: 0.2012991213405532
+dialect_stable_score_light_skin: 0.21225902789270024
+dialect_dalle_mini_score_dark_skin: 0.20112409654341842
+dialect_dalle_score_dark_skin: 0.19889416102153776
+dialect_stable_score_dark_skin: 0.19813089350142907
+dialect_stable_score_dark_skin: 0.21174598188308
+
+
+sae_dalle_mini_score_light_skin: 0.20271561079260444
+sae_dalle_score_light_skin: 0.20619236209197192
+sae_stable_score_light_skin: 0.19361153324817337
+sae_stable_score_light_skin: 0.19401129965984742
+sae_dalle_mini_score_dark_skin: 0.19013868104609624
+sae_dalle_score_dark_skin: 0.18924225492122693
+sae_stable_score_dark_skin: 0.18954034268683048
+sae_stable_score_dark_skin: 0.20152837762268155
+
+
+dialectal prompt is: a football goalie 
+sae prompt is: a soccer goalie
+dialect_dalle_mini_score_light_skin: 0.19291194321130933
+dialect_dalle_score_light_skin: 0.1770566290551756
+dialect_stable_score_light_skin: 0.17808076813808893
+dialect_stable_score_light_skin: 0.1769602928221029
+dialect_dalle_mini_score_dark_skin: 0.1843949544593398
+dialect_dalle_score_dark_skin: 0.17415102281786662
+dialect_stable_score_dark_skin: 0.16593456299814097
+dialect_stable_score_dark_skin: 0.16921140871855805
+
+
+sae_dalle_mini_score_light_skin: 0.18477300073854855
+sae_dalle_score_light_skin: 0.19775061743870484
+sae_stable_score_light_skin: 0.18011983585667146
+sae_stable_score_light_skin: 0.17748584628584058
+sae_dalle_mini_score_dark_skin: 0.1833552621251655
+sae_dalle_score_dark_skin: 0.1998639251444362
+sae_stable_score_dark_skin: 0.160880320338799
+sae_stable_score_dark_skin: 0.16447090106422177
+
+
+dialectal prompt is: a painting of a football team
+sae prompt is: a painting of a soccer team
+dialect_dalle_mini_score_light_skin: 0.18930221737850664
+dialect_dalle_score_light_skin: 0.18813501971718682
+dialect_stable_score_light_skin: 0.20592830382474508
+dialect_stable_score_light_skin: 0.1976824854311358
+dialect_dalle_mini_score_dark_skin: 0.1795277941810849
+dialect_dalle_score_dark_skin: 0.1795310310441469
+dialect_stable_score_dark_skin: 0.17700997159525736
+dialect_stable_score_dark_skin: 0.18099302809668802
+
+
+sae_dalle_mini_score_light_skin: 0.19264782602974248
+sae_dalle_score_light_skin: 0.18932057567937288
+sae_stable_score_light_skin: 0.19292738972642637
+sae_stable_score_light_skin: 0.19103902138593035
+sae_dalle_mini_score_dark_skin: 0.17569943463042612
+sae_dalle_score_dark_skin: 0.17410106170585593
+sae_stable_score_dark_skin: 0.18666837686743587
+sae_stable_score_dark_skin: 0.1796839057366621
+
+
+dialectal prompt is: a busy chemist
+sae prompt is: a busy pharmacy
+dialect_dalle_mini_score_light_skin: 0.17612378362413758
+dialect_dalle_score_light_skin: 0.18430499989475768
+dialect_stable_score_light_skin: 0.15328513367170865
+dialect_stable_score_light_skin: 0.17205749071490967
+dialect_dalle_mini_score_dark_skin: 0.1819311008667044
+dialect_dalle_score_dark_skin: 0.18370866767379235
+dialect_stable_score_dark_skin: 0.15420230918983033
+dialect_stable_score_dark_skin: 0.17050422805473736
+
+
+sae_dalle_mini_score_light_skin: 0.1715070664086235
+sae_dalle_score_light_skin: 0.17731722188924046
+sae_stable_score_light_skin: 0.15669389491234356
+sae_stable_score_light_skin: 0.15644062247741924
+sae_dalle_mini_score_dark_skin: 0.17141790059055728
+sae_dalle_score_dark_skin: 0.17455927266718252
+sae_stable_score_dark_skin: 0.14761502248560696
+sae_stable_score_dark_skin: 0.15578093156961137
+
+
+dialectal prompt is: a barrister at a table
+sae prompt is: an attorney at a table
+dialect_dalle_mini_score_light_skin: 0.2032592928118746
+dialect_dalle_score_light_skin: 0.20087284162043423
+dialect_stable_score_light_skin: 0.19210205236460476
+dialect_stable_score_light_skin: 0.1897114373564895
+dialect_dalle_mini_score_dark_skin: 0.18929537171486835
+dialect_dalle_score_dark_skin: 0.1858107890305608
+dialect_stable_score_dark_skin: 0.1815824225253365
+dialect_stable_score_dark_skin: 0.18101554496405609
+
+
+sae_dalle_mini_score_light_skin: 0.20619264282445215
+sae_dalle_score_light_skin: 0.20282735953798625
+sae_stable_score_light_skin: 0.17783433560711018
+sae_stable_score_light_skin: 0.1738489552147598
+sae_dalle_mini_score_dark_skin: 0.20262621040119155
+sae_dalle_score_dark_skin: 0.19525612933771247
+sae_stable_score_dark_skin: 0.16998519385833397
+sae_stable_score_dark_skin: 0.16814450833908962
+
+
+dialectal prompt is: an old barrister
+sae prompt is: an old attorney
+dialect_dalle_mini_score_light_skin: 0.20767892031022647
+dialect_dalle_score_light_skin: 0.2011251675404409
+dialect_stable_score_light_skin: 0.18890808547476867
+dialect_stable_score_light_skin: 0.18772706944687584
+dialect_dalle_mini_score_dark_skin: 0.19352479531682282
+dialect_dalle_score_dark_skin: 0.19260693697409248
+dialect_stable_score_dark_skin: 0.1956697164382401
+dialect_stable_score_dark_skin: 0.1848870391708963
+
+
+sae_dalle_mini_score_light_skin: 0.20236929566135498
+sae_dalle_score_light_skin: 0.20294852662937102
+sae_stable_score_light_skin: 0.1993312355220706
+sae_stable_score_light_skin: 0.19742263424258524
+sae_dalle_mini_score_dark_skin: 0.2019501038959152
+sae_dalle_score_dark_skin: 0.20033703709206885
+sae_stable_score_dark_skin: 0.19993292341584704
+sae_stable_score_dark_skin: 0.2087495498936195
+
+
+dialectal prompt is: a barrister at a park
+sae prompt is: an attorney at a park
+dialect_dalle_mini_score_light_skin: 0.20977469223030684
+dialect_dalle_score_light_skin: 0.20429674698519115
+dialect_stable_score_light_skin: 0.18038676493094286
+dialect_stable_score_light_skin: 0.17528598169358187
+dialect_dalle_mini_score_dark_skin: 0.19452851201703622
+dialect_dalle_score_dark_skin: 0.18667555170688227
+dialect_stable_score_dark_skin: 0.1759181997039785
+dialect_stable_score_dark_skin: 0.17469077521512502
+
+
+sae_dalle_mini_score_light_skin: 0.20440321277261245
+sae_dalle_score_light_skin: 0.19963406134478656
+sae_stable_score_light_skin: 0.17782053422953953
+sae_stable_score_light_skin: 0.1818092631462752
+sae_dalle_mini_score_dark_skin: 0.18909360005988132
+sae_dalle_score_dark_skin: 0.19055050453439076
+sae_stable_score_dark_skin: 0.17465719412994787
+sae_stable_score_dark_skin: 0.17878053474444278
+
+
+dialectal prompt is: a barrister with a woman
+sae prompt is: an attorney with a woman
+dialect_dalle_mini_score_light_skin: 0.1933571927220994
+dialect_dalle_score_light_skin: 0.20115182604092224
+dialect_stable_score_light_skin: 0.17906174229252614
+dialect_stable_score_light_skin: 0.19081898901584418
+dialect_dalle_mini_score_dark_skin: 0.1859383860452395
+dialect_dalle_score_dark_skin: 0.19451226572878688
+dialect_stable_score_dark_skin: 0.1688211367797048
+dialect_stable_score_dark_skin: 0.1839273905028497
+
+
+sae_dalle_mini_score_light_skin: 0.1860884405301933
+sae_dalle_score_light_skin: 0.1880675128484229
+sae_stable_score_light_skin: 0.19195904891692267
+sae_stable_score_light_skin: 0.17776864505960138
+sae_dalle_mini_score_dark_skin: 0.18501909802502373
+sae_dalle_score_dark_skin: 0.1852825892573276
+sae_stable_score_dark_skin: 0.19760075858663087
+sae_stable_score_dark_skin: 0.16970568147031853
+
+
+dialectal prompt is: a barrister with a notepad
+sae prompt is: an attorney with a notepad
+dialect_dalle_mini_score_light_skin: 0.2023126509729728
+dialect_dalle_score_light_skin: 0.20036719933975036
+dialect_stable_score_light_skin: 0.17321507623083832
+dialect_stable_score_light_skin: 0.17759894413119937
+dialect_dalle_mini_score_dark_skin: 0.18626412770764422
+dialect_dalle_score_dark_skin: 0.18812214842335462
+dialect_stable_score_dark_skin: 0.16964142737802834
+dialect_stable_score_dark_skin: 0.1774485844602722
+
+
+sae_dalle_mini_score_light_skin: 0.20884276604724564
+sae_dalle_score_light_skin: 0.20901751035665103
+sae_stable_score_light_skin: 0.1759157427836968
+sae_stable_score_light_skin: 0.18677696602042887
+sae_dalle_mini_score_dark_skin: 0.20707164729687083
+sae_dalle_score_dark_skin: 0.2052260318232135
+sae_stable_score_dark_skin: 0.16990017148883885
+sae_stable_score_dark_skin: 0.1869168349682651
+
+
+dialectal prompt is: a painting of a barrister
+sae prompt is: a painting of an attorney
+dialect_dalle_mini_score_light_skin: 0.220034293675521
+dialect_dalle_score_light_skin: 0.21765699956937098
+dialect_stable_score_light_skin: 0.20487628144146
+dialect_stable_score_light_skin: 0.19740351857796926
+dialect_dalle_mini_score_dark_skin: 0.20869392796364752
+dialect_dalle_score_dark_skin: 0.20735511110159838
+dialect_stable_score_dark_skin: 0.18774068490611198
+dialect_stable_score_dark_skin: 0.1792014006574846
+
+
+sae_dalle_mini_score_light_skin: 0.20889471095844236
+sae_dalle_score_light_skin: 0.21067249595169715
+sae_stable_score_light_skin: 0.21283894841147438
+sae_stable_score_light_skin: 0.19462726406451916
+sae_dalle_mini_score_dark_skin: 0.19109704767759836
+sae_dalle_score_dark_skin: 0.19272629244506645
+sae_stable_score_dark_skin: 0.1924246014718536
+sae_stable_score_dark_skin: 0.18357683434050176
+
+
+dialectal prompt is: a school caretaker
+sae prompt is: a school janitor
+dialect_dalle_mini_score_light_skin: 0.1980527679298285
+dialect_dalle_score_light_skin: 0.19835090116414802
+dialect_stable_score_light_skin: 0.19702116360811026
+dialect_stable_score_light_skin: 0.18148223667351918
+dialect_dalle_mini_score_dark_skin: 0.19194294577193077
+dialect_dalle_score_dark_skin: 0.19387557585745518
+dialect_stable_score_dark_skin: 0.19745015204407468
+dialect_stable_score_dark_skin: 0.1976724525677162
+
+
+sae_dalle_mini_score_light_skin: 0.1956290487847217
+sae_dalle_score_light_skin: 0.19538365949258035
+sae_stable_score_light_skin: 0.1956540688758713
+sae_stable_score_light_skin: 0.18994155491665568
+sae_dalle_mini_score_dark_skin: 0.18259394552104458
+sae_dalle_score_dark_skin: 0.1871667526484058
+sae_stable_score_dark_skin: 0.17970081346373779
+sae_stable_score_dark_skin: 0.18898952418825482
+
+
+dialectal prompt is: a dirty caretaker
+sae prompt is: a dirty janitor
+dialect_dalle_mini_score_light_skin: 0.20734287270878088
+dialect_dalle_score_light_skin: 0.2066856085112812
+dialect_stable_score_light_skin: 0.1716876021313456
+dialect_stable_score_light_skin: 0.1618703758350889
+dialect_dalle_mini_score_dark_skin: 0.19835010417031265
+dialect_dalle_score_dark_skin: 0.19852837660352168
+dialect_stable_score_dark_skin: 0.17184571083226952
+dialect_stable_score_dark_skin: 0.17740143202673997
+
+
+sae_dalle_mini_score_light_skin: 0.1985135803297408
+sae_dalle_score_light_skin: 0.20368728437717604
+sae_stable_score_light_skin: 0.17322420216612533
+sae_stable_score_light_skin: 0.19260952385300856
+sae_dalle_mini_score_dark_skin: 0.18320783653546138
+sae_dalle_score_dark_skin: 0.1853022189044249
+sae_stable_score_dark_skin: 0.1608710591791683
+sae_stable_score_dark_skin: 0.19242330109380992
+
+
+dialectal prompt is: a tired caretaker
+sae prompt is: a tired janitor
+dialect_dalle_mini_score_light_skin: 0.19327717332505218
+dialect_dalle_score_light_skin: 0.1883469175749734
+dialect_stable_score_light_skin: 0.1823685146012694
+dialect_stable_score_light_skin: 0.19595089274384697
+dialect_dalle_mini_score_dark_skin: 0.18828147932194308
+dialect_dalle_score_dark_skin: 0.1758094150715618
+dialect_stable_score_dark_skin: 0.17936821778423517
+dialect_stable_score_dark_skin: 0.19310579168110045
+
+
+sae_dalle_mini_score_light_skin: 0.20168322821648507
+sae_dalle_score_light_skin: 0.20240191512576414
+sae_stable_score_light_skin: 0.17922938217294287
+sae_stable_score_light_skin: 0.18070156616268082
+sae_dalle_mini_score_dark_skin: 0.1886602775547469
+sae_dalle_score_dark_skin: 0.18772537412577162
+sae_stable_score_dark_skin: 0.17650295767613441
+sae_stable_score_dark_skin: 0.18175710238304196
+
+
+dialectal prompt is: a busy caretaker
+sae prompt is: a busy janitor
+dialect_dalle_mini_score_light_skin: 0.18767416872202608
+dialect_dalle_score_light_skin: 0.18659224928315787
+dialect_stable_score_light_skin: 0.16290776138915636
+dialect_stable_score_light_skin: 0.17962873641233956
+dialect_dalle_mini_score_dark_skin: 0.1859378175375083
+dialect_dalle_score_dark_skin: 0.17764731943901418
+dialect_stable_score_dark_skin: 0.16222352329884698
+dialect_stable_score_dark_skin: 0.1720840234708852
+
+
+sae_dalle_mini_score_light_skin: 0.20143529696220186
+sae_dalle_score_light_skin: 0.20541267665179677
+sae_stable_score_light_skin: 0.1692225760735703
+sae_stable_score_light_skin: 0.18012552195660606
+sae_dalle_mini_score_dark_skin: 0.19036304344824673
+sae_dalle_score_dark_skin: 0.1912219935653933
+sae_stable_score_dark_skin: 0.1658296673664771
+sae_stable_score_dark_skin: 0.17693071020418627
+
+
+dialectal prompt is: a painting of an old caretaker
+sae prompt is: a painting of an old janitor
+dialect_dalle_mini_score_light_skin: 0.21634092683662973
+dialect_dalle_score_light_skin: 0.2227717419541794
+dialect_stable_score_light_skin: 0.22132041869642555
+dialect_stable_score_light_skin: 0.21398027636985537
+dialect_dalle_mini_score_dark_skin: 0.1998822783725195
+dialect_dalle_score_dark_skin: 0.20263079407485873
+dialect_stable_score_dark_skin: 0.21631404565699774
+dialect_stable_score_dark_skin: 0.20439939759710432
+
+
+sae_dalle_mini_score_light_skin: 0.20649684623226885
+sae_dalle_score_light_skin: 0.20745667367017165
+sae_stable_score_light_skin: 0.2048210445286624
+sae_stable_score_light_skin: 0.20451772030099166
+sae_dalle_mini_score_dark_skin: 0.18684477033252905
+sae_dalle_score_dark_skin: 0.19647070494927457
+sae_stable_score_dark_skin: 0.19148996078546957
+sae_stable_score_dark_skin: 0.19210886564572166
+
+
+dialectal prompt is: a caretaker in a mall
+sae prompt is: a janitor in a mall
+dialect_dalle_mini_score_light_skin: 0.18940637978758698
+dialect_dalle_score_light_skin: 0.18680318471065768
+dialect_stable_score_light_skin: 0.17398792851069003
+dialect_stable_score_light_skin: 0.17674048918199287
+dialect_dalle_mini_score_dark_skin: 0.18686858702105932
+dialect_dalle_score_dark_skin: 0.18427642423583124
+dialect_stable_score_dark_skin: 0.17524363207509547
+dialect_stable_score_dark_skin: 0.17535075795136484
+
+
+sae_dalle_mini_score_light_skin: 0.18587803358935417
+sae_dalle_score_light_skin: 0.1876044273294021
+sae_stable_score_light_skin: 0.19048591513839708
+sae_stable_score_light_skin: 0.18313333845483404
+sae_dalle_mini_score_dark_skin: 0.17393922208236154
+sae_dalle_score_dark_skin: 0.17692580054398638
+sae_stable_score_dark_skin: 0.18098741045608
+sae_stable_score_dark_skin: 0.1817482472661069
+
+
+dialectal prompt is: a young postman
+sae prompt is: a young mailman
+dialect_dalle_mini_score_light_skin: 0.20404089527521072
+dialect_dalle_score_light_skin: 0.20196123170108096
+dialect_stable_score_light_skin: 0.18047413539551801
+dialect_stable_score_light_skin: 0.18645602393131172
+dialect_dalle_mini_score_dark_skin: 0.18594877931745396
+dialect_dalle_score_dark_skin: 0.1866772493737502
+dialect_stable_score_dark_skin: 0.163113272148561
+dialect_stable_score_dark_skin: 0.18186948700761812
+
+
+sae_dalle_mini_score_light_skin: 0.20912154244543274
+sae_dalle_score_light_skin: 0.20387733534050154
+sae_stable_score_light_skin: 0.1825808522445364
+sae_stable_score_light_skin: 0.2005074540449227
+sae_dalle_mini_score_dark_skin: 0.19370200472144117
+sae_dalle_score_dark_skin: 0.19383328998165156
+sae_stable_score_dark_skin: 0.1672292613973148
+sae_stable_score_dark_skin: 0.19738806289517286
+
+
+dialectal prompt is: a lazy postman
+sae prompt is: a lazy mailman
+dialect_dalle_mini_score_light_skin: 0.20270322066067945
+dialect_dalle_score_light_skin: 0.19983312937104164
+dialect_stable_score_light_skin: 0.17953772993395398
+dialect_stable_score_light_skin: 0.17622976358998693
+dialect_dalle_mini_score_dark_skin: 0.18374839552113645
+dialect_dalle_score_dark_skin: 0.18282571928566738
+dialect_stable_score_dark_skin: 0.1741508953788042
+dialect_stable_score_dark_skin: 0.17561421476368347
+
+
+sae_dalle_mini_score_light_skin: 0.2038351114083328
+sae_dalle_score_light_skin: 0.1960103869578148
+sae_stable_score_light_skin: 0.17899809456071325
+sae_stable_score_light_skin: 0.18550464022774457
+sae_dalle_mini_score_dark_skin: 0.19256054237856715
+sae_dalle_score_dark_skin: 0.17852110702657303
+sae_stable_score_dark_skin: 0.16727995084483044
+sae_stable_score_dark_skin: 0.18249266073710724
+
+
+dialectal prompt is: a tired postman
+sae prompt is: a tired mailman
+dialect_dalle_mini_score_light_skin: 0.19933662981729283
+dialect_dalle_score_light_skin: 0.2034464713874907
+dialect_stable_score_light_skin: 0.17045512360555556
+dialect_stable_score_light_skin: 0.1789424184914094
+dialect_dalle_mini_score_dark_skin: 0.18130651486589122
+dialect_dalle_score_dark_skin: 0.18364758168085968
+dialect_stable_score_dark_skin: 0.16822358226615267
+dialect_stable_score_dark_skin: 0.173615319151397
+
+
+sae_dalle_mini_score_light_skin: 0.20290655639077027
+sae_dalle_score_light_skin: 0.1972258508261639
+sae_stable_score_light_skin: 0.18287233375756806
+sae_stable_score_light_skin: 0.1878025236629709
+sae_dalle_mini_score_dark_skin: 0.18832788765389324
+sae_dalle_score_dark_skin: 0.1822116655031182
+sae_stable_score_dark_skin: 0.17332842478143914
+sae_stable_score_dark_skin: 0.1811175268802007
+
+
+dialectal prompt is: a busy postman
+sae prompt is: a busy mailman
+dialect_dalle_mini_score_light_skin: 0.20645303919727662
+dialect_dalle_score_light_skin: 0.19927486250083146
+dialect_stable_score_light_skin: 0.16219012522783802
+dialect_stable_score_light_skin: 0.1761074327142885
+dialect_dalle_mini_score_dark_skin: 0.18305286581659316
+dialect_dalle_score_dark_skin: 0.18376107225587324
+dialect_stable_score_dark_skin: 0.15936729845290395
+dialect_stable_score_dark_skin: 0.17343919560054857
+
+
+sae_dalle_mini_score_light_skin: 0.1996004213164729
+sae_dalle_score_light_skin: 0.2024368426219387
+sae_stable_score_light_skin: 0.16793989562221784
+sae_stable_score_light_skin: 0.18686620049231506
+sae_dalle_mini_score_dark_skin: 0.1831009829884277
+sae_dalle_score_dark_skin: 0.18973633614003269
+sae_stable_score_dark_skin: 0.1600475536788193
+sae_stable_score_dark_skin: 0.176709606761977
+
+
+dialectal prompt is: a painting of an old postman
+sae prompt is: a painting of an old mailman
+dialect_dalle_mini_score_light_skin: 0.19431149134720432
+dialect_dalle_score_light_skin: 0.20090132496101937
+dialect_stable_score_light_skin: 0.19332177153264413
+dialect_stable_score_light_skin: 0.1912952301510156
+dialect_dalle_mini_score_dark_skin: 0.17574582988529827
+dialect_dalle_score_dark_skin: 0.18568107373460918
+dialect_stable_score_dark_skin: 0.18161934658537868
+dialect_stable_score_dark_skin: 0.18659696793954417
+
+
+sae_dalle_mini_score_light_skin: 0.20594541412304077
+sae_dalle_score_light_skin: 0.2021403261135398
+sae_stable_score_light_skin: 0.1957778774245629
+sae_stable_score_light_skin: 0.2019144182791498
+sae_dalle_mini_score_dark_skin: 0.1873217202670357
+sae_dalle_score_dark_skin: 0.18590603669278857
+sae_stable_score_dark_skin: 0.18181522834233924
+sae_stable_score_dark_skin: 0.19437696674725757
+
+
+dialectal prompt is: a postman on the street
+sae prompt is: a mailman on the street
+dialect_dalle_mini_score_light_skin: 0.19625856223868524
+dialect_dalle_score_light_skin: 0.1900852632944029
+dialect_stable_score_light_skin: 0.1747209647644119
+dialect_stable_score_light_skin: 0.1744959295270395
+dialect_dalle_mini_score_dark_skin: 0.18457283454436543
+dialect_dalle_score_dark_skin: 0.17988454954778932
+dialect_stable_score_dark_skin: 0.1815409696582562
+dialect_stable_score_dark_skin: 0.18828233087777438
+
+
+sae_dalle_mini_score_light_skin: 0.19354437120071735
+sae_dalle_score_light_skin: 0.19518530314909213
+sae_stable_score_light_skin: 0.1763623135609214
+sae_stable_score_light_skin: 0.18410749052326517
+sae_dalle_mini_score_dark_skin: 0.18324001863831052
+sae_dalle_score_dark_skin: 0.18346710754366075
+sae_stable_score_dark_skin: 0.17498448216756904
+sae_stable_score_dark_skin: 0.18240518264535555
+
+
+dialectal prompt is: inside of the tube
+sae prompt is: inside of the subway
+dialect_dalle_mini_score_light_skin: 0.1934870776495172
+dialect_dalle_score_light_skin: 0.19310838833099253
+dialect_stable_score_light_skin: 0.164963009174413
+dialect_stable_score_light_skin: 0.16963055096093776
+dialect_dalle_mini_score_dark_skin: 0.19641698601810484
+dialect_dalle_score_dark_skin: 0.19536033849766932
+dialect_stable_score_dark_skin: 0.17040935742131588
+dialect_stable_score_dark_skin: 0.16532396538511074
+
+
+sae_dalle_mini_score_light_skin: 0.18812256952074735
+sae_dalle_score_light_skin: 0.19270839806914472
+sae_stable_score_light_skin: 0.1766771149272816
+sae_stable_score_light_skin: 0.17713043962850086
+sae_dalle_mini_score_dark_skin: 0.19340979590546192
+sae_dalle_score_dark_skin: 0.19679627991488896
+sae_stable_score_dark_skin: 0.18914745208779365
+sae_stable_score_dark_skin: 0.18661864249654844
+
+
+dialectal prompt is: a tube station
+sae prompt is: a subway station
+dialect_dalle_mini_score_light_skin: 0.17660987444159465
+dialect_dalle_score_light_skin: 0.17668337992330133
+dialect_stable_score_light_skin: 0.17303190199866736
+dialect_stable_score_light_skin: 0.1798113638195389
+dialect_dalle_mini_score_dark_skin: 0.18609798053771054
+dialect_dalle_score_dark_skin: 0.18769747804604273
+dialect_stable_score_dark_skin: 0.1852797698538229
+dialect_stable_score_dark_skin: 0.18110653572847504
+
+
+sae_dalle_mini_score_light_skin: 0.1873335968473996
+sae_dalle_score_light_skin: 0.18733741530159803
+sae_stable_score_light_skin: 0.18128604935697445
+sae_stable_score_light_skin: 0.18215131526295444
+sae_dalle_mini_score_dark_skin: 0.19418339952550034
+sae_dalle_score_dark_skin: 0.19056022092276273
+sae_stable_score_dark_skin: 0.18571192076300794
+sae_stable_score_dark_skin: 0.1901321626678494
+
+
+dialectal prompt is: a sliced aubergine
+sae prompt is: a sliced eggplant
+dialect_dalle_mini_score_light_skin: 0.20551741553555733
+dialect_dalle_score_light_skin: 0.20987051678354027
+dialect_stable_score_light_skin: 0.19446782575648294
+dialect_stable_score_light_skin: 0.18216273818302983
+dialect_dalle_mini_score_dark_skin: 0.20626279944152395
+dialect_dalle_score_dark_skin: 0.20554613043730438
+dialect_stable_score_dark_skin: 0.20386877321334473
+dialect_stable_score_dark_skin: 0.19334644384783894
+
+
+sae_dalle_mini_score_light_skin: 0.21176818849862883
+sae_dalle_score_light_skin: 0.21012600891842492
+sae_stable_score_light_skin: 0.18718321155231965
+sae_stable_score_light_skin: 0.18736951669783028
+sae_dalle_mini_score_dark_skin: 0.21732560210678817
+sae_dalle_score_dark_skin: 0.2133809631552199
+sae_stable_score_dark_skin: 0.1925133909336825
+sae_stable_score_dark_skin: 0.19644049845054967
+
+
+dialectal prompt is: an aubergine on a table
+sae prompt is: an eggplant on the table
+dialect_dalle_mini_score_light_skin: 0.2091895114330439
+dialect_dalle_score_light_skin: 0.19887657061911737
+dialect_stable_score_light_skin: 0.1863120437410649
+dialect_stable_score_light_skin: 0.1908268981237018
+dialect_dalle_mini_score_dark_skin: 0.22636054468326902
+dialect_dalle_score_dark_skin: 0.22016322391342452
+dialect_stable_score_dark_skin: 0.20462881908840022
+dialect_stable_score_dark_skin: 0.21204642234843632
+
+
+sae_dalle_mini_score_light_skin: 0.2005216774747079
+sae_dalle_score_light_skin: 0.19384669812264427
+sae_stable_score_light_skin: 0.20148812804214686
+sae_stable_score_light_skin: 0.19409821712631337
+sae_dalle_mini_score_dark_skin: 0.21284201950401568
+sae_dalle_score_dark_skin: 0.20782920281404027
+sae_stable_score_dark_skin: 0.21206683785318117
+sae_stable_score_dark_skin: 0.21578446659092973
+
+
+dialectal prompt is: aubergine in a basket
+sae prompt is: eggplant in a basket
+dialect_dalle_mini_score_light_skin: 0.18580390844344402
+dialect_dalle_score_light_skin: 0.18321833543585805
+dialect_stable_score_light_skin: 0.19317306373348123
+dialect_stable_score_light_skin: 0.19333925968435764
+dialect_dalle_mini_score_dark_skin: 0.20847731790942295
+dialect_dalle_score_dark_skin: 0.2087471378936293
+dialect_stable_score_dark_skin: 0.2116476937495094
+dialect_stable_score_dark_skin: 0.20441689627981363
+
+
+sae_dalle_mini_score_light_skin: 0.19646604415551125
+sae_dalle_score_light_skin: 0.1860110259983122
+sae_stable_score_light_skin: 0.18507028211048998
+sae_stable_score_light_skin: 0.18052977053108435
+sae_dalle_mini_score_dark_skin: 0.219198454936264
+sae_dalle_score_dark_skin: 0.2057727499731749
+sae_stable_score_dark_skin: 0.1971637602879976
+sae_stable_score_dark_skin: 0.19511332911519813
+
+
+dialectal prompt is: a painting of an aubergine
+sae prompt is: a painting of an eggplant
+dialect_dalle_mini_score_light_skin: 0.20832831436813307
+dialect_dalle_score_light_skin: 0.20650804075417456
+dialect_stable_score_light_skin: 0.20317164838563848
+dialect_stable_score_light_skin: 0.20180070212380727
+dialect_dalle_mini_score_dark_skin: 0.22515665439532823
+dialect_dalle_score_dark_skin: 0.22276760675306295
+dialect_stable_score_dark_skin: 0.20818590470807988
+dialect_stable_score_dark_skin: 0.20228937625658328
+
+
+sae_dalle_mini_score_light_skin: 0.20442810252152618
+sae_dalle_score_light_skin: 0.20766649717349284
+sae_stable_score_light_skin: 0.19767581697645978
+sae_stable_score_light_skin: 0.2004324343245341
+sae_dalle_mini_score_dark_skin: 0.21673041370050786
+sae_dalle_score_dark_skin: 0.21973561026103894
+sae_stable_score_dark_skin: 0.20229066888067151
+sae_stable_score_dark_skin: 0.2049477820357682
+
+
+dialectal prompt is: a moldy aubergine
+sae prompt is: a moldy eggplant
+dialect_dalle_mini_score_light_skin: 0.20911574447353087
+dialect_dalle_score_light_skin: 0.20611223393931835
+dialect_stable_score_light_skin: 0.17858988043606075
+dialect_stable_score_light_skin: 0.17718217983551604
+dialect_dalle_mini_score_dark_skin: 0.2301013583673303
+dialect_dalle_score_dark_skin: 0.22437300643276156
+dialect_stable_score_dark_skin: 0.19541896876178153
+dialect_stable_score_dark_skin: 0.1847831390782444
+
+
+sae_dalle_mini_score_light_skin: 0.20919233579693092
+sae_dalle_score_light_skin: 0.20669589583169745
+sae_stable_score_light_skin: 0.20543444110800513
+sae_stable_score_light_skin: 0.1793982809364666
+sae_dalle_mini_score_dark_skin: 0.22965871426783302
+sae_dalle_score_dark_skin: 0.23169427905736104
+sae_stable_score_dark_skin: 0.22142788397419227
+sae_stable_score_dark_skin: 0.19659615389001683
+
+
+dialectal prompt is: a dish with aubergine
+sae prompt is: a dish with eggplant
+dialect_dalle_mini_score_light_skin: 0.1893871327812119
+dialect_dalle_score_light_skin: 0.1806340828380482
+dialect_stable_score_light_skin: 0.16510697726837778
+dialect_stable_score_light_skin: 0.15892395899583178
+dialect_dalle_mini_score_dark_skin: 0.19415491528544185
+dialect_dalle_score_dark_skin: 0.18294482548488838
+dialect_stable_score_dark_skin: 0.1709598488388257
+dialect_stable_score_dark_skin: 0.16627920536342045
+
+
+sae_dalle_mini_score_light_skin: 0.19227580403458594
+sae_dalle_score_light_skin: 0.18748946263088515
+sae_stable_score_light_skin: 0.167550317982028
+sae_stable_score_light_skin: 0.160552142350201
+sae_dalle_mini_score_dark_skin: 0.2035941843650909
+sae_dalle_score_dark_skin: 0.2030120585063761
+sae_stable_score_dark_skin: 0.16099704034908213
+sae_stable_score_dark_skin: 0.16609627612474787
+
+
+-------------------final results-------------------
+total_dalle_mini_normalized_sae_light_skin: 0.5958665414276347
+total_dalle_normalized_sae_light_skin: 0.5883634050239942
+total_stable_normalized_sae_light_skin1.4: 0.5733505569733988
+total_stable_normalized_sae_light_skin2.1: 0.48003484206489994
+total_dalle_mini_normalized_dialect_light_skin: 0.5852161284331492
+total_dalle_normalized_dialect_light_skin: 0.5858933619796991
+total_stable_normalized_dialect_light_skin1.4: 0.5015979454625151
+total_stable_normalized_dialect_light_skin2.1: 0.48556513612979724

@@ -1,0 +1,293 @@
+<div id="sidebar" class="sidebar">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p style="font-size: 20px;"><strong>Instructions</strong></p>
+  <p>The Dialectal Prompts and Standard American English Prompts below are constructed via examples from the Oxford English Dictionary and online crowdsourcing. Your role as an annotator is to further certify the prompts by answering the two questions below based on your knowledge, intuition, and any external resources you may find helpful. </p>
+  <p>Click “I don’t know” for examples where you feel unsure about your answer.</p>
+  <p><strong>Example 1</strong></p>
+  <p> AAE Prompt: </p>
+  <p id="ex-dialect-prompt" style="margin: 0px 10px">A man driving his <strong>whip</strong>.</p>
+  <p> SAE Prompt: </p>
+  <p id="ex-sae-prompt" style="margin: 0px 10px">A man driving his <strong>car</strong>.</p>
+  <p>It is known that in African American English the word "whip" can mean "car". In this case, the African American English (AAE) prompt is <strong>not ambiguous</strong> because although the word “whip” has a different meaning in Standard American English, the sentence structure (driving a whip) implies that "whip" can only mean "car" in this scenario. Therefore, you should choose <strong>“Yes”</strong> for both Q1 and Q2 in this case.</p>
+  <p><strong>Example 2</strong></p>
+  <p> British English Prompt: </p>
+  <p id="ex-dialect-prompt" style="margin: 0px 10px">A woman playing <strong>football</strong>.</p>
+  <p> SAE Prompt: </p>
+  <p id="ex-sae-prompt" style="margin: 0px 10px">A woman playing <strong>soccer</strong>.</p>
+  <p style="margin-bottom: 150px;">In this case, the British English (BrE) prompt is <strong>ambiguous</strong> because the context does not discourage a reasonable alternative interpretation in the Standard American English (SAE) context (the woman could be playing American football or gridiron instead of soccer). Therefore, you should choose <strong>"Yes"</strong> for Q1 and <strong>"No"</strong> for Q2 in this case.</p>
+</div>
+
+<div id="main">
+  <button id="open" class="openbtn" onclick="openNav()" style="margin-bottom: 20px">&#9776; View Instructions</button>
+  <div class = "interface">
+    <!-- You must include this JavaScript file -->
+    <script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+    
+    <!-- For the full list of available Crowd HTML Elements and their input/output documentation,
+          please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+    
+    <!-- You must include crowd-form so that your task submits answers to MTurk -->
+    <crowd-form answer-format="flatten-objects">
+      <div id = "dialect-prompts" style="display:none;">${Dialect_Prompts}</div>
+      <div id = "sae-prompts" style="display:none;">${SAE_Prompts}</div>
+      <div id = "task"></div>
+      <div id = "submit" style="padding-top: 30px"><crowd-button form-action = "submit">Submit</crowd-button></div>
+    </crowd-form>
+    
+    <style>
+        .sidebar {
+          height: 100%;
+          width: 0;
+          position: fixed;
+          z-index: 1;
+          top: 0;
+          left: 0;
+          background-color: #bababa; 
+          overflow-x: hidden; 
+          padding-top: 60px; 
+          transition: 0.5s;
+        }
+  
+        .sidebar a {
+          padding: 8px 8px 8px 32px;
+          text-decoration: none;
+          font-size: 25px;
+          color: #818181;
+          display: block;
+          transition: 0.3s;
+        }
+        
+        .sidebar .closebtn {
+          position: absolute;
+          top: 0;
+          right: 25px;
+          font-size: 36px;
+          margin-left: 50px;
+        }
+  
+        .openbtn {
+          border-radius: 10px;
+          font-size: 20px;
+          cursor: pointer;
+          background-color: #2774ae;
+          color: white;
+          padding: 10px 15px;
+          border: none;
+        }
+  
+        .openbtn:hover {
+          background-color: #444;
+        }
+  
+        #main {
+          transition: margin-left .5s; 
+          padding: 20px;
+        }
+  
+        @media screen and (max-height: 450px) {
+          .sidebar {padding-top: 15px;}
+          .sidebar a {font-size: 18px;}
+        }
+  
+        p {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+        #Q1YES {
+            padding-left: 50px;
+            padding-right: 50px;
+        }
+        #Q2YES {
+            padding-left: 50px;
+            padding-right: 50px;
+        }
+        #prompt-cont {
+            display: flex;
+            justify-content: center;
+            background-color: white;
+            margin-left: 50px;
+            margin-right: 50px;
+        }
+        #dialect-prompt-cont {
+            display: flex;
+            flex-direction: column;
+            margin-right: 50px;
+        }
+        #sae-prompt-cont {
+            display: flex;
+            flex-direction: column;
+        }
+        #dialect-prompt {
+            background-color: rgb(228, 246, 254);
+            padding: 10px 10px;
+            border-radius: 5px;
+        }
+        #sae-prompt {
+            background-color: rgb(228, 233, 254);
+            padding: 10px 10px;
+            border-radius: 5px;
+        }
+        #ex-dialect-prompt {
+            background-color: rgb(228, 246, 254);
+            padding: 10px 10px;
+            border-radius: 5px;
+        }
+        #ex-sae-prompt {
+            background-color: rgb(228, 233, 254);
+            padding: 10px 10px;
+            border-radius: 5px;
+        }
+
+        #prompt-title {
+          color: rgb(170, 170, 170);
+          font-weight: 500;
+        }
+
+    </style>
+      
+    <script>
+      function openNav() {
+        document.getElementById("sidebar").style.width = "400px";
+        document.getElementById("main").style.marginLeft = "400px";
+        document.getElementById("open").style.opacity = 0;
+      }
+      
+      function closeNav() {
+        document.getElementById("sidebar").style.width = "0";
+        document.getElementById("main").style.marginLeft = "0";
+        document.getElementById("open").style.opacity = 100;
+      }
+
+      openNav()
+
+      const dialectPrompts = document.getElementById('dialect-prompts').innerText.split(';');
+      const saePrompts = document.getElementById('sae-prompts').innerText.split(';');
+      let promptNum = 1;
+      for (let i = 0; i < dialectPrompts.length; i++) {
+        const dialectPrompt = dialectPrompts[i].trim();
+        const saePrompt = saePrompts[i].trim();
+
+        const taskDiv = document.createElement('div');
+        taskDiv.id = 'task';
+
+        const title = document.createElement('div');
+        title.id = 'prompt-title';
+        title.innerHTML = 'Prompt ' + promptNum;
+
+        const promptCont = document.createElement('div');
+        promptCont.id = 'prompt-cont';
+
+        const dialectPromptCont = document.createElement('div');
+        dialectPromptCont.id = 'dialect-prompt-cont';
+
+        const saePromptCont = document.createElement('div');
+        saePromptCont.id = 'sae-prompt-cont';
+
+        const dialectHeader = document.createElement('h3');
+        dialectHeader.id = 'dialect-header';
+        dialectHeader.textContent = 'Indian English (InE) Prompt';
+
+        const saeHeader = document.createElement('h3');
+        saeHeader.id = 'sae-header';
+        saeHeader.textContent = 'Standard American English (SAE) Prompt';
+
+        const dialectPromptP = document.createElement('p');
+        dialectPromptP.id = 'dialect-prompt';
+        dialectPromptP.textContent = dialectPrompt;
+
+        const saePromptP = document.createElement('p');
+        saePromptP.id = 'sae-prompt';
+        saePromptP.textContent = saePrompt;
+
+        dialectPromptCont.appendChild(dialectHeader);
+        dialectPromptCont.appendChild(dialectPromptP);
+
+        saePromptCont.appendChild(saeHeader);
+        saePromptCont.appendChild(saePromptP);
+
+        promptCont.appendChild(dialectPromptCont);
+        promptCont.appendChild(saePromptCont);
+
+        taskDiv.appendChild(title);
+        taskDiv.appendChild(promptCont);
+
+        const q1 = document.createElement('p');
+        q1.textContent = 'Q1: Does the above Indian English (InE) Prompt make sense and correspond in meaning with the Standard American English (SAE) Prompt?';
+
+        const q1RadioGroup = document.createElement('crowd-radio-group');
+        q1RadioGroup.innerHTML = '<crowd-radio-button name="prompt' + promptNum + '-q1-yes">Yes</crowd-radio-button>' +
+          '<crowd-radio-button name="prompt' + promptNum + '-q1-no">No</crowd-radio-button>' +
+          '<crowd-radio-button name="prompt' + promptNum + '-q1-idk">I don\'t know</crowd-radio-button>';
+
+        const q2 = document.createElement('p');
+        q2.textContent = 'Q2: Is the above Indian English (InE) Prompt unambiguous? i.e. Is the meaning of the word "${Dialect_Word}" clear based on the context?';
+
+        const q2RadioGroup = document.createElement('crowd-radio-group');
+        q2RadioGroup.innerHTML = '<crowd-radio-button name="prompt' + promptNum + '-q2-yes">Yes</crowd-radio-button>' +
+          '<crowd-radio-button name="prompt' + promptNum + '-q2-no">No</crowd-radio-button>' +
+          '<crowd-radio-button name="prompt' + promptNum + '-q2-idk">I don\'t know</crowd-radio-button>';
+
+        taskDiv.appendChild(q1);
+        taskDiv.appendChild(q1RadioGroup);
+        taskDiv.appendChild(q2);
+        taskDiv.appendChild(q2RadioGroup);
+
+        if (promptNum < dialectPrompts.length) {
+          const horizontalLine = document.createElement('hr');
+          horizontalLine.style.marginTop = '30px';
+          taskDiv.appendChild(horizontalLine);
+        }
+
+        document.getElementById('task').appendChild(taskDiv);
+
+        promptNum++;
+      }
+
+      const dialectWord = "${Dialect_Word}"; 
+      const saeWord = "${SAE_Word}"; 
+
+      const taskDivs = document.querySelectorAll('div[id="task"]');
+      taskDivs.forEach(taskDiv => {
+        const dialectPrompt = taskDiv.querySelector('#dialect-prompt');
+        const dialectNodes = Array.from(dialectPrompt.childNodes).filter(node => node.nodeType === Node.TEXT_NODE);
+
+        dialectNodes.forEach(node => {
+          const text = node.textContent;
+          if (text.includes(dialectWord)) {
+            const parts = text.split(dialectWord);
+            const newNode = document.createDocumentFragment();
+            parts.forEach((part, index) => {
+              if (index > 0) {
+                const strong = document.createElement('strong');
+                strong.textContent = dialectWord;
+                newNode.appendChild(strong);
+              }
+              newNode.appendChild(document.createTextNode(part));
+            });
+            dialectPrompt.replaceChild(newNode, node);
+          }
+        });
+
+        const saePrompt = taskDiv.querySelector('#sae-prompt');
+        const saeNodes = Array.from(saePrompt.childNodes).filter(node => node.nodeType === Node.TEXT_NODE);
+
+        saeNodes.forEach(node => {
+          const text = node.textContent;
+          if (text.includes(saeWord)) {
+            const parts = text.split(saeWord);
+            const newNode = document.createDocumentFragment();
+            parts.forEach((part, index) => {
+              if (index > 0) {
+                const strong = document.createElement('strong');
+                strong.textContent = saeWord;
+                newNode.appendChild(strong);
+              }
+              newNode.appendChild(document.createTextNode(part));
+            });
+            saePrompt.replaceChild(newNode, node);
+          }
+        });
+      });
+    </script>
+  </div>
+</div>

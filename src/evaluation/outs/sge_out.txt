@@ -1,0 +1,2576 @@
+dialectal prompt is: a plastic cup with teh tarik
+sae prompt is: a plastic cup with milk tea
+dialectal word is: teh tarik
+sae word is: milk tea
+
+
+dialect_stable_score_ref_sae: 0.28278779900098444
+
+
+
+
+
+
+dialectal prompt is: a cup of teh tarik on a table
+sae prompt is: a cup of teh tarik on a table
+dialectal word is: teh tarik
+sae word is: milk tea
+
+
+dialect_stable_score_ref_sae: 0.2858479973668918
+
+
+
+
+
+
+dialectal prompt is: a shop selling teh tarik
+sae prompt is: a shop selling milk tea
+dialectal word is: teh tarik
+sae word is: milk tea
+
+
+dialect_stable_score_ref_sae: 0.25007197940936116
+
+
+
+
+
+
+dialectal prompt is: a man drinking teh tarik
+sae prompt is: a man drinking milk tea
+dialectal word is: teh tarik
+sae word is: milk tea
+
+
+dialect_stable_score_ref_sae: 0.3051353590444952
+
+
+
+
+
+
+dialectal prompt is: a woman drinking teh tarik
+sae prompt is: a woman drinking milk tea
+dialectal word is: teh tarik
+sae word is: milk tea
+
+
+dialect_stable_score_ref_sae: 0.3184272954334155
+
+
+
+
+
+
+dialectal prompt is: three cups of teh tarik on the counter
+sae prompt is: three cups of milk tea on the counter
+dialectal word is: teh tarik
+sae word is: milk tea
+
+
+dialect_stable_score_ref_sae: 0.2792210514757032
+
+
+
+
+
+
+dialectal prompt is: a couple sitting at a table both with kopi
+sae prompt is: a couple sitting at a table both with coffee
+dialectal word is: kopi
+sae word is: coffee
+
+
+dialect_stable_score_ref_sae: 0.27716589371506656
+
+
+
+
+
+
+dialectal prompt is: a man getting kopi from a modern cafe
+sae prompt is: a man getting coffee from a modern cafe
+dialectal word is: kopi
+sae word is: coffee
+
+
+dialect_stable_score_ref_sae: 0.26057358498200556
+
+
+
+
+
+
+dialectal prompt is: a table with a cup of kopi and a slice of cake
+sae prompt is: a table with a cup of coffee and a slice of cake
+dialectal word is: kopi
+sae word is: coffee
+
+
+dialect_stable_score_ref_sae: 0.21048051217018487
+
+
+
+
+
+
+dialectal prompt is: two people getting kopi
+sae prompt is: two people getting coffee
+dialectal word is: kopi
+sae word is: coffee
+
+
+dialect_stable_score_ref_sae: 0.24715425463794544
+
+
+
+
+
+
+dialectal prompt is: a man buying kopi
+sae prompt is: a man buying coffee
+dialectal word is: kopi
+sae word is: coffee
+
+
+dialect_stable_score_ref_sae: 0.26233730816193446
+
+
+
+
+
+
+dialectal prompt is: a woman with kopi
+sae prompt is: a woman with coffee
+dialectal word is: kopi
+sae word is: coffee
+
+
+dialect_stable_score_ref_sae: 0.2701627154934414
+
+
+
+
+
+
+dialectal prompt is: a child receiving an ang pow from his grandmother
+sae prompt is: a child receiving a red packet from his grandmother
+dialectal word is: ang pow
+sae word is: red packet
+
+
+dialect_stable_score_ref_sae: 0.24796019360847243
+
+
+
+
+
+
+dialectal prompt is: two ang pows on a table
+sae prompt is: two red packets on a table
+dialectal word is: ang pow
+sae word is: red packet
+
+
+dialect_stable_score_ref_sae: 0.28200195754522944
+
+
+
+
+
+
+dialectal prompt is: an ang pow and food on a table
+sae prompt is: a red packet and food on a table
+dialectal word is: ang pow
+sae word is: red packet
+
+
+dialect_stable_score_ref_sae: 0.27114420565464903
+
+
+
+
+
+
+dialectal prompt is: a group of people holding ang pows
+sae prompt is: a group of people holding red packets
+dialectal word is: ang pow
+sae word is: red packet
+
+
+dialect_stable_score_ref_sae: 0.2408942409824219
+
+
+
+
+
+
+dialectal prompt is: a store selling ang pows
+sae prompt is: a store selling red packets
+dialectal word is: ang pow
+sae word is: red packet
+
+
+dialect_stable_score_ref_sae: 0.2680551158789029
+
+
+
+
+
+
+dialectal prompt is: an ang pow and some fruit on a table
+sae prompt is: a red packet and some fruit on a table
+dialectal word is: ang pow
+sae word is: red packet
+
+
+dialect_stable_score_ref_sae: 0.2532454439290688
+
+
+
+
+
+
+dialectal prompt is: spicy sotong dish
+sae prompt is: spicy squid dish
+dialectal word is: sotong
+sae word is: squid
+
+
+dialect_stable_score_ref_sae: 0.24406405693266908
+
+
+
+
+
+
+dialectal prompt is: raw sotong at a market
+sae prompt is: raw squid at a market
+dialectal word is: sotong
+sae word is: squid
+
+
+dialect_stable_score_ref_sae: 0.25797553969506287
+
+
+
+
+
+
+dialectal prompt is: deep fried sotong on a plate
+sae prompt is: deep fried squid on a plate
+dialectal word is: sotong
+sae word is: squid
+
+
+dialect_stable_score_ref_sae: 0.23241874168175305
+
+
+
+
+
+
+dialectal prompt is: a sotong in an aquarium
+sae prompt is: a squid in an aquarium
+dialectal word is: sotong
+sae word is: squid
+
+
+dialect_stable_score_ref_sae: 0.2144124037796111
+
+
+
+
+
+
+dialectal prompt is: a sotong dish and rice on a table
+sae prompt is: a squid dish and rice on a table
+dialectal word is: sotong
+sae word is: squid
+
+
+dialect_stable_score_ref_sae: 0.2686713404762966
+
+
+
+
+
+
+dialectal prompt is: sliced sotong in a frying pan
+sae prompt is: sliced squid in a frying pan
+dialectal word is: sotong
+sae word is: squid
+
+
+dialect_stable_score_ref_sae: 0.20424437282022243
+
+
+
+
+
+
+dialectal prompt is: getting food tapao from the small restaurant
+sae prompt is: getting food takeout from the small restaurant
+dialectal word is: tapao
+sae word is: takeout
+
+
+dialect_stable_score_ref_sae: 0.24247721160040558
+
+
+
+
+
+
+dialectal prompt is: getting food tapao from the diner
+sae prompt is: getting food takeout from the diner
+dialectal word is: tapao
+sae word is: takeout
+
+
+dialect_stable_score_ref_sae: 0.22526184883759567
+
+
+
+
+
+
+dialectal prompt is: getting food tapao from the food truck
+sae prompt is: getting food takeout from the food truck
+dialectal word is: tapao
+sae word is: takeout
+
+
+dialect_stable_score_ref_sae: 0.2172053234665023
+
+
+
+
+
+
+dialectal prompt is: let’s get some food tapao
+sae prompt is: let's get some food takeout
+dialectal word is: tapao
+sae word is: takeout
+
+
+dialect_stable_score_ref_sae: 0.23066617279937404
+
+
+
+
+
+
+dialectal prompt is: chinese food tapao
+sae prompt is: chinese food takeout
+dialectal word is: tapao
+sae word is: takeout
+
+
+dialect_stable_score_ref_sae: 0.26561054990701405
+
+
+
+
+
+
+dialectal prompt is: a couple getting food tapao
+sae prompt is: a couple getting food takeout
+dialectal word is: tapao
+sae word is: takeout
+
+
+dialect_stable_score_ref_sae: 0.2556779693434842
+
+
+
+
+
+
+dialectal prompt is: a kiasu businessman
+sae prompt is: a businessman with a grasping, selfish attitude
+dialectal word is: kiasu
+sae word is: a grasping, selfish attitude
+
+
+dialect_stable_score_ref_sae: 0.24094796692154372
+
+
+
+
+
+
+dialectal prompt is: a kiasu leader
+sae prompt is: a leader with a grasping, selfish attitude
+dialectal word is: kiasu
+sae word is: a grasping, selfish attitude
+
+
+dialect_stable_score_ref_sae: 0.21337316468449347
+
+
+
+
+
+
+dialectal prompt is: a kiasu student
+sae prompt is: a student with a grasping, selfish attitude
+dialectal word is: kiasu
+sae word is: a grasping, selfish attitude
+
+
+dialect_stable_score_ref_sae: 0.22579954125348545
+
+
+
+
+
+
+dialectal prompt is: a kiasu parent
+sae prompt is: a parent with a grasping, selfish attitude
+dialectal word is: kiasu
+sae word is: a grasping, selfish attitude
+
+
+dialect_stable_score_ref_sae: 0.21414685484084817
+
+
+
+
+
+
+dialectal prompt is: a kiasu businesswoman
+sae prompt is: a businesswoman with a grasping, selfish attitude
+dialectal word is: kiasu
+sae word is: a grasping, selfish attitude
+
+
+dialect_stable_score_ref_sae: 0.20043695366742884
+
+
+
+
+
+
+dialectal prompt is: a kiasu politician
+sae prompt is: a politician with a grasping, selfish attitude
+dialectal word is: kiasu
+sae word is: a grasping, selfish attitude
+
+
+dialect_stable_score_ref_sae: 0.2057789633250736
+
+
+
+
+
+
+dialectal prompt is: a sian cat in a house
+sae prompt is: a bored cat in a house
+dialectal word is: sian
+sae word is: bored
+
+
+dialect_stable_score_ref_sae: 0.16775406118643582
+
+
+
+
+
+
+dialectal prompt is: a sian woman walking on the city street
+sae prompt is: a bored woman walking on the city street
+dialectal word is: sian
+sae word is: bored
+
+
+dialect_stable_score_ref_sae: 0.2611991722360784
+
+
+
+
+
+
+dialectal prompt is: a sian worker in an office
+sae prompt is: a bored worker in an office
+dialectal word is: sian
+sae word is: bored
+
+
+dialect_stable_score_ref_sae: 0.16760505078688856
+
+
+
+
+
+
+dialectal prompt is: a child sian in the summer
+sae prompt is: a child bored in the summer
+dialectal word is: sian
+sae word is: bored
+
+
+dialect_stable_score_ref_sae: 0.2714255107674104
+
+
+
+
+
+
+dialectal prompt is: a sian dog in the front yard
+sae prompt is: a bored dog in the front yard
+dialectal word is: sian
+sae word is: bored
+
+
+dialect_stable_score_ref_sae: 0.27818815274282965
+
+
+
+
+
+
+dialectal prompt is: a sian man on vacation
+sae prompt is: a bored man on vacation
+dialectal word is: sian
+sae word is: bored
+
+
+dialect_stable_score_ref_sae: 0.2557304068537421
+
+
+
+
+
+
+dialectal prompt is: a dog lepak on a grassy lawn in front of a house
+sae prompt is: a dog relaxing on a grassy lawn in front of a house
+dialectal word is: lepak
+sae word is: relax
+
+
+dialect_stable_score_ref_sae: 0.23689929989465647
+
+
+
+
+
+
+dialectal prompt is: people lepak on a beach
+sae prompt is: people relaxing on a beach
+dialectal word is: lepak
+sae word is: relax
+
+
+dialect_stable_score_ref_sae: 0.2534815919219958
+
+
+
+
+
+
+dialectal prompt is: people lepak on a sofa
+sae prompt is: people relaxing on a sofa
+dialectal word is: lepak
+sae word is: relax
+
+
+dialect_stable_score_ref_sae: 0.18128989460005515
+
+
+
+
+
+
+dialectal prompt is: a couple lepak in a park
+sae prompt is: a couple relaxing in a park
+dialectal word is: lepak
+sae word is: relax
+
+
+dialect_stable_score_ref_sae: 0.2993716627260392
+
+
+
+
+
+
+dialectal prompt is: a cat lepak by a window
+sae prompt is: a cat relaxing by a window
+dialectal word is: lepak
+sae word is: relax
+
+
+dialect_stable_score_ref_sae: 0.31364585461557004
+
+
+
+
+
+
+dialectal prompt is: a lepak vacation setting
+sae prompt is: a relaxing vacation setting
+dialectal word is: lepak
+sae word is: relax
+
+
+dialect_stable_score_ref_sae: 0.26173190957252535
+
+
+
+
+
+
+dialectal prompt is: a student in a class nodding can
+sae prompt is: a student in a class nodding yes
+dialectal word is: can
+sae word is: yes
+
+
+dialect_stable_score_ref_sae: 0.2538176926318792
+
+
+
+
+
+
+dialectal prompt is: a worker nodding can to his supervisor
+sae prompt is: a worker nodding yes to his supervisor
+dialectal word is: can
+sae word is: yes
+
+
+dialect_stable_score_ref_sae: 0.2591208480008893
+
+
+
+
+
+
+dialectal prompt is: a customer at a restaurant nodding can
+sae prompt is: a customer at a restaurant nodding yes
+dialectal word is: can
+sae word is: yes
+
+
+dialect_stable_score_ref_sae: 0.25482342003001685
+
+
+
+
+
+
+dialectal prompt is: a person nodding can in agreement
+sae prompt is: a person nodding yes in agreement
+dialectal word is: can
+sae word is: yes
+
+
+dialect_stable_score_ref_sae: 0.20765712578876988
+
+
+
+
+
+
+dialectal prompt is: a woman nodding can
+sae prompt is: a woman nodding yes
+dialectal word is: can
+sae word is: yes
+
+
+dialect_stable_score_ref_sae: 0.2231297000308876
+
+
+
+
+
+
+dialectal prompt is: a man nodding can
+sae prompt is: a man nodding yes
+dialectal word is: can
+sae word is: yes
+
+
+dialect_stable_score_ref_sae: 0.21305195558902218
+
+
+
+
+
+
+dialectal prompt is: a student chope at the dining hall
+sae prompt is: a student saving a table at the dining hall
+dialectal word is: chope
+sae word is: save a table
+
+
+dialect_stable_score_ref_sae: 0.25694290694275107
+
+
+
+
+
+
+dialectal prompt is: a person chope at the library
+sae prompt is: a person saving a table at the library
+dialectal word is: chope
+sae word is: save a table
+
+
+dialect_stable_score_ref_sae: 0.263348272752184
+
+
+
+
+
+
+dialectal prompt is: a person chope using a bag
+sae prompt is: a person saving a table using a bag
+dialectal word is: chope
+sae word is: save a table
+
+
+dialect_stable_score_ref_sae: 0.2176471262954129
+
+
+
+
+
+
+dialectal prompt is: a group chope at the food hall
+sae prompt is: a group saving a table at the food hall
+dialectal word is: chope
+sae word is: save a table
+
+
+dialect_stable_score_ref_sae: 0.25675068280355506
+
+
+
+
+
+
+dialectal prompt is: chope at a cafe
+sae prompt is: saving a table at a cafe
+dialectal word is: chope
+sae word is: save a table
+
+
+dialect_stable_score_ref_sae: 0.2451133978858898
+
+
+
+
+
+
+dialectal prompt is: chope with a napkin
+sae prompt is: saving a table with a napkin
+dialectal word is: chope
+sae word is: save a table
+
+
+dialect_stable_score_ref_sae: 0.26688626866435716
+
+
+
+
+
+
+dialectal prompt is: shiok dumplings
+sae prompt is: very tasty dumplings
+dialectal word is: shiok
+sae word is: very tasty
+
+
+dialect_stable_score_ref_sae: 0.23019056291357687
+
+
+
+
+
+
+dialectal prompt is: a person enjoying shiok food
+sae prompt is: a person enjoying very tasty food
+dialectal word is: shiok
+sae word is: very tasty
+
+
+dialect_stable_score_ref_sae: 0.24596230101866448
+
+
+
+
+
+
+dialectal prompt is: a table full of shiok Mexican food
+sae prompt is: a table full of very tasty Mexican food
+dialectal word is: shiok
+sae word is: very tasty
+
+
+dialect_stable_score_ref_sae: 0.20815885158547662
+
+
+
+
+
+
+dialectal prompt is: shiok food
+sae prompt is: very tasty food 
+dialectal word is: shiok
+sae word is: very tasty
+
+
+dialect_stable_score_ref_sae: 0.25523893768259526
+
+
+
+
+
+
+dialectal prompt is: shiok Italian food
+sae prompt is: very tasty Italian food
+dialectal word is: shiok
+sae word is: very tasty
+
+
+dialect_stable_score_ref_sae: 0.23060972482304173
+
+
+
+
+
+
+dialectal prompt is: a table full of shiok main dishes
+sae prompt is: a table full of tasty main dishes
+dialectal word is: shiok
+sae word is: very tasty
+
+
+dialect_stable_score_ref_sae: 0.24657188920335907
+
+
+
+
+
+
+dialectal prompt is: an atas clothing boutique
+sae prompt is: a high class clothing boutique
+dialectal word is: atas
+sae word is: high class
+
+
+dialect_stable_score_ref_sae: 0.18171628338238674
+
+
+
+
+
+
+dialectal prompt is: an atas party with well dressed people
+sae prompt is: a high class party with well dressed people
+dialectal word is: atas
+sae word is: high class
+
+
+dialect_stable_score_ref_sae: 0.2266408970873711
+
+
+
+
+
+
+dialectal prompt is: an atas red sports car
+sae prompt is: a high class red sports car
+dialectal word is: atas
+sae word is: high class
+
+
+dialect_stable_score_ref_sae: 0.2280117249193897
+
+
+
+
+
+
+dialectal prompt is: an atas restaurant
+sae prompt is: a high class restaurant
+dialectal word is: atas
+sae word is: high class
+
+
+dialect_stable_score_ref_sae: 0.25140552618868095
+
+
+
+
+
+
+dialectal prompt is: a woman with an atas car
+sae prompt is: a woman with a high class car
+dialectal word is: atas
+sae word is: high class
+
+
+dialect_stable_score_ref_sae: 0.1960735990246197
+
+
+
+
+
+
+dialectal prompt is: an atas house
+sae prompt is: a high class house
+dialectal word is: atas
+sae word is: high class
+
+
+dialect_stable_score_ref_sae: 0.24049638153058517
+
+
+
+
+
+
+dialectal prompt is: an ulu tropical beach
+sae prompt is: a secluded tropical beach
+dialectal word is: ulu
+sae word is: secluded
+
+
+dialect_stable_score_ref_sae: 0.21447098134115836
+
+
+
+
+
+
+dialectal prompt is: camping in an ulu meadow in the mountains
+sae prompt is: camping in a secluded meadow in the mountains
+dialectal word is: ulu
+sae word is: secluded
+
+
+dialect_stable_score_ref_sae: 0.2743862725392811
+
+
+
+
+
+
+dialectal prompt is: a couple hiking on an ulu trail
+sae prompt is: a couple hiking on a secluded trail
+dialectal word is: ulu
+sae word is: secluded
+
+
+dialect_stable_score_ref_sae: 0.21674102823322444
+
+
+
+
+
+
+dialectal prompt is: an ulu locale
+sae prompt is: a secluded locale
+dialectal word is: ulu
+sae word is: secluded
+
+
+dialect_stable_score_ref_sae: 0.24037808055254647
+
+
+
+
+
+
+dialectal prompt is: a house in an ulu area by a forest
+sae prompt is: a house in a secluded area by a forest
+dialectal word is: ulu
+sae word is: secluded
+
+
+dialect_stable_score_ref_sae: 0.24402785171791397
+
+
+
+
+
+
+dialectal prompt is: an rv in an ulu town
+sae prompt is: an rv in a secluded town
+dialectal word is: ulu
+sae word is: secluded
+
+
+dialect_stable_score_ref_sae: 0.26497888828570654
+
+
+
+
+
+
+dialectal prompt is: a woman makan a bowl of noodles
+sae prompt is: a woman eating a bowl of noodles
+dialectal word is: makan
+sae word is: eat
+
+
+dialect_stable_score_ref_sae: 0.283984211455407
+
+
+
+
+
+
+dialectal prompt is: a woman makan sushi in a modern restaurant
+sae prompt is: a woman eating sushi in a modern restaurant
+dialectal word is: makan
+sae word is: eat
+
+
+dialect_stable_score_ref_sae: 0.25931288666696234
+
+
+
+
+
+
+dialectal prompt is: a woman makan a slice of cake in a cafe
+sae prompt is: a woman eating a slice of cake in a cafe
+dialectal word is: makan
+sae word is: eat
+
+
+dialect_stable_score_ref_sae: 0.18990687738398054
+
+
+
+
+
+
+dialectal prompt is: a man makan a taco
+sae prompt is: a man eating a taco
+dialectal word is: makan
+sae word is: eat
+
+
+dialect_stable_score_ref_sae: 0.2644810747046606
+
+
+
+
+
+
+dialectal prompt is: a man makan an apple
+sae prompt is: a man eating an apple
+dialectal word is: makan
+sae word is: eat
+
+
+dialect_stable_score_ref_sae: 0.2783176913369992
+
+
+
+
+
+
+dialectal prompt is: a man makan a burrito
+sae prompt is: a man eating a burrito
+dialectal word is: makan
+sae word is: eat
+
+
+dialect_stable_score_ref_sae: 0.2382879773048367
+
+
+
+
+
+
+dialectal prompt is: a family zhng their living room for the holidays
+sae prompt is: a family redocrates their living room for the holidays
+dialectal word is: zhng
+sae word is: redecorate
+
+
+dialect_stable_score_ref_sae: 0.2995346063041956
+
+
+
+
+
+
+dialectal prompt is: a worker zhng her office space
+sae prompt is: a worker redecorates her office space
+dialectal word is: zhng
+sae word is: redecorate
+
+
+dialect_stable_score_ref_sae: 0.2994864566637382
+
+
+
+
+
+
+dialectal prompt is: a couple zhng their garage
+sae prompt is: a couple redocorate their garage
+dialectal word is: zhng
+sae word is: redecorate
+
+
+dialect_stable_score_ref_sae: 0.2228816169276006
+
+
+
+
+
+
+dialectal prompt is: a woman zhng her room
+sae prompt is: a woman redecorates her room
+dialectal word is: zhng
+sae word is: redecorate
+
+
+dialect_stable_score_ref_sae: 0.30597980403315905
+
+
+
+
+
+
+dialectal prompt is: a man zhng his desk
+sae prompt is: a man redecorates his desk
+dialectal word is: zhng
+sae word is: redecorate
+
+
+dialect_stable_score_ref_sae: 0.2863856374419195
+
+
+
+
+
+
+dialectal prompt is: a couple zhng their living room
+sae prompt is: a couple redecorate their living room
+dialectal word is: zhng
+sae word is: redecorate
+
+
+dialect_stable_score_ref_sae: 0.29513557445753436
+
+
+
+
+
+
+dialectal prompt is: a group of gers at the mall
+sae prompt is: a group of girls at the mall
+dialectal word is: ger
+sae word is: girl
+
+
+dialect_stable_score_ref_sae: 0.20086414852534684
+
+
+
+
+
+
+dialectal prompt is: a ger buying a computer
+sae prompt is: a girl buying a computer
+dialectal word is: ger
+sae word is: girl
+
+
+dialect_stable_score_ref_sae: 0.23542419683557173
+
+
+
+
+
+
+dialectal prompt is: a ger hiking in the desert
+sae prompt is: a girl hiking in the desert
+dialectal word is: ger
+sae word is: girl
+
+
+dialect_stable_score_ref_sae: 0.1839195231575025
+
+
+
+
+
+
+dialectal prompt is: a ger
+sae prompt is: a girl
+dialectal word is: ger
+sae word is: girl
+
+
+dialect_stable_score_ref_sae: 0.24937914095277985
+
+
+
+
+
+
+dialectal prompt is: a ger with a white shirt
+sae prompt is: a girl with a white shirt
+dialectal word is: ger
+sae word is: girl
+
+
+dialect_stable_score_ref_sae: 0.28119282846761195
+
+
+
+
+
+
+dialectal prompt is: a ger and her partner
+sae prompt is: a girl and her partner
+dialectal word is: ger
+sae word is: girl
+
+
+dialect_stable_score_ref_sae: 0.2350451598312207
+
+
+
+
+
+
+dialectal prompt is: a handphone on a black table
+sae prompt is: a mobile phone on a black table
+dialectal word is: handphone
+sae word is: mobile phone
+
+
+dialect_stable_score_ref_sae: 0.25560314428644254
+
+
+
+
+
+
+dialectal prompt is: a person taking a selfie with a handphone
+sae prompt is: a person taking a selfie with a mobile phone
+dialectal word is: handphone
+sae word is: mobile phone
+
+
+dialect_stable_score_ref_sae: 0.28042520635928875
+
+
+
+
+
+
+dialectal prompt is: a handphone next to a laptop on a table
+sae prompt is: a mobiel phone next to a laptop on a table
+dialectal word is: handphone
+sae word is: mobile phone
+
+
+dialect_stable_score_ref_sae: 0.2053208476418649
+
+
+
+
+
+
+dialectal prompt is: a man using a handphone
+sae prompt is: a man using a mobile phone
+dialectal word is: handphone
+sae word is: mobile phone
+
+
+dialect_stable_score_ref_sae: 0.28311451119677067
+
+
+
+
+
+
+dialectal prompt is: people on the subway using their handphones
+sae prompt is: people on the subway using their mobile phones
+dialectal word is: handphone
+sae word is: mobile phone
+
+
+dialect_stable_score_ref_sae: 0.21803855765817812
+
+
+
+
+
+
+dialectal prompt is: a woman taking a photo with a handphone
+sae prompt is: a woman taking a photo with a mobile phone
+dialectal word is: handphone
+sae word is: mobile phone
+
+
+dialect_stable_score_ref_sae: 0.2767451087675028
+
+
+
+
+
+
+dialectal prompt is: an ah long counting cash
+sae prompt is: a loan shark counting cash
+dialectal word is: ah long
+sae word is: a loan shark
+
+
+dialect_stable_score_ref_sae: 0.24981504733720644
+
+
+
+
+
+
+dialectal prompt is: an ah long carrying a knife
+sae prompt is: a loan shark carrying a knife
+dialectal word is: ah long
+sae word is: a loan shark
+
+
+dialect_stable_score_ref_sae: 0.28286510908255846
+
+
+
+
+
+
+dialectal prompt is: an ah long holding a bag
+sae prompt is: a loan shark holding a bag
+dialectal word is: ah long
+sae word is: a loan shark
+
+
+dialect_stable_score_ref_sae: 0.22312072689399043
+
+
+
+
+
+
+dialectal prompt is: an ah long
+sae prompt is: a loan shark
+dialectal word is: ah long
+sae word is: a loan shark
+
+
+dialect_stable_score_ref_sae: 0.2704823954811902
+
+
+
+
+
+
+dialectal prompt is: an ah long threatening someone
+sae prompt is: a loan shark threatening someone
+dialectal word is: ah long
+sae word is: a loan shark
+
+
+dialect_stable_score_ref_sae: 0.25275378758618533
+
+
+
+
+
+
+dialectal prompt is: an ah long spray painting a message
+sae prompt is: a loan shark spray painting a message
+dialectal word is: ah long
+sae word is: a loan shark
+
+
+dialect_stable_score_ref_sae: 0.3047226588366818
+
+
+
+
+
+
+dialectal prompt is: a man eating food at a kopi tiam
+sae prompt is: a man eating food at a small food court
+dialectal word is: kopi tiam
+sae word is: small food court
+
+
+dialect_stable_score_ref_sae: 0.26475777708999243
+
+
+
+
+
+
+dialectal prompt is: a woman drinking tea at a kopi tiam
+sae prompt is: a woman drinking tea at a small food court
+dialectal word is: kopi tiam
+sae word is: small food court
+
+
+dialect_stable_score_ref_sae: 0.23178656985738103
+
+
+
+
+
+
+dialectal prompt is: a bowl of noodles on a table in a kopi tiam
+sae prompt is: a bowl of noodles on a table in a small food court
+dialectal word is: kopi tiam
+sae word is: small food court
+
+
+dialect_stable_score_ref_sae: 0.23147695553389389
+
+
+
+
+
+
+dialectal prompt is: kopi tiam
+sae prompt is: a small food court
+dialectal word is: kopi tiam
+sae word is: small food court
+
+
+dialect_stable_score_ref_sae: 0.2843542460890827
+
+
+
+
+
+
+dialectal prompt is: a couple at a kopi tiam
+sae prompt is: a couple at a small food court
+dialectal word is: kopi tiam
+sae word is: small food court
+
+
+dialect_stable_score_ref_sae: 0.27087807056342306
+
+
+
+
+
+
+dialectal prompt is: a group of friends at a kopi tiam
+sae prompt is: a group of friends at a small food court
+dialectal word is: kopi tiam
+sae word is: small food court
+
+
+dialect_stable_score_ref_sae: 0.24418296721180482
+
+
+
+
+
+
+dialectal prompt is: a yandao on a magazine cover
+sae prompt is: a handsome male on a magazine cover
+dialectal word is: yandao
+sae word is: handsome male
+
+
+dialect_stable_score_ref_sae: 0.22435384824633145
+
+
+
+
+
+
+dialectal prompt is: a yandao performing on stage at a concert
+sae prompt is: a handsome male performing on stage at a concert
+dialectal word is: yandao
+sae word is: handsome male
+
+
+dialect_stable_score_ref_sae: 0.2567316902432657
+
+
+
+
+
+
+dialectal prompt is: a yandao at a gym
+sae prompt is: a handsome male at a gym
+dialectal word is: yandao
+sae word is: handsome male
+
+
+dialect_stable_score_ref_sae: 0.1810368438166825
+
+
+
+
+
+
+dialectal prompt is: a yandao
+sae prompt is: a handsome male
+dialectal word is: yandao
+sae word is: handsome male
+
+
+dialect_stable_score_ref_sae: 0.2428503970821176
+
+
+
+
+
+
+dialectal prompt is: a yandao with his partner
+sae prompt is: a handsome male with his partner
+dialectal word is: yandao
+sae word is: handsome male
+
+
+dialect_stable_score_ref_sae: 0.2705152859320551
+
+
+
+
+
+
+dialectal prompt is: a group of yandaos
+sae prompt is: a group of handsome males
+dialectal word is: yandao
+sae word is: handsome male
+
+
+dialect_stable_score_ref_sae: 0.27578095012797665
+
+
+
+
+
+
+dialectal prompt is: a man mug at the coffee shop
+sae prompt is: a man studying at the coffee shop
+dialectal word is: mug
+sae word is: study
+
+
+dialect_stable_score_ref_sae: 0.2806460976780892
+
+
+
+
+
+
+dialectal prompt is: a woman mug at home
+sae prompt is: a woman studying at home
+dialectal word is: mug
+sae word is: study
+
+
+dialect_stable_score_ref_sae: 0.2808614290158347
+
+
+
+
+
+
+dialectal prompt is: a child mug a book
+sae prompt is: a child studying a book
+dialectal word is: mug
+sae word is: study
+
+
+dialect_stable_score_ref_sae: 0.29812669320001145
+
+
+
+
+
+
+dialectal prompt is: a group of students mug
+sae prompt is: a group of students studying
+dialectal word is: mug
+sae word is: study
+
+
+dialect_stable_score_ref_sae: 0.26137911898236976
+
+
+
+
+
+
+dialectal prompt is: a student mug in his room at night
+sae prompt is: a student studying in his room at night
+dialectal word is: mug
+sae word is: study
+
+
+dialect_stable_score_ref_sae: 0.29238529103745076
+
+
+
+
+
+
+dialectal prompt is: a couple of friends mug in the library
+sae prompt is: a couple friends studying in the library
+dialectal word is: mug
+sae word is: study
+
+
+dialect_stable_score_ref_sae: 0.28144452642591833
+
+
+
+
+
+
+dialectal prompt is: a man being a lightbulb on a hike with a couple
+sae prompt is: a man being a third wheel on a hike with a couple
+dialectal word is: lightbulb
+sae word is: third wheel
+
+
+dialect_stable_score_ref_sae: 0.2913283025901478
+
+
+
+
+
+
+dialectal prompt is: a woman being a lightbulb at a museum with a couple
+sae prompt is: a woman being a third wheel at a museum with a couple
+dialectal word is: lightbulb
+sae word is: third wheel
+
+
+dialect_stable_score_ref_sae: 0.27323721309584215
+
+
+
+
+
+
+dialectal prompt is: a lightbulb with a gray shirt with a couple
+sae prompt is: a third wheel with a gray shirt with a couple
+dialectal word is: lightbulb
+sae word is: third wheel
+
+
+dialect_stable_score_ref_sae: 0.26791809810038286
+
+
+
+
+
+
+dialectal prompt is: a couple accompanied by a lightbulb
+sae prompt is: a couple accompanied by a third wheel
+dialectal word is: lightbulb
+sae word is: third wheel
+
+
+dialect_stable_score_ref_sae: 0.2427804959340986
+
+
+
+
+
+
+dialectal prompt is: he was a lightbulb on his friend's date
+sae prompt is: he was a third wheel on his friend's date
+dialectal word is: lightbulb
+sae word is: third wheel
+
+
+dialect_stable_score_ref_sae: 0.2463085198874945
+
+
+
+
+
+
+dialectal prompt is: a lightbulb trailing behind a couple
+sae prompt is: a third wheel trailing behind a couple
+dialectal word is: lightbulb
+sae word is: third wheel
+
+
+dialect_stable_score_ref_sae: 0.24583477283575444
+
+
+
+
+
+
+dialectal prompt is: a glass filled with black teh
+sae prompt is: a glass filled with black tea
+dialectal word is: teh
+sae word is: tea
+
+
+dialect_stable_score_ref_sae: 0.28199081332797493
+
+
+
+
+
+
+dialectal prompt is: a man with a cup of milk teh
+sae prompt is: a man with a cup of milk tea
+dialectal word is: teh
+sae word is: tea
+
+
+dialect_stable_score_ref_sae: 0.24094647016801696
+
+
+
+
+
+
+dialectal prompt is: a teh pot on a table
+sae prompt is: a tea pot on a table
+dialectal word is: teh
+sae word is: tea
+
+
+dialect_stable_score_ref_sae: 0.2510522935304612
+
+
+
+
+
+
+dialectal prompt is: a teh shop in a city
+sae prompt is: a tea shop in a city
+dialectal word is: teh
+sae word is: tea
+
+
+dialect_stable_score_ref_sae: 0.27543399574199534
+
+
+
+
+
+
+dialectal prompt is: a teh bag on a plate
+sae prompt is: a tea bag on a plate
+dialectal word is: teh
+sae word is: tea
+
+
+dialect_stable_score_ref_sae: 0.2864144757591455
+
+
+
+
+
+
+dialectal prompt is: a cup filled with green teh
+sae prompt is: a cup filled with green tea
+dialectal word is: teh
+sae word is: tea
+
+
+dialect_stable_score_ref_sae: 0.3056834613838545
+
+
+
+
+
+
+dialectal prompt is: a plate of char kway teow
+sae prompt is: a plate of stir-fried rice noodles
+dialectal word is: char kway teow
+sae word is: stir-fried rice noodles
+
+
+dialect_stable_score_ref_sae: 0.28876324752784305
+
+
+
+
+
+
+dialectal prompt is: a bowl of char kway teow
+sae prompt is: a bowl of stir-fried rice noodles
+dialectal word is: char kway teow
+sae word is: stir-fried rice noodles
+
+
+dialect_stable_score_ref_sae: 0.30008348540670693
+
+
+
+
+
+
+dialectal prompt is: char kway teow in a wok on a stove
+sae prompt is: stir-fried rice noodles in a wok on a stove
+dialectal word is: char kway teow
+sae word is: stir-fried rice noodles
+
+
+dialect_stable_score_ref_sae: 0.28819331143877275
+
+
+
+
+
+
+dialectal prompt is: char kway teow served at a restaurant
+sae prompt is: stir-fried rice noodles served at a restaurant
+dialectal word is: char kway teow
+sae word is: stir-fried rice noodles
+
+
+dialect_stable_score_ref_sae: 0.28316794146781343
+
+
+
+
+
+
+dialectal prompt is: char kway teow with vegetables on the side
+sae prompt is: stir-fried rice noodles with vegetables on the side
+dialectal word is: char kway teow
+sae word is: stir-fried rice noodles
+
+
+dialect_stable_score_ref_sae: 0.31385845380185495
+
+
+
+
+
+
+dialectal prompt is: two plates of char kway teow
+sae prompt is: two plates of stir-fried rice noodles
+dialectal word is: char kway teow
+sae word is: stir-fried rice noodles
+
+
+dialect_stable_score_ref_sae: 0.3029492419895115
+
+
+
+
+
+
+dialectal prompt is: a sinseh and a male patient
+sae prompt is: a traditional Chinese physician and a male patient
+dialectal word is: sinseh
+sae word is: traditional Chinese physician
+
+
+dialect_stable_score_ref_sae: 0.2848923536265225
+
+
+
+
+
+
+dialectal prompt is: a sinseh and a female patient
+sae prompt is: a traditional Chinese physician and a female patient
+dialectal word is: sinseh
+sae word is: traditional Chinese physician
+
+
+dialect_stable_score_ref_sae: 0.2791068438822772
+
+
+
+
+
+
+dialectal prompt is: a sinseh holding medicine
+sae prompt is: a traditional Chinese physician holding medicine
+dialectal word is: sinseh
+sae word is: traditional Chinese physician
+
+
+dialect_stable_score_ref_sae: 0.26322906489623865
+
+
+
+
+
+
+dialectal prompt is: a sinseh in an office
+sae prompt is: a traditional Chinese physician in an office
+dialectal word is: sinseh
+sae word is: traditional Chinese physician
+
+
+dialect_stable_score_ref_sae: 0.2947141004041429
+
+
+
+
+
+
+dialectal prompt is: a sinseh talking with two people
+sae prompt is: a traditional Chinese physician talking with two people
+dialectal word is: sinseh
+sae word is: traditional Chinese physician
+
+
+dialect_stable_score_ref_sae: 0.27917464012338244
+
+
+
+
+
+
+dialectal prompt is: a sinseh sitting at their desk
+sae prompt is: a traditional Chinese physician sitting at their desk
+dialectal word is: sinseh
+sae word is: traditional Chinese physician
+
+
+dialect_stable_score_ref_sae: 0.23577315446645752
+
+
+
+
+
+
+dialectal prompt is: a large hawker centre
+sae prompt is: a large food court
+dialectal word is: hawker centre
+sae word is: food court
+
+
+dialect_stable_score_ref_sae: 0.304702650968222
+
+
+
+
+
+
+dialectal prompt is: a couple at a hawker centre
+sae prompt is: a couple at a food court
+dialectal word is: hawker centre
+sae word is: food court
+
+
+dialect_stable_score_ref_sae: 0.2728637965291754
+
+
+
+
+
+
+dialectal prompt is: a family eating at a hawker centre
+sae prompt is: a family eating at a food court
+dialectal word is: hawker centre
+sae word is: food court
+
+
+dialect_stable_score_ref_sae: 0.22231927691663925
+
+
+
+
+
+
+dialectal prompt is: a food stall at a hawker centre
+sae prompt is: a food stall at a food court
+dialectal word is: hawker centre
+sae word is: food court
+
+
+dialect_stable_score_ref_sae: 0.21006592796264195
+
+
+
+
+
+
+dialectal prompt is: a table with a cup of coffee at a hawker centre
+sae prompt is: a table with a cup of coffee at a food court
+dialectal word is: hawker centre
+sae word is: food court
+
+
+dialect_stable_score_ref_sae: 0.18812197303961709
+
+
+
+
+
+
+dialectal prompt is: a plate of noodles at a hawker centre
+sae prompt is: a plate of noodles at a food court
+dialectal word is: hawker centre
+sae word is: food court
+
+
+dialect_stable_score_ref_sae: 0.21299166579255402
+
+
+
+
+
+
+dialectal prompt is: killer litter from a balcony
+sae prompt is: litter thrown from a high-rise building from a balcony
+dialectal word is: killer litter
+sae word is: litter thrown from a high-rise building
+
+
+dialect_stable_score_ref_sae: 0.19884674360113705
+
+
+
+
+
+
+dialectal prompt is: killer litter from an open window
+sae prompt is: litter thrown from a high-rise building from an open window
+dialectal word is: killer litter
+sae word is: litter thrown from a high-rise building
+
+
+dialect_stable_score_ref_sae: 0.20311833358239045
+
+
+
+
+
+
+dialectal prompt is: a sign advising against killer litter
+sae prompt is: a sign advising against litter thrown from a high-rise building
+dialectal word is: killer litter
+sae word is: litter thrown from a high-rise building
+
+
+dialect_stable_score_ref_sae: 0.2109800506974466
+
+
+
+
+
+
+dialectal prompt is: a person guilty of killer litter
+sae prompt is: a person guilty of litter thrown from a high-rise building
+dialectal word is: killer litter
+sae word is: litter thrown from a high-rise building
+
+
+dialect_stable_score_ref_sae: 0.20684864053200386
+
+
+
+
+
+
+dialectal prompt is: a person on the sidewalk avoiding killer litter
+sae prompt is: a person on the sidewalk avoiding litter thrown from a high-rise building
+dialectal word is: killer litter
+sae word is: litter thrown from a high-rise building
+
+
+dialect_stable_score_ref_sae: 0.20610478794174306
+
+
+
+
+
+
+dialectal prompt is: a couple walking nearly hit by killer litter
+sae prompt is: a couple walking nearly hit by litter thrown from a high-rise building
+dialectal word is: killer litter
+sae word is: litter thrown from a high-rise building
+
+
+dialect_stable_score_ref_sae: 0.19392273656025089
+
+
+
+
+
+
+dialectal prompt is: a man using a changkol in a vegetable garden
+sae prompt is: a man using a hoe in a vegetable garden
+dialectal word is: changkol
+sae word is: hoe
+
+
+dialect_stable_score_ref_sae: 0.3037679800265339
+
+
+
+
+
+
+dialectal prompt is: a changkol on a shelf in a store
+sae prompt is: a hoe on a shelf in a store
+dialectal word is: changkol
+sae word is: hoe
+
+
+dialect_stable_score_ref_sae: 0.24799184695232052
+
+
+
+
+
+
+dialectal prompt is: a farmer using a changkol in a field
+sae prompt is: a farmer using a hoe in a field
+dialectal word is: changkol
+sae word is: hoe
+
+
+dialect_stable_score_ref_sae: 0.338102034904416
+
+
+
+
+
+
+dialectal prompt is: a person digging in their front yard with a changkol
+sae prompt is: a person digging in their front yard with a hoe
+dialectal word is: changkol
+sae word is: hoe
+
+
+dialect_stable_score_ref_sae: 0.29349381836091326
+
+
+
+
+
+
+dialectal prompt is: a farmer carrying a changkol
+sae prompt is: a farmer carrying a hoe
+dialectal word is: changkol
+sae word is: hoe
+
+
+dialect_stable_score_ref_sae: 0.3165913604726653
+
+
+
+
+
+
+dialectal prompt is: three changkols leaning on a wall in a shed
+sae prompt is: three hoes leaning on a wall in a shed
+dialectal word is: changkol
+sae word is: hoe
+
+
+dialect_stable_score_ref_sae: 0.23843356277447755
+
+
+
+
+
+
+dialectal prompt is: a large chilli crab on a banquet table
+sae prompt is: a large spicy stir-fried crab on a banquet table
+dialectal word is: chilli crab
+sae word is: spicy stir-fried crab
+
+
+dialect_stable_score_ref_sae: 0.24680413900779852
+
+
+
+
+
+
+dialectal prompt is: a family enjoying chilli crab
+sae prompt is: a family enjoying spicy stir-fried crab
+dialectal word is: chilli crab
+sae word is: spicy stir-fried crab
+
+
+dialect_stable_score_ref_sae: 0.26162717412227954
+
+
+
+
+
+
+dialectal prompt is: two plates of chilli crab on a white table
+sae prompt is: two plates of spicy stir-fried crab on a white table
+dialectal word is: chilli crab
+sae word is: spicy stir-fried crab
+
+
+dialect_stable_score_ref_sae: 0.2847333255847894
+
+
+
+
+
+
+dialectal prompt is: a large chilli crab and a bowl of rice on a table
+sae prompt is: a large spicy stir-fried crab and a bowl of rice on a table
+dialectal word is: chilli crab
+sae word is: spicy stir-fried crab
+
+
+dialect_stable_score_ref_sae: 0.16349392458524298
+
+
+
+
+
+
+dialectal prompt is: a waiter holding a chilli crab dish
+sae prompt is: a waiter holding a spicy stir-fried crab dish
+dialectal word is: chilli crab
+sae word is: spicy stir-fried crab
+
+
+dialect_stable_score_ref_sae: 0.22072948222455294
+
+
+
+
+
+
+dialectal prompt is: a chef making chilli crab
+sae prompt is: a chef making spicy stir-fried crab
+dialectal word is: chilli crab
+sae word is: spicy stir-fried crab
+
+
+dialect_stable_score_ref_sae: 0.18096950244371968
+
+
+
+
+
+
+dialectal prompt is: a child with his mamak
+sae prompt is: a child with his uncle
+dialectal word is: mamak
+sae word is: uncle
+
+
+dialect_stable_score_ref_sae: 0.2231207500319029
+
+
+
+
+
+
+dialectal prompt is: a mamak wearing a dark blue shirt
+sae prompt is: an uncle wearing a dark blue shirt
+dialectal word is: mamak
+sae word is: uncle
+
+
+dialect_stable_score_ref_sae: 0.23784563219566904
+
+
+
+
+
+
+dialectal prompt is: a group of mamaks talking
+sae prompt is: a group of uncles talking
+dialectal word is: mamak
+sae word is: uncle
+
+
+dialect_stable_score_ref_sae: 0.19924993440335836
+
+
+
+
+
+
+dialectal prompt is: a mamak buying fruit from the supermarket
+sae prompt is: an uncle buying fruit from the supermarket
+dialectal word is: mamak
+sae word is: uncle
+
+
+dialect_stable_score_ref_sae: 0.2733089793027675
+
+
+
+
+
+
+dialectal prompt is: a mamak drinking coffee at the dining table
+sae prompt is: an uncle drinking coffee at the dining table
+dialectal word is: mamak
+sae word is: uncle
+
+
+dialect_stable_score_ref_sae: 0.20158687152153945
+
+
+
+
+
+
+dialectal prompt is: a mamak reading a newspaper while on the couch
+sae prompt is: an uncle reading a newspaper while on the couch
+dialectal word is: mamak
+sae word is: uncle
+
+
+dialect_stable_score_ref_sae: 0.21270911547370971
+
+
+
+
+
+
+dialectal prompt is: a plate of popiah
+sae prompt is: a plate of Fujianese spring roll
+dialectal word is: popiah
+sae word is: Fujianese fresh spring roll
+
+
+dialect_stable_score_ref_sae: 0.21412957157204843
+
+
+
+
+
+
+dialectal prompt is: a waiter holding a plate of popiah
+sae prompt is: a waiter holding a plate of Fujianese spring rolls
+dialectal word is: popiah
+sae word is: Fujianese fresh spring roll
+
+
+dialect_stable_score_ref_sae: 0.20626186317151501
+
+
+
+
+
+
+dialectal prompt is: a person eating a popiah
+sae prompt is: a person eating a Fujianese spring roll
+dialectal word is: popiah
+sae word is: Fujianese fresh spring roll
+
+
+dialect_stable_score_ref_sae: 0.24540724443782092
+
+
+
+
+
+
+dialectal prompt is: a bowl of noodles and a plate of popiah on a table
+sae prompt is: a bowl of noodles and a plate of Fujianese spring rolls on a table
+dialectal word is: popiah
+sae word is: Fujianese fresh spring roll
+
+
+dialect_stable_score_ref_sae: 0.20394246734532628
+
+
+
+
+
+
+dialectal prompt is: a plate of popiah with a dipping sauce on the side
+sae prompt is: a plate of Fujianese spring rolls with a dipping sauce on the side
+dialectal word is: popiah
+sae word is: Fujianese fresh spring roll
+
+
+dialect_stable_score_ref_sae: 0.19790941839255294
+
+
+
+
+
+
+dialectal prompt is: a food stall with popiah
+sae prompt is: a food stall with Fujianese fresh spring rolls
+dialectal word is: popiah
+sae word is: Fujianese fresh spring roll
+
+
+dialect_stable_score_ref_sae: 0.1884377972247057
+
+
+
+
+
+
+dialectal prompt is: a plate of roti prata
+sae prompt is: a plate of Indian flatbread
+dialectal word is: roti prata
+sae word is: Indian flatbread
+
+
+dialect_stable_score_ref_sae: 0.3075192718029323
+
+
+
+
+
+
+dialectal prompt is: roti prata with curry
+sae prompt is: Indian flatbread with curry
+dialectal word is: roti prata
+sae word is: Indian flatbread
+
+
+dialect_stable_score_ref_sae: 0.30834402025344576
+
+
+
+
+
+
+dialectal prompt is: a table with roti prata, curry, and vegetables
+sae prompt is: a table with Indian flatbread, curry, and vegetables
+dialectal word is: roti prata
+sae word is: Indian flatbread
+
+
+dialect_stable_score_ref_sae: 0.3006721961523045
+
+
+
+
+
+
+dialectal prompt is: a person eating roti prata
+sae prompt is: a person eating Indian flatbread
+dialectal word is: roti prata
+sae word is: Indian flatbread
+
+
+dialect_stable_score_ref_sae: 0.32032991304611247
+
+
+
+
+
+
+dialectal prompt is: a piece of roti prata dipped in curry
+sae prompt is: a piece of Indian flatbread dipped in curry
+dialectal word is: roti prata
+sae word is: Indian flatbread
+
+
+dialect_stable_score_ref_sae: 0.29778870681143643
+
+
+
+
+
+
+dialectal prompt is: roti prata and tea on a table
+sae prompt is: Indian flatbread and tea on a table
+dialectal word is: roti prata
+sae word is: Indian flatbread
+
+
+dialect_stable_score_ref_sae: 0.18249691259677492
+
+
+
+
+
+
+dialectal prompt is: a person eating bak kwa
+sae prompt is: a person eating Chinese pork jerky
+dialectal word is: bak kwa
+sae word is: Chinese pork jerky
+
+
+dialect_stable_score_ref_sae: 0.23027105509819354
+
+
+
+
+
+
+dialectal prompt is: bak kwa in a bag
+sae prompt is: Chinese pork jerky in a bag
+dialectal word is: bak kwa
+sae word is: Chinese pork jerky
+
+
+dialect_stable_score_ref_sae: 0.19487801902834537
+
+
+
+
+
+
+dialectal prompt is: a person buying bak kwa from a shop
+sae prompt is: a person buying Chinese pork jerky from a shop
+dialectal word is: bak kwa
+sae word is: Chinese pork jerky
+
+
+dialect_stable_score_ref_sae: 0.19474467948495422
+
+
+
+
+
+
+dialectal prompt is: a plate with bak kwa on it
+sae prompt is: a plate with Chinese pork jerky 
+dialectal word is: bak kwa
+sae word is: Chinese pork jerky
+
+
+dialect_stable_score_ref_sae: 0.23342163805918098
+
+
+
+
+
+
+dialectal prompt is: two people both eating bak kwa
+sae prompt is: two people both eating Chinese pork jerky
+dialectal word is: bak kwa
+sae word is: Chinese pork jerky
+
+
+dialect_stable_score_ref_sae: 0.2603540789653735
+
+
+
+
+
+
+dialectal prompt is: a box of bak kwa in a shopping basket
+sae prompt is: a box of Chinese pork jerky in a shopping basket
+dialectal word is: bak kwa
+sae word is: Chinese pork jerky
+
+
+dialect_stable_score_ref_sae: 0.20652989132186997
+
+
+
+
+
+
+-------------------final results-------------------
+dialect_total_score_stable2.1: 0.2495570829204501
