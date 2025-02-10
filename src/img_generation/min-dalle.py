@@ -28,6 +28,7 @@ DTYPE = "float32"
 
 # Initialize the MinDalle model
 model = MinDalle(
+    models_root=BASE_DIR / "pretrained",
     dtype=getattr(torch, DTYPE),
     device='cuda',
     is_mega=True,
@@ -49,7 +50,7 @@ def parse_args():
         help="Dialect code (aae, bre, che, ine, sge)."
     )
     parser.add_argument(
-        "--prompt_type",
+        "--mode",
         type=str,
         required=True,
         choices=["basic", "entigen", "polysemy"],
@@ -102,11 +103,11 @@ def generate_min_dalle(prompt: str, save_dir: Path, seamless: bool,
 def main():
     args = parse_args()
     dialect = args.dialect
-    prompt_type = args.prompt_type
+    mode = args.mode
 
     # Define paths based on the specified prompt type and dialect
-    data_file = BASE_DIR / "data" / "text" / prompt_type / f"{dialect}.csv"
-    img_dir = BASE_DIR / "data" / "image" / prompt_type / f"{dialect}" / "minDALL-E"
+    data_file = BASE_DIR / "data" / "text" / mode / f"{dialect}.csv"
+    img_dir = BASE_DIR / "data" / "image" / mode / f"{dialect}" / "minDALL-E"
 
     # ENTIGEN prefixes mapping and standard American English prefix
     entigen_prefixes = {
@@ -132,7 +133,7 @@ def main():
 
     # Iterate over prompt pairs and generate images
     for dp, sp in tqdm(zip(dialect_prompts, sae_prompts), total=len(dialect_prompts)):
-        if prompt_type == "entigen":
+        if mode == "entigen":
             dp = entigen_prefixes[dialect] + dp
             sp = sae_prefix + sp
 

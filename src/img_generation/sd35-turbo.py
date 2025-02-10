@@ -4,12 +4,11 @@ import shutil
 import argparse
 from pathlib import Path
 from tqdm import tqdm
-from IPython.display import display, update_display
 import torch
 import numpy as np
 import pandas as pd
 from PIL import Image
-from diffusers import StableDiffusionPipeline
+from diffusers import StableDiffusion3Pipeline
 
 # ---------------------------
 # Global Configuration
@@ -18,11 +17,11 @@ from diffusers import StableDiffusionPipeline
 # Since this script is in project_home/src/image_generation, we go 2 levels up.
 BASE_DIR = Path(__file__).resolve().parents[2]
 
-# Choose Stable Diffusion version:
-model_id = "CompVis/stable-diffusion-v1-4"
+# Choose the new Stable Diffusion model:
+model_id = "stabilityai/stable-diffusion-3.5-large-turbo"
 
 # Initialize the Stable Diffusion pipeline
-pipe = StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float16)
+pipe = StableDiffusion3Pipeline.from_pretrained(model_id, torch_dtype=torch.float16)
 pipe = pipe.to("cuda")
 
 # ---------------------------
@@ -30,7 +29,7 @@ pipe = pipe.to("cuda")
 # ---------------------------
 def parse_args():
     parser = argparse.ArgumentParser(
-        description="Generate images using Stable Diffusion for a specified dialect and prompt type."
+        description="Generate images using Stable Diffusion 3.5 Large Turbo for a specified dialect and prompt type."
     )
     parser.add_argument(
         "--dialect",
@@ -40,7 +39,7 @@ def parse_args():
         help="Dialect code (aae, bre, che, ine, sge)."
     )
     parser.add_argument(
-        "--prompt_type",
+        "--mode",
         type=str,
         required=True,
         choices=["basic", "entigen", "polysemy"],
@@ -69,7 +68,7 @@ def prepare_directory(path: Path) -> None:
 
 def generate_stable_diffusion(prompt: str, save_dir: Path) -> None:
     """
-    Generates images using Stable Diffusion and saves them to the specified directory.
+    Generates images using Stable Diffusion 3.5 Large Turbo and saves them to the specified directory.
     """
     num_cols = 3
     num_rows = 3
@@ -77,7 +76,7 @@ def generate_stable_diffusion(prompt: str, save_dir: Path) -> None:
 
     all_images = []
     for _ in range(num_rows):
-        images = pipe(prompt_list).images
+        images = pipe(prompt_list, num_inference_steps=4, guidance_scale=0.0,).images
         all_images.extend(images)
 
     for i, image in enumerate(all_images):
@@ -89,14 +88,13 @@ def generate_stable_diffusion(prompt: str, save_dir: Path) -> None:
 def main():
     args = parse_args()
     dialect = args.dialect
-    prompt_type = args.prompt_type
+    mode = args.mode
 
     # Define paths based on the specified prompt type and dialect
-    data_file = BASE_DIR / "data" / "text" / prompt_type / f"{dialect}.csv"
-    img_dir = BASE_DIR / "data" / "image" / prompt_type / f"{dialect}" / "stable-diffusion1.4"
+    data_file = BASE_DIR / "data" / "text" / mode / f"{dialect}.csv"
+    img_dir = BASE_DIR / "data" / "image" / mode / f"{dialect}" / "stable-diffusion-3.5-large-turbo"
 
-
-    # ENTIGEN prompt prefixes mapping and standard American English prefix
+    # ENTIGEN prompt prefixes mapping for dialect prompts and SAE prefix
     entigen_prefixes = {
         "aae": "In African American English, ",
         "bre": "In British English, ",
@@ -120,7 +118,7 @@ def main():
 
     # Iterate over prompt pairs and generate images
     for dp, sp in tqdm(zip(dialect_prompts, sae_prompts), total=len(dialect_prompts)):
-        if prompt_type == "entigen":
+        if mode == "entigen":
             dp = entigen_prefixes[dialect] + dp
             sp = sae_prefix + sp
 
