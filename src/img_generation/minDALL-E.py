@@ -1,122 +1,148 @@
 import os
 import sys
-from tqdm import tqdm
-
-
-from IPython.display import display, update_display
-import torch
-from min_dalle import MinDalle
+import shutil
+import argparse
+from pathlib import Path
 import numpy as np
 import pandas as pd
+from tqdm import tqdm
 from PIL import Image
+import torch
+from min_dalle import MinDalle
+from IPython.display import display, update_display
 
+# ---------------------------
+# Global Configuration
+# ---------------------------
+# BASE_DIR is set to the repository root.
+# Since this script is in project_home/src/image_generation, we go 3 levels up.
+BASE_DIR = Path(__file__).resolve().parents[3]
 
-def generate_min_dalle(prompt, save_dir, seamless, temperature, grid_size, supercondition_factor):
+# Hyperparameters
+TEMPERATURE = 1            # Parameter: 0.01 to 16
+GRID_SIZE = 3              # Integer parameter
+SUPERCONDITION_FACTOR = 16 # Numeric parameter
+TOP_K = 128                # Integer parameter
+SEAMLESS = False
+DTYPE = "float32"
+
+# Initialize the MinDalle model
+model = MinDalle(
+    dtype=getattr(torch, DTYPE),
+    device='cuda',
+    is_mega=True,
+    is_reusable=True
+)
+
+# ---------------------------
+# Helper Functions
+# ---------------------------
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description="Generate images using MinDalle for a specified dialect with optional ENTIGEN prompt prefixes."
+    )
+    parser.add_argument(
+        "--dialect",
+        type=str,
+        required=True,
+        choices=["aae", "bre", "che", "ine", "sge"],
+        help="Dialect code (aae, bre, che, ine, sge)."
+    )
+    parser.add_argument(
+        "--entigen",
+        action="store_true",
+        help="Use ENTIGEN prompt prefixes if set."
+    )
+    return parser.parse_args()
+
+def prepare_directory(path: Path) -> None:
+    """
+    Recursively creates a directory. If it exists and is non-empty,
+    prompts the user whether to replace its contents.
+    """
+    if path.exists():
+        if any(path.iterdir()):
+            response = input(
+                f"The directory '{path}' is not empty. Do you want to replace its contents? (y/n): "
+            ).strip().lower()
+            if response == 'y':
+                shutil.rmtree(path)
+                path.mkdir(parents=True, exist_ok=True)
+            else:
+                print("Operation aborted by the user.")
+                sys.exit(1)
+    else:
+        path.mkdir(parents=True, exist_ok=True)
+
+def generate_min_dalle(prompt: str, save_dir: Path, seamless: bool,
+                        temperature: float, grid_size: int,
+                        supercondition_factor: float) -> None:
+    """
+    Generates images using MinDalle and saves them to the specified directory.
+    """
     images = model.generate_images(
         text=prompt,
         seed=-1,
         grid_size=grid_size,
         is_seamless=seamless,
         temperature=temperature,
-        top_k=int(top_k),
+        top_k=int(TOP_K),
         supercondition_factor=float(supercondition_factor)
     )
-
     images = images.to('cpu').numpy()
     for i, img in enumerate(images):
         image = Image.fromarray((img * 1).astype(np.uint8)).convert('RGB')
-        image.save(save_dir + "/" + str(i) + ".jpg")
-        
-        
-# entigen
-run_entigen = False
-# run_entigen = True
-# entigen_dialect = "In Chicano English, "
-# entigen_dialect = "In Singlish, "
-# entigen_dialect = "In African American English, "
-# entigen_dialect = "In British English, "
-# entigen_dialect = "In Indian English, "
-# entigen_sae = "In Standard American English, "
+        image.save(str(save_dir / f"{i}.jpg"))
 
+# ---------------------------
+# Main Workflow
+# ---------------------------
+def main():
+    args = parse_args()
+    dialect = args.dialect
+    use_entigen = args.entigen
 
-# Set Hyperparameters
-img_dir = "/local1/bryanzhou008/Dialect/data/images/oct_23_simplified/aae/minDALL-E/"
-data_file = "/local1/bryanzhou008/Dialect/data/text/simplified/aae.csv"
-temperature = 1 #@param {type:"slider", min:0.01, max:16, step:0.01}
-grid_size = 3 #@param {type:"integer"}
-supercondition_factor = 16 #@param {type:"number"}
-top_k = 128 #@param {type:"integer"}
-seamless = False
-dtype = "float32"
-model = MinDalle(
-    dtype=getattr(torch, dtype),
-    device='cuda',
-    is_mega=True,
-    is_reusable=True
-)
+    # Define paths based on the specified dialect
+    data_file = BASE_DIR / "data" / "text" / "simplified" / f"{dialect}.csv"
+    img_dir = BASE_DIR / "data" / "image" / f"{dialect}" / "minDALL-E"
 
-# Read Data
-df = pd.read_csv(data_file, encoding='unicode_escape')
-dialect_prompts = list(df["Dialect_Prompt"])
-sae_prompts = list(df["SAE_Prompt"])
+    # ENTIGEN prompt prefixes mapping for dialect prompts
+    entigen_prefixes = {
+        "aae": "In African American English, ",
+        "bre": "In British English, ",
+        "che": "In Chicano English, ",
+        "ine": "In Indian English, ",
+        "sge": "In Singlish, "
+    }
+    sae_prefix = "In Standard American English, "
 
-# Create Output Directory and two subdirectories for low-resource and high-resource dialects
+    # Prepare output directories
+    prepare_directory(img_dir)
+    lr_subdir = img_dir / "dialect_imgs"
+    hr_subdir = img_dir / "sae_imgs"
+    prepare_directory(lr_subdir)
+    prepare_directory(hr_subdir)
 
-if os.path.exists(img_dir):
-  pass
-else:
-  os.mkdir(img_dir)
+    # Read data from CSV
+    df = pd.read_csv(data_file, encoding='unicode_escape')
+    dialect_prompts = df["Dialect_Prompt"].tolist()
+    sae_prompts = df["SAE_Prompt"].tolist()
 
-lr_subdir = img_dir + "dialect_imgs/"
-if os.path.exists(lr_subdir):
-  pass
-else:
-  os.mkdir(lr_subdir)
+    # Iterate over prompt pairs and generate images
+    for dp, sp in tqdm(zip(dialect_prompts, sae_prompts), total=len(dialect_prompts)):
+        if use_entigen:
+            dp = entigen_prefixes[dialect] + dp
+            sp = sae_prefix + sp
 
-hr_subdir = img_dir + "sae_imgs/"
-if os.path.exists(hr_subdir):
-  pass
-else:
-  os.mkdir(hr_subdir)
+        dp_dir = lr_subdir / dp
+        sp_dir = hr_subdir / sp
 
+        if not dp_dir.exists():
+            dp_dir.mkdir(parents=True, exist_ok=True)
+            generate_min_dalle(dp, dp_dir, SEAMLESS, TEMPERATURE, GRID_SIZE, SUPERCONDITION_FACTOR)
+        if not sp_dir.exists():
+            sp_dir.mkdir(parents=True, exist_ok=True)
+            generate_min_dalle(sp, sp_dir, SEAMLESS, TEMPERATURE, GRID_SIZE, SUPERCONDITION_FACTOR)
 
-
-# if os.path.exists(img_dir):
-#   os.system(f'rm -rf {img_dir}')
-# os.mkdir(img_dir)
-
-# lr_subdir = img_dir + "dialect_imgs/"
-# if os.path.exists(lr_subdir):
-#   os.system(f'rm -rf {lr_subdir}')
-# os.mkdir(lr_subdir)
-
-# hr_subdir = img_dir + "sae_imgs/"
-# if os.path.exists(hr_subdir):
-#   os.system(f'rm -rf {hr_subdir}')
-# os.mkdir(hr_subdir)
-
-
-for i in tqdm(range(len(dialect_prompts))):
-    dp = dialect_prompts[i]
-    sp = sae_prompts[i]
-    
-    # entigen
-    if run_entigen == True:
-       dp = entigen_dialect + dp
-       sp = entigen_sae + sp
-
-    dp_dir = lr_subdir + dp
-    sp_dir = hr_subdir + sp
-
-    if not os.path.exists(dp_dir):
-        os.mkdir(dp_dir)
-        generate_min_dalle(dp, dp_dir, seamless, temperature, grid_size, supercondition_factor)
-
-
-    if not os.path.exists(sp_dir):
-        os.mkdir(sp_dir)
-        generate_min_dalle(sp, sp_dir, seamless, temperature, grid_size, supercondition_factor)
-
-
-    # generate_min_dalle(dp, dp_dir, seamless, temperature, grid_size, supercondition_factor)
-    # generate_min_dalle(sp, sp_dir, seamless, temperature, grid_size, supercondition_factor)
+if __name__ == "__main__":
+    main()

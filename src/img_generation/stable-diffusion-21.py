@@ -95,7 +95,7 @@ entigen_sae = "In Standard American English, "
 # data_file = "/local1/bryanzhou008/Dialect/data/test_269_aae/aae269_entigen.csv"
 
 
-base_img_dir = "/local1/bryanzhou008/Dialect/data/images/oct_23_simplified/aae/"
+base_img_dir = "/local1/bryanzhou008/Dialect/data/image/aae/"
 img_dir = base_img_dir + "stable-diffusion2.1/"
 data_file = "/local1/bryanzhou008/Dialect/data/text/simplified/aae.csv"
 

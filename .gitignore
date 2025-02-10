@@ -42,3 +42,17 @@ Thumbs.db
 *.pt
 
 fix_email.sh
+
+
+# Folders #
+#####################
+
+
+# Pretrained models
+src/img_generation/pretrained/
+
+# Dataset
+data/
+
+# Ouputs/
+out/
