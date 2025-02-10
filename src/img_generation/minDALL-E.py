@@ -15,8 +15,8 @@ from IPython.display import display, update_display
 # Global Configuration
 # ---------------------------
 # BASE_DIR is set to the repository root.
-# Since this script is in project_home/src/image_generation, we go 3 levels up.
-BASE_DIR = Path(__file__).resolve().parents[3]
+# Since this script is in project_home/src/image_generation, we go two levels up.
+BASE_DIR = Path(__file__).resolve().parents[2]
 
 # Hyperparameters
 TEMPERATURE = 1            # Parameter: 0.01 to 16
@@ -39,7 +39,7 @@ model = MinDalle(
 # ---------------------------
 def parse_args():
     parser = argparse.ArgumentParser(
-        description="Generate images using MinDalle for a specified dialect with optional ENTIGEN prompt prefixes."
+        description="Generate images using MinDalle for a specified dialect and prompt type."
     )
     parser.add_argument(
         "--dialect",
@@ -49,9 +49,11 @@ def parse_args():
         help="Dialect code (aae, bre, che, ine, sge)."
     )
     parser.add_argument(
-        "--entigen",
-        action="store_true",
-        help="Use ENTIGEN prompt prefixes if set."
+        "--prompt_type",
+        type=str,
+        required=True,
+        choices=["basic", "entigen", "polysemy"],
+        help="Type of prompt to use (basic, entigen, or polysemy)."
     )
     return parser.parse_args()
 
@@ -100,13 +102,13 @@ def generate_min_dalle(prompt: str, save_dir: Path, seamless: bool,
 def main():
     args = parse_args()
     dialect = args.dialect
-    use_entigen = args.entigen
+    prompt_type = args.prompt_type
 
-    # Define paths based on the specified dialect
-    data_file = BASE_DIR / "data" / "text" / "simplified" / f"{dialect}.csv"
-    img_dir = BASE_DIR / "data" / "image" / f"{dialect}" / "minDALL-E"
+    # Define paths based on the specified prompt type and dialect
+    data_file = BASE_DIR / "data" / "text" / prompt_type / f"{dialect}.csv"
+    img_dir = BASE_DIR / "data" / "image" / prompt_type / f"{dialect}" / "minDALL-E"
 
-    # ENTIGEN prompt prefixes mapping for dialect prompts
+    # ENTIGEN prefixes mapping and standard American English prefix
     entigen_prefixes = {
         "aae": "In African American English, ",
         "bre": "In British English, ",
@@ -130,7 +132,7 @@ def main():
 
     # Iterate over prompt pairs and generate images
     for dp, sp in tqdm(zip(dialect_prompts, sae_prompts), total=len(dialect_prompts)):
-        if use_entigen:
+        if prompt_type == "entigen":
             dp = entigen_prefixes[dialect] + dp
             sp = sae_prefix + sp
 

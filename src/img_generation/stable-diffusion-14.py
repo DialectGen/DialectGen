@@ -15,10 +15,10 @@ from diffusers import StableDiffusionPipeline
 # Global Configuration
 # ---------------------------
 # BASE_DIR is set to the repository root.
-# Since this script is in project_home/src/image_generation, we go 3 levels up.
-BASE_DIR = Path(__file__).resolve().parents[3]
+# Since this script is in project_home/src/image_generation, we go 2 levels up.
+BASE_DIR = Path(__file__).resolve().parents[2]
 
-# Choose stable diffusion version:
+# Choose Stable Diffusion version:
 model_id = "CompVis/stable-diffusion-v1-4"
 
 # Initialize the Stable Diffusion pipeline
@@ -30,7 +30,7 @@ pipe = pipe.to("cuda")
 # ---------------------------
 def parse_args():
     parser = argparse.ArgumentParser(
-        description="Generate images using Stable Diffusion for a specified dialect with optional ENTIGEN prompt prefixes."
+        description="Generate images using Stable Diffusion for a specified dialect and prompt type."
     )
     parser.add_argument(
         "--dialect",
@@ -40,9 +40,11 @@ def parse_args():
         help="Dialect code (aae, bre, che, ine, sge)."
     )
     parser.add_argument(
-        "--entigen",
-        action="store_true",
-        help="Use ENTIGEN prompt prefixes if set."
+        "--prompt_type",
+        type=str,
+        required=True,
+        choices=["basic", "entigen", "polysemy"],
+        help="Type of prompt to use (basic, entigen, or polysemy)."
     )
     return parser.parse_args()
 
@@ -87,14 +89,14 @@ def generate_stable_diffusion(prompt: str, save_dir: Path) -> None:
 def main():
     args = parse_args()
     dialect = args.dialect
-    use_entigen = args.entigen
+    prompt_type = args.prompt_type
 
-    # Define paths based on the specified dialect
-    data_file = BASE_DIR / "data" / "text" / "simplified" / f"{dialect}.csv"
-    base_img_dir = BASE_DIR / "data" / "image" / f"{dialect}"
-    img_dir = base_img_dir / "stable-diffusion1.4"
+    # Define paths based on the specified prompt type and dialect
+    data_file = BASE_DIR / "data" / "text" / prompt_type / f"{dialect}.csv"
+    img_dir = BASE_DIR / "data" / "image" / prompt_type / f"{dialect}" / "stable-diffusion1.4"
 
-    # ENTIGEN prompt prefixes mapping for dialect prompts
+
+    # ENTIGEN prompt prefixes mapping and standard American English prefix
     entigen_prefixes = {
         "aae": "In African American English, ",
         "bre": "In British English, ",
@@ -105,21 +107,20 @@ def main():
     sae_prefix = "In Standard American English, "
 
     # Prepare output directories
-    prepare_directory(base_img_dir)
     prepare_directory(img_dir)
     lr_subdir = img_dir / "dialect_imgs"
     hr_subdir = img_dir / "sae_imgs"
     prepare_directory(lr_subdir)
     prepare_directory(hr_subdir)
 
-    # Read Data
+    # Read data from CSV
     df = pd.read_csv(data_file, encoding='unicode_escape')
     dialect_prompts = df["Dialect_Prompt"].tolist()
     sae_prompts = df["SAE_Prompt"].tolist()
 
     # Iterate over prompt pairs and generate images
     for dp, sp in tqdm(zip(dialect_prompts, sae_prompts), total=len(dialect_prompts)):
-        if use_entigen:
+        if prompt_type == "entigen":
             dp = entigen_prefixes[dialect] + dp
             sp = sae_prefix + sp
 

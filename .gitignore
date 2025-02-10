@@ -50,6 +50,7 @@ fix_email.sh
 
 # Pretrained models
 src/img_generation/pretrained/
+pretrained/
 
 # Dataset
 data/
