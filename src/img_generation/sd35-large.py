@@ -8,7 +8,7 @@ import torch
 import numpy as np
 import pandas as pd
 from PIL import Image
-from diffusers import FluxPipeline
+from diffusers import StableDiffusion3Pipeline
 
 # ---------------------------
 # Global Configuration
@@ -16,17 +16,17 @@ from diffusers import FluxPipeline
 # Since this script is in project_home/src/image_generation, we go 2 levels up.
 BASE_DIR = Path(__file__).resolve().parents[2]
 
-# Define model and initialize the FluxPipeline
-model_id = "black-forest-labs/FLUX.1-dev"
-pipe = FluxPipeline.from_pretrained(model_id, torch_dtype=torch.bfloat16)
-pipe.enable_model_cpu_offload()  # Offload to CPU to save VRAM
+# Define model and initialize the pipeline
+model_id = "stabilityai/stable-diffusion-3.5-large"
+pipe = StableDiffusion3Pipeline.from_pretrained(model_id, torch_dtype=torch.bfloat16)
+pipe = pipe.to("cuda")
 
 # ---------------------------
 # Helper Functions
 # ---------------------------
 def parse_args():
     parser = argparse.ArgumentParser(
-        description="Generate images using FluxPipeline (black-forest-labs/FLUX.1-dev) for a specified dialect and prompt type."
+        description="Generate images using Stable Diffusion 3.5 Large for a specified dialect and mode."
     )
     parser.add_argument(
         "--dialect",
@@ -63,10 +63,9 @@ def prepare_directory(path: Path) -> None:
     else:
         path.mkdir(parents=True, exist_ok=True)
 
-def generate_flux(prompt: str, save_dir: Path) -> None:
+def generate_stable_diffusion(prompt: str, save_dir: Path) -> None:
     """
-    Generates images using FluxPipeline and saves them to the specified directory.
-    Generates a 3×3 grid of images.
+    Generates a 3×3 grid of images using Stable Diffusion 3.5 Large and saves them to the specified directory.
     """
     num_cols = 3
     num_rows = 3
@@ -74,16 +73,7 @@ def generate_flux(prompt: str, save_dir: Path) -> None:
 
     all_images = []
     for _ in range(num_rows):
-        result = pipe(
-            prompt_list,
-            height=1024,
-            width=1024,
-            guidance_scale=3.5,
-            num_inference_steps=50,
-            max_sequence_length=512,
-            generator=torch.Generator("cpu").manual_seed(0)
-        )
-        images = result.images
+        images = pipe(prompt_list, num_inference_steps=28, guidance_scale=3.5).images
         all_images.extend(images)
 
     for i, image in enumerate(all_images):
@@ -97,9 +87,9 @@ def main():
     dialect = args.dialect
     mode = args.mode
 
-    # Define paths based on mode and dialect
+    # Define file paths based on mode and dialect
     data_file = BASE_DIR / "data" / "text" / mode / f"{dialect}.csv"
-    img_dir = BASE_DIR / "data" / "image" / mode / f"{dialect}" / "flux.1-dev"
+    img_dir = BASE_DIR / "data" / "image" / mode / f"{dialect}" / "stable-diffusion-3.5-large"
 
     # ENTIGEN prompt prefixes for dialect and SAE prompts
     entigen_prefixes = {
@@ -111,7 +101,7 @@ def main():
     }
     sae_prefix = "In Standard American English, "
 
-    # Prepare the image output directory and subdirectories
+    # Prepare output directories
     prepare_directory(img_dir)
     lr_subdir = img_dir / "dialect_imgs"
     hr_subdir = img_dir / "sae_imgs"
@@ -134,10 +124,10 @@ def main():
 
         if not dp_dir.exists():
             dp_dir.mkdir(parents=True, exist_ok=True)
-            generate_flux(dp, dp_dir)
+            generate_stable_diffusion(dp, dp_dir)
         if not sp_dir.exists():
             sp_dir.mkdir(parents=True, exist_ok=True)
-            generate_flux(sp, sp_dir)
+            generate_stable_diffusion(sp, sp_dir)
 
 if __name__ == "__main__":
     main()
