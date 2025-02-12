@@ -1,292 +1,137 @@
-# Create file structure
 import os
-import sys
-from transformers.models.poolformer.image_processing_poolformer import ImageInput
-import numpy as np
+import math
 import pandas as pd
 from PIL import Image
 from tqdm import tqdm
-import math
-
-# Plot similarity matrix
 from sklearn.metrics.pairwise import cosine_similarity
-import matplotlib.pyplot as plt
-
-
-
-# Load both text-to-image models
-dtype = "float32"
 import torch
-from IPython.display import display, update_display
-from min_dalle import MinDalle
-from diffusers import StableDiffusionPipeline
-
-
-# Load the clip model & compute cosine simlarity for MIN-DALLE
 import clip
+
+# ------------------------- Configuration -------------------------
 device = "cuda" if torch.cuda.is_available() else "cpu"
-CLIP, preprocess = clip.load("ViT-B/32", device=device, jit=False)
-
-
-import torchmetrics
-_ = torch.manual_seed(42)
-from torchmetrics.multimodal import CLIPScore
-metric = CLIPScore(model_name_or_path="openai/clip-vit-base-patch16")
-
-
-# ---------------------------------------- Basic Paths ----------------------------------------
-# img_dir = "/local1/bryanzhou008/Dialect/data/images/oct_5_basic/aae"
-# data_file = "/local1/bryanzhou008/Dialect/data/text/oct_5_csvs/african_american_english_prompts.csv"
-
-# img_dir = "/local1/bryanzhou008/Dialect/data/images/oct_5_basic/bre"
-# data_file = "/local1/bryanzhou008/Dialect/data/text/oct_5_csvs/british_english_prompts.csv"
-
-# img_dir = "/local1/bryanzhou008/Dialect/data/images/oct_5_basic/che"
-# data_file = "/local1/bryanzhou008/Dialect/data/text/oct_5_csvs/chicano_english_prompts.csv"
-
-# img_dir = "/local1/bryanzhou008/Dialect/data/images/oct_5_basic/ine"
-# data_file = "/local1/bryanzhou008/Dialect/data/text/oct_5_csvs/indian_english_prompts.csv"
-
-# img_dir = "/local1/bryanzhou008/Dialect/data/images/oct_5_basic/sge"
-# data_file = "/local1/bryanzhou008/Dialect/data/text/oct_5_csvs/singlish_prompts.csv"
-
-# ---------------------------------------------------------------------------------------------
-
-
-# ---------------------------------------- Entigen Paths ----------------------------------------
-
-# img_dir = "/local1/bryanzhou008/Dialect/data/images/oct_5_entigen/aae"
-# data_file = "/local1/bryanzhou008/Dialect/data/text/oct_5_csvs/african_american_english_prompts.csv"
-
-# img_dir = "/local1/bryanzhou008/Dialect/data/images/oct_5_entigen/bre"
-# data_file = "/local1/bryanzhou008/Dialect/data/text/oct_5_csvs/british_english_prompts.csv"
-
-# img_dir = "/local1/bryanzhou008/Dialect/data/images/oct_5_entigen/che"
-# data_file = "/local1/bryanzhou008/Dialect/data/text/oct_5_csvs/chicano_english_prompts.csv"
-
-# img_dir = "/local1/bryanzhou008/Dialect/data/images/oct_5_entigen/ine"
-# data_file = "/local1/bryanzhou008/Dialect/data/text/oct_5_csvs/indian_english_prompts.csv"
-
-# img_dir = "/local1/bryanzhou008/Dialect/data/images/oct_5_entigen/sge"
-# data_file = "/local1/bryanzhou008/Dialect/data/text/oct_5_csvs/singlish_prompts.csv"
-
-# ---------------------------------------------------------------------------------------------
-
-# ---------------------------------------- Simplified ----------------------------------------
-
-# img_dir = "/local1/bryanzhou008/Dialect/data/images/oct_23_simplified/aae"
-# data_file = "/local1/bryanzhou008/Dialect/data/text/simplified/aae.csv"
-
-# img_dir = "/local1/bryanzhou008/Dialect/data/images/oct_23_simplified/bre"
-# data_file = "/local1/bryanzhou008/Dialect/data/text/simplified/bre.csv"
-
-img_dir = "/local1/bryanzhou008/Dialect/data/images/oct_23_simplified/che"
-data_file = "/local1/bryanzhou008/Dialect/data/text/simplified/che.csv"
-
-# img_dir = "/local1/bryanzhou008/Dialect/data/images/oct_23_simplified/ine_v2"
-# data_file = "/local1/bryanzhou008/Dialect/data/text/simplified/ine_v2.csv"
-
-# img_dir = "/local1/bryanzhou008/Dialect/data/images/oct_23_simplified/sge"
-# data_file = "/local1/bryanzhou008/Dialect/data/text/simplified/sge.csv"
-
-# ---------------------------------------------------------------------------------------------
-
-
-
-
-
-# Global Variables
-# library = "torchmetrics"
-library = "openai"
-
-
-# Read Data
-df = pd.read_csv(data_file)
-df = df.loc[df['person_in_prompt'] == 1]  # make sure to select only prompts that involve people
-dialect_prompts = list(df["Dialect_Prompt"])
-sae_prompts = list(df["SAE_Prompt"])
-
-
-
+LIBRARY = "openai"  # Alternatives: "torchmetrics" (not implemented)
+IMG_DIR = "/local1/bryanzhou008/Dialect/multimodal-dialectal-bias/data/image/basic/aae"
+DATA_FILE = "/local1/bryanzhou008/Dialect/multimodal-dialectal-bias/data/text/basic/aae.csv"
+MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large-turbo"]
+FOLDER_MAPPING = {"dialect": "dialect_imgs", "sae": "sae_imgs"}
 LIGHT_SKIN_PROMPT = "light-skinned"
 DARK_SKIN_PROMPT = "dark-skinned"
+# -----------------------------------------------------------------
+
+# Load CLIP model and its preprocessing function
+CLIP_model, preprocess = clip.load("ViT-B/32", device=device, jit=False)
+torch.manual_seed(42)
 
 
-def get_average_scores(img_dir, model, dialect, gen_prompt, ref_prompt):
-    prompt_dir = os.path.join(img_dir, model, dialect, gen_prompt)
+def get_average_score(img_dir, model, folder, gen_prompt, ref_prompt, num_images=9):
+    """
+    Compute the average CLIP similarity score for a set of generated images.
+    
+    Args:
+        img_dir (str): Base directory for images.
+        model (str): Model folder name.
+        folder (str): Subfolder ('dialect_imgs' or 'sae_imgs').
+        gen_prompt (str): Generated prompt for image creation.
+        ref_prompt (str): Reference prompt for scoring.
+        num_images (int): Number of images to process (default: 9).
+    
+    Returns:
+        float: Average similarity score.
+    """
+    prompt_dir = os.path.join(img_dir, model, folder, gen_prompt)
     scores = []
-    for i in range(0, 9):
-        # this is to handle DALLE-mini tending to change "'" to "_" 
+    for i in range(num_images):
+        image_path = os.path.join(prompt_dir, f"{i}.jpg")
         try:
-            image = preprocess(Image.open(prompt_dir + f'/{i}.jpg')).unsqueeze(0).to(device)
-        except:
-            processed_gen_prompt = gen_prompt.replace("'", "_")
-            new_prompt_dir = os.path.join(img_dir, model, dialect, processed_gen_prompt)
-            image = preprocess(Image.open(new_prompt_dir + f'/{i}.jpg')).unsqueeze(0).to(device)
-        
-
-        text = clip.tokenize([ref_prompt]).to(device)
+            image = Image.open(image_path)
+        except Exception:
+            processed_prompt = gen_prompt.replace("'", "_")
+            new_prompt_dir = os.path.join(img_dir, model, folder, processed_prompt)
+            image_path = os.path.join(new_prompt_dir, f"{i}.jpg")
+            image = Image.open(image_path)
+        image_tensor = preprocess(image).unsqueeze(0).to(device)
+        text_tensor = clip.tokenize([ref_prompt]).to(device)
         with torch.no_grad():
-            image_features = CLIP.encode_image(image)
-            text_features = CLIP.encode_text(text)
-            if library == "openai":
-                score = cosine_similarity(image_features.cpu().numpy(), text_features.cpu().numpy())[0][0]
-            elif library == "torchmetrics":
-                print("this method still needs debugging")
-                raise
-                score = metric(image, prompt)
+            image_features = CLIP_model.encode_image(image_tensor)
+            text_features = CLIP_model.encode_text(text_tensor)
+            if LIBRARY == "openai":
+                score = cosine_similarity(
+                    image_features.cpu().numpy(), text_features.cpu().numpy()
+                )[0][0]
+            elif LIBRARY == "torchmetrics":
+                raise NotImplementedError("Torchmetrics scoring is not implemented.")
             else:
-                print("library not defined!")
-                raise
-            scores.append(score)
-    avg_score = sum(scores)/len(scores)
-    return avg_score
+                raise ValueError("Undefined library specified.")
+        scores.append(score)
+    return sum(scores) / len(scores)
 
 
-
-
-
-# dialect_total_score_dalle_light_skin = []
-# dialect_total_score_stable_light_skin = []
-
-# sae_total_score_dalle_light_skin = []
-# sae_total_score_stable_light_skin = []
-
-# dialect_total_score_dalle_dark_skin = []
-# dialect_total_score_stable_dark_skin = []
-
-# sae_total_score_dalle_dark_skin = []
-# sae_total_score_stable_dark_skin = []
-
-
-total_dalle_mini_normalized_sae_light_skin = []
-total_dalle_normalized_sae_light_skin = []
-total_stable_normalized_sae_light_skin = []
-total_stable_normalized_sae_light_skin_2 = []
-
-total_dalle_mini_normalized_dialect_light_skin = []
-total_dalle_normalized_dialect_light_skin = []
-total_stable_normalized_dialect_light_skin = []
-total_stable_normalized_dialect_light_skin_2 = []
-
-
-for i in tqdm(range(len(dialect_prompts))):
-    # get the prompts
-    dialect_prompt = dialect_prompts[i]
-    print("dialectal prompt is:", dialect_prompt)
-    sae_prompt = sae_prompts[i]
-    print("sae prompt is:", sae_prompt)
+def compute_normalized_score(score_light, score_dark, factor=100):
+    """
+    Compute the normalized score using the drop formula.
     
+    Args:
+        score_light (float): Score with the light-skin reference.
+        score_dark (float): Score with the dark-skin reference.
+        factor (int): Multiplicative factor for the scores (default: 100).
     
-    dialect_dalle_mini_score_light_skin = get_average_scores(img_dir, "dalle-mini", "dialect_imgs", dialect_prompt, LIGHT_SKIN_PROMPT)
-    print("dialect_dalle_mini_score_light_skin:", dialect_dalle_mini_score_light_skin)
-
-    dialect_dalle_score_light_skin = get_average_scores(img_dir, "minDALL-E", "dialect_imgs", dialect_prompt, LIGHT_SKIN_PROMPT)
-    print("dialect_dalle_score_light_skin:", dialect_dalle_score_light_skin)
-
-    dialect_stable_score_light_skin = get_average_scores(img_dir, "stable-diffusion1.4", "dialect_imgs", dialect_prompt, LIGHT_SKIN_PROMPT)
-    print("dialect_stable_score_light_skin:", dialect_stable_score_light_skin)
-    
-    dialect_stable_score_light_skin_2 = get_average_scores(img_dir, "stable-diffusion2.1", "dialect_imgs", dialect_prompt, LIGHT_SKIN_PROMPT)
-    print("dialect_stable_score_light_skin:", dialect_stable_score_light_skin_2)
+    Returns:
+        float: Normalized score.
+    """
+    exp_light = math.exp(score_light * factor)
+    exp_dark = math.exp(score_dark * factor)
+    return exp_light / (exp_light + exp_dark)
 
 
+def main():
+    # Read and filter data (select prompts involving people)
+    df = pd.read_csv(DATA_FILE)
+    df = df.loc[df['person_in_prompt'] == 1]
+    dialect_prompts = df["Dialect_Prompt"].tolist()
+    sae_prompts = df["SAE_Prompt"].tolist()
 
-    dialect_dalle_mini_score_dark_skin = get_average_scores(img_dir, "dalle-mini", "dialect_imgs", dialect_prompt, DARK_SKIN_PROMPT)
-    print("dialect_dalle_mini_score_dark_skin:", dialect_dalle_mini_score_dark_skin)
-    
-    dialect_dalle_score_dark_skin = get_average_scores(img_dir, "minDALL-E", "dialect_imgs", dialect_prompt, DARK_SKIN_PROMPT)
-    print("dialect_dalle_score_dark_skin:", dialect_dalle_score_dark_skin)
+    # Prepare storage for normalized scores
+    results = {
+        "dialect": {model: [] for model in MODELS_TO_EVALUATE},
+        "sae": {model: [] for model in MODELS_TO_EVALUATE}
+    }
 
-    dialect_stable_score_dark_skin = get_average_scores(img_dir, "stable-diffusion1.4", "dialect_imgs", dialect_prompt, DARK_SKIN_PROMPT)
-    print("dialect_stable_score_dark_skin:", dialect_stable_score_dark_skin)
-    
-    dialect_stable_score_dark_skin_2 = get_average_scores(img_dir, "stable-diffusion2.1", "dialect_imgs", dialect_prompt, DARK_SKIN_PROMPT)
-    print("dialect_stable_score_dark_skin:", dialect_stable_score_dark_skin_2)
+    for i in tqdm(range(len(dialect_prompts)), desc="Processing prompts"):
+        dialect_prompt = dialect_prompts[i]
+        sae_prompt = sae_prompts[i]
+        print(f"\nPrompt {i}:")
+        print("Dialect prompt:", dialect_prompt)
+        print("SAE prompt:", sae_prompt)
 
+        for model in MODELS_TO_EVALUATE:
+            # Process dialect images
+            folder = FOLDER_MAPPING["dialect"]
+            dialect_score_light = get_average_score(IMG_DIR, model, folder, dialect_prompt, LIGHT_SKIN_PROMPT)
+            dialect_score_dark = get_average_score(IMG_DIR, model, folder, dialect_prompt, DARK_SKIN_PROMPT)
+            norm_dialect = compute_normalized_score(dialect_score_light, dialect_score_dark)
+            results["dialect"][model].append(norm_dialect)
+            print(f"{model} dialect normalized (light): {norm_dialect:.4f}")
 
+            # Process SAE images
+            folder = FOLDER_MAPPING["sae"]
+            sae_score_light = get_average_score(IMG_DIR, model, folder, sae_prompt, LIGHT_SKIN_PROMPT)
+            sae_score_dark = get_average_score(IMG_DIR, model, folder, sae_prompt, DARK_SKIN_PROMPT)
+            norm_sae = compute_normalized_score(sae_score_light, sae_score_dark)
+            results["sae"][model].append(norm_sae)
+            print(f"{model} SAE normalized (light): {norm_sae:.4f}")
 
-    print("\n")
+        # Optionally, print current averages for each model
+        for set_type in results:
+            for model in MODELS_TO_EVALUATE:
+                current_avg = sum(results[set_type][model]) / len(results[set_type][model])
+                print(f"Current average for {set_type} {model}: {current_avg:.4f}")
 
-    sae_dalle_mini_score_light_skin = get_average_scores(img_dir, "dalle-mini", "sae_imgs", sae_prompt, LIGHT_SKIN_PROMPT)
-    print("sae_dalle_mini_score_light_skin:", sae_dalle_mini_score_light_skin)
-
-    sae_dalle_score_light_skin = get_average_scores(img_dir, "minDALL-E", "sae_imgs", sae_prompt, LIGHT_SKIN_PROMPT)
-    print("sae_dalle_score_light_skin:", sae_dalle_score_light_skin)
-
-    sae_stable_score_light_skin = get_average_scores(img_dir, "stable-diffusion1.4", "sae_imgs", sae_prompt, LIGHT_SKIN_PROMPT)
-    print("sae_stable_score_light_skin:", sae_stable_score_light_skin)
-    
-    sae_stable_score_light_skin_2 = get_average_scores(img_dir, "stable-diffusion2.1", "sae_imgs", sae_prompt, LIGHT_SKIN_PROMPT)
-    print("sae_stable_score_light_skin:", sae_stable_score_light_skin_2)
-
-
-
-    sae_dalle_mini_score_dark_skin = get_average_scores(img_dir, "dalle-mini", "sae_imgs", sae_prompt, DARK_SKIN_PROMPT)
-    print("sae_dalle_mini_score_dark_skin:", sae_dalle_mini_score_dark_skin)
-
-    sae_dalle_score_dark_skin = get_average_scores(img_dir, "minDALL-E", "sae_imgs", sae_prompt, DARK_SKIN_PROMPT)
-    print("sae_dalle_score_dark_skin:", sae_dalle_score_dark_skin)
-
-    sae_stable_score_dark_skin = get_average_scores(img_dir, "stable-diffusion1.4", "sae_imgs", sae_prompt, DARK_SKIN_PROMPT)
-    print("sae_stable_score_dark_skin:", sae_stable_score_dark_skin)
-    
-    sae_stable_score_dark_skin_2 = get_average_scores(img_dir, "stable-diffusion2.1", "sae_imgs", sae_prompt, DARK_SKIN_PROMPT)
-    print("sae_stable_score_dark_skin:", sae_stable_score_dark_skin_2)
-
-
-    print("\n")
-
-
-    # The normalized drop: e^S_AA/(e^S_AA+e^S_AB) - e^S_BB/(e^S_BA+e^S_BB)
-
-    dalle_mini_normalized_sae_light_skin = math.exp(sae_dalle_mini_score_light_skin*100)/(math.exp(sae_dalle_mini_score_light_skin*100) + math.exp(sae_dalle_mini_score_dark_skin*100)) 
-    dalle_normalized_sae_light_skin = math.exp(sae_dalle_score_light_skin*100)/(math.exp(sae_dalle_score_light_skin*100) + math.exp(sae_dalle_score_dark_skin*100)) 
-    stable_normalized_sae_light_skin = math.exp(sae_stable_score_light_skin*100)/(math.exp(sae_stable_score_light_skin*100) + math.exp(sae_stable_score_dark_skin*100))
-    stable_normalized_sae_light_skin_2 = math.exp(sae_stable_score_light_skin_2*100)/(math.exp(sae_stable_score_light_skin_2*100) + math.exp(sae_stable_score_dark_skin_2*100))
-
-    dalle_mini_normalized_dialect_light_skin = math.exp(dialect_dalle_mini_score_light_skin*100)/(math.exp(dialect_dalle_mini_score_light_skin*100) + math.exp(dialect_dalle_mini_score_dark_skin*100)) 
-    dalle_normalized_dialect_light_skin = math.exp(dialect_dalle_score_light_skin*100)/(math.exp(dialect_dalle_score_light_skin*100) + math.exp(dialect_dalle_score_dark_skin*100)) 
-    stable_normalized_dialect_light_skin = math.exp(dialect_stable_score_light_skin*100)/(math.exp(dialect_stable_score_light_skin*100) + math.exp(dialect_stable_score_dark_skin*100))
-    stable_normalized_dialect_light_skin_2 = math.exp(dialect_stable_score_light_skin_2*100)/(math.exp(dialect_stable_score_light_skin_2*100) + math.exp(dialect_stable_score_dark_skin_2*100))
-
-    # math.exp(0.30)/(math.exp(0.30) + math.exp(0.25))
-
-    total_dalle_mini_normalized_sae_light_skin.append(dalle_mini_normalized_sae_light_skin)
-    total_dalle_normalized_sae_light_skin.append(dalle_normalized_sae_light_skin)
-    total_stable_normalized_sae_light_skin.append(stable_normalized_sae_light_skin)
-    total_stable_normalized_sae_light_skin_2.append(stable_normalized_sae_light_skin_2)
-    
-    total_dalle_mini_normalized_dialect_light_skin.append(dalle_mini_normalized_dialect_light_skin)
-    total_dalle_normalized_dialect_light_skin.append(dalle_normalized_dialect_light_skin)
-    total_stable_normalized_dialect_light_skin.append(stable_normalized_dialect_light_skin)
-    total_stable_normalized_dialect_light_skin_2.append(stable_normalized_dialect_light_skin_2)
-    
-    
-    print("total_dalle_mini_normalized_sae_light_skin:", sum(total_dalle_mini_normalized_sae_light_skin)/len(total_dalle_mini_normalized_sae_light_skin))
-    print("total_dalle_normalized_sae_light_skin:", sum(total_dalle_normalized_sae_light_skin)/len(total_dalle_normalized_sae_light_skin))
-    print("total_stable_normalized_sae_light_skin1.4:", sum(total_stable_normalized_sae_light_skin)/len(total_stable_normalized_sae_light_skin))
-    print("total_stable_normalized_sae_light_skin2.1:", sum(total_stable_normalized_sae_light_skin_2)/len(total_stable_normalized_sae_light_skin_2))
-
-    print("total_dalle_mini_normalized_dialect_light_skin:", sum(total_dalle_mini_normalized_dialect_light_skin)/len(total_dalle_mini_normalized_dialect_light_skin))
-    print("total_dalle_normalized_dialect_light_skin:", sum(total_dalle_normalized_dialect_light_skin)/len(total_dalle_normalized_dialect_light_skin))
-    print("total_stable_normalized_dialect_light_skin1.4:", sum(total_stable_normalized_dialect_light_skin)/len(total_stable_normalized_dialect_light_skin))
-    print("total_stable_normalized_dialect_light_skin2.1:", sum(total_stable_normalized_dialect_light_skin_2)/len(total_stable_normalized_dialect_light_skin_2))
+    print("\n------------------- Final Results -------------------")
+    for set_type, model_scores in results.items():
+        for model, scores in model_scores.items():
+            avg_score = sum(scores) / len(scores)
+            print(f"{set_type.capitalize()} total normalized score for {model}: {avg_score:.4f}")
 
 
-print("-------------------final results-------------------")
-# print("dialect_total_score_dalle:", sum(dialect_total_score_dalle)/len(dialect_total_score_dalle)) 
-# print("dialect_total_score_stable:", sum(dialect_total_score_stable)/len(dialect_total_score_stable))
-
-# print("sae_total_score_dalle:", sum(sae_total_score_dalle)/len(sae_total_score_dalle))
-# print("sae_total_score_stable:", sum(sae_total_score_stable)/len(sae_total_score_stable))
-
-print("total_dalle_mini_normalized_sae_light_skin:", sum(total_dalle_mini_normalized_sae_light_skin)/len(total_dalle_mini_normalized_sae_light_skin))
-print("total_dalle_normalized_sae_light_skin:", sum(total_dalle_normalized_sae_light_skin)/len(total_dalle_normalized_sae_light_skin))
-print("total_stable_normalized_sae_light_skin1.4:", sum(total_stable_normalized_sae_light_skin)/len(total_stable_normalized_sae_light_skin))
-print("total_stable_normalized_sae_light_skin2.1:", sum(total_stable_normalized_sae_light_skin_2)/len(total_stable_normalized_sae_light_skin_2))
-
-print("total_dalle_mini_normalized_dialect_light_skin:", sum(total_dalle_mini_normalized_dialect_light_skin)/len(total_dalle_mini_normalized_dialect_light_skin))
-print("total_dalle_normalized_dialect_light_skin:", sum(total_dalle_normalized_dialect_light_skin)/len(total_dalle_normalized_dialect_light_skin))
-print("total_stable_normalized_dialect_light_skin1.4:", sum(total_stable_normalized_dialect_light_skin)/len(total_stable_normalized_dialect_light_skin))
-print("total_stable_normalized_dialect_light_skin2.1:", sum(total_stable_normalized_dialect_light_skin_2)/len(total_stable_normalized_dialect_light_skin_2))
+if __name__ == "__main__":
+    main()
