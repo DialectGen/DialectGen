@@ -9,8 +9,8 @@ import clip
 # ------------------------- Configuration -------------------------
 device = "cuda" if torch.cuda.is_available() else "cpu"
 LIBRARY = "openai"  # Alternatives: "torchmetrics"
-IMG_DIR = "/local1/bryanzhou008/Dialect/multimodal-dialectal-bias/data/image/basic/aae"
-DATA_FILE = "/local1/bryanzhou008/Dialect/multimodal-dialectal-bias/data/text/basic/aae.csv"
+IMG_DIR = "/local1/bryanzhou008/Dialect/multimodal-dialectal-bias/data/image/basic/bre"
+DATA_FILE = "/local1/bryanzhou008/Dialect/multimodal-dialectal-bias/data/text/basic/bre.csv"
 MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large-turbo"]
 # ------------------------------------------------------------------
 

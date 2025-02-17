@@ -52,7 +52,8 @@ fix_email.sh
 pretrained/
 
 # Dataset
-data/
+data/image
+data/video
 
 # Ouputs/
 out/

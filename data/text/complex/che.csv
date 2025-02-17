@@ -1,0 +1,199 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,dialect_word_count,person_in_prompt
+varrio,neighborhood,two people walking around the varrio,two people walking around the neighborhood,1,1
+varrio,neighborhood,a corner store in the varrio,a corner store in the neighborhood,1,0
+varrio,neighborhood,a bird's eye view of a varrio in Texas,a bird's eye view of a neighborhood in Texas,1,0
+varrio,neighborhood,a man looking at a varrio in New Mexico,a man looking at a neighborhood in New Mexico,1,0
+varrio,neighborhood,a boy standing in a street in a varrio,a boy standing in a street in a neighborhood,1,1
+varrio,neighborhood,colorful houses in a varrio,colorful houses in a neighborhood,1,0
+torque,truck,a large black torque driving on a neighborhood street,a large black truck driving on a neighborhood street,1,0
+torque,truck,a woman driving a green torque on a farm,a woman driving a green truck on a farm,1,1
+torque,truck,a torque with a dog in the back,a truck with a dog in the back,1,0
+torque,truck,a man driving a torque on the highway,a man driving a truck on the highway,1,1
+torque,truck,two kids sitting on the back of a torque,two kids sitting on the back of a truck,1,1
+torque,truck,a torque parked on a driveway,a truck parked on a driveway,1,0
+raspa,shaved ice,a street vendor selling raspa,a street vendor selling shaved ice,1,1
+raspa,shaved ice,a man enjoying raspa on a hot day,a man enjoying shaved ice on a hot day,1,1
+raspa,shaved ice,a cup of raspa near a tree,a cup of shaved ice near a tree,1,0
+raspa,shaved ice,a colorful cup of raspa next to a spoon,a colorful cup of shaved ice next to a spoon,1,0
+raspa,shaved ice,a girl enjoying a bowl of raspa in the park,a girl enjoying a bowl of shaved ice in the park,1,1
+raspa,shaved ice,two people sharing a cup of raspa on the table,two people sharing a cup of shaved ice on the table,1,1
+padrino,godfather,a padrino cutting a birthday cake,a godfather cutting a birthday cake,1,1
+padrino,godfather,a padrino officiating a wedding ceremony,a godfather officiating a wedding ceremony,1,1
+padrino,godfather,a padrino playing chess with his godson,a godfather playing chess with his godson,1,1
+padrino,godfather,a padrino cheering at a baseball game,a godfather cheering at a baseball game,1,1
+padrino,godfather,a padrino enjoying a cigar in a lounge,a godfather enjoying a cigar in a lounge,1,1
+padrino,godfather,a padrino gifting a necklace at a baptism,a godfather gifting a necklace at a baptism,1,1
+fil,field,a person hiking through a fil,a person hiking through a field,1,1
+fil,field,a park with a big fil,a park with a big field,1,0
+fil,field,a person running through a fil,a person running through a field,1,1
+fil,field,a brown dog running in the fil,a brown dog running in the field,1,0
+fil,field,two kids playing around in the fil,two kids playing around in the field,1,1
+fil,field,a wide and open fil next to the lake,a wide and open field next to the lake,1,0
+pinta,jail,two men sitting in a pinta cell,two men sitting in a jail cell,1,1
+pinta,jail,a pinta guard standing in front of a wall,a jail guard standing in front of a wall,1,1
+pinta,jail,a tall pinta building surrounded by barbed wire,a tall jail building surrounded by barbed wire,1,0
+pinta,prison,two men sitting in a pinta cell,two men sitting in a prison cell,1,1
+pinta,prison,a pinta guard standing in front of a wall,a prison guard standing in front of a wall,1,1
+pinta,prison,a tall pinta building surrounded by barbed wire,a tall prison building surrounded by barbed wire,1,0
+jaina,girlfriend,a person and their jaina walking down a street,a person and their girlfriend walking down a street,1,1
+jaina,girlfriend,a man and his jaina laughing,a man and his girlfriend laughing,1,1
+jaina,girlfriend,a person and their jaina dressed in similar looking clothes,a person and their girlfriend dressed in similar looking clothes,1,1
+jaina,girlfriend,my jaina and I driving in a blue car,my girlfriend and I driving in a blue car,1,1
+jaina,girlfriend,me having dinner in a restaurant with my jaina,me having dinner in a restaurant with my girlfriend,1,1
+jaina,girlfriend,a sunny day in the park with my jaina,a sunny day in the park with my girlfriend,1,1
+planch,Iron,a person planch a dress shirt,a person irons a dress shirt,1,1
+planch,Iron,a person planch a towel in a sunny room,a person irons a towel in a sunny room,1,1
+planch,Iron,a planch on a table in a dark room,an iron on a table in a dark room,1,0
+planch,Iron,a planch rod on the floor,a iron rod on the floor,1,0
+planch,Iron,a man cooking with a planch pan,a man cooking with a iron pan,1,1
+planch,Iron,a couple planch coins on the table,a couple iron coins on the table,1,0
+barrio,neighborhood,a festive block party in the barrio,a festive block party in the neighborhood,1,0
+barrio,neighborhood,two people walking around the barrio,two people walking around the neighborhood,1,1
+barrio,neighborhood,a corner store in the barrio,a corner store in the neighborhood,1,0
+barrio,neighborhood,a bird's eye view of a barrio in Texas,a bird's eye view of a neighborhood in Texas,1,0
+barrio,neighborhood,a boy standing in a street in a barrio,a boy standing in a street in a neighborhood,1,1
+barrio,neighborhood,colorful houses in a barrio,colorful houses in a neighborhood,1,0
+Chuco,El Paso,a person exploring Chuco,a person exploring El Paso,1,1
+Chuco,El Paso,a restaurant in Chuco at night,a restaurant in El Paso at night,1,0
+Chuco,El Paso,a street in Chuco with plants,a street in El Paso with plants,1,0
+Chuco,El Paso,a bus station in Chuco,a bus station in El Paso,1,0
+Chuco,El Paso,a typical house in Chuco,a typical house in El Paso,1,0
+Chuco,El Paso,a bird's eye view of Chuco,a bird's eye view of El Paso,1,0
+Chuco Town,El Paso,a person exploring Chuco Town,a person exploring El Paso,1,1
+Chuco Town,El Paso,a restaurant in Chuco Town at night,a restaurant in El Paso at night,1,0
+Chuco Town,El Paso,a street in Chuco Town with plants,a street in El Paso with plants,1,0
+Chuco Town,El Paso,a bus station in Chuco Town,a bus station in El Paso,1,0
+Chuco Town,El Paso,a typical house in Chuco Town,a typical house in El Paso,1,0
+Chuco Town,El Paso,a bird's eye view of Chuco Town,a bird's eye view of El Paso,1,0
+carnal,brother,a woman and her carnal eating at a restaurant,a man and her brother eating at a restaurant,1,1
+carnal,brother,a man hiking with his carnal,a man hiking with his brother,1,1
+carnal,brother,my carnal posing for a picture,my brother posing for a picture,1,1
+carnal,brother,me standing with my carnal,me standing with my brother,1,1
+carnal,brother,my carnal and I sitting at a table,my brother and I sitting at a table,1,1
+carnal,brother,my carnal riding a bike,my brother riding a bike,1,1
+carnalita,sister,a woman and her carnalita eating at a restaurant,a woman and her sister eating at a restaurant,1,1
+carnalita,sister,a man hiking with his carnalita,a man hiking with his sister,1,1
+carnalita,sister,me and my carnalita posing for a picture,me and my sister posing for a picture,1,1
+carnalita,sister,me standing with my carnalita,me standing with my sister,1,1
+carnalita,sister,my carnalita and I sitting at a table,my sister and I sitting at a table,1,1
+carnalita,sister,my carnalita riding a bike,my sister riding a bike,1,1
+carnales,brothers,my carnales playing basketball together,my brothers playing basketball together,1,1
+carnales,brothers,a carnales duo in a rock band,a brothers duo in a rock band,1,1
+carnales,brothers,my carnales on a camping trip,my brothers on a camping trip,1,1
+carnales,brothers,a carnales wrestling match,a brothers wrestling match,1,1
+carnales,brothers,my carnales building a treehouse,my brothers building a treehouse,1,1
+carnales,brothers,a carnales handshake at graduation,a brothers handshake at graduation,1,1
+carnalas,sisters,a carnalas moment at a wedding,a sisters moment at a wedding,1,1
+carnalas,sisters,my carnalas studying together,my sisters studying together,1,1
+carnalas,sisters,a carnalas dance routine,a sisters dance routine,1,1
+carnalas,sisters,my carnalas sharing a secret,my sisters sharing a secret,1,1
+carnalas,sisters,my carnalas having a tea party in the garden,my sisters having a tea party in the garden,1,1
+carnalas,sisters,my carnalas braiding each other's hair,my sisters braiding each other's hair,1,1
+Raza,Mexican American,a group of raza at a family reunion,a group of mexican americans at a family reunion,1,1
+Raza,Mexican American,a raza activist speaking at a rally,a mexican american activist speaking at a rally,1,1
+Raza,Mexican American,a raza community center hosting an event,a mexican american community center hosting an event,1,1
+Raza,Mexican American,a raza cultural festival in the park,a mexican american cultural festival in the park,1,1
+Raza,Mexican American,a raza musician performing live,a mexican american musician performing live,1,1
+Raza,Mexican American,a raza student at a graduation ceremony,a mexican american student at a graduation ceremony,1,1
+vato,young man,a vato wearing sunglasses and a bandana,a young man wearing sunglasses and a bandana,1,1
+vato,young man,a vato skateboarding down a hill,a young man skateboarding down a hill,1,1
+vato,young man,a vato leaning against a lowrider,a young man leaning against a lowrider,1,1
+vato,young man,a vato playing an acoustic guitar,a young man playing an acoustic guitar,1,1
+vato,young man,a vato writing in a journal at a cafe,a young man writing in a journal at a cafe,1,1
+vato,young man,a vato shooting pool at a bar,a young man shooting pool at a bar,1,1
+ese,young man,an ese playing basketball in a local court,a young man playing basketball in a local court,1,1
+ese,young man,an ese walking his pitbull in the neighborhood,a young man walking his pitbull in the neighborhood,1,1
+ese,young man,an ese buying street tacos from a food truck,a young man buying street tacos from a food truck,1,1
+ese,young man,an ese riding a BMX bike in a skate park,a young man riding a BMX bike in a skate park,1,1
+ese,young man,an ese breakdancing on a city street,a young man breakdancing on a city street,1,1
+ese,young man,an ese playing the trumpet in a mariachi band,a young man playing the trumpet in a mariachi band,1,1
+yonke,junkyard,a yonke with stacks of old tires,a junkyard with stacks of old tires,1,0
+yonke,junkyard,a yonke with a rusty old crane,a junkyard with a rusty old crane,1,0
+yonke,junkyard,a yonke filled with abandoned bicycles,a junkyard filled with abandoned bicycles,1,0
+yonke,junkyard,a yonke with a broken-down school bus,a junkyard with a broken-down school bus,1,0
+yonke,junkyard,a yonke guarded by a stray dog,a junkyard guarded by a stray dog,1,0
+yonke,junkyard,a yonke with piles of scrap metal,a junkyard with piles of scrap metal,1,0
+pisto,alcohol,a pisto bottle with a lime wedge,an alcohol bottle with a lime wedge,1,0
+pisto,alcohol,a pisto cocktail with an umbrella,an alcohol cocktail with an umbrella,1,0
+pisto,alcohol,a pisto shot glass on a bar counter,an alcohol shot glass on a bar counter,1,0
+pisto,alcohol,a pisto flask in a back pocket,an alcohol flask in a back pocket,1,0
+pisto,alcohol,a pisto can sitting by a campfire,an alcohol can sitting by a campfire,1,0
+pisto,alcohol,a pisto mixed drink with fruit garnish,an alcohol mixed drink with fruit garnish,1,0
+bato,man,a bato grilling burgers at a cookout,a man grilling burgers at a cookout,1,1
+bato,man,a bato riding a horse at a ranch,a man riding a horse at a ranch,1,1
+bato,man,a bato repairing a broken fence,a man repairing a broken fence,1,1
+bato,man,a bato practicing archery in a field,a man practicing archery in a field,1,1
+bato,man,a bato jogging in a city park,a man jogging in a city park,1,1
+bato,man,a bato watching a sunset from a pier,a man watching a sunset from a pier,1,1
+madrina,godmother,a madrina baking cookies for a bake sale,a godmother baking cookies for a bake sale,1,1
+madrina,godmother,a madrina attending a school play,a godmother attending a school play,1,1
+madrina,godmother,a madrina planting flowers in the garden,a godmother planting flowers in the garden,1,1
+madrina,godmother,a madrina knitting a sweater for her godchild,a godmother knitting a sweater for her godchild,1,1
+madrina,godmother,a madrina singing in a church choir,a godmother singing in a church choir,1,1
+madrina,godmother,a madrina decorating a Christmas tree,a godmother decorating a Christmas tree,1,1
+loco,crazy,a loco guy dancing in the rain,a crazy guy dancing in the rain,1,1
+loco,crazy,a loco stunt on a skateboard,a crazy stunt on a skateboard,1,1
+loco,crazy,a loco artist painting upside down,a crazy artist painting upside down,1,1
+loco,crazy,my loco dog chasing its tail,my crazy dog chasing its tail,1,0
+loco,crazy,a loco expression on her face,a crazy expression on her face,1,1
+loco,crazy,a loco scene at the concert,a crazy scene at the concert,1,1
+mi'ja,daughter,my mi'ja playing in a sandbox,my daughter playing in a sandbox,1,1
+mi'ja,daughter,a mi'ja drawing with chalk on the sidewalk,a daughter drawing with chalk on the sidewalk,1,1
+mi'ja,daughter,my mi'ja holding a big ice cream cone,my daughter holding a big ice cream cone,1,1
+mi'ja,daughter,a mi'ja riding a bike for the first time,a daughter riding a bike for the first time,1,1
+mi'ja,daughter,a mi'ja wearing a princess costume,a daughter wearing a princess costume,1,1
+mi'ja,daughter,my mi'ja exploring the beach,my daughter exploring the beach,1,1
+moji,son,my mijo kicking a soccer ball,my son kicking a soccer ball,1,1
+moji,son,a mijo climbing a tree,a son climbing a tree,1,1
+moji,son,my mijo reading a comic book,my son reading a comic book,1,1
+moji,son,a mijo playing with a toy train,a son playing with a toy train,1,1
+moji,son,my mijo catching a fish,my son catching a fish,1,1
+moji,son,a mijo building a sandcastle,a son building a sandcastle,1,1
+carnitas,pulled pork,a carnitas taco with cilantro and onions,a pulled pork taco with cilantro and onions,1,0
+carnitas,pulled pork,my carnitas burrito bowl,my pulled pork burrito bowl,1,0
+carnitas,pulled pork,a carnitas slider with barbecue sauce,a pulled pork slider with barbecue sauce,1,0
+carnitas,pulled pork,an overflowing carnitas sandwich,an overflowing pulled pork sandwich,1,0
+carnitas,pulled pork,a carnitas pizza with jalapenos,a pulled pork pizza with jalapenos,1,0
+carnitas,pulled pork,a carnitas platter at a family barbecue,a pulled pork platter at a family barbecue,1,0
+Califas,California,a sunny day in califas,a sunny day in california,1,0
+califas,california,a surfer on a califas wave,a surfer on a california wave,1,1
+califas,california,my vacation in califas,my vacation in california,1,1
+califas,california,a road trip through califas,a road trip through california,1,0
+califas,california,an iconic bridge in califas,an iconic bridge in california,1,0
+califas,california,a bustling market in califas,a bustling market in california,1,1
+baro,money,a stack of baro on the counter,a stack of money on the counter,1,0
+baro,money,my wallet full of baro,my wallet full of money,1,0
+baro,money,an envelope with baro,an envelope with money,1,0
+baro,money,a jar filled with baro,a jar filled with money,1,0
+baro,money,a hand dropping baro into a piggy bank,a hand dropping money into a piggy bank,1,1
+baro,money,a suitcase overflowing with baro,a suitcase overflowing with money,1,0
+cuate,close friend,a cuate at a campfire,a close friend at a campfire,1,1
+cuate,close friend,my cuate wearing a birthday hat,my close friend wearing a birthday hat,1,1
+cuate,close friend,a memory with my cuate at the beach,a memory with my close friend at the beach,1,1
+cuate,close friend,an afternoon with my cuate at the cafe,an afternoon with my close friend at the cafe,1,1
+cuate,close friend,a photo of me and my cuate,a photo of me and my close friend,1,1
+cuate,close friend,a cuate helping with homework,a close friend helping with homework,1,1
+apapachar,pamper,a room set up to apapachar someone,a room set up to pamper someone,1,0
+apapachar,pamper,a dog getting apapachar,a dog getting pampered,1,0
+apapachar,pamper,my favorite apapachar session with candles,my favorite pampering session with candles,1,1
+apapachar,pamper,a man deciding to apapachar himself,a man deciding to pamper himself,1,1
+apapachar,pamper,a day out to apapachar with friends,a day out to pamper with friends,1,1
+apapachar,pamper,a cat ready to apapachar in the sun,a cat ready to pamper in the sun,1,0
+lonche,lunch,a delicious lonche in the garden,a delicious lunch in the garden,1,0
+lonche,lunch,my favorite lonche spot in the city,my favorite lunch spot in the city,1,0
+lonche,lunch,an appetizing lonche on a plate,an appetizing lunch on a plate,1,0
+lonche,lunch,a group of people sharing a lonche,a group of people sharing a lunch,1,1
+lonche,lunch,a lonche packed for a picnic,a lunch packed for a picnic,1,0
+lonche,lunch,a child excited for his lonche break,a child excited for his lunch break,1,1
+chamaco,boy,a chamaco flying a kite,a boy flying a kite,1,1
+chamaco,boy,my chamaco wearing a school uniform,my boy wearing a school uniform,1,1
+chamaco,boy,an adventurous chamaco climbing a tree,an adventurous boy climbing a tree,1,1
+chamaco,boy,a chamaco with his toy collection,a boy with his toy collection,1,1
+chamaco,boy,a chamaco making a sandcastle,a boy making a sandcastle,1,1
+chamaco,boy,a tired chamaco after soccer practice,a tired boy after soccer practice,1,1
+chamaca,girl,a chamaca with a flower crown,a girl with a flower crown,1,1
+chamaca,girl,my chamaca's first day at school,my girl's first day at school,1,1
+chamaca,girl,a chamaca playing with her dolls,a girl playing with her dolls,1,1
+chamaca,girl,an artistic chamaca painting a picture,an artistic girl painting a picture,1,1
+chamaca,girl,a chamaca practicing her dance routine,a girl practicing her dance routine,1,1
+chamaca,girl,a chamaca laughing at a playground,a girl laughing at a playground,1,1

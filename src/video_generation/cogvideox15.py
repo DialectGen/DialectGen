@@ -19,7 +19,11 @@ BASE_DIR = Path(__file__).resolve().parents[2]
 # Define and initialize the CogVideoX pipeline
 model_id = "THUDM/CogVideoX1.5-5B"
 pipe = CogVideoXPipeline.from_pretrained(model_id, torch_dtype=torch.bfloat16)
-pipe.to("cuda")
+pipe.enable_sequential_cpu_offload()
+pipe.vae.enable_tiling()
+pipe.vae.enable_slicing()
+
+# pipe.to("cuda")
 
 # Enable any offloading or VAE options as required (if available)
 # (The sample does not include additional VAE configuration)
@@ -80,8 +84,8 @@ def generate_video(prompt: str, save_dir: Path) -> None:
     result = pipe(
         prompt=prompt,
         num_videos_per_prompt=1,
-        num_inference_steps=50,
-        num_frames=81,
+        num_inference_steps=10,
+        num_frames=10,
         guidance_scale=6,
         generator=torch.Generator(device="cuda").manual_seed(42)
     )
