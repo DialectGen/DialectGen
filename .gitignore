@@ -54,6 +54,7 @@ pretrained/
 # Dataset
 data/image
 data/video
+data/cache
 
 # Ouputs/
 out/
