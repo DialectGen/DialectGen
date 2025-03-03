@@ -1,0 +1,34 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,dialect_word_count,person_in_prompt
+simkin,champagne,a person holding a bottle of simkin,a person holding a bottle of champagne,1,1
+brinjal,eggplant,a brinjal plant in a garden,an eggplant plant in a garden,1,0
+kirana,convenience store,a kirana with people inside,a convenience store with people inside,1,1
+medical hall,pharmacy,a medical hall with lots of people outside,a pharmacy with lots of people outside,1,1
+mandapa,temple,a mandapa beside a sandy landscape,a temple beside a sandy landscape,1,0
+ghat,mountain pass,a roadway in the ghat,a roadway in the mountain pass,1,0
+medico,medical practitioner,a medico standing outside a building,a medical practitioner standing outside a building,1,1
+nai,barber,a child getting his hair cut by a nai,a child getting his hair cut by a barber,1,1
+thana,police station,a thana on a road with lots of trees,a police station on a road with lots of trees,1,0
+dai,midwife,a dai holding a bottle of medicine,a midwife holding a bottle of medicine,1,1
+chick,bamboo blinds,a doorway with chick covering it,a doorway with bamboo blinds covering it,1,0
+abba,father,a woman walking with her abba and a dog,a woman walking with her father and a dog,1,1
+pial,veranda,a modern looking pial on a house,a modern looking veranda on a house,1,0
+nullah,river-bed,a bridge across a nullah,a bridge across a river-bed,1,0
+rani,queen,a rani in a garden,a queen in a garden,1,1
+math,monastery,a math with a crowd of people outside,a monastery with a crowd of people outside,1,1
+khana,food,a person buying khana from a grocery store,a person buying food from a grocery store,1,1
+nagar,town,a nagar in a desert climate,a town in a desert climate,1,0
+oont,camel,two oonts walking down the street,two camels walking down the street,1,0
+agarbatti,incense,agarbatti inside a box on a table,incense inside a box on a table,1,0
+kulang,crane bird,a person looking at a kulang,a person looking at a crane bird,1,1
+godown,warehouse,a person driving a forklift inside a godown,a person driving a forklift inside a warehouse,1,1
+petrol bunk,gas station,a petrol bunk in a big city,a gas station in a big city,1,0
+mo-bike,motorcycle,a person riding a mo-bike in a big city,a person riding a motorcycle in a big city,1,1
+bundook,rifle,a store selling bundooks,a store selling rifles,1,0
+handicraftsman,craftsman,a talented handicraftsman from the village,a talented craftsman from the village,1,1
+incharge,supervisor,an incharge in the office breakroom,a supervisor in the office breakroom,1,1
+pani,water,a jar filled with pani on a wooden table,a jar filled with water on a wooden table,1,0
+yatra,festival,a yatra with lots of people,a festival with lots of people,1,1
+naka,checkpoint,a naka with police officers,a checkpoint with police officers,1,1
+tiffin,luncheon,a plant-based tiffin,a plant-based luncheon,1,1
+satta,gambling,a place of satta with lots of people,a place of gambling with lots of people,1,1
+almirah,wardrobe,my personal almirah for all my books,my personal wardrobe for all my books,1,0

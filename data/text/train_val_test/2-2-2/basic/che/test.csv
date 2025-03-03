@@ -1,0 +1,67 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,polysemic
+varrio,neighborhood,a beautiful varrio,a beautiful neighborhood,1,0
+varrio,neighborhood,a busy varrio,a busy neighborhood,0,0
+torque,truck,a new torque,a new truck,1,1
+torque,truck,an old torque,an old truck,0,1
+raspa,shaved ice,cup of raspa on a table,cup of shaved ice on a table,1,0
+raspa,shaved ice,a blue raspa,a blue shaved ice,1,0
+padrino,godfather,a man with a padrino,a man with a godfather,1,0
+padrino,godfather,a woman with a padrino,a woman with a godfather,1,0
+fil,field,a green fil,a green field,1,0
+fil,field,a busy fil,a busy field,0,0
+pinta,prison,a modern pinta,a modern prison,1,0
+pinta,prison,a painting of a pinta,a painting of a prison,0,0
+jaina,girlfriend,me and my jaina,me and my girlfriend,1,0
+jaina,girlfriend,at the park with my jaina,at the park with my girlfriend,1,0
+planch,iron,a planch pan,an iron pan,1,0
+planch,iron,a person with a planch,a person with an iron,0,0
+barrio,neighborhood,a beautiful barrio,a beautiful neighborhood,1,0
+barrio,neighborhood,a busy barrio,a busy neighborhood,0,0
+Chuco,El Paso,a typical house in Chuco,a typical house in El Paso,0,0
+Chuco,El Paso,a bird's eye view of Chuco,a bird's eye view of El Paso,0,0
+Chuco Town,El Paso,a typical house in Chuco,a typical house in El Paso,0,0
+Chuco Town,El Paso,a bird's eye view of Chuco,a bird's eye view of El Paso,0,0
+carnal,brother,a carnal at a table,a brother at a table,1,1
+carnal,brother,a carnal at a park,a brother at a park,1,1
+carnalita,sister,a carnalita at a table,a sister at a table,1,0
+carnalita,sister,a carnalita at a park,a sister at a park,1,0
+carnales,brothers,carnales together,brothers together,1,0
+carnales,brothers,carnales walking,brothers walking,1,0
+carnalas,sisters,carnalas together,brothers together,1,0
+carnalas,sisters,carnalas walking,brothers walking,1,0
+Raza,Mexican American,a young raza,a young Mexican American,1,0
+Raza,Mexican American,an old raza,an old Mexican American,1,0
+vato,young man,a vato on the ground,a young man on the ground,1,0
+vato,young man,a vato leaning,a young man leaning,1,0
+ese,young man,an ese in a neighborhood,a young man in a neighborhood,1,0
+ese,young man,an ese on a street,a young man on a street,1,0
+yonke,junkyard,a small yonke,a small junkyard,0,0
+yonke,junkyard,a dirty yonke,a dirty junkyard,0,0
+pisto,alcohol,a large pisto,a large alcohol,0,0
+pisto,alcohol,a small pisto,a small alcohol,0,0
+bato,man,a bato in a park,a man in a park,1,0
+bato,man,a bato on a street,a man on a street,1,0
+madrina,godmother,a madrina at a park,a godmother at a park,1,0
+madrina,godmother,a madrina in a car,a godmother in a car,1,0
+loco,crazy,a loco painting,a crazy painting,1,0
+loco,crazy,a loco toy,a crazy toy,1,0
+mi'ja,daughter,an older mi'ja,an older daughter,1,0
+mi'ja,daughter,a painting of a mi'ja,a painting of a daugher,1,0
+moji,son,an older mijo,an older son,1,0
+moji,son,a painting of a mijo,a painting of a son,1,0
+carnitas,pulled pork,carnitas at a store,pulled pork at a store,0,0
+carnitas,pulled pork,a small amount of carnitas,a small amount of pulled pork,0,0
+califas,california,an iconic bridge in Califas,an iconic bridge in California,0,0
+califas,california,a Califas suburb,a California suburb,1,0
+baro,money,baro on the sidewalk,money on the sidewalk,1,0
+baro,money,a person holding baro,a person holding money,0,0
+cuate,close friend,a cuate on the sidewalk,a close friend on the sidewalk,1,0
+cuate,close friend,a cuate in a park,a close friend in a park,1,0
+apapachar,pamper,a woman getting apapachar,a woman getting pampered,1,0
+apapachar,pamper,a man getting apapachar,a man getting apapachar,0,0
+lonche,lunch,lonche in the forest,lunch in the forest,0,0
+lonche,lunch,lonche in the meadow,lunch in the meadow,1,0
+chamaco,boy,a chamaco at a school,a boy at a school,1,0
+chamaco,boy,a chamaco and a soccer ball,a boy and a soccer ball,1,0
+chamaca,girl,a chamaca at a school,a girl at a school,1,0
+chamaca,girl,a chamaca at a store,a girl at a store,1,0

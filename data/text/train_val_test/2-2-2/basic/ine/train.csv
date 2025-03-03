@@ -1,0 +1,67 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,Polysemy_Prompt,dialect_word_count,person_in_prompt,polysemic
+math,monastery,an old math,an old monastery,a student solving math problems on a chalkboard,1,0,1
+math,monastery,a math on a hill,a monastery on a hill,a professor exploring complex math equations,1,0,1
+simkin,champagne,simkin on a wooden table,champagne on a wooden table,,1,0,0
+simkin,champagne,simkin in a cabinet,champagne in a cabinet,,1,0,0
+dai,midwife,an old dai,an old midwife,,1,1,0
+dai,midwife,a dai with a woman,a midwife with a woman,,1,1,0
+medico,medical practitioner,a medico at a table,a medical practitioner at a table,,1,1,0
+medico,medical practitioner,an old medico,an old medical practitioner,,1,1,0
+chick,bamboo blinds,a window covered with chick,a window covered with bamboo blinds,a fluffy chick in a nest,1,0,1
+chick,bamboo blinds,well-designed chick,well-designed bamboo blinds,a mother hen with her adorable chicks,1,0,1
+ghat,mountain pass,a dark ghat,a dark mountain pass,,1,0,0
+ghat,mountain pass,a ghat covered in snow,a mountain pass covered in snow,,1,0,0
+kirana,convenience store,an old kirana,an old convenience store,,1,0,0
+kirana,convenience store,a modern kirana,a modern convenience store,,1,0,0
+mandapa,temple,an old mandapa,an old temple,,1,0,0
+mandapa,temple,a mandapa on a hill,a temple on a hill,,1,0,0
+nai,barber,a nai in red,a barber in red,,1,1,0
+nai,barber,an old nai ,an old barber,,1,1,0
+thana,police station,a thana in a city,a police station in a city,,1,0,0
+thana,police station,a busy thana,a busy police station,,1,0,0
+abba,father,an abba in front of a house,a father in front of a house,,1,1,0
+abba,father,a girl standing with her abba,a girl standing with her father,,1,1,0
+pial,veranda,a beautiful pial,a beautiful veranda,,1,0,0
+pial,veranda,an expensive looking pial,an expensive looking veranda,,1,0,0
+nullah,riverbed,a dry nullah,a dry riverbed,,1,0,0
+nullah,riverbed,a beautiful nullah in a painting,a beautiful riverbed in a painting,,1,0,0
+rani,queen,a beautiful rani ,a beautiful queen,,1,1,0
+rani,queen,a rani in a garden,a queen in a garden,,1,1,0
+brinjal,eggplant,a sliced brinjal,a sliced eggplant,,1,0,0
+brinjal,eggplant,a brinjal on a table,an eggplant on a table,,1,0,0
+khana,food,a table of khana,a table of food,,1,0,0
+khana,food,a basket with khana,a basket with food,,1,0,0
+nagar,town,a bustling nagar,a bustling town,,1,1,0
+nagar,town,an abandoned nagar,an abandoned town,,1,0,0
+oont,camel,a dying oont,a dying camel,,1,0,0
+oont,camel,a oont next to water,a camel next to water,,1,0,0
+agarbatti,incense,agarbatti in a house,incense in a house,,1,0,0
+agarbatti,incense,agarbatti on a table,incense on a table,,1,0,0
+kulang,crane bird,a painting of a beautiful kulang,a painting of a beautiful crane bird,,1,0,0
+kulang,crane bird,a large group of kulang,a large group of crane birds,,1,0,0
+godown,warehouse,a enormous godown,a enormous warehouse,,1,0,0
+godown,warehouse,an abandoned godown,an abandoned warehouse,,1,0,0
+medical hall,pharmacy,painting of a medical hall,painting of a pharmacy,,1,0,0
+medical hall,pharmacy,a modern medical hall ,a modern pharmacy,,1,0,0
+petrol bunk,gas station,an abandoned petrol bunk,an abandoned gas station,,1,0,0
+petrol bunk,gas station,a petrol bunk in a desert,a gas station in a desert,,1,0,0
+mo-bike,motorcycle,a man with a blue mo-bike,a man with a blue motorcycle,,1,1,0
+mo-bike,motorcycle,a black mo-bike,a black motorcycle,,1,1,0
+bundook,rifle,two bundooks leaning on each other,two rifles leaning on each other,,1,0,0
+bundook,rifle,a person holding a bundook,a person holding a rifle,,1,0,0
+handicraftsman,craftsman,an old handicraftsman,an old craftsman,,1,1,0
+handicraftsman,craftsman,a group of handicraftsmen,a group of craftsmen,,1,1,0
+incharge,supervisor,an angry incharge,an angry supervisor,,1,1,0
+incharge,supervisor,an old incharge ,an old supervisor,,1,1,0
+pani,water,some pani on the table,some water on the table,,1,0,0
+pani,water,a child with pani,a child with water,,1,1,0
+yatra,festival,a colorful yatra,a colorful festival,,1,0,0
+yatra,festival,a lively yatra,a lively festival,,1,0,0
+naka,checkpoint,a man next to a naka,a man next to a checkpoint,,1,1,0
+naka,checkpoint,a small red naka,a small red checkpoint,,1,0,0
+tiffin,luncheon,an outdoor tiffin,an outdoor luncheon,,1,0,0
+tiffin,luncheon,a lively tiffin,a lively luncheon,,1,1,0
+satta,gambling,the inside of a satta den,the inside of a gambling den,,1,1,0
+satta,gambling,a satta room,a gambling room,,1,1,0
+almirah,wardrobe,a luxurious almirah,a luxurious wardrobe,,1,0,0
+almirah,wardrobe,an old almirah,an old wardrobe,,1,0,0

@@ -1,0 +1,67 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,dialect_word_count,person_in_prompt
+simkin,champagne,simkin and two glasses on a table outside,champagne and two glasses on a table outside,1,0
+simkin,champagne,simkin in a glass on a table,champagne in a glass on a table,1,0
+brinjal,eggplant,brinjal being sliced,eggplant being sliced,1,1
+brinjal,eggplant,brinjal in a pot,eggplant in a pot,1,0
+kirana,convenience store,a couple inside a kirana,a couple inside a convenience store,1,1
+kirana,convenience store,a person buying an apple from the kirana,a person buying an apple from the convenience store,1,1
+medical hall,pharmacy,a person walking inside a medical hall,a person walking inside a pharmacy,1,1
+medical hall,pharmacy,a person talking to a worker inside a medical hall,a person talking to a worker inside a pharmacy,1,1
+mandapa,temple,a well-dressed person in front of a mandapa,a well-dressed person in front of a temple,1,1
+mandapa,temple,a family in front of a mandapa,a family in front of a temple,1,1
+ghat,mountain pass,a ghat with a road with lots of cars,a mountain pass with a road with lots of cars,1,0
+ghat,mountain pass,two people walking through the ghat,two people walking through the mountain pass,1,0
+medico,medical practitioner,a medico walking in a park,a medical practitioner walking in a park,1,1
+medico,medical practitioner,the medico talking with a patient in a room,the medical practitioner talking with a patient in a room,1,1
+nai,barber,a nai shop in a busy city,a barber shop in a busy city,1,0
+nai,barber,a friendly local nai,a friendly local barber,1,1
+thana,police station,a person talking to an officer inside a thana,a person talking to an office inside a police station,1,1
+thana,police station,two officers speaking to an arrested person in a thana,two officers speaking to an arrested person in a police station,1,1
+dai,midwife,a woman in a bed with a dai next to it,a woman in a bed with a midwife next to it,1,1
+dai,midwife,a dai talking with a doctor,a midwife talking with a doctor,1,1
+chick,bamboo blinds,a kitchen with a window covered with chick,a kitchen with a window covered with bamboo blinds,1,0
+chick,bamboo blinds,a window covered with chick,a window covered with bamboo blinds,1,0
+abba,father,a man hiking with his abba,a man hiking with his father,1,1
+abba,father,a woman in a car with her abba,a woman in a car with her father,1,1
+pial,veranda,a small one story house with a pial,a small one story house with a veranda,1,0
+pial,veranda,people relaxing under a pial,people relaxing under a veranda,1,1
+nullah,river-bed,a nullah in a forest,a river-bed in a forest,1,0
+nullah,river-bed,a nullah in an alpine meadow,a river-bed in an alpine meadow,1,0
+rani,queen,a rani inside a palace,a queen in a palace,1,1
+rani,queen,a rani sitting at a banquet,a queen sitting at a banquet,1,1
+math,monastery,an older person entering a math,an older person entering a monastery,1,1
+math,monastery,a math in an old city center,a monastery in an old city center,1,0
+khana,food,a couple enjoying khana at a restaurant,a couple enjoying food at a restaurant,1,1
+khana,food,a person cooking khana on the stove,a person cooking food on the stove,1,1
+nagar,town,birds-eye view of a nagar,birds-eye view of a town,1,0
+nagar,town,a couple walking in a nagar,a couple walking in a town,1,1
+oont,camel,a person giving water to an oont,a person giving water to a camel,1,1
+oont,camel,an oont eating food,a camel eating food,1,0
+agarbatti,incense,a person holding a bundle of agarbatti,a person holding a bunding of incense,1,1
+agarbatti,incense,agarbatti in a stand,incense in a stand,1,0
+kulang,crane bird,a kulang with a caught fish,a crane bird with a caught fish,1,0
+kulang,crane bird,two kulangs on a river,two crane birds on a river,1,0
+godown,warehouse,a godown with lots of people inside,a warehouse with lots of people inside,1,1
+godown,warehouse,a person walking inside a godown,a person walking inside a warehouse,1,1
+petrol bunk,gas station,a person getting gas for their car at a petrol bunk,a person getting gas for their car at a gas station,1,1
+petrol bunk,gas station,a very busy petrol bunk,a very busy gas station,1,1
+mo-bike,motorcycle,three mo-bikes riding on a road,three motorcycles riding on a road,1,1
+mo-bike,motorcycle,a person riding a mo-bike on a dirt road,a person riding a motorcycle on a dirt road,1,1
+bundook,rifle,a woman aiming a bundook at a target,a woman aiming a rifle,1,1
+bundook,rifle,several soldiers holding bundooks,several soldiers holding rifles,1,1
+handicraftsman,craftsman,a skilled handicraftsman at work,a skilled craftsman at work,1,1
+handicraftsman,craftsman,an elderly handicraftsman sharing his wisdom,an elderly craftsman sharing his wisdom,1,1
+incharge,supervisor,an incharge giving instructions to the team,a supervisor giving instructions to the team,1,1
+incharge,supervisor,a friendly incharge helping out,a friendly supervisor helping out,1,1
+pani,water,a pitcher filled with pani,a pitcher filled with water,1,0
+pani,water,a vendor selling pani bottles,a vendor selling water bottles,1,1
+yatra,festival,an autumn yatra in the town center,an autumn festival in the town city,1,1
+yatra,festival,food stalls at a yatra,food stalls at a festival,1,1
+naka,checkpoint,a long queue at the toll naka,a long queue at the toll checkpoint,1,1
+naka,checkpoint,a naka at the national border,a checkpoint at the national border,1,1
+tiffin,luncheon,a company having a tiffin,a company having a luncheon,1,1
+tiffin,luncheon,a fancy indoor tiffin,a fancy indoor luncheon,1,1
+satta,gambling,a place of satta in a big city,a place of gambling in a big city,1,1
+satta,gambling,an illegal satta den,an illegal gambling den,1,1
+almirah,wardrobe,a painted almirah with intricate designs,a painted wardrobe with intricate designs,1,0
+almirah,wardrobe,an almirah storing precious heirlooms,a wardrobe storing precious heirlooms,1,0

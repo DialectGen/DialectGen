@@ -1,0 +1,69 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,dialect_word_count,person_in_prompt
+lil,little,a lil cat sitting on top of the piano,a little cat sitting on top of the piano,1,0
+lil,little,a lil dog playing in the backyard,a little dog playing in the backyard,1,0
+whip,car,a man driving a new whip on the freeway,a man driving a new car on the freeway,1,1
+whip,car,a red whip parked in the garage,a red car parked in the garage,1,0
+crib,house,a family in front of their new crib,a family in front of their new house,1,1
+crib,house,a retiree and her one story crib with a flower garden,a retiree and her one story house with a flower garden,1,1
+holla,holler,a guy holla at a woman,a man holler at a woman,2,1
+holla,holler,a guy holla at his homie,a man holler at his close friend,3,1
+homie,close friend,my homie talking on the phone,my close friend talking on the phone,1,1
+homie,close friend,me and my homie,me and my close friend,1,1
+my crew,my friends,taking a selfie with my crew,taking a selfie with my friends,1,1
+my crew,my friends,me and my crew hanging out at a cafe,me and my friends hanging out at a cafe,1,1
+nana,grandma,my nana with my mom,my grandmother with my mom,1,1
+nana,grandma,my nana and her cat,my grandmother and her cat,1,1
+bae,lover,my bae posing in a botanical garden,my lover posing in a botanical garden,1,1
+bae,lover,my bae drinking coffee,my lover drinking coffee,1,1
+dough,money,a man paying dough to the cashier,a man paying money to the cashier,1,1
+dough,money,a woman paying dough to the shopkeeper,a woman paying money to the shopkeeper,1,1
+kicks,sneakers,a pair of stylish kicks,a pair of stylish sneakers,1,0
+kicks,sneakers,a pair of gray kicks,a pair of gray sneakers,1,0
+piece,gun,a woman firing her piece at the target,a woman firing her gun at the target,1,1
+piece,gun,a soldier carrying a piece ,a soldier carrying a gun,1,1
+threads,clothes,a man wearing minimalist threads,a man wearing minimalist clothes,1,1
+threads,clothes,some fresh threads on a mannequin,some fresh clothes on a mannequin,1,0
+grill,dental jewelry,a man wearing green grills,a man wearing green dental jewelry,1,1
+grill,dental jewelry,a woman wearing grills,a woman wearing dental jewelry,1,1
+tint,tinted car windows,a red Tesla with a very dark tint,a red Tesla with very dark tinted windows,1,0
+tint,tinted car windows,a SUV with a dark tint,a SUV with dark tinted windows,1,0
+drop,convertible car,two people riding in a drop,two people riding in a convertible,1,1
+drop,convertible car,a guy driving a sporty drop,a man driving a sporty convertible,2,1
+lid,hat/cap,a guy wearing a red lid,a man wearing a red cap,2,1
+lid,hat/cap,a guy with a blue lid,a man with a blue cap,1,1
+glass,mirror,a couple looking at their reflection in a glass,a couple looking at their reflection in a mirror,1,1
+glass,mirror,a glass mounted above the sink in a bathroom,a mirror mounted above the sink in a bathroom,1,0
+gat,gun,a couple of soldiers with gats,a couple of soldiers with guns,1,1
+gat,gun,a group of people with gats,a group of people with guns,1,1
+chains,necklace,a guy wearing rose gold chains,a man wearing a rose gold necklace,2,1
+chains,necklace,some gold chains around the neck,some gold necklaces around the neck,1,1
+roller,car,a guy riding in a roller,a guy riding in a car,2,1
+roller,car,a group of friends in a roller,a group of friends in a car,1,1
+hammer,gun,a person firing a small hammer,a person firing a small gun,1,1
+hammer,gun,a woman aiming a hammer,a woman aiming a gun,1,1
+bussin,tasty,a guy enjoying bussin food,a man enjoying tasty food,2,1
+bussin,tasty,a woman buying bussin food,a woman buying tasty food,1,1
+hood,neighborhood,driving through the dense urban hood with a convertible,driving through the dense urban neighborhood with a convertible,1,0
+hood,neighborhood,walking through the bland suburban hood,walking through the bland suburban neighborhood,1,1
+paper,money/bills,the foodtruck worker getting paper from the customer for the purchase,the foodtruck worker getting money from the customer for the purchase,1,1
+paper,money/bills,a man paying back his friend the paper for the coffee,a man paying back his friend the money for the coffee,1,1
+fam,close friends,studying with my fam at a library,studying with my close friends at a library,1,1
+fam,close friends,me and my fam gathered for a barbecue,me and my close friends gathered for a barbecue,1,1
+boo,lover,a woman and her boo at a fancy restaurant,a woman and her lover at a fancy restaurant,1,1
+boo,lover,a man and his boo on a flight,a man and his lover on a flight,1,1
+homeboy,close friend,a man and his homeboy walking a golden retriever,a man and his close friend walking a golden retriever,1,1
+homeboy,close friend,me and my homeboy playing video games on the television,me and my close friend playing video games on the television,1,1
+mellow,close friend,an evening hanging out with my mellow,an evening hanging out with my close friend,1,1
+mellow,close friend,me and my mellow eating at a cafe,me and my close friend eating at a cafe,1,1
+nappiness,hair frizziness,a struggle to manage the morning nappiness,a struggle to manage the morning hair frizziness,1,1
+nappiness,hair frizziness,nappiness making a statement today,hair frizziness making a statement today,1,1
+bling,flashy jewelry,an outfit completed with some serious bling,an outfit completed with some serious flashy jewelry,1,1
+bling,flashy jewelry,a showcase of new bling at the store,a showcase of new flashy jewelry at the store,1,0
+fit,outfit,a fit that looks like it's from a Korean drama,an outfit that looks like it's from a Korean drama,1,1
+fit,outfit,my go-to fit for first dates,my go-to outfit for first dates,1,1
+peepers,glasses,a pair of modern peepers worn by a woman,a pair of modern glasses worn by a woman,1,1
+peepers,glasses,my stylish peepers with the gold frame,my stylish glasses with the gold frame,1,1
+tat,tattoo,a tat artist known for intricate designs,a tattoo artist known for intricate designs,1,1
+tat,tattoo,a tat on a woman's neck,a tattoo on a woman's neck,1,1
+dreads,dreadlocks,taking care of my dreads with essential oils,taking care of my dreadlocks with essential oils,1,1
+dreads,dreadlocks,two people with dreads,two people with dreadlocks,1,1

@@ -1,0 +1,32 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,dialect_word_count,person_in_prompt
+lorry,semitruck,a lorry with a flat tyre,a semitruck with a flat tire,2,0
+jumper,sweater,a jumper folded neatly,a sweater folded neatly,1,0
+loo,bathroom,a loo with a shower curtain,a bathroom with a shower curtain,1,0
+banger,sausage,my bangers sizzling in a pan,my sausages sizzling in a pan,1,0
+rubbish,trash,a rubbish skip in a construction site,a trash dumpster in a construction site,2,0
+flat,apartment,my flat with an open-plan kitchen,my apartment with an open-plan kitchen,1,0
+car boot,car trunk,my car boot after a shopping spree,my car trunk after a shopping spree,1,0
+queue,line,a queue at the post office,a line at the post office,1,1
+trousers,pants,my trousers hanging in the closet,my pants hanging in the closet,1,0
+biscuit,cookie,a biscuit with a bite taken out,a cookie with a bite taken out,1,0
+torch,flashlight,a policeman shining a torch at the suspect,a policeman shining a flashlight at the suspect,1,1
+nappy,diaper,a nappy on a clothesline,a diaper on a clothesline,1,0
+petrol,gasoline,a petrol station sign,a gasoline station sign,1,0
+football,soccer,a goalkeeper trying to catch a football,a goalkeeper trying to catch a soccer ball,1,1
+chemist,pharmacy,a chemist with a neon sign,a pharmacy with a neon sign,1,0
+chips,french fries,a chips portion next to a burger,a french fries portion next to a burger,1,0
+barrister,attorney,a barrister with legal books,an attorney with legal books,1,1
+caretaker,janitor,a building caretaker taking out the rubbish,a building janitor taking out the trash,1,1
+cooker,stove,my cooker after making breakfast,my stove after making breakfast,1,0
+cot,crib,a cot with stuffed animals,a crib with stuffed animals,1,0
+hoarding,billboard,a hoarding lit up at night,a billboard lit up at night,1,0
+hoover,vacuum cleaner,a man using a hoover on a carpeted floor,a man using a vacuum cleaner on a carpeted floor,1,1
+jug,pitcher,a jug in the refrigerator,a pitcher in the refrigerator,1,0
+postman,mailman,my postman with a big sack,my mailman with a big bag,2,1
+pram,baby carriage,a man walking with a pram on a cobblestone street,a man walking with a baby carriage on a cobblestone street,1,1
+saloon,sedan,my saloon at the petrol station,my sedan at the gas station,2,0
+bonnet,hood,a hood covered in snow,a bonnet with racing stripes,1,0
+coriander,cilantro,a coriander bunch at the market,a cilantro bunch at the market,1,0
+courgette,zucchini,a courgette in a shopping basket,a zucchini in a shopping basket,1,0
+tube,subway,a tube map on the wall,a subway map on the wall,1,0
+aubergine,eggplant,my aubergine in a curry,my eggplant in a curry,1,0

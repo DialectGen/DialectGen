@@ -17,10 +17,10 @@ loo,bathroom,a line of people waiting outside the loo,a line of people waiting o
 loo,bathroom,a loo with a leaky tap,a bathroom with a leaky faucet,2,0
 loo,bathroom,a loo with blue tiles,a bathroom with blue tiles,1,0
 loo,bathroom,a loo with a shower curtain,a bathroom with a shower curtain,1,0
-bangers,sausages,a pack of bangers at the grocery store,a pack of sausages at the grocery store,1,0
+banger,sausage,a pack of bangers at the grocery store,a pack of sausages at the grocery store,1,0
 banger,sausage,a plate of bangers and eggs,a plate of sausages and eggs,1,0
 banger,sausage,a man cutting a banger in half,a man cutting a sausage in half,1,1
-bangers,sausages,bangers on a grill,sausages on a grill,1,0
+banger,sausage,bangers on a grill,sausages on a grill,1,0
 banger,sausage,bangers and mash on a plate,sausages and mashed potatoes on a plate,2,0
 banger,sausage,my bangers sizzling in a pan,my sausages sizzling in a pan,1,0
 rubbish,trash,a woman throwing away the rubbish,a woman throwing away the trash,1,1
@@ -54,11 +54,11 @@ trousers,pants,a trousers display in a store,a pants display in a store,1,0
 trousers,pants,a trousers with a matching blazer,pants with a matching blazer,1,0
 trousers,pants,my trousers hanging in the closet,my pants hanging in the closet,1,0
 biscuit,cookie,a woman enjoying a cup of tea with a biscuit,a woman enjoying a cup of tea with a cookie,1,1
-biscuits,cookies,a tin of assorted biscuits,a tin of assorted cookies,1,0
-biscuits,cookies,a man baking homemade biscuits,a man baking homemade cookies,1,1
+biscuit,cookie,a tin of assorted biscuits,a tin of assorted cookies,1,0
+biscuit,cookie,a man baking homemade biscuits,a man baking homemade cookies,1,1
 biscuit,cookie,a biscuit with chocolate chips,a cookie with chocolate chips,1,0
-biscuits,cookies,a biscuit on a baking tray,a cookie on a baking tray,1,0
-biscuits,cookies,a biscuit with a bite taken out,a cookie with a bite taken out,1,0
+biscuit,cookie,a biscuit on a baking tray,a cookie on a baking tray,1,0
+biscuit,cookie,a biscuit with a bite taken out,a cookie with a bite taken out,1,0
 torch,flashlight,a beam of light from the torch,a beam of light from the flashlight,1,0
 torch,flashlight,a man searching in the dark with a torch,a man searching in the dark with a flashlight,1,1
 torch,flashlight,a rechargeable LED torch,a rechargeable LED flashlight,1,0
@@ -66,17 +66,11 @@ torch,flashlight,my torch in a toolbox,my flashlight in a toolbox,1,0
 torch,flashlight,a torch with low battery,a flashlight with low battery,1,0
 torch,flashlight,a policeman shining a torch at the suspect,a policeman shining a flashlight at the suspect,1,1
 nappy,diaper,a mother changing her baby's nappy,a mother changing her baby's diaper,1,1
-nappies,diapers,a pack of cloth nappies,a pack of cloth diapers,1,0
-nappies,diapers,a happy baby wearing pink nappies,a happy baby wearing pink diapers,1,1
+nappy,diaper,a pack of cloth nappies,a pack of cloth diapers,1,0
+nappy,diaper,a happy baby wearing pink nappies,a happy baby wearing pink diapers,1,1
 nappy,diaper,a nappy on a changing table,a diaper on a changing table,1,0
-nappies,diapers,nappies with cute patterns,diapers with cute patterns,1,0
+nappy,diaper,nappies with cute patterns,diapers with cute patterns,1,0
 nappy,diaper,a nappy on a clothesline,a diaper on a clothesline,1,0
-bangers,sausages,a pack of bangers at the grocery store,a pack of sausages at the grocery store,1,0
-banger,sausage,a plate of bangers and eggs,a plate of sausages and eggs,1,0
-banger,sausage,a man cutting a banger in half,a man cutting a sausage in half,1,1
-bangers,sausages,bangers on a grill,sausages on a grill,1,0
-banger,sausage,bangers and mash on a plate,sausages and mashed potatoes on a plate,2,0
-banger,sausage,my bangers sizzling in a pan,my sausages sizzling in a pan,1,0
 petrol,gasoline,a petrol station at night,a gasoline station at night,1,0
 petrol,gasoline,a man filling up his car with petrol,a man filling up his car with gasoline,1,1
 petrol,gasoline,a sign showing petrol prices,a sign showing gasoline prices,1,0
@@ -175,10 +169,10 @@ coriander,cilantro,coriander leaves on a cutting board,cilantro leaves on a cutt
 coriander,cilantro,a coriander bunch at the market,a cilantro bunch at the market,1,0
 courgette,zucchini,a man slicing a courgette in the kitchen,a man slicing a zucchini in the kitchen,1,1
 courgette,zucchini,a woman picking a courgette at the market,a woman picking a zucchini at the market,1,1
-courgettes,zucchinis,a large basket of courgettes,a large basket of zucchinis,1,0
+courgette,zucchini,a large basket of courgettes,a large basket of zucchinis,1,0
 courgette,zucchini,a courgette in a vegetable garden,a zucchini in a vegetable garden,1,0
 courgette,zucchini,my courgette in a stir fry,my zucchini in a stir fry,1,0
-courgettes,zucchinis,a courgette in a shopping basket,a zucchini in a shopping basket,1,0
+courgette,zucchini,a courgette in a shopping basket,a zucchini in a shopping basket,1,0
 tube,subway,a crowd of people waiting for the tube,a crowd of people waiting for the subway,1,1
 tube,subway,a tube station,a subway station,1,0
 tube,subway,a man sitting inside the tube,a man sitting inside the subway,1,1

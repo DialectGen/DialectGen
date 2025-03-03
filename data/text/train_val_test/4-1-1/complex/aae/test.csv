@@ -1,0 +1,35 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,dialect_word_count,person_in_prompt
+lil,little,a lil baby wrapped in a blanket,a little baby wrapped in a blanket,1,1
+whip,car,a black whip with chrome rims,a black car with chrome rims,1,0
+crib,house,a brick crib with a garden,a brick house with a garden,1,0
+holla,holler,she heard a holla from across the street,she heard a holler from across the street,1,1
+homie,close friend,a homie with a skateboard,a close friend with a skateboard,1,1
+my crew,my friends,a crew in matching shirts,a group of friends in matching shirts,1,1
+nana,grandma,a nana baking cookies,a grandma baking cookies,1,1
+bae,lover,a bae taking a selfie,a lover taking a selfie,1,1
+dough,money,an armored cash carrier carrying bags of dough,an armored cash carrier carrying bags of money,1,0
+kicks,sneakers,a pair of kicks hanging on a wire,a pair of sneakers hanging on a wire,1,0
+piece,gun,a piece tucked into a waistband,a gun tucked into a waistband,1,0
+threads,clothes,a rack of designer threads,a rack of designer clothes,1,0
+grill,dental jewelry,a gold grill on a smiling face,gold dental jewelry on a smiling face,1,1
+tint,tinted car windows,a schoolbus with orange tint,a schoolbus with orange tinted windows,1,0
+drop,convertible car,a vintage drop parked at the beach,a vintage convertible car parked at the beach,1,0
+lid,hat/cap,a boy wearing a lid matching his outfit,a boy wearing a cap matching his outfit,1,1
+glass,mirror,a tall glass in the fitting room,a tall mirror in the fitting room,1,0
+gat,gun,a gat inside a drawer,a gun inside a drawer,1,0
+chains,necklace,a man wearing dark silver chains,a man wearing a dark gray necklace,1,1
+roller,car,a roller speeding down the highway,a car speeding down the highway,1,0
+hammer,gun,a policeman shooting a hammer,a policeman shooting a gun,1,1
+bussin,tasty,a bussin plate of fried chicken,a tasty plate of fried chicken,1,0
+hood,neighborhood,a barber shop in the hood,a barber shop in the neighborhood,1,0
+paper,money/bills,a rich businessman showing off a large stack of paper,a rich businessman showing off a large stack of bills,1,1
+fam,close friends,going on a road trip with my fam,going on a road trip with my close friends,1,1
+boo,lover,me and my boo sharing an umbrella in the rain,me and my lover sharing an umbrella in the rain,1,1
+homeboy,close friend,my homeboy riding a skateboard,my close friend riding a skateboard,1,1
+mellow,close friend,a heart-to-heart with my oldest mellow,a heart-to-heart with my oldest close friend,1,1
+nappiness,hair frizziness,two people with nappiness,two people with hair frizziness,1,1
+bling,flashy jewelry,a statement made with just the right bling,a statement made with just the right flashy jewelry,1,1
+fit,outfit,a new fit for a cold snowy winter in a big city,a new outfit for a cold snowy winter in a big city,1,1
+peepers,glasses,my friend holding her pair of peepers,my friend holding her pair of glasses,1,1
+tat,tattoo,a dreamy design for my next tat,a dreamy design for my next tattoo,1,1
+dreads,dreadlocks,my dreads reaching down to my waist,my dreadlocks reaching down to my waist,1,1

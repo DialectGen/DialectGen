@@ -1,0 +1,69 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,dialect_word_count,person_in_prompt
+lil,little,a lil one story blue house,a little one story blue house,1,0
+lil,little,a lil baby wrapped in a blanket,a little baby wrapped in a blanket,1,1
+whip,car,a whip parked by the curb,a car parked by the curb,1,0
+whip,car,a black whip with chrome rims,a black car with chrome rims,1,0
+crib,house,a crib with a white picket fence,a house with a white picket fence,1,0
+crib,house,a brick crib with a garden,a brick house with a garden,1,0
+holla,holler,a holla from the audience,a holler from the audience,1,1
+holla,holler,she heard a holla from across the street,she heard a holler from across the street,1,1
+homie,close friend,a homie from childhood,a close friend from childhood,1,1
+homie,close friend,a homie with a skateboard,a close friend with a skateboard,1,1
+my crew,my friends,my crew hanging out at the park,my friends hanging out at the park,1,1
+my crew,my friends,a crew in matching shirts,a group of friends in matching shirts,1,1
+nana,grandma,a nana knitting a sweater,a grandma knitting a sweater,1,1
+nana,grandma,a nana baking cookies,a grandma baking cookies,1,1
+bae,lover,a bae holding a bouquet of roses,a lover holding a bouquet of roses,1,1
+bae,lover,a bae taking a selfie,a lover taking a selfie,1,1
+dough,money,a wallet overflowing with dough,a wallet overflowing with money,1,0
+dough,money,an armored cash carrier carrying bags of dough,an armored cash carrier carrying bags of money,1,0
+kicks,sneakers,a row of kicks in a store,a row of sneakers in a store,1,0
+kicks,sneakers,a pair of kicks hanging on a wire,a pair of sneakers hanging on a wire,1,0
+piece,gun,a piece in a holster,a gun in a holster,1,0
+piece,gun,a piece tucked into a waistband,a gun tucked into a waistband,1,0
+threads,clothes,a woman wearing vintage threads,a woman wearing vintage clothes,1,1
+threads,clothes,a rack of designer threads,a rack of designer clothes,1,0
+grill,dental jewelry,a rapper showing off his grill,a rapper showing off his dental jewelry,1,1
+grill,dental jewelry,a gold grill on a smiling face,gold dental jewelry on a smiling face,1,1
+tint,tinted car windows,a van with light tint,a van with light tinted windows,1,0
+tint,tinted car windows,a schoolbus with orange tint,a schoolbus with orange tinted windows,1,0
+drop,convertible car,a red drop cruising down the street,a red convertible car cruising down the street,1,0
+drop,convertible car,a vintage drop parked at the beach,a vintage convertible car parked at the beach,1,0
+lid,hat/cap,a baseball lid with a sports logo,a baseball cap with a sports logo,1,0
+lid,hat/cap,a boy wearing a lid matching his outfit,a boy wearing a cap matching his outfit,1,1
+glass,mirror,a handheld glass with a gold frame,a handheld mirror with a gold frame,1,0
+glass,mirror,a tall glass in the fitting room,a tall mirror in the fitting room,1,0
+gat,gun,a gat stored in a safe,a gun stored in a safe,1,0
+gat,gun,a gat inside a drawer,a gun inside a drawer,1,0
+chains,necklace,a display of chains in a jewelry store,a display of necklaces in a jewelry store,1,0
+chains,necklace,a man wearing dark silver chains,a man wearing a dark gray necklace,1,1
+roller,car,a blue roller in the parking lot,a blue car in the parking lot,1,0
+roller,car,a roller speeding down the highway,a car speeding down the highway,1,0
+hammer,gun,a hammer with a silencer,a gun with a silencer,1,0
+hammer,gun,a policeman shooting a hammer,a policeman shooting a gun,1,1
+bussin,tasty,a bussin bowl of mac and cheese,a tasty bowl of mac and cheese,1,0
+bussin,tasty,a bussin plate of fried chicken,a tasty plate of fried chicken,1,0
+hood,neighborhood,kids playing in the hood,kids playing in the neighborhood,1,1
+hood,neighborhood,a barber shop in the hood,a barber shop in the neighborhood,1,0
+paper,money/bills,coins and paper stuffed into a wallet,coins and bills stuffed into a wallet,1,0
+paper,money/bills,a rich businessman showing off a large stack of paper,a rich businessman showing off a large stack of bills,1,1
+fam,close friends,a group picture with the fam,a group picture with close friends,1,1
+fam,close friends,going on a road trip with my fam,going on a road trip with my close friends,1,1
+boo,lover,me holding hands at the movie with my boo,me holding hands at the movie with my lover,1,1
+boo,lover,me and my boo sharing an umbrella in the rain,me and my lover sharing an umbrella in the rain,1,1
+homeboy,close friend,my homeboy helping me with a move,my close friend helping me with a move,1,1
+homeboy,close friend,my homeboy riding a skateboard,my close friend riding a skateboard,1,1
+mellow,close friend,my go-to mellow for advice,my go-to close friend for advice,1,1
+mellow,close friend,a heart-to-heart with my oldest mellow,a heart-to-heart with my oldest close friend,1,1
+nappiness,hair frizziness,my natural nappiness showing its beauty,my natural hair frizziness showing its beauty,1,1
+nappiness,hair frizziness,two people with nappiness,two people with hair frizziness,1,1
+bling,flashy jewelry,my favorite bling from my grandma,my favorite piece of flashy jewelry from my grandma,1,0
+bling,flashy jewelry,a statement made with just the right bling,a statement made with just the right flashy jewelry,1,1
+fit,outfit,a breezy summer fit for hot days,a breezy summer outfit for hot days,1,1
+fit,outfit,a new fit for a cold snowy winter in a big city,a new outfit for a cold snowy winter in a big city,1,1
+peepers,glasses,a pair of peepers sitting on the nightstand,a pair of glasses sitting on the nightstand,1,0
+peepers,glasses,my friend holding her pair of peepers,my friend holding her pair of glasses,1,1
+tat,tattoo,a tat on a man's leg,a tattoo on a man's leg,1,1
+tat,tattoo,a dreamy design for my next tat,a dreamy design for my next tattoo,1,1
+dreads,dreadlocks,my dreads tied up in a bun,my dreadlocks tied up in a bun,1,1
+dreads,dreadlocks,my dreads reaching down to my waist,my dreadlocks reaching down to my waist,1,1

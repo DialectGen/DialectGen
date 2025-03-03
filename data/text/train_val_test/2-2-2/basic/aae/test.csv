@@ -1,0 +1,69 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,polysemic
+lil,little,a lil horse,a little horse,0,0
+lil,little,a lil girl,a little girl,1,0
+whip,car,a red whip,a red car,0,1
+whip,car,a broken whip,a broken car,0,1
+crib,house,a beautiful crib,a beautiful house,0,1
+crib,house,a brick crib,a brick house,0,1
+holla,holler,a holla from the audience,a holler from the audience,1,0
+holla,holler,a loud holla,a loud holler,0,0
+homie,close friend,a homie from childhood,a close friend from childhood,1,0
+homie,close friend,painting of me and my homie,painting of me and my close friend,1,0
+my crew,my friends,my crew wearing red,my friends wearing red,1,1
+my crew,my friends,my crew at my house,my friends at my house,1,1
+nana,grandma,my nana in her house,my grandma in her house,1,0
+nana,grandma,an angry nana,an angry grandma,1,0
+bae,lover,my bae wearing purple,my lover wearing purple,1,0
+bae,lover,my handsome bae,my handsome lover,1,0
+dough,money,a wallet overflowing with dough,a wallet overflowing with money,0,1
+dough,money,bags of dough,bags of money,0,1
+kicks,sneakers,brand new kicks,brand new sneakers,0,0
+kicks,sneakers,a painting of blue kicks,a painting of blue sneakers,0,0
+piece,gun,a broken piece,a broken gun,0,1
+piece,gun,a large piece,a large gun,0,1
+threads,clothes,a rack of beautiful threads,a rack of beautiful clothes,0,1
+threads,clothes,a painting of blue threads,a painting of blue clothes,0,1
+grill,dental jewelry,silver grills,silver dental jewelry,0,1
+grill,dental jewelry,bronze grills,bronze dental jewelry,0,1
+tint,tinted car windows,broken tint,broken tinted car windows,0,1
+tint,tinted car windows,orange tint,orange tinted car windows,0,1
+drop,convertible car,a painting of a vintage drop,a painting of a vintage convertible car,0,1
+drop,convertible car,a broken drop,a broken convertible car,0,1
+lid,hat,a beautiful lid,a beautiful hat,0,1
+lid,hat,a purple lid,a purple hat,0,1
+glass,mirror,a painting of a glass,a painting of a mirror,0,1
+glass,mirror,a modern glass,a modern mirror,0,1
+gat,gun,a broken gat,a broken gun,0,0
+gat,gun,a large gat,a large gun,0,0
+chains,necklace,a display of chains,a display of necklace,0,1
+chains,necklace,broken chains,broken necklace,0,1
+roller,car,a broken roller,a broken car,0,1
+roller,car,a rusty roller,a rusty car,0,1
+hammer,gun,a hammer with a silencer,a gun with a silencer,0,1
+hammer,gun,a silver hammer,a silver gun,0,1
+bussin,tasty,a painting of bussin food,a painting of tasty food,0,0
+bussin,tasty,a bussin taco,a tasty taco,0,0
+hood,neighborhood,an empty hood,an empty neighborhood,0,1
+hood,neighborhood,a busy hood,a busy neighborhood,1,1
+paper,bills,paper on the floor,bills on the floor,0,1
+paper,bills,dirty paper,dirty bills,0,1
+fam,close friends,my large fam,me with my close friends,1,0
+fam,close friends,hanging with my fam,me and my close friends at my house,1,0
+boo,lover,my boo wearing pink,my lover wearing pink,1,0
+boo,lover,my handsome boo,my handsome lover,1,0
+homeboy,close friend,a homeboy from childhood,a close friend from childhood,1,0
+homeboy,close friend,painting of me and my homeboy,painting of me and my close friend,1,0
+mellow,high on marijuana,college students feeling mellow,college students high on marijuana,1,0
+mellow,high on marijuana,a person feeling mellow,a person high on marijuana,1,0
+nappiness,hair frizziness,my natural nappiness,my natural hair frizziness,1,0
+nappiness,hair frizziness,two people with nappiness,two people with hair frizziness,1,0
+bling,flashy jewelry,a display of bling,a display of flashy jewelry,0,0
+bling,flashy jewelry,broken bling,broken flashy jewelry,0,0
+fit,outfit,my vintage fit,my vintage outfit,0,1
+fit,outfit,a painting of a blue fit,a painting of a blue outfit,0,1
+peepers,glasses,a pair of broken peepers,a pair of broken glasses,0,1
+peepers,glasses,a dirty pair of peepers,a dirty pair of glasses,0,1
+tat,tattoo,a botched tat,a botched tattoo,0,0
+tat,tattoo,a small tat,a small tattoo,0,0
+dreads,dreadlocks,cutting my dreads,cutting my dreadlocks,1,0
+dreads,dreadlocks,dyed dreads,dyed dreadlocks,1,0

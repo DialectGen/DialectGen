@@ -1,0 +1,35 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,dialect_word_count,person_in_prompt
+lil,little,a lil one story blue house,a little one story blue house,1,0
+whip,car,a whip parked by the curb,a car parked by the curb,1,0
+crib,house,a crib with a white picket fence,a house with a white picket fence,1,0
+holla,holler,a holla from the audience,a holler from the audience,1,1
+homie,close friend,a homie from childhood,a close friend from childhood,1,1
+my crew,my friends,my crew hanging out at the park,my friends hanging out at the park,1,1
+nana,grandma,a nana knitting a sweater,a grandma knitting a sweater,1,1
+bae,lover,a bae holding a bouquet of roses,a lover holding a bouquet of roses,1,1
+dough,money,a wallet overflowing with dough,a wallet overflowing with money,1,0
+kicks,sneakers,a row of kicks in a store,a row of sneakers in a store,1,0
+piece,gun,a piece in a holster,a gun in a holster,1,0
+threads,clothes,a woman wearing vintage threads,a woman wearing vintage clothes,1,1
+grill,dental jewelry,a rapper showing off his grill,a rapper showing off his dental jewelry,1,1
+tint,tinted car windows,a van with light tint,a van with light tinted windows,1,0
+drop,convertible car,a red drop cruising down the street,a red convertible car cruising down the street,1,0
+lid,hat/cap,a baseball lid with a sports logo,a baseball cap with a sports logo,1,0
+glass,mirror,a handheld glass with a gold frame,a handheld mirror with a gold frame,1,0
+gat,gun,a gat stored in a safe,a gun stored in a safe,1,0
+chains,necklace,a display of chains in a jewelry store,a display of necklaces in a jewelry store,1,0
+roller,car,a blue roller in the parking lot,a blue car in the parking lot,1,0
+hammer,gun,a hammer with a silencer,a gun with a silencer,1,0
+bussin,tasty,a bussin bowl of mac and cheese,a tasty bowl of mac and cheese,1,0
+hood,neighborhood,kids playing in the hood,kids playing in the neighborhood,1,1
+paper,money/bills,coins and paper stuffed into a wallet,coins and bills stuffed into a wallet,1,0
+fam,close friends,a group picture with the fam,a group picture with close friends,1,1
+boo,lover,me holding hands at the movie with my boo,me holding hands at the movie with my lover,1,1
+homeboy,close friend,my homeboy helping me with a move,my close friend helping me with a move,1,1
+mellow,close friend,my go-to mellow for advice,my go-to close friend for advice,1,1
+nappiness,hair frizziness,my natural nappiness showing its beauty,my natural hair frizziness showing its beauty,1,1
+bling,flashy jewelry,my favorite bling from my grandma,my favorite piece of flashy jewelry from my grandma,1,0
+fit,outfit,a breezy summer fit for hot days,a breezy summer outfit for hot days,1,1
+peepers,glasses,a pair of peepers sitting on the nightstand,a pair of glasses sitting on the nightstand,1,0
+tat,tattoo,a tat on a man's leg,a tattoo on a man's leg,1,1
+dreads,dreadlocks,my dreads tied up in a bun,my dreadlocks tied up in a bun,1,1

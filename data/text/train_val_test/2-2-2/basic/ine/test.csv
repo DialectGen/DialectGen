@@ -1,0 +1,67 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,Polysemy_Prompt,dialect_word_count,person_in_prompt,polysemic
+math,monastery,a busy math,a busy monastery,a shirt with math equations,1,1,1
+math,monastery,a math in a dark forest,a monastery in a dark forest,a computer screen displaying math formulas,1,0,1
+simkin,champagne,simkin on the beach,champagne on the beach,,1,0,0
+simkin,champagne,simkin on top of a piano,champagne on top of a piano,,1,0,0
+dai,midwife,a dai sitting down,a midwife sitting down,,1,1,0
+dai,midwife,a photograph of a dai with a cat,a photograph of a midwife with a cat,,1,1,0
+medico,medical practitioner,a medico with a notepad,a medical practitioner with a notepad,,1,1,0
+medico,medical practitioner,a painting of a medico,a painting of a medical practitioner,,1,1,0
+chick,bamboo blinds,a doorway with chick,a doorway with bamboo blinds,a curious chick exploring its surroundings,1,0,1
+chick,bamboo blinds,broken chick,broken bamboo blinds,a brood of chicks under a heat lamp,1,0,1
+ghat,mountain pass,a painting of a beautiful ghat,a painting of a beautiful mountain pass,,1,0,0
+ghat,mountain pass,an abandoned ghat,an abandoned mountain pass,,1,0,0
+kirana,convenience store,an empty kirana,an empty convenience store,,1,0,0
+kirana,convenience store,a painting of a kirana,a painting of a convenience store,,1,0,0
+mandapa,temple,a mandapa in a city,a temple in a city,,1,0,0
+mandapa,temple,a abandoned mandapa,an abandoned temple,,1,0,0
+nai,barber,a nai by the chair,a barber by the chair,,1,1,0
+nai,barber,a nai working,a barber working,,1,1,0
+thana,police station,a painting of a thana,a painting of a police station,,1,0,0
+thana,police station,a photograph of a modern thana,a photograph of a modern police station,,1,0,0
+abba,father,an old abba with a dog,an old father with a dog,,1,1,0
+abba,father,an old abba in the kitchen,an old father in the kitchen,,1,1,0
+pial,veranda,a dimly lit pial,a dimly lit veranda,,1,0,0
+pial,veranda,a painting of a pial,a painting of a veranda,,1,0,0
+nullah,riverbed,a small nullah,a small riverbed,,1,0,0
+nullah,riverbed,a wet nullah,a wet riverbed,,1,0,0
+rani,queen,a rani in a large hall,a queen in a large hall,,1,1,0
+rani,queen,an old rani on a bed,an old queen on a bed,,1,1,0
+brinjal,eggplant,a moldy brinjal,a moldy eggplant,,1,0,0
+brinjal,eggplant,a dish with brinjal,a dish with eggplant,,1,0,0
+khana,food,a person with some khana,a person with some food,,1,1,0
+khana,food,a family enjoying khana,a family enjoying food,,1,1,0
+nagar,town,a painting of a nagar,a painting of a town,,1,0,0
+nagar,town,a lively nagar,a lively town,,1,1,0
+oont,camel,two oonts in the street,two camels in the street,,1,0,0
+oont,camel,an oont walking in the heat,a camel walking in the heat,,1,0,0
+agarbatti,incense,red abarbatti,red incense,,1,0,0
+agarbatti,incense,agarbatti on a shelf,incense on a shelf,,1,0,0
+kulang,crane bird,a sleeping kulang,a sleeping crane bird,,1,0,0
+kulang,crane bird,a kulang eating food,a crane bird eating food,,1,0,0
+godown,warehouse,a godown on fire,a warehouse on fire,,1,0,0
+godown,warehouse,a dark abandoned godown,a dark abandoned warehouse,,1,0,0
+medical hall,pharmacy,entrance of a medical hall,entrance of a pharmacy,,1,0,0
+medical hall,pharmacy,a rural medical hall,a rural pharmacy,,1,0,0
+petrol bunk,gas station,a petrol bunk in a big city,a gas station in a big city,,1,0,0
+petrol bunk,gas station,a dirty petrol bunk,a dirty gas station,,1,0,0
+mo-bike,motorcycle,a mo-bike in the forest,a motorcycle in the forest,,1,0,0
+mo-bike,motorcycle,a group of mo-bike,a group of motorcycles,,1,0,0
+bundook,rifle,a bundook in a store,a rifle in a store,,1,0,0
+bundook,rifle,a bundook on the ground,a rifle on the ground,,1,0,0
+handicraftsman,craftsman,a handicraftsman in orange,a craftsman in orange,,1,1,0
+handicraftsman,craftsman,a handicraftsman in a big city,a craftsman in a big city,,1,1,0
+incharge,supervisor,an incharge in the office ,a supervisor in the office,,1,1,0
+incharge,supervisor,an incharge with a group of people,a supervisor with a group of people,,1,1,0
+pani,water,pani in the house,water in the house,,1,0,0
+pani,water,pani in the well,water in the well,,1,0,0
+yatra,festival,a bustling yatra,a bustling festival,,1,0,0
+yatra,festival,a yatra in the winter,a festival in the winter,,1,0,0
+naka,checkpoint,an abandoned naka,an abandoned checkpoint,,1,0,0
+naka,checkpoint,a naka in the winter,a checkpoint in the winter,,1,0,0
+tiffin,luncheon,a tiffin in the city,a luncheon in the city,,1,1,0
+tiffin,luncheon,a tiffin at school,a luncheon at school,,1,1,0
+satta,gambling,a luxurious satta den,a luxurious gambling den,,1,1,0
+satta,gambling,a group of people satta,a group of people gambling,,1,1,0
+almirah,wardrobe,a broken almirah,a broken wardrobe,,1,0,0
+almirah,wardrobe,an green almirah,an green wardrobe,,1,0,0

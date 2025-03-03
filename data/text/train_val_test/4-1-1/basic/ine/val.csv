@@ -1,0 +1,34 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,Polysemy_Prompt,dialect_word_count,person_in_prompt,polysemic
+math,monastery,a busy math,a busy monastery,a shirt with math equations,1,1,1
+simkin,champagne,simkin on the beach,champagne on the beach,,1,0,0
+dai,midwife,a dai sitting down,a midwife sitting down,,1,1,0
+medico,medical practitioner,a medico with a notepad,a medical practitioner with a notepad,,1,1,0
+chick,bamboo blinds,a doorway with chick,a doorway with bamboo blinds,a curious chick exploring its surroundings,1,0,1
+ghat,mountain pass,a painting of a beautiful ghat,a painting of a beautiful mountain pass,,1,0,0
+kirana,convenience store,an empty kirana,an empty convenience store,,1,0,0
+mandapa,temple,a mandapa in a city,a temple in a city,,1,0,0
+nai,barber,a nai by the chair,a barber by the chair,,1,1,0
+thana,police station,a painting of a thana,a painting of a police station,,1,0,0
+abba,father,an old abba with a dog,an old father with a dog,,1,1,0
+pial,veranda,a dimly lit pial,a dimly lit veranda,,1,0,0
+nullah,riverbed,a small nullah,a small riverbed,,1,0,0
+rani,queen,a rani in a large hall,a queen in a large hall,,1,1,0
+brinjal,eggplant,a moldy brinjal,a moldy eggplant,,1,0,0
+khana,food,a person with some khana,a person with some food,,1,1,0
+nagar,town,a painting of a nagar,a painting of a town,,1,0,0
+oont,camel,two oonts in the street,two camels in the street,,1,0,0
+agarbatti,incense,red abarbatti,red incense,,1,0,0
+kulang,crane bird,a sleeping kulang,a sleeping crane bird,,1,0,0
+godown,warehouse,a godown on fire,a warehouse on fire,,1,0,0
+medical hall,pharmacy,entrance of a medical hall,entrance of a pharmacy,,1,0,0
+petrol bunk,gas station,a petrol bunk in a big city,a gas station in a big city,,1,0,0
+mo-bike,motorcycle,a mo-bike in the forest,a motorcycle in the forest,,1,0,0
+bundook,rifle,a bundook in a store,a rifle in a store,,1,0,0
+handicraftsman,craftsman,a handicraftsman in orange,a craftsman in orange,,1,1,0
+incharge,supervisor,an incharge in the office ,a supervisor in the office,,1,1,0
+pani,water,pani in the house,water in the house,,1,0,0
+yatra,festival,a bustling yatra,a bustling festival,,1,0,0
+naka,checkpoint,an abandoned naka,an abandoned checkpoint,,1,0,0
+tiffin,luncheon,a tiffin in the city,a luncheon in the city,,1,1,0
+satta,gambling,a luxurious satta den,a luxurious gambling den,,1,1,0
+almirah,wardrobe,a broken almirah,a broken wardrobe,,1,0,0

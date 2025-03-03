@@ -46,7 +46,7 @@ fix_email.sh
 
 # Folders #
 #####################
-
+mitigation/
 
 # Pretrained models
 pretrained/
