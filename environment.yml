@@ -1,6 +1,8 @@
 name: dialect
 channels:
   - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
 dependencies:
   - _libgcc_mutex=0.1=main
   - _openmp_mutex=5.1=1_gnu
@@ -135,7 +137,7 @@ dependencies:
       - nvidia-cuda-runtime-cu11==11.7.99
       - nvidia-cuda-runtime-cu12==12.1.105
       - nvidia-cudnn-cu11==8.5.0.96
-      - nvidia-cudnn-cu12==9.1.0.70
+      - nvidia-cudnn-cu12==8.9.2.26
       - nvidia-cufft-cu11==10.9.0.58
       - nvidia-cufft-cu12==11.0.2.54
       - nvidia-curand-cu11==10.2.10.91
@@ -145,7 +147,7 @@ dependencies:
       - nvidia-cusparse-cu11==11.7.4.91
       - nvidia-cusparse-cu12==12.1.0.106
       - nvidia-nccl-cu11==2.14.3
-      - nvidia-nccl-cu12==2.20.5
+      - nvidia-nccl-cu12==2.18.1
       - nvidia-nvjitlink-cu12==12.8.61
       - nvidia-nvtx-cu11==11.7.91
       - nvidia-nvtx-cu12==12.1.105
@@ -211,14 +213,15 @@ dependencies:
       - tokenizers==0.20.3
       - tomlkit==0.12.0
       - toolz==0.12.0
-      - torch==2.4.1
+      - torch==2.1.2
+      - torchaudio==2.1.2
       - torchmetrics==1.0.3
-      - torchvision==0.19.1
+      - torchvision==0.16.2
       - tornado==6.3.2
       - tqdm==4.67.1
       - traitlets==5.9.0
       - transformers==4.46.3
-      - triton==3.0.0
+      - triton==2.1.0
       - typer==0.9.0
       - typing-extensions==4.12.2
       - tzdata==2023.3
@@ -234,3 +237,4 @@ dependencies:
       - xxhash==3.2.0
       - yarl==1.9.2
       - zipp==3.20.2
+prefix: /local1/bryanzhou008/miniconda3/envs/dialect
