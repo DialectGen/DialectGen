@@ -185,3 +185,39 @@ aubergine,eggplant,a man picking an aubergine at the market,a man picking an egg
 aubergine,eggplant,an aubergine in the supermarket,an eggplant in the supermarket,1,0
 aubergine,eggplant,a grilled aubergine with olive oil,a grilled eggplant with olive oil,1,0
 aubergine,eggplant,my aubergine in a curry,my eggplant in a curry,1,0
+zebra crossing,crosswalk,a child waiting at a zebra crossing,a child waiting at a crosswalk,1,0
+zebra crossing,crosswalk,a faded zebra crossing,a faded crosswalk,0,0
+zebra crossing,crosswalk,bikes crossing a zebra crossing,bikes crossing a crosswalk,0,0
+zebra crossing,crosswalk,a zebra crossing near a park,a crosswalk near a park,0,0
+zebra crossing,crosswalk,a woman walking over a zebra crossing,a woman walking over a crosswalk,1,0
+zebra crossing,crosswalk,a zebra crossing near traffic lights,a crosswalk near traffic lights,0,0
+motorway,highway,trucks parked along the motorway,trucks parked along the highway,0,0
+motorway,highway,a crowded motorway during rush hour,a crowded highway during rush hour,0,0
+motorway,highway,a motorway passing through mountains,a highway passing through mountains,0,0
+motorway,highway,an aerial view of a motorway,an aerial view of a highway,0,0
+motorway,highway,motorway exit signs at night,highway signs at night,0,0
+motorway,highway,a motorway blocked due to accident,a highway blocked due to accident,0,0
+plaster,band-aid,a plaster covering a small wound,a band-aid covering a small wound,1,1
+plaster,band-aid,a plaster on someone's forehead,a band-aid on someone's forehead,1,1
+plaster,band-aid,a plaster floating in a swimming pool,a band-aid floating in a swimming pool,0,1
+plaster,band-aid,a discarded plaster on the sidewalk,a discarded band-aid on the sidewalk,0,1
+plaster,band-aid,a plaster with cartoon characters,a band-aid with cartoon characters,0,1
+plaster,band-aid,a waterproof plaster on a hand,a waterproof band-aid on a hand,1,1
+bin liner,trash bag,a black bin liner left outdoors,a black trash bag left outdoors,0,0
+bin liner,trash bag,a bin liner full of leaves,a trash bag full of leaves,0,0
+bin liner,trash bag,a neatly tied bin liner,a neatly tied trash bag,0,0
+bin liner,trash bag,a bin liner beside a dumpster,a trash bag beside a dumpster,0,0
+bin liner,trash bag,a bin liner overflowing with rubbish,a trash bag overflowing with trash,0,0
+bin liner,trash bag,a stack of unused bin liners,a stack of unused trash bags,0,0
+waistcoat,vest,a waistcoat displayed on a mannequin,a vest displayed on a mannequin,0,1
+waistcoat,vest,a checked waistcoat on display,a checked vest on display,0,1
+waistcoat,vest,a man buttoning his waistcoat,a man buttoning his vest,1,1
+waistcoat,vest,a silk waistcoat in a boutique,a silk vest in a boutique,0,1
+waistcoat,vest,a waistcoat matching formal trousers,a vest matching formal pants,0,1
+waistcoat,vest,a waistcoat embroidered with flowers,a vest embroidered with flowers,0,1
+rocket,arugula,rocket leaves in a salad spinner,arugula leaves in a salad spinner,0,0
+rocket,arugula,a sandwich filled with rocket,a sandwich filled with arugula,0,0
+rocket,arugula,chopped rocket sprinkled on pasta,chopped arugula sprinkled on pasta,0,0
+rocket,arugula,a burger topped with fresh rocket,a burger topped with fresh arugula,0,0
+rocket,arugula,a gardener harvesting rocket leaves,a gardener harvesting arugula leaves,1,0
+rocket,arugula,a basket filled with fresh rocket,a basket filled with fresh arugula,0,0
