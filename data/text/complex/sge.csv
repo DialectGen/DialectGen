@@ -29,12 +29,12 @@ tapao,takeout,getting food tapao from the food truck,getting food takeout from t
 tapao,takeout,let’s get some food tapao,let's get some food takeout,1,1
 tapao,takeout,chinese food tapao,chinese food takeout,1,0
 tapao,takeout,a couple getting food tapao,a couple getting food takeout,1,1
-kiasu,a grasping,selfish attitude,a kiasu businessman,a businessman with a grasping,selfish attitude,1,1
-kiasu,a grasping,selfish attitude,a kiasu leader,a leader with a grasping,selfish attitude,1,1
-kiasu,a grasping,selfish attitude,a kiasu student,a student with a grasping,selfish attitude,1,1
-kiasu,a grasping,selfish attitude,a kiasu parent,a parent with a grasping,selfish attitude,1,1
-kiasu,a grasping,selfish attitude,a kiasu businesswoman,a businesswoman with a grasping,selfish attitude,1,1
-kiasu,a grasping,selfish attitude,a kiasu politician,a politician with a grasping,selfish attitude,1,1
+kiasu,a grasping and selfish attitude,a kiasu businessman,a businessman with a grasping and selfish attitude,1,1
+kiasu,a grasping and selfish attitude,a kiasu leader,a leader with a grasping and selfish attitude,1,1
+kiasu,a grasping and selfish attitude,a kiasu student,a student with a grasping and selfish attitude,1,1
+kiasu,a grasping and selfish attitude,a kiasu parent,a parent with a grasping and selfish attitude,1,1
+kiasu,a grasping and selfish attitude,a kiasu businesswoman,a businesswoman with a grasping and selfish attitude,1,1
+kiasu,a grasping and selfish attitude,a kiasu politician,a politician with a grasping and selfish attitude,1,1
 sian,bored,a sian cat in a house,a bored cat in a house,1,0
 sian,bored,a sian woman walking on the city street,a bored woman walking on the city street,1,1
 sian,bored,a sian worker in an office,a bored worker in an office,1,1
@@ -187,7 +187,7 @@ popiah,Fujianese fresh spring roll,a plate of popiah with a dipping sauce on the
 popiah,Fujianese fresh spring roll,a food stall with popiah,a food stall with Fujianese fresh spring rolls,1,0
 roti prata,Indian flatbread,a plate of roti prata,a plate of Indian flatbread,1,0
 roti prata,Indian flatbread,roti prata with curry,Indian flatbread with curry,1,0
-roti prata,Indian flatbread,a table with roti prata,curry,and vegetables,a table with Indian flatbread,curry,and vegetables,1,0
+roti prata,Indian flatbread,a table with roti prata and vegetables,a table with Indian flatbread and vegetables,1,0
 roti prata,Indian flatbread,a person eating roti prata,a person eating Indian flatbread,1,1
 roti prata,Indian flatbread,a piece of roti prata dipped in curry,a piece of Indian flatbread dipped in curry,1,0
 roti prata,Indian flatbread,roti prata and tea on a table,Indian flatbread and tea on a table,1,0
