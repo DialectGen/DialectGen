@@ -185,3 +185,39 @@ aubergine,eggplant,aubergine in a basket,eggplant in a basket,1,0
 aubergine,eggplant,a painting of an aubergine,a painting of an eggplant,1,0
 aubergine,eggplant,a moldy aubergine,a moldy eggplant,1,0
 aubergine,eggplant,a dish with aubergine,a dish with eggplant,1,0
+zebra crossing,crosswalk,people on a zebra crossing,people on a crosswalk,1,0
+zebra crossing,crosswalk,a busy zebra crossing,a busy crosswalk,1,0
+zebra crossing,crosswalk,a painted zebra crossing,a painted crosswalk,0,0
+zebra crossing,crosswalk,a wide zebra crossing,a wide crosswalk,0,0
+zebra crossing,crosswalk,a woman on a zebra crossing,a woman on a crosswalk,1,0
+zebra crossing,crosswalk,an empty zebra crossing,an empty crosswalk,0,0
+motorway,highway,cars on a busy motorway,cars on a busy highway,0,0
+motorway,highway,an empty motorway,an empty highway,0,0
+motorway,highway,a motorway at sunset,a highway at sunset,0,0
+motorway,highway,a motorway sign,a highway sign,0,0
+motorway,highway,a motorway with traffic cones,a highway with traffic cones,0,0
+motorway,highway,a snowy motorway,a snowy highway,0,0
+plaster,band-aid,a plaster wrapped around a finger,a band-aid wrapped around a finger,1,1
+plaster,band-aid,a plaster covering a small cut,a band-aid covering a small cut,1,1
+plaster,band-aid,a plaster on an injured knee,a band-aid on an injured knee,1,1
+plaster,band-aid,a colorful plaster on an elbow,a colorful band-aid on an elbow,1,1
+plaster,band-aid,a box of medical plasters,a box of medical band-aids,0,1
+plaster,band-aid,a plaster peeling off skin,a band-aid peeling off skin,1,1
+bin liner,trash bag,a torn bin liner,a torn trash bag,0,0
+bin liner,trash bag,a black bin liner,a black trash bag,0,0
+bin liner,trash bag,an overflowing bin liner,an overflowing trash bag,0,0
+bin liner,trash bag,a roll of bin liners,a roll of trash bags,0,0
+bin liner,trash bag,a bin liner on the ground,a trash bag on the ground,0,0
+bin liner,trash bag,a transparent bin liner,a transparent trash bag,0,0
+waistcoat,vest,a waistcoat under a suit jacket,a vest under a suit jacket,0,1
+waistcoat,vest,a formal waistcoat on a hanger,a formal vest on a hanger,0,1
+waistcoat,vest,a waistcoat worn over a shirt,a vest worn over a shirt,0,1
+waistcoat,vest,a waistcoat with silver buttons,a vest with silver buttons,0,1
+waistcoat,vest,a striped waistcoat displayed in a store,a striped vest displayed in a store,0,1
+waistcoat,vest,a velvet waistcoat laid flat,a velvet vest laid flat,0,1
+rocket,arugula,a salad bowl filled with rocket,a salad bowl filled with arugula,0,0
+rocket,arugula,chopped rocket leaves,chopped arugula leaves,0,0
+rocket,arugula,a sandwich layered with rocket,a sandwich layered with arugula,0,0
+rocket,arugula,fresh rocket on a dinner plate,fresh arugula on a dinner plate,0,0
+rocket,arugula,a pizza topped generously with rocket,a pizza topped generously with arugula,0,0
+rocket,arugula,a pile of washed rocket leaves,a pile of washed arugula leaves,0,0

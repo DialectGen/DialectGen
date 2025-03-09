@@ -3,6 +3,7 @@ import sys
 import shutil
 import argparse
 from pathlib import Path
+import math
 import numpy as np
 import pandas as pd
 from tqdm import tqdm
@@ -20,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parents[2]
 
 # Hyperparameters
 TEMPERATURE = 1            # Parameter: 0.01 to 16
-GRID_SIZE = 3              # Integer parameter
+GRID_SIZE = 3              # Default grid size (for full generation, 3x3=9 images)
 SUPERCONDITION_FACTOR = 16 # Numeric parameter
 TOP_K = 128                # Integer parameter
 SEAMLESS = False
@@ -40,14 +41,19 @@ model = MinDalle(
 # ---------------------------
 def parse_args():
     parser = argparse.ArgumentParser(
-        description="Generate images using MinDalle for a specified dialect and prompt type."
+        description=(
+            "Generate images using MinDalle for specified dialect(s) and prompt type. "
+            "If --replace is provided, the output image directory is replaced; "
+            "otherwise, missing images are generated to complete a set of 9 per prompt."
+        )
     )
     parser.add_argument(
-        "--dialect",
+        "--dialects",
         type=str,
+        nargs="+",
         required=True,
         choices=["aae", "bre", "che", "ine", "sge"],
-        help="Dialect code (aae, bre, che, ine, sge)."
+        help="One or more dialect codes (aae, bre, che, ine, sge)."
     )
     parser.add_argument(
         "--mode",
@@ -56,60 +62,81 @@ def parse_args():
         choices=["basic", "entigen", "polysemy"],
         help="Type of prompt to use (basic, entigen, or polysemy)."
     )
+    parser.add_argument(
+        "--replace",
+        action="store_true",
+        help=(
+            "If provided, the output image directory for each dialect is replaced; "
+            "otherwise, the script resumes and generates only missing images."
+        )
+    )
     return parser.parse_args()
 
-def prepare_directory(path: Path) -> None:
+def generate_min_dalle_batch(prompt: str, num_images: int, seamless: bool,
+                             temperature: float, top_k: int,
+                             supercondition_factor: float) -> list:
     """
-    Recursively creates a directory. If it exists and is non-empty,
-    prompts the user whether to replace its contents.
+    Generates a specified number of images using MinDalle.
+    To generate at least num_images, a temporary grid size is computed
+    as the ceiling of sqrt(num_images). The model then generates grid**2 images,
+    and only the first num_images are returned.
     """
-    if path.exists():
-        if any(path.iterdir()):
-            response = input(
-                f"The directory '{path}' is not empty. Do you want to replace its contents? (y/n): "
-            ).strip().lower()
-            if response == 'y':
-                shutil.rmtree(path)
-                path.mkdir(parents=True, exist_ok=True)
-            else:
-                print("Operation aborted by the user.")
-                sys.exit(1)
-    else:
-        path.mkdir(parents=True, exist_ok=True)
-
-def generate_min_dalle(prompt: str, save_dir: Path, seamless: bool,
-                        temperature: float, grid_size: int,
-                        supercondition_factor: float) -> None:
-    """
-    Generates images using MinDalle and saves them to the specified directory.
-    """
-    images = model.generate_images(
+    grid = math.ceil(math.sqrt(num_images))
+    images_tensor = model.generate_images(
         text=prompt,
         seed=-1,
-        grid_size=grid_size,
+        grid_size=grid,
         is_seamless=seamless,
         temperature=temperature,
-        top_k=int(TOP_K),
-        supercondition_factor=float(supercondition_factor)
+        top_k=top_k,
+        supercondition_factor=supercondition_factor
     )
-    images = images.to('cpu').numpy()
-    for i, img in enumerate(images):
+    images_array = images_tensor.to('cpu').numpy()
+    pil_images = []
+    for i, img in enumerate(images_array):
         image = Image.fromarray((img * 1).astype(np.uint8)).convert('RGB')
-        image.save(str(save_dir / f"{i}.jpg"))
+        pil_images.append(image)
+    return pil_images[:num_images]
+
+def ensure_and_generate(prompt_folder: Path, prompt: str, replace: bool) -> None:
+    """
+    For a given prompt folder:
+      - If replace==True, the folder is removed and recreated.
+      - If the folder does not exist, it is created.
+      - Then, if the folder already contains images "0.jpg" to "8.jpg", generation is skipped.
+      - Otherwise, only the missing images are generated so that the folder eventually contains 9 images.
+    """
+    if replace:
+        if prompt_folder.exists():
+            shutil.rmtree(prompt_folder)
+        prompt_folder.mkdir(parents=True, exist_ok=True)
+        missing_indices = list(range(9))
+    else:
+        if not prompt_folder.exists():
+            prompt_folder.mkdir(parents=True, exist_ok=True)
+            missing_indices = list(range(9))
+        else:
+            missing_indices = [i for i in range(9) if not (prompt_folder / f"{i}.jpg").is_file()]
+
+    if not missing_indices:
+        print(f"Skipping generation for folder '{prompt_folder}' (already complete).")
+        return
+
+    num_missing = len(missing_indices)
+    print(f"Generating {num_missing} image(s) for prompt '{prompt}' in folder '{prompt_folder}'.")
+    new_images = generate_min_dalle_batch(prompt, num_missing, SEAMLESS, TEMPERATURE, TOP_K, SUPERCONDITION_FACTOR)
+    for idx, image in zip(missing_indices, new_images):
+        image.save(str(prompt_folder / f"{idx}.jpg"))
 
 # ---------------------------
 # Main Workflow
 # ---------------------------
 def main():
     args = parse_args()
-    dialect = args.dialect
     mode = args.mode
+    replace_flag = args.replace
 
-    # Define paths based on the specified prompt type and dialect
-    data_file = BASE_DIR / "data" / "text" / mode / f"{dialect}.csv"
-    img_dir = BASE_DIR / "data" / "image" / mode / f"{dialect}" / "minDALL-E"
-
-    # ENTIGEN prefixes mapping and standard American English prefix
+    # ENTIGEN prefixes mapping for dialect prompts and standard American English prefix.
     entigen_prefixes = {
         "aae": "In African American English, ",
         "bre": "In British English, ",
@@ -119,33 +146,41 @@ def main():
     }
     sae_prefix = "In Standard American English, "
 
-    # Prepare output directories
-    prepare_directory(img_dir)
-    lr_subdir = img_dir / "dialect_imgs"
-    hr_subdir = img_dir / "sae_imgs"
-    prepare_directory(lr_subdir)
-    prepare_directory(hr_subdir)
+    # Process each dialect in the order provided.
+    for dialect in args.dialects:
+        # Define paths based on the specified prompt type and dialect.
+        data_file = BASE_DIR / "data" / "text" / mode / f"{dialect}.csv"
+        img_dir = BASE_DIR / "data" / "image" / mode / f"{dialect}" / "minDALL-E"
+        lr_subdir = img_dir / "dialect_imgs"
+        hr_subdir = img_dir / "sae_imgs"
 
-    # Read data from CSV
-    df = pd.read_csv(data_file, encoding='unicode_escape')
-    dialect_prompts = df["Dialect_Prompt"].tolist()
-    sae_prompts = df["SAE_Prompt"].tolist()
+        # If --replace is set, remove the entire image directory for the dialect.
+        if replace_flag:
+            if img_dir.exists():
+                shutil.rmtree(img_dir)
+            lr_subdir.mkdir(parents=True, exist_ok=True)
+            hr_subdir.mkdir(parents=True, exist_ok=True)
+        else:
+            lr_subdir.mkdir(parents=True, exist_ok=True)
+            hr_subdir.mkdir(parents=True, exist_ok=True)
 
-    # Iterate over prompt pairs and generate images
-    for dp, sp in tqdm(zip(dialect_prompts, sae_prompts), total=len(dialect_prompts)):
-        if mode == "entigen":
-            dp = entigen_prefixes[dialect] + dp
-            sp = sae_prefix + sp
+        # Read CSV data containing prompts.
+        df = pd.read_csv(data_file, encoding='unicode_escape')
+        dialect_prompts = df["Dialect_Prompt"].tolist()
+        sae_prompts = df["SAE_Prompt"].tolist()
 
-        dp_dir = lr_subdir / dp
-        sp_dir = hr_subdir / sp
+        # Iterate over each prompt pair and generate missing images.
+        for dp, sp in tqdm(zip(dialect_prompts, sae_prompts), total=len(dialect_prompts), desc=f"Processing dialect {dialect}"):
+            if mode == "entigen":
+                dp = entigen_prefixes[dialect] + dp
+                sp = sae_prefix + sp
 
-        if not dp_dir.exists():
-            dp_dir.mkdir(parents=True, exist_ok=True)
-            generate_min_dalle(dp, dp_dir, SEAMLESS, TEMPERATURE, GRID_SIZE, SUPERCONDITION_FACTOR)
-        if not sp_dir.exists():
-            sp_dir.mkdir(parents=True, exist_ok=True)
-            generate_min_dalle(sp, sp_dir, SEAMLESS, TEMPERATURE, GRID_SIZE, SUPERCONDITION_FACTOR)
+            # Use the prompt text as the folder name (in production, consider sanitizing these names).
+            dp_dir = lr_subdir / dp
+            sp_dir = hr_subdir / sp
+
+            ensure_and_generate(dp_dir, dp, replace_flag)
+            ensure_and_generate(sp_dir, sp, replace_flag)
 
 if __name__ == "__main__":
     main()
