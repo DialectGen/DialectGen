@@ -1,0 +1,61 @@
+﻿DialectWord,SAEWord,DialectPrompt,SAEPrompt,Number of dialect words in prompt
+makan,eat,a man makan a taco,a man eating a taco,1
+makan,eat,a man makan an apple,a man eating an apple,1
+makan,eat,a man makan a burrito,a man eating a burrito,1
+tapao,takeout,let’s get some food tapao,let's get some food for takeout,1
+tapao,takeout,chinese food tapao,chinese food takeout,1
+tapao,takeout,a couple getting food tapao,a couple getting food takeout,1
+kopi,coffee,two people getting kopi,two people getting coffee,1
+kopi,coffee,a man buying kopi,a man buying coffee,1
+kopi,coffee,a woman with kopi,a woman with coffee,1
+kiasu,"a grasping, selfish attitude",a kiasu parent,"a parent with a grasping, selfish attitude",1
+kiasu,"a grasping, selfish attitude",a kiasu businesswoman,"a businesswoman with a grasping, selfish attitude",1
+kiasu,"a grasping, selfish attitude",a kiasu politician,"a politician with a grasping, selfish attitude",1
+sian,bored,a child sian in the summer,a child bored in the summer,1
+sian,bored,a sian dog,a bored dog,1
+sian,bored,a sian man on vacation,a bored man on vacation,1
+lepak,relax,a couple lepak,a couple relaxing,1
+lepak,relax,a cat lepak,a cat relaxing,1
+lepak,relax,a lepak vacation setting,a relaxing vacation setting,1
+can,yes,a person nodding can in agreement,a person nodding yes in agreement,1
+can,yes,a woman nodding can,a woman nodding yes,1
+can,yes,a man nodding can,a man nodding yes,1
+chope,save a table,a group chope at the food hall,a group saving a table at the food hall,1
+chope,save a table,chope at a cafe,saving a table at a cafe,1
+chope,save a table,chope with a napkin,saving a table with a napkin,1
+shiok,very tasty,shiok food,very tasty food ,1
+shiok,very tasty,shiok Italian food,very tasty Italian food,1
+shiok,very tasty,a table full of shiok main dishes,a table full of tasty main dishes,1
+atas,high class,an atas restaurant,a high class restaurant,1
+atas,high class,a woman with an atas car,a woman with a high end car,1
+atas,high class,an atas house,a high end house,1
+ulu,secluded,an ulu locale,a secluded locale,1
+ulu,secluded,a house in an ulu area by a forest,a house in a secluded area by a forest,1
+ulu,secluded,an rv in an ulu town,an rv in a secluded town,1
+zhng,redecorate,a woman zhng her room,a woman redecorates her room,1
+zhng,redecorate,a man zhng his desk,a man redecorates his desk,1
+zhng,redecorate,a couple zhng their living room,a couple redecorate their living room,1
+ger,girl,a ger,a girl,1
+ger,girl,a ger with a white shirt,a girl with a white shirt,1
+ger,girl,a ger and her partner,a girl and her partner,1
+handphone,mobile phone,a man using a handphone,a man using a mobile phone,1
+handphone,mobile phone,people on the subway using their handphones,people on the subway using their mobile phones,1
+handphone,mobile phone,a woman taking a photo with a handphone,a woman taking a photo with a mobile phone,1
+ah long,a loan shark,an ah long,a loan shark,1
+ah long,a loan shark,an ah long threatening someone,a loan shark threatening someone,1
+ah long,a loan shark,an ah long spray painting a message,a loan shark spray painting a message,1
+kopi tiam,small food court,kopi tiam,a small food court,1
+kopi tiam,small food court,a couple at a kopi tiam,a couple at a small food court,1
+kopi tiam,small food court,a group of friends at a kopi tiam,a group of friends at a small food court,1
+yandao,handsome male,a yandao,a handsome male,1
+yandao,handsome male,a yandao with his partner,a handsome male with his partner,1
+yandao,handsome male,a group of yandaos,a group of handsome males,1
+mug,study,a group of students mug,a group of students studying,1
+mug,study,a student mug in his room at night,a student studying in his room at night,1
+mug,study,a couple of friends mug in the library,a couple friends studying in the library,1
+lightbulb,third wheel,a couple and a lightbulb,a couple and a third wheel,1
+lightbulb,third wheel,a group of couples and one lightbulb,a group of couples and a third wheel,1
+lightbulb,third wheel,a lightbulb trailing behind a couple,a third wheel trailing behind a couple,1
+teh,tea,a teh shop,a tea shop,1
+teh,tea,a teh bag,a teabag,1
+teh,tea,a cup filled with teh,a cup filled with tea,1

@@ -1,0 +1,97 @@
+﻿DialectWord,SAEWord,DialectPrompt,SAEPrompt,Dialect Word Count
+lorry,semitruck,a red lorry driving down the street,a red semitruck driving down the street,1
+lorry,semitruck,a delivery lorry loaded with packages,a delivery semitruck loaded with packages,1
+lorry,semitruck,a lorry parked by the curb,a semitruck parked by the curb,1
+jumper,sweater,a cozy jumper hanging in a closet,a cozy sweater hanging in a closet,1
+jumper,sweater,a man wearing a purple jumper ,a man wearing a purple sweater,1
+jumper,sweater,a woman knitting a brown jumper,a woman knitting a brown sweater,1
+lift,elevator,a crowded lift going up,a crowded elevator going up,1
+lift,elevator,a man pressing buttons in the lift,a man pressing buttons in the elevator,1
+lift,elevator,a group of people waiting for the lift,a group of people waiting for the elevator,1
+rubbish,trash,a woman throwing away the rubbish,a woman throwing away the trash,1
+rubbish,trash,a bin overflowing with rubbish,a bin overflowing with trash,1
+rubbish,trash,a raccoon going through rubbish,a raccoon going through trash,1
+loo,bathroom,a girl knocking on the loo door,a girl knocking on the bathroom door,1
+loo,bathroom,a set of fresh towels in the loo,a set of fresh towels in the bathroom,1
+loo,bathroom,a line of people waiting outside the loo,a line of people waiting outside the bathroom,1
+flat,apartment,a top-floor flat with a view of the city,a top-floor apartment with a view of the city,1
+flat,apartment,a college student's flat,a college student's apartment,1
+flat,apartment,a cozy flat in the city,a cozy apartment in the city,1
+boot,trunk of car,a man loading luggage into the boot,a man loading luggage into the trunk,1
+boot,trunk of car,a spare tire in the boot,a spare tire in the trunk,1
+boot,trunk of car,a woman putting groceries in the boot,a woman putting groceries in the trunk,1
+queue,line,a boy waiting in the queue at a grocery store,a boy waiting in the line at a grocery store,1
+queue,line,a queue for the rollercoaster,a line for the rollercoaster,1
+queue,line,a queue of cars at a drive-through,a line of cars at a drive-through ,1
+trousers,pants,a man ironing creases in his trousers,a man ironing creases in his pants,1
+trousers,pants,a pair of purple trousers,a pair of purple pants,1
+trousers,pants,a kid wearing a pair of blue trousers,a kid wearing a pair of blue pants,1
+biscuit,cookie,a woman enjoying a cup of tea with a biscuit,a woman enjoying a cup of tea with a cookie,1
+biscuits,cookies,a tin of assorted biscuits,a tin of assorted cookies,1
+biscuits,cookies,a man baking homemade biscuits,a man baking homemade cookies,1
+torch,flashlight,a beam of light from the torch,a beam of light from the flashlight,1
+torch,flashlight,a man searching in the dark with a torch,a man searching in the dark with a flashlight,1
+torch,flashlight,a rechargeable LED torch,a rechargeable LED flashlight,1
+nappy,diaper,a mother changing her baby's nappy,a mother changing her baby's diaper,1
+nappies,diapers,a pack of cloth nappies,a pack of cloth diapers,1
+nappies,diapers,a happy baby wearing pink nappies,a happy baby wearing pink diapers,1
+bangers,sausages,a pack of bangers at the grocery store,a pack of sausages at the grocery store,1
+banger,sausage,a plate of bangers and eggs,a plate of sausages and eggs,1
+banger,sausage,a man cutting a banger in half,a man cutting a sausage in half,1
+petrol,gasoline,a petrol station at night,a gasoline station at night,1
+petrol,gasoline,a man filling up his car with petrol,a man filling up his car with gasoline,1
+petrol,gasoline,a sign showing petrol prices,a sign showing gasoline prices,1
+football,soccer,a group of kids playing a game of football ,a group of kids playing a game of soccer,1
+football,soccer,a football player in the stadium,a soccer player in the stadium,1
+football,soccer,a football player celebrating a win,a soccer player celebrating a win,1
+chemist,pharmacy,a woman picking up a prescription at the chemist,a woman picking up a precription at the pharmacy,1
+chemist,pharmacy,a wide range of products at the chemist,a wide range of products at the pharmacy,1
+chemist,pharmacy,a group of people waiting at the chemist,a group of people waiting at the pharmacy,1
+chips,french fries,a bowl of chips at a restaurant,a bowl of french fries at a restaurant,1
+chips,french fries,a boy eating chips,a boy eating french fries,1
+chips,french fries,a plate with a burger and chips,a plate with a burger and french fries,1
+barrister,attorney,an office belonging to a barrister,an office belonging to an attorney,1
+barrister,attorney,a barrister talking to his client,an attorney takling to his client,1
+barrister,attorney,a man attending a meeting with his barrister,a man attending a meeting with his attorney,1
+caretaker,janitor,a school caretaker ,a school janitor,1
+caretaker,janitor,a man talking to a caretaker at the mall,a man talking to a janitor at the mall,1
+caretaker,janitor,a tired caretaker in an empty hallway,a tired janitor in an empty hallway,1
+cooker,stove,a man preparing dinner on the cooker,a man preparing dinner on the stove,1
+cooker,stove,a bowl of hot soup sitting on the cooker,a bowl of hot soup sitting on the stove,1
+cooker,stove,a modern electric cooker,a modern electric stove,1
+cot,crib,a woman putting the baby down in the cot,a woman putting the baby down in the crib,1
+cot,crib,a man setting up a cot,a man setting up a crib,1
+cot,crib,a baby in a colorful cot,a baby in a colorful crib,1
+hoarding,billboard,an advertisement on a city hoarding,an advertisement on a city billboard,1
+hoarding,billboard,a worker changing the image on the hoarding,a worker changing the image on the billboard,1
+hoarding,billboard,a group of people staring at a large hoarding,a group of people staring at a large billboard,1
+hoover,vacuum cleaner,a woman using a hoover to clean the carpet,a woman using a vacuum cleaner to clean the carpet,1
+hoover,vacuum cleaner,a bright red hoover,a bright red vacuum cleaner,1
+hoover,vacuum cleaner,a dirty hoover,a dirty vacuum cleaner,1
+jug,pitcher,a man holding a water jug,a man holding a water pitcher,1
+jug,pitcher,a boy refilling his cup with a water jug,a boy refilling his cup with a water pitcher,1
+jug,pitcher,a decorative ceramic jug,a decorative ceramic pitcher,1
+postman,mailman,a postman delivering packages,a mailman delivering packages,1
+postman,mailman,a man having a friendly chat with the postman,a man having a friendly chat with the mailman,1
+postman,mailman,a postman uniform,a mailman uniform,1
+pram,baby carriage,a woman taking a walk with her baby in the pram,a woman taking a walk with her baby in the baby carriage,1
+pram,baby carriage,a pram with a sunshade,a baby carriage with a sunshade,1
+pram,baby carriage,a bright pink pram ,a bright pink baby carriage,1
+saloon,sedan,a luxurious saloon ,a luxurious sedan,1
+saloon,sedan,the spacious interior of the saloon,the spacious interior of the sedan,1
+saloon,sedan,a man inside a black saloon,a man inside a black sedan,1
+bonnet,hood,a boy sitting on the bonnet of the car,a boy sitting on the hood of the car,1
+bonnet,hood,a car with a red bonnet,a car with a red hood,1
+bonnet,hood,a car at a repair shop with an open hood,a car at a repair shop with an open hood,1
+coriander,cilantro,a woman chopping coriander in the kitchen,a woman chopping cilantro in the kitchen,1
+coriander,cilantro,corainder at the supermarket,cilantro at the supermarket,1
+coriander,cilantro,corainder sprinked on top of pasta,cilantro sprinked on top of pasta,1
+courgette,zucchini,a man slicing a courgette in the kitchen,a man slicing a zucchini in the kitchen,1
+courgette,zucchini,a woman picking a courgette at the market,a woman picking a zucchini at the market,1
+courgettes,zucchinis,a large basket of courgettes,a large basket of zucchinis,1
+tube,subway,a crowd of people waiting for the tube,a crowd of people waiting for the subway,1
+tube,subway,a tube station,a subway station,1
+tube,subway,a man sitting inside the tube,a man sitting inside the subway,1
+aubergine,eggplant,a grandma slicing an aubergine in the kitchen,a grandma slicing an eggplant in the kitchen,1
+aubergine,eggplant,a large basket of aubergines,a large basket of eggplants,1
+aubergine,eggplant,a man picking an aubergine at the market,a man picking an eggplant at the market,1
