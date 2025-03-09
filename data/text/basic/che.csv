@@ -1,10 +1,4 @@
 Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,polysemic
-varrio,neighborhood,a person in a varrio,a person in a neighborhood,1,0
-varrio,neighborhood,a painting of a varrio,a painting of a neighborhood,0,0
-varrio,neighborhood,a modern varrio,a modern neighborhood,0,0
-varrio,neighborhood,an older varrio,an older neighborhood,0,0
-varrio,neighborhood,a beautiful varrio,a beautiful neighborhood,1,0
-varrio,neighborhood,a busy varrio,a busy neighborhood,0,0
 torque,truck,a large black torque,a large black truck,0,1
 torque,truck,a green torque,a green truck,1,1
 torque,truck,a torque with a dog,a truck with a dog,0,1
@@ -47,12 +41,6 @@ planch,iron,a planch and a table,an iron and a table,0,0
 planch,iron,a planch on the floor,an iron on the floor,0,0
 planch,iron,a planch pan,an iron pan,1,0
 planch,iron,a person with a planch,a person with an iron,0,0
-barrio,neighborhood,a person in a barrio,a person in a neighborhood,0,0
-barrio,neighborhood,a painting of a barrio,a painting of a neighborhood,1,0
-barrio,neighborhood,a modern barrio,a modern neighborhood,0,0
-barrio,neighborhood,an older barrio,an older neighborhood,0,0
-barrio,neighborhood,a beautiful barrio,a beautiful neighborhood,1,0
-barrio,neighborhood,a busy barrio,a busy neighborhood,0,0
 Chuco,El Paso,a person exploring Chuco,a person exploring El Paso,1,0
 Chuco,El Paso,a painting of Chuco,a painting of El Paso,0,0
 Chuco,El Paso,a person in Chuco,a person in El Paso,0,0

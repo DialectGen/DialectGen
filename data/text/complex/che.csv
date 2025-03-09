@@ -1,10 +1,4 @@
 Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,dialect_word_count,person_in_prompt
-varrio,neighborhood,two people walking around the varrio,two people walking around the neighborhood,1,1
-varrio,neighborhood,a corner store in the varrio,a corner store in the neighborhood,1,0
-varrio,neighborhood,a bird's eye view of a varrio in Texas,a bird's eye view of a neighborhood in Texas,1,0
-varrio,neighborhood,a man looking at a varrio in New Mexico,a man looking at a neighborhood in New Mexico,1,0
-varrio,neighborhood,a boy standing in a street in a varrio,a boy standing in a street in a neighborhood,1,1
-varrio,neighborhood,colorful houses in a varrio,colorful houses in a neighborhood,1,0
 torque,truck,a large black torque driving on a neighborhood street,a large black truck driving on a neighborhood street,1,0
 torque,truck,a woman driving a green torque on a farm,a woman driving a green truck on a farm,1,1
 torque,truck,a torque with a dog in the back,a truck with a dog in the back,1,0
@@ -47,12 +41,6 @@ planch,Iron,a planch on a table in a dark room,an iron on a table in a dark room
 planch,Iron,a planch rod on the floor,a iron rod on the floor,1,0
 planch,Iron,a man cooking with a planch pan,a man cooking with a iron pan,1,1
 planch,Iron,a couple planch coins on the table,a couple iron coins on the table,1,0
-barrio,neighborhood,a festive block party in the barrio,a festive block party in the neighborhood,1,0
-barrio,neighborhood,two people walking around the barrio,two people walking around the neighborhood,1,1
-barrio,neighborhood,a corner store in the barrio,a corner store in the neighborhood,1,0
-barrio,neighborhood,a bird's eye view of a barrio in Texas,a bird's eye view of a neighborhood in Texas,1,0
-barrio,neighborhood,a boy standing in a street in a barrio,a boy standing in a street in a neighborhood,1,1
-barrio,neighborhood,colorful houses in a barrio,colorful houses in a neighborhood,1,0
 Chuco,El Paso,a person exploring Chuco,a person exploring El Paso,1,1
 Chuco,El Paso,a restaurant in Chuco at night,a restaurant in El Paso at night,1,0
 Chuco,El Paso,a street in Chuco with plants,a street in El Paso with plants,1,0

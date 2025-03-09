@@ -14,7 +14,7 @@ simkin,champagne,simkin on top of a piano,champagne on top of a piano,,1,0,0
 dai,midwife,an old dai,an old midwife,,1,1,0
 dai,midwife,a dai with a woman,a midwife with a woman,,1,1,0
 dai,midwife,a painting of a dai,a painting of a midwife,,1,1,0
-dai,midwife,"a young dai ",a young midwife,,1,1,0
+dai,midwife,a young dai,a young midwife,,1,1,0
 dai,midwife,a dai sitting down,a midwife sitting down,,1,1,0
 dai,midwife,a photograph of a dai with a cat,a photograph of a midwife with a cat,,1,1,0
 medico,medical practitioner,a medico at a table,a medical practitioner at a table,,1,1,0
@@ -48,7 +48,7 @@ mandapa,temple,a mandapa in a dark forest,a temple in a dark forest,,1,0,0
 mandapa,temple,a mandapa in a city,a temple in a city,,1,0,0
 mandapa,temple,a abandoned mandapa,an abandoned temple,,1,0,0
 nai,barber,a nai in red,a barber in red,,1,1,0
-nai,barber,"an old nai ",an old barber,,1,1,0
+nai,barber,an old nai,an old barber,,1,1,0
 nai,barber,a small nai shop,a small barber shop,,1,0,0
 nai,barber,a busy nai shop,a busy barber shop,,1,0,0
 nai,barber,a nai by the chair,a barber by the chair,,1,1,0
@@ -77,7 +77,7 @@ nullah,riverbed,a nullah in a forest,a riverbed in a forest,,1,0,0
 nullah,riverbed,a narrow nullah,a narrow riverbed,,1,0,0
 nullah,riverbed,a small nullah,a small riverbed,,1,0,0
 nullah,riverbed,a wet nullah,a wet riverbed,,1,0,0
-rani,queen,"a beautiful rani ",a beautiful queen,,1,1,0
+rani,queen,a beautiful rani,a beautiful queen,,1,1,0
 rani,queen,a rani in a garden,a queen in a garden,,1,1,0
 rani,queen,a painting of an old rani,a painting of an old queen,,1,1,0
 rani,queen,a rani covered in snow,a queen covered in snow,,1,1,0
@@ -126,7 +126,7 @@ godown,warehouse,a painting of a godown,a painting of a warehouse,,1,0,0
 godown,warehouse,a godown on fire,a warehouse on fire,,1,0,0
 godown,warehouse,a dark abandoned godown,a dark abandoned warehouse,,1,0,0
 medical hall,pharmacy,painting of a medical hall,painting of a pharmacy,,1,0,0
-medical hall,pharmacy,"a modern medical hall ",a modern pharmacy,,1,0,0
+medical hall,pharmacy,a modern medical hall,a modern pharmacy,,1,0,0
 medical hall,pharmacy,inside a medical hall,inside a pharmacy,,1,0,0
 medical hall,pharmacy,a busy medical hall,a busy pharmacy,,1,0,0
 medical hall,pharmacy,entrance of a medical hall,entrance of a pharmacy,,1,0,0
@@ -156,10 +156,10 @@ handicraftsman,craftsman,a dirty handiscraftsman,a dirty craftsman,,1,1,0
 handicraftsman,craftsman,a handicraftsman in orange,a craftsman in orange,,1,1,0
 handicraftsman,craftsman,a handicraftsman in a big city,a craftsman in a big city,,1,1,0
 incharge,supervisor,an angry incharge,an angry supervisor,,1,1,0
-incharge,supervisor,"an old incharge ",an old supervisor,,1,1,0
+incharge,supervisor,an old incharge,an old supervisor,,1,1,0
 incharge,supervisor,an incharge in a room,a supervisor in a room,,1,1,0
 incharge,supervisor,a painting of an incharge,a painting of a supervisor,,1,1,0
-incharge,supervisor,"an incharge in the office ",a supervisor in the office,,1,1,0
+incharge,supervisor,an incharge in the office,a supervisor in the office,,1,1,0
 incharge,supervisor,an incharge with a group of people,a supervisor with a group of people,,1,1,0
 pani,water,some pani on the table,some water on the table,,1,0,0
 pani,water,a child with pani,a child with water,,1,1,0
