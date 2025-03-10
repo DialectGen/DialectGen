@@ -59,7 +59,7 @@ def parse_args():
         "--mode",
         type=str,
         required=True,
-        choices=["basic", "entigen", "polysemy"],
+        choices=["basic", "complex", "entigen", "polysemy"],
         help="Type of prompt to use (basic, entigen, or polysemy)."
     )
     parser.add_argument(
