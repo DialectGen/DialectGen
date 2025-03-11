@@ -1,205 +1,205 @@
-Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,polysemic
-lil,little,a lil baby,a little baby,1,0
-lil,little,a lil dog,a little dog,0,0
-lil,little,a lil cat,a little cat,0,0
-lil,little,a painting of a lil boy,a painting of a little boy,1,0
-lil,little,a lil horse,a little horse,0,0
-lil,little,a lil girl,a little girl,1,0
-whip,car,a blue whip,a blue car,0,1
-whip,car,a dirty whip,a dirty car,0,1
-whip,car,a modern whip,a modern car,0,1
-whip,car,a painting of a whip,a painting of a car,0,1
-whip,car,a red whip,a red car,0,1
-whip,car,a broken whip,a broken car,0,1
-crib,house,a dirty crib,a dirty house,0,1
-crib,house,a painting of a large crib,a painting of a large house,0,1
-crib,house,a modern crib,a modern house,0,1
-crib,house,an old crib,an old house,0,1
-crib,house,a beautiful crib,a beautiful house,0,1
-crib,house,a brick crib,a brick house,0,1
-holla,holler,a man holla at a girl,a man holler at a girl,1,0
-holla,holler,a man holla at a woman,a man holler at a woman,1,0
-holla,holler,a guy holla at a woman,a guy holler at a woman,1,0
-holla,holler,a guy holla at his homie,a guy holler at his close friend,1,0
-holla,holler,a holla from the audience,a holler from the audience,1,0
-holla,holler,a loud holla,a loud holler,0,0
-homie,close friend,my homie,my close friend,1,0
-homie,close friend,my handsome homie,my handsome close friend,1,0
-homie,close friend,an old homie,an old close friend,1,0
-homie,close friend,me and my homie,me and my close friend,1,0
-homie,close friend,a homie from childhood,a close friend from childhood,1,0
-homie,close friend,painting of me and my homie,painting of me and my close friend,1,0
-my crew,my friends,me and my crew,me and my friends,1,1
-my crew,my friends,me and my large crew,me and my large friends,1,1
-my crew,my friends,painting of me and my crew,painting of me and my friends,1,1
-my crew,my friends,me and my small crew,me and my small friends,1,1
-my crew,my friends,my crew wearing red,my friends wearing red,1,1
-my crew,my friends,my crew at my house,my friends at my house,1,1
-nana,grandma,an old nana,an old grandma,1,0
-nana,grandma,my beautiful nana,my beautiful grandma,1,0
-nana,grandma,a group of nanas,a group of grandmas,1,0
-nana,grandma,my nana in purple,my grandma in purple,1,0
-nana,grandma,my nana in her house,my grandma in her house,1,0
-nana,grandma,an angry nana,an angry grandma,1,0
-bae,lover,a picture of my bae,a picture of my lover,1,0
-bae,lover,my sleeping bae,my sleeping lover,1,0
-bae,lover,my beautiful bae,my beautiful lover,1,0
-bae,lover,my bae at my house,my lover at my house,1,0
-bae,lover,my bae wearing purple,my lover wearing purple,1,0
-bae,lover,my handsome bae,my handsome lover,1,0
-dough,money,a lot of a dough,a lot of money,0,1
-dough,money,a man holding dough,a man holding money,1,1
-dough,money,a man paying with dough,a man paying with money,1,1
-dough,money,a woman paying with dough,a woman paying with money,1,1
-dough,money,a wallet overflowing with dough,a wallet overflowing with money,0,1
-dough,money,bags of dough,bags of money,0,1
-kicks,sneakers,dirty kicks,dirty sneakers,0,0
-kicks,sneakers,retro kicks,retro sneakers,0,0
-kicks,sneakers,brown kicks,brown sneakers,0,0
-kicks,sneakers,broken kicks,broken sneakers,0,0
-kicks,sneakers,brand new kicks,brand new sneakers,0,0
-kicks,sneakers,a painting of blue kicks,a painting of blue sneakers,0,0
-piece,gun,a black piece,a black gun,0,1
-piece,gun,a man aiming his piece,a man aiming his gun,1,1
-piece,gun,a rusty piece,a rusty gun,0,1
-piece,gun,a painting of a silver piece,a painting of a silver gun,0,1
-piece,gun,a broken piece,a broken gun,0,1
-piece,gun,a large piece,a large gun,0,1
-threads,clothes,designer threads,designer clothes,0,1
-threads,clothes,dirty threads,dirty clothes,0,1
-threads,clothes,vintage threads,vintage clothes,0,1
-threads,clothes,a rack of purple threads,a rack of purple clothes,0,1
-threads,clothes,a rack of beautiful threads,a rack of beautiful clothes,0,1
-threads,clothes,a painting of blue threads,a painting of blue clothes,0,1
-grill,dental jewelry,golden grills,golden dental jewelry,0,1
-grill,dental jewelry,dirty grills,dirty dental jewelry,0,1
-grill,dental jewelry,a man wearing grills,a man wearing dental jewelry,1,1
-grill,dental jewelry,a woman wearing grills,a woman wearing dental jewelry,1,1
-grill,dental jewelry,silver grills,silver dental jewelry,0,1
-grill,dental jewelry,bronze grills,bronze dental jewelry,0,1
-tint,tinted car windows,very dark tint,very dark tinted car windows,0,1
-tint,tinted car windows,a convertible with a tint,a convertible with tinted car windows,0,1
-tint,tinted car windows,a bus with dark tint,a bus with dark tinted car windows,0,1
-tint,tinted car windows,a van with light tint,a van with light tinted car windows,0,1
-tint,tinted car windows,broken tint,broken tinted car windows,0,1
-tint,tinted car windows,orange tint,orange tinted car windows,0,1
-drop,convertible car,a modern drop,a modern convertible car,0,1
-drop,convertible car,a luxury drop,a luxury convertible car,0,1
-drop,convertible car,a purple drop,a purple convertible car,0,1
-drop,convertible car,a sporty drop,a sporty convertible car,0,1
-drop,convertible car,a painting of a vintage drop,a painting of a vintage convertible car,0,1
-drop,convertible car,a broken drop,a broken convertible car,0,1
-lid,hat,a dirty lid,a dirty hat,0,1
-lid,hat,an orange lid,an orange hat,0,1
-lid,hat,a minimalistic lid,a minimalistic hat,0,1
-lid,hat,a painting of an old lid,a painting of an old hat,0,1
-lid,hat,a beautiful lid,a beautiful hat,0,1
-lid,hat,a purple lid,a purple hat,0,1
-glass,mirror,broken glass,broken mirror,0,1
-glass,mirror,dirty glass,dirty mirror,0,1
-glass,mirror,glass with gold frame,mirror with gold frame,0,1
-glass,mirror,a handheld glass,a handheld mirror,0,1
-glass,mirror,a painting of a glass,a painting of a mirror,0,1
-glass,mirror,a modern glass,a modern mirror,0,1
-gat,gun,a black gat,a black gun,0,0
-gat,gun,a rusty gat,a rusty gun,0,0
-gat,gun,a painting of a silver gat,a painting of a silver gun,0,0
-gat,gun,a gat inside a drawer,a gun inside a drawer,0,0
-gat,gun,a broken gat,a broken gun,0,0
-gat,gun,a large gat,a large gun,0,0
-chains,necklace,golden chains,golden necklace,0,1
-chains,necklace,silver chains,silver necklace,0,1
-chains,necklace,rose gold chains,rose gold necklace,0,1
-chains,necklace,a painting of shiny chains,a painting of shiny necklace,0,1
-chains,necklace,a display of chains,a display of necklace,0,1
-chains,necklace,broken chains,broken necklace,0,1
-roller,car,a modern roller,a modern car,0,1
-roller,car,a painting of a broken oller,a painting of a broken car,0,1
-roller,car,a dark blue roller,a dark blue car,0,1
-roller,car,a luxury roller,a luxury car,0,1
-roller,car,a broken roller,a broken car,0,1
-roller,car,a rusty roller,a rusty car,0,1
-hammer,gun,a black hammer,a black gun,0,1
-hammer,gun,a rusty hammer,a rusty gun,0,1
-hammer,gun,a broken hammer,a broken gun,0,1
-hammer,gun,a painting of a golden hammer,a painting of a golden gun,0,1
-hammer,gun,a hammer with a silencer,a gun with a silencer,0,1
-hammer,gun,a silver hammer,a silver gun,0,1
-bussin,tasty,bussin food,tasty food,0,0
-bussin,tasty,some bussin fries,some tasty fries,0,0
-bussin,tasty,a bussin burrito,a tasty burrito,0,0
-bussin,tasty,a plate of bussin food,a plate of tasty food,0,0
-bussin,tasty,a painting of bussin food,a painting of tasty food,0,0
-bussin,tasty,a bussin taco,a tasty taco,0,0
-hood,neighborhood,a dirty hood,a dirty neighborhood,0,1
-hood,neighborhood,a painting of the hood,a painting of the neighborhood,0,1
-hood,neighborhood,an urban hood,an urban neighborhood,0,1
-hood,neighborhood,a suburban hood,a suburban neighborhood,0,1
-hood,neighborhood,an empty hood,an empty neighborhood,0,1
-hood,neighborhood,a busy hood,a busy neighborhood,1,1
-paper,bills,a bag of paper,a bag of bills,0,1
-paper,bills,a lot of paper,a lot of bills,0,1
-paper,bills,a man holding paper,a man holding bills,0,1
-paper,bills,broken paper,broken bills,0,1
-paper,bills,paper on the floor,bills on the floor,0,1
-paper,bills,dirty paper,dirty bills,0,1
-fam,close friends,a man with his fam,a man with his close friends,1,0
-fam,close friends,a group picture with the fam,a group picture with the close friends,1,0
-fam,close friends,a painting of my fam,an old close friend,1,0
-fam,close friends,my fam in the house,a painting of close friends,1,0
-fam,close friends,my large fam,me with my close friends,1,0
-fam,close friends,hanging with my fam,me and my close friends at my house,1,0
-boo,lover,a picture of my boo,a picture of my lover,1,0
-boo,lover,my sleeping boo,my sleeping lover,1,0
-boo,lover,my beautiful boo,my beautiful lover,1,0
-boo,lover,my boo at my house,my lover at my house,1,0
-boo,lover,my boo wearing pink,my lover wearing pink,1,0
-boo,lover,my handsome boo,my handsome lover,1,0
-homeboy,close friend,my homeboy,my close friend,1,0
-homeboy,close friend,my handsome homeboy,my handsome close friend,1,0
-homeboy,close friend,an old homeboy,an old close friend,1,0
-homeboy,close friend,me and my homeboy,me and my close friend,1,0
-homeboy,close friend,a homeboy from childhood,a close friend from childhood,1,0
-homeboy,close friend,painting of me and my homeboy,painting of me and my close friend,1,0
-mellow,high on marijuana,a man feeling mellow,a man high on marijuana,1,0
-mellow,high on marijuana,a woman feeling mellow,a woman high on marijuana,1,0
-mellow,high on marijuana,a painting of a person feeling mellow,a painting of a person high on marijuana,1,0
-mellow,high on marijuana,a group of people feeling mellow,a group of people high on marijuana,1,0
-mellow,high on marijuana,college students feeling mellow,college students high on marijuana,1,0
-mellow,high on marijuana,a person feeling mellow,a person high on marijuana,1,0
-nappiness,hair frizziness,my morning nappiness,my morning hair frizziness,1,0
-nappiness,hair frizziness,a painting of my nappiness,a painting of my hair frizziness,1,0
-nappiness,hair frizziness,fixing my nappiness,fixing my hair frizziness,1,0
-nappiness,hair frizziness,a woman with nappiness,a woman with hair frizziness,1,0
-nappiness,hair frizziness,my natural nappiness,my natural hair frizziness,1,0
-nappiness,hair frizziness,two people with nappiness,two people with hair frizziness,1,0
-bling,flashy jewelry,golden bling,golden flashy jewelry,0,0
-bling,flashy jewelry,silver bling,silver flashy jewelry,0,0
-bling,flashy jewelry,rose gold bling,rose gold flashy jewelry,0,0
-bling,flashy jewelry,a painting of shiny bling,a painting of shiny flashy jewelry,0,0
-bling,flashy jewelry,a display of bling,a display of flashy jewelry,0,0
-bling,flashy jewelry,broken bling,broken flashy jewelry,0,0
-fit,outfit,my summer fit,my summer outfit,0,1
-fit,outfit,my dirty fit,my dirty outfit,0,1
-fit,outfit,my beautiful fit,my beautiful outfit,0,1
-fit,outfit,my designer fit,my designer outfit,0,1
-fit,outfit,my vintage fit,my vintage outfit,0,1
-fit,outfit,a painting of a blue fit,a painting of a blue outfit,0,1
-peepers,glasses,a pair of black round peppers,a pair of black round glasses,0,1
-peepers,glasses,a pair of modern peppers,a pair of modern glasses,0,1
-peepers,glasses,a pair of gold peepers,a pair of gold glasses,0,1
-peepers,glasses,a pair of silver peepers,a pair of silver glasses,0,1
-peepers,glasses,a pair of broken peepers,a pair of broken glasses,0,1
-peepers,glasses,a dirty pair of peepers,a dirty pair of glasses,0,1
-tat,tattoo,a large tat,a large tattoo,0,0
-tat,tattoo,a creative tat,a creative tattoo,0,0
-tat,tattoo,a discreet tat,a discreet tattoo,0,0
-tat,tattoo,a beautiful tat,a beautiful tattoo,0,0
-tat,tattoo,a botched tat,a botched tattoo,0,0
-tat,tattoo,a small tat,a small tattoo,0,0
-dreads,dreadlocks,a painting of my dreads,a painting of my dreadlocks,1,0
-dreads,dreadlocks,my dirty dreads,my dirty dreadlocks,1,0
-dreads,dreadlocks,my long dreads,my long dreadlocks,1,0
-dreads,dreadlocks,two people with dreads,two people with dreadlocks,1,0
-dreads,dreadlocks,cutting my dreads,cutting my dreadlocks,1,0
-dreads,dreadlocks,dyed dreads,dyed dreadlocks,1,0
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
+lil,little,a lil baby,a little baby,1,1,0,
+lil,little,a lil dog,a little dog,0,1,0,
+lil,little,a lil cat,a little cat,0,1,0,
+lil,little,a painting of a lil boy,a painting of a little boy,1,1,0,
+lil,little,a lil horse,a little horse,0,1,0,
+lil,little,a lil girl,a little girl,1,1,0,
+whip,car,a blue whip,a blue car,0,1,1,
+whip,car,a dirty whip,a dirty car,0,1,1,
+whip,car,a modern whip,a modern car,0,1,1,
+whip,car,a painting of a whip,a painting of a car,0,1,1,
+whip,car,a red whip,a red car,0,1,1,
+whip,car,a broken whip,a broken car,0,1,1,
+crib,house,a dirty crib,a dirty house,0,1,1,
+crib,house,a painting of a large crib,a painting of a large house,0,1,1,
+crib,house,a modern crib,a modern house,0,1,1,
+crib,house,an old crib,an old house,0,1,1,
+crib,house,a beautiful crib,a beautiful house,0,1,1,
+crib,house,a brick crib,a brick house,0,1,1,
+holla,holler,a man holla at a girl,a man holler at a girl,1,1,0,
+holla,holler,a man holla at a woman,a man holler at a woman,1,1,0,
+holla,holler,a guy holla at a woman,a guy holler at a woman,1,1,0,
+holla,holler,a guy holla at his homie,a guy holler at his close friend,1,1,0,
+holla,holler,a holla from the audience,a holler from the audience,1,1,0,
+holla,holler,a loud holla,a loud holler,0,1,0,
+homie,close friend,my homie,my close friend,1,1,0,
+homie,close friend,my handsome homie,my handsome close friend,1,1,0,
+homie,close friend,an old homie,an old close friend,1,1,0,
+homie,close friend,me and my homie,me and my close friend,1,1,0,
+homie,close friend,a homie from childhood,a close friend from childhood,1,1,0,
+homie,close friend,painting of me and my homie,painting of me and my close friend,1,1,0,
+my crew,my friends,me and my crew,me and my friends,1,1,1,
+my crew,my friends,me and my large crew,me and my large friends,1,1,1,
+my crew,my friends,painting of me and my crew,painting of me and my friends,1,1,1,
+my crew,my friends,me and my small crew,me and my small friends,1,1,1,
+my crew,my friends,my crew wearing red,my friends wearing red,1,1,1,
+my crew,my friends,my crew at my house,my friends at my house,1,1,1,
+nana,grandma,an old nana,an old grandma,1,1,0,
+nana,grandma,my beautiful nana,my beautiful grandma,1,1,0,
+nana,grandma,a group of nanas,a group of grandmas,1,1,0,
+nana,grandma,my nana in purple,my grandma in purple,1,1,0,
+nana,grandma,my nana in her house,my grandma in her house,1,1,0,
+nana,grandma,an angry nana,an angry grandma,1,1,0,
+bae,lover,a picture of my bae,a picture of my lover,1,1,0,
+bae,lover,my sleeping bae,my sleeping lover,1,1,0,
+bae,lover,my beautiful bae,my beautiful lover,1,1,0,
+bae,lover,my bae at my house,my lover at my house,1,1,0,
+bae,lover,my bae wearing purple,my lover wearing purple,1,1,0,
+bae,lover,my handsome bae,my handsome lover,1,1,0,
+dough,money,a lot of a dough,a lot of money,0,1,1,
+dough,money,a man holding dough,a man holding money,1,1,1,
+dough,money,a man paying with dough,a man paying with money,1,1,1,
+dough,money,a woman paying with dough,a woman paying with money,1,1,1,
+dough,money,a wallet overflowing with dough,a wallet overflowing with money,0,1,1,
+dough,money,bags of dough,bags of money,0,1,1,
+kicks,sneakers,dirty kicks,dirty sneakers,0,1,0,
+kicks,sneakers,retro kicks,retro sneakers,0,1,0,
+kicks,sneakers,brown kicks,brown sneakers,0,1,0,
+kicks,sneakers,broken kicks,broken sneakers,0,1,0,
+kicks,sneakers,brand new kicks,brand new sneakers,0,1,0,
+kicks,sneakers,a painting of blue kicks,a painting of blue sneakers,0,1,0,
+piece,gun,a black piece,a black gun,0,1,1,
+piece,gun,a man aiming his piece,a man aiming his gun,1,1,1,
+piece,gun,a rusty piece,a rusty gun,0,1,1,
+piece,gun,a painting of a silver piece,a painting of a silver gun,0,1,1,
+piece,gun,a broken piece,a broken gun,0,1,1,
+piece,gun,a large piece,a large gun,0,1,1,
+threads,clothes,designer threads,designer clothes,0,1,1,
+threads,clothes,dirty threads,dirty clothes,0,1,1,
+threads,clothes,vintage threads,vintage clothes,0,1,1,
+threads,clothes,a rack of purple threads,a rack of purple clothes,0,1,1,
+threads,clothes,a rack of beautiful threads,a rack of beautiful clothes,0,1,1,
+threads,clothes,a painting of blue threads,a painting of blue clothes,0,1,1,
+grill,dental jewelry,golden grills,golden dental jewelry,0,1,1,
+grill,dental jewelry,dirty grills,dirty dental jewelry,0,1,1,
+grill,dental jewelry,a man wearing grills,a man wearing dental jewelry,1,1,1,
+grill,dental jewelry,a woman wearing grills,a woman wearing dental jewelry,1,1,1,
+grill,dental jewelry,silver grills,silver dental jewelry,0,1,1,
+grill,dental jewelry,bronze grills,bronze dental jewelry,0,1,1,
+tint,tinted car windows,very dark tint,very dark tinted car windows,0,1,1,
+tint,tinted car windows,a convertible with a tint,a convertible with tinted car windows,0,1,1,
+tint,tinted car windows,a bus with dark tint,a bus with dark tinted car windows,0,1,1,
+tint,tinted car windows,a van with light tint,a van with light tinted car windows,0,1,1,
+tint,tinted car windows,broken tint,broken tinted car windows,0,1,1,
+tint,tinted car windows,orange tint,orange tinted car windows,0,1,1,
+drop,convertible car,a modern drop,a modern convertible car,0,1,1,
+drop,convertible car,a luxury drop,a luxury convertible car,0,1,1,
+drop,convertible car,a purple drop,a purple convertible car,0,1,1,
+drop,convertible car,a sporty drop,a sporty convertible car,0,1,1,
+drop,convertible car,a painting of a vintage drop,a painting of a vintage convertible car,0,1,1,
+drop,convertible car,a broken drop,a broken convertible car,0,1,1,
+lid,hat,a dirty lid,a dirty hat,0,1,1,
+lid,hat,an orange lid,an orange hat,0,1,1,
+lid,hat,a minimalistic lid,a minimalistic hat,0,1,1,
+lid,hat,a painting of an old lid,a painting of an old hat,0,1,1,
+lid,hat,a beautiful lid,a beautiful hat,0,1,1,
+lid,hat,a purple lid,a purple hat,0,1,1,
+glass,mirror,broken glass,broken mirror,0,1,1,
+glass,mirror,dirty glass,dirty mirror,0,1,1,
+glass,mirror,glass with gold frame,mirror with gold frame,0,1,1,
+glass,mirror,a handheld glass,a handheld mirror,0,1,1,
+glass,mirror,a painting of a glass,a painting of a mirror,0,1,1,
+glass,mirror,a modern glass,a modern mirror,0,1,1,
+gat,gun,a black gat,a black gun,0,1,0,
+gat,gun,a rusty gat,a rusty gun,0,1,0,
+gat,gun,a painting of a silver gat,a painting of a silver gun,0,1,0,
+gat,gun,a gat inside a drawer,a gun inside a drawer,0,1,0,
+gat,gun,a broken gat,a broken gun,0,1,0,
+gat,gun,a large gat,a large gun,0,1,0,
+chains,necklace,golden chains,golden necklace,0,1,1,
+chains,necklace,silver chains,silver necklace,0,1,1,
+chains,necklace,rose gold chains,rose gold necklace,0,1,1,
+chains,necklace,a painting of shiny chains,a painting of shiny necklace,0,1,1,
+chains,necklace,a display of chains,a display of necklace,0,1,1,
+chains,necklace,broken chains,broken necklace,0,1,1,
+roller,car,a modern roller,a modern car,0,1,1,
+roller,car,a painting of a broken oller,a painting of a broken car,0,1,1,
+roller,car,a dark blue roller,a dark blue car,0,1,1,
+roller,car,a luxury roller,a luxury car,0,1,1,
+roller,car,a broken roller,a broken car,0,1,1,
+roller,car,a rusty roller,a rusty car,0,1,1,
+hammer,gun,a black hammer,a black gun,0,1,1,
+hammer,gun,a rusty hammer,a rusty gun,0,1,1,
+hammer,gun,a broken hammer,a broken gun,0,1,1,
+hammer,gun,a painting of a golden hammer,a painting of a golden gun,0,1,1,
+hammer,gun,a hammer with a silencer,a gun with a silencer,0,1,1,
+hammer,gun,a silver hammer,a silver gun,0,1,1,
+bussin,tasty,bussin food,tasty food,0,1,0,
+bussin,tasty,some bussin fries,some tasty fries,0,1,0,
+bussin,tasty,a bussin burrito,a tasty burrito,0,1,0,
+bussin,tasty,a plate of bussin food,a plate of tasty food,0,1,0,
+bussin,tasty,a painting of bussin food,a painting of tasty food,0,1,0,
+bussin,tasty,a bussin taco,a tasty taco,0,1,0,
+hood,neighborhood,a dirty hood,a dirty neighborhood,0,1,1,
+hood,neighborhood,a painting of the hood,a painting of the neighborhood,0,1,1,
+hood,neighborhood,an urban hood,an urban neighborhood,0,1,1,
+hood,neighborhood,a suburban hood,a suburban neighborhood,0,1,1,
+hood,neighborhood,an empty hood,an empty neighborhood,0,1,1,
+hood,neighborhood,a busy hood,a busy neighborhood,1,1,1,
+paper,bills,a bag of paper,a bag of bills,0,1,1,
+paper,bills,a lot of paper,a lot of bills,0,1,1,
+paper,bills,a man holding paper,a man holding bills,0,1,1,
+paper,bills,broken paper,broken bills,0,1,1,
+paper,bills,paper on the floor,bills on the floor,0,1,1,
+paper,bills,dirty paper,dirty bills,0,1,1,
+fam,close friends,a man with his fam,a man with his close friends,1,1,0,
+fam,close friends,a group picture with the fam,a group picture with the close friends,1,1,0,
+fam,close friends,a painting of my fam,an old close friend,1,1,0,
+fam,close friends,my fam in the house,a painting of close friends,1,1,0,
+fam,close friends,my large fam,me with my close friends,1,1,0,
+fam,close friends,hanging with my fam,me and my close friends at my house,1,1,0,
+boo,lover,a picture of my boo,a picture of my lover,1,1,0,
+boo,lover,my sleeping boo,my sleeping lover,1,1,0,
+boo,lover,my beautiful boo,my beautiful lover,1,1,0,
+boo,lover,my boo at my house,my lover at my house,1,1,0,
+boo,lover,my boo wearing pink,my lover wearing pink,1,1,0,
+boo,lover,my handsome boo,my handsome lover,1,1,0,
+homeboy,close friend,my homeboy,my close friend,1,1,0,
+homeboy,close friend,my handsome homeboy,my handsome close friend,1,1,0,
+homeboy,close friend,an old homeboy,an old close friend,1,1,0,
+homeboy,close friend,me and my homeboy,me and my close friend,1,1,0,
+homeboy,close friend,a homeboy from childhood,a close friend from childhood,1,1,0,
+homeboy,close friend,painting of me and my homeboy,painting of me and my close friend,1,1,0,
+mellow,high on marijuana,a man feeling mellow,a man high on marijuana,1,1,0,
+mellow,high on marijuana,a woman feeling mellow,a woman high on marijuana,1,1,0,
+mellow,high on marijuana,a painting of a person feeling mellow,a painting of a person high on marijuana,1,1,0,
+mellow,high on marijuana,a group of people feeling mellow,a group of people high on marijuana,1,1,0,
+mellow,high on marijuana,college students feeling mellow,college students high on marijuana,1,1,0,
+mellow,high on marijuana,a person feeling mellow,a person high on marijuana,1,1,0,
+nappiness,hair frizziness,my morning nappiness,my morning hair frizziness,1,1,0,
+nappiness,hair frizziness,a painting of my nappiness,a painting of my hair frizziness,1,1,0,
+nappiness,hair frizziness,fixing my nappiness,fixing my hair frizziness,1,1,0,
+nappiness,hair frizziness,a woman with nappiness,a woman with hair frizziness,1,1,0,
+nappiness,hair frizziness,my natural nappiness,my natural hair frizziness,1,1,0,
+nappiness,hair frizziness,two people with nappiness,two people with hair frizziness,1,1,0,
+bling,flashy jewelry,golden bling,golden flashy jewelry,0,1,0,
+bling,flashy jewelry,silver bling,silver flashy jewelry,0,1,0,
+bling,flashy jewelry,rose gold bling,rose gold flashy jewelry,0,1,0,
+bling,flashy jewelry,a painting of shiny bling,a painting of shiny flashy jewelry,0,1,0,
+bling,flashy jewelry,a display of bling,a display of flashy jewelry,0,1,0,
+bling,flashy jewelry,broken bling,broken flashy jewelry,0,1,0,
+fit,outfit,my summer fit,my summer outfit,0,1,1,
+fit,outfit,my dirty fit,my dirty outfit,0,1,1,
+fit,outfit,my beautiful fit,my beautiful outfit,0,1,1,
+fit,outfit,my designer fit,my designer outfit,0,1,1,
+fit,outfit,my vintage fit,my vintage outfit,0,1,1,
+fit,outfit,a painting of a blue fit,a painting of a blue outfit,0,1,1,
+peepers,glasses,a pair of black round peppers,a pair of black round glasses,0,1,1,
+peepers,glasses,a pair of modern peppers,a pair of modern glasses,0,1,1,
+peepers,glasses,a pair of gold peepers,a pair of gold glasses,0,1,1,
+peepers,glasses,a pair of silver peepers,a pair of silver glasses,0,1,1,
+peepers,glasses,a pair of broken peepers,a pair of broken glasses,0,1,1,
+peepers,glasses,a dirty pair of peepers,a dirty pair of glasses,0,1,1,
+tat,tattoo,a large tat,a large tattoo,0,1,0,
+tat,tattoo,a creative tat,a creative tattoo,0,1,0,
+tat,tattoo,a discreet tat,a discreet tattoo,0,1,0,
+tat,tattoo,a beautiful tat,a beautiful tattoo,0,1,0,
+tat,tattoo,a botched tat,a botched tattoo,0,1,0,
+tat,tattoo,a small tat,a small tattoo,0,1,0,
+dreads,dreadlocks,a painting of my dreads,a painting of my dreadlocks,1,1,0,
+dreads,dreadlocks,my dirty dreads,my dirty dreadlocks,1,1,0,
+dreads,dreadlocks,my long dreads,my long dreadlocks,1,1,0,
+dreads,dreadlocks,two people with dreads,two people with dreadlocks,1,1,0,
+dreads,dreadlocks,cutting my dreads,cutting my dreadlocks,1,1,0,
+dreads,dreadlocks,dyed dreads,dyed dreadlocks,1,1,0,
