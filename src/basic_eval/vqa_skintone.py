@@ -2,10 +2,8 @@ import os
 import math
 import pandas as pd
 from tqdm import tqdm
-from PIL import Image
-from sklearn.metrics.pairwise import cosine_similarity
 import torch
-import clip
+import t2v_metrics
 
 # ------------------------- Configuration -------------------------
 MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large-turbo"]
@@ -16,55 +14,45 @@ FOLDER_MAPPING = {"dialect": "dialect_imgs", "sae": "sae_imgs"}
 
 # Path settings for the skintone evaluation task.
 TASK = "skintone"
-MODEL = "clip"
+MODEL = "vqa"
 BASE_DIR = "/local1/bryanzhou008/Dialect/multimodal-dialectal-bias"
 DATA_DIR = os.path.join(BASE_DIR, "data")
 OUTPUT_DIR = os.path.join(BASE_DIR, f"out/{TASK}/base_models_{MODEL}")
 
-# Images per prompt.
+# Images per prompt and initialize the VQA scoring model.
 NUM_IMAGES = 9  
+scorer = t2v_metrics.VQAScore(model='clip-flant5-xxl')
 
 # Skin-tone reference prompts.
 LIGHT_SKIN_PROMPT = "light-skinned"
 DARK_SKIN_PROMPT = "dark-skinned"
 
-# CLIP model setup.
-device = "cuda" if torch.cuda.is_available() else "cpu"
-LIBRARY = "openai"  # Only 'openai' is implemented.
-CLIP_model, preprocess = clip.load("ViT-B/32", device=device, jit=False)
-torch.manual_seed(42)
-
 def get_average_score(img_dir, model_name, folder, gen_prompt, ref_prompt, num_images=NUM_IMAGES):
     """
-    Compute the average CLIP similarity score for a set of generated images.
+    Compute the average VQA similarity score for a set of generated images.
     """
     prompt_dir = os.path.join(img_dir, model_name, folder, gen_prompt)
     scores = []
     
     for i in range(num_images):
         image_path = os.path.join(prompt_dir, f"{i}.jpg")
-        try:
-            image = Image.open(image_path)
-        except Exception:
+        if not os.path.exists(image_path):
             # Handle filename inconsistencies by replacing problematic characters.
             processed_prompt = gen_prompt.replace("'", "_")
-            new_prompt_dir = os.path.join(img_dir, model_name, folder, processed_prompt)
-            image_path = os.path.join(new_prompt_dir, f"{i}.jpg")
-            image = Image.open(image_path)
+            prompt_dir = os.path.join(img_dir, model_name, folder, processed_prompt)
+            image_path = os.path.join(prompt_dir, f"{i}.jpg")
         
-        image_tensor = preprocess(image).unsqueeze(0).to(device)
-        text_tensor = clip.tokenize([ref_prompt]).to(device)
-        with torch.no_grad():
-            image_features = CLIP_model.encode_image(image_tensor)
-            text_features = CLIP_model.encode_text(text_tensor)
-            if LIBRARY == "openai":
-                score = cosine_similarity(
-                    image_features.cpu().numpy(), text_features.cpu().numpy()
-                )[0][0]
-            elif LIBRARY == "torchmetrics":
-                raise NotImplementedError("Torchmetrics scoring is not implemented.")
-            else:
-                raise ValueError("Undefined library specified.")
+        # Compute the score for the (image, text) pair.
+        score_output = scorer(images=[image_path], texts=[ref_prompt])
+        try:
+            score_tensor = score_output[0][0]
+        except TypeError:
+            score_tensor = score_output
+        # Convert to Python float (move tensor from GPU if needed).
+        if isinstance(score_tensor, torch.Tensor):
+            score = score_tensor.detach().cpu().item()
+        else:
+            score = float(score_tensor)
         scores.append(score)
     
     return sum(scores) / len(scores)
@@ -85,7 +73,7 @@ def main():
             data_file = os.path.join(DATA_DIR, "text", mode, f"{dialect}.csv")
             img_dir = os.path.join(DATA_DIR, "image", mode, dialect)
             
-            print(f"\n{'='*60}\nEvaluating Skintone for MODE: '{mode}', DIALECT: '{dialect}'\n{'='*60}\n")
+            print(f"\n{'='*60}\nEvaluating Skintone (VQA) for MODE: '{mode}', DIALECT: '{dialect}'\n{'='*60}\n")
             
             # Load CSV data and filter to only those prompts with people.
             try:
@@ -94,7 +82,6 @@ def main():
                 print(f"Failed to load file {data_file}: {e}")
                 continue
             
-            # Only consider prompts where "person_in_prompt" equals 1.
             df = df.loc[df['person_in_prompt'] == 1]
             dialect_prompts = df["Dialect_Prompt"].tolist()
             sae_prompts = df["SAE_Prompt"].tolist()
@@ -123,7 +110,6 @@ def main():
                     dialect_prompt = dialect_prompts[i]
                     sae_prompt = sae_prompts[i]
                     
-                    # Evaluate only prompts with people.
                     # For dialect images.
                     folder = FOLDER_MAPPING["dialect"]
                     score_light = get_average_score(img_dir, model, folder, dialect_prompt, LIGHT_SKIN_PROMPT)

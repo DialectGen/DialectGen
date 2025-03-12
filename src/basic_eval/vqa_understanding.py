@@ -11,7 +11,6 @@ DIALECTS = ["aae", "bre", "che", "ine", "sge"]
 # ------------------------------------------------------------------
 
 # Path settings
-# Path settings
 TASK = "understanding"
 BASE_DIR = "/local1/bryanzhou008/Dialect/multimodal-dialectal-bias"
 DATA_DIR = os.path.join(BASE_DIR, "data")
