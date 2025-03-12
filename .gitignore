@@ -51,6 +51,7 @@ mitigation/
 # Pretrained models
 pretrained/
 *hf_cache
+*cache
 
 # Dataset
 data/image
