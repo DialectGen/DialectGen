@@ -1,54 +1,63 @@
 import os
 import pandas as pd
 from tqdm import tqdm
-import t2v_metrics
-import torch  # Import torch for type checking
+from PIL import Image
+from sklearn.metrics.pairwise import cosine_similarity
+import torch
+import clip
 
 # ------------------------- Configuration -------------------------
 MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large-turbo"]
-MODES = ["basic", "complex"]
+MODES = ["basic"]
 DIALECTS = ["aae", "bre", "che", "ine", "sge"]
 # ------------------------------------------------------------------
 
 # Path settings
-# Path settings
 TASK = "understanding"
 BASE_DIR = "/local1/bryanzhou008/Dialect/multimodal-dialectal-bias"
 DATA_DIR = os.path.join(BASE_DIR, "data")
-OUTPUT_DIR = os.path.join(BASE_DIR, f"out/{TASK}/base_models_vqa")
+OUTPUT_DIR = os.path.join(BASE_DIR, f"out/{TASK}/base_models_clip")
 
-# Images per prompt and scoring metric.
+# Images per prompt.
 NUM_IMAGES = 9  
-scorer = t2v_metrics.VQAScore(model='clip-flant5-xxl') 
+
+# Set up the CLIP model.
+device = "cuda" if torch.cuda.is_available() else "cpu"
+LIBRARY = "openai"  # Only 'openai' is implemented.
+CLIP_model, preprocess = clip.load("ViT-B/32", device=device, jit=False)
+torch.manual_seed(42)
 
 def get_average_score(img_dir, model_name, folder, gen_prompt, ref_prompt, num_images=NUM_IMAGES):
     """
-    Compute the average similarity score for a set of generated images using the new metric.
+    Compute the average CLIP similarity score for a set of generated images.
     """
     prompt_dir = os.path.join(img_dir, model_name, folder, gen_prompt)
     scores = []
     
     for i in range(num_images):
         image_path = os.path.join(prompt_dir, f"{i}.jpg")
-        if not os.path.exists(image_path):
+        try:
+            image = Image.open(image_path)
+        except Exception:
             # Handle filename inconsistencies by replacing problematic characters.
             processed_prompt = gen_prompt.replace("'", "_")
             prompt_dir = os.path.join(img_dir, model_name, folder, processed_prompt)
             image_path = os.path.join(prompt_dir, f"{i}.jpg")
+            image = Image.open(image_path)
         
-        # Compute the score for the (image, text) pair.
-        score_output = scorer(images=[image_path], texts=[ref_prompt])
-        try:
-            score_tensor = score_output[0][0]
-        except TypeError:
-            score_tensor = score_output
-        
-        # Convert the score to a Python float if it is a torch.Tensor.
-        if isinstance(score_tensor, torch.Tensor):
-            score = score_tensor.detach().cpu().item()
-        else:
-            score = float(score_tensor)
-        
+        image_tensor = preprocess(image).unsqueeze(0).to(device)
+        text_tensor = clip.tokenize([ref_prompt]).to(device)
+        with torch.no_grad():
+            image_features = CLIP_model.encode_image(image_tensor)
+            text_features = CLIP_model.encode_text(text_tensor)
+            if LIBRARY == "openai":
+                score = cosine_similarity(
+                    image_features.cpu().numpy(), text_features.cpu().numpy()
+                )[0][0]
+            elif LIBRARY == "torchmetrics":
+                raise NotImplementedError("Torchmetrics scoring is not implemented.")
+            else:
+                raise ValueError("Undefined library specified.")
         scores.append(score)
     
     return sum(scores) / len(scores)
@@ -103,7 +112,7 @@ def main():
                         "Prompt_Index": i,
                         "Dialect_Prompt": dialect_prompt,
                         "SAE_Prompt": sae_prompt,
-                        "Score": score_dialect
+                        "Score": round(score_dialect, 4)
                     })
                     print(f"Mode: {mode} | Dialect: {dialect} | Prompt {i} (dialect) | '{dialect_prompt}': {score_dialect:.4f}")
                     
@@ -112,13 +121,13 @@ def main():
                     results_sae.append({
                         "Prompt_Index": i,
                         "SAE_Prompt": sae_prompt,
-                        "Score": score_sae
+                        "Score": round(score_sae, 4)
                     })
                     print(f"Mode: {mode} | Dialect: {dialect} | Prompt {i} (sae) | '{sae_prompt}' : {score_sae:.4f}")
                 
                 # Calculate overall average scores.
-                avg_dialect = sum(r["Score"] for r in results_dialect) / len(results_dialect) if results_dialect else 0
-                avg_sae = sum(r["Score"] for r in results_sae) / len(results_sae) if results_sae else 0
+                avg_dialect = round(sum(r["Score"] for r in results_dialect) / len(results_dialect) if results_dialect else 0, 4)
+                avg_sae = round(sum(r["Score"] for r in results_sae) / len(results_sae) if results_sae else 0, 4)
                 
                 print(f"\n--- Final Results for MODE: '{mode}', DIALECT: '{dialect}', MODEL: '{model}' ---")
                 print(f"Overall Dialect Evaluation Average Score: {avg_dialect:.4f}")
@@ -130,10 +139,14 @@ def main():
                 df_dialect.to_csv(breakdown_dialect_path, index=False)
                 df_sae.to_csv(breakdown_sae_path, index=False)
                 
+                # Calculate additional metrics for the summary.
+                absolute_drop = round(avg_sae - avg_dialect, 4)
+                drop_ratio = round((absolute_drop / avg_sae) if avg_sae != 0 else 0, 4)
+                
                 # Save summary results.
                 summary_df = pd.DataFrame({
-                    "Evaluation_Type": ["Dialect", "SAE"],
-                    "Overall_Average_Score": [avg_dialect, avg_sae]
+                    "Evaluation_Type": ["Dialect", "SAE", "Absolute Drop", "Drop Ratio"],
+                    "Overall_Average_Score": [avg_dialect, avg_sae, absolute_drop, drop_ratio]
                 })
                 summary_df.to_csv(summary_path, index=False)
                 

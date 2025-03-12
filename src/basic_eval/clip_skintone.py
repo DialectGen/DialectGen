@@ -8,15 +8,18 @@ import torch
 import clip
 
 # ------------------------- Configuration -------------------------
-device = "cuda" if torch.cuda.is_available() else "cpu"
 LIBRARY = "openai"  # Alternatives: "torchmetrics" (not implemented)
 IMG_DIR = "/local1/bryanzhou008/Dialect/multimodal-dialectal-bias/data/image/basic/aae"
 DATA_FILE = "/local1/bryanzhou008/Dialect/multimodal-dialectal-bias/data/text/basic/aae.csv"
 MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large-turbo"]
 FOLDER_MAPPING = {"dialect": "dialect_imgs", "sae": "sae_imgs"}
+# -----------------------------------------------------------------
+
+
+
+device = "cuda" if torch.cuda.is_available() else "cpu"
 LIGHT_SKIN_PROMPT = "light-skinned"
 DARK_SKIN_PROMPT = "dark-skinned"
-# -----------------------------------------------------------------
 
 # Load CLIP model and its preprocessing function
 CLIP_model, preprocess = clip.load("ViT-B/32", device=device, jit=False)
