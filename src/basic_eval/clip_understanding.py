@@ -8,7 +8,7 @@ import clip
 
 # ------------------------- Configuration -------------------------
 MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large", "flux.1-dev"]
-MODES = ["basic","complex"]
+MODES = ["concise","detailed"]
 DIALECTS = ["aae", "che", "ine", "sge", "bre"]
 # ------------------------------------------------------------------
 

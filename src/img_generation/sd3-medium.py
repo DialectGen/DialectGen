@@ -47,8 +47,8 @@ def parse_args():
         "--mode",
         type=str,
         required=True,
-        choices=["basic", "complex", "entigen", "polysemy"],
-        help="Mode to use (basic, complex, entigen, or polysemy)."
+        choices=["concise", "detailed", "entigen", "polysemy"],
+        help="Mode to use (concise, detailed, entigen, or polysemy)."
     )
     parser.add_argument(
         "--replace",

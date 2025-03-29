@@ -59,8 +59,8 @@ def parse_args():
         "--mode",
         type=str,
         required=True,
-        choices=["basic", "complex", "entigen", "polysemy"],
-        help="Type of prompt to use (basic, entigen, or polysemy)."
+        choices=["concise", "detailed", "entigen", "polysemy"],
+        help="Type of prompt to use (concise, entigen, or polysemy)."
     )
     parser.add_argument(
         "--replace",

@@ -1,0 +1,13 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
+torque,truck,a large black torque driving on a neighborhood street,a large black truck driving on a neighborhood street,0,1,1,
+torque,truck,a woman driving a green torque on a farm,a woman driving a green truck on a farm,1,1,1,
+torque,truck,a torque with a dog in the back,a truck with a dog in the back,0,1,1,
+torque,truck,a man driving a torque on the highway,a man driving a truck on the highway,1,1,1,
+torque,truck,two kids sitting on the back of a torque,two kids sitting on the back of a truck,1,1,1,
+torque,truck,a torque parked on a driveway,a truck parked on a driveway,0,1,1,
+carnal,brother,a woman and her carnal eating at a restaurant,a man and her brother eating at a restaurant,1,1,1,
+carnal,brother,a man hiking with his carnal,a man hiking with his brother,1,1,1,
+carnal,brother,my carnal posing for a picture,my brother posing for a picture,1,1,1,
+carnal,brother,me standing with my carnal,me standing with my brother,1,1,1,
+carnal,brother,my carnal and I sitting at a table,my brother and I sitting at a table,1,1,1,
+carnal,brother,my carnal riding a bike,my brother riding a bike,1,1,1,

@@ -9,7 +9,7 @@ import clip
 
 # ------------------------- Configuration -------------------------
 MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large", "flux.1-dev"]
-MODES = ["basic","complex"]
+MODES = ["concise","detailed"]
 IALECTS = ["aae", "che", "ine", "sge", "bre"]
 FOLDER_MAPPING = {"dialect": "dialect_imgs", "sae": "sae_imgs"}
 # ------------------------------------------------------------------

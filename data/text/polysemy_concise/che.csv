@@ -1,0 +1,13 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
+torque,truck,a large black torque,a large black truck,0,1,1,
+torque,truck,a green torque,a green truck,1,1,1,
+torque,truck,a torque with a dog,a truck with a dog,0,1,1,
+torque,truck,a painting of a torque,a painting of a truck,1,1,1,
+torque,truck,a new torque,a new truck,1,1,1,
+torque,truck,an old torque,an old truck,0,1,1,
+carnal,brother,a painting of a carnal,a painting of a brother,1,1,1,
+carnal,brother,a man hiking with his carnal,a man hiking with his brother,1,1,1,
+carnal,brother,a carnal in a house,a brother in a house,1,1,1,
+carnal,brother,me with my carnal,me with my brother,1,1,1,
+carnal,brother,a carnal at a table,a brother at a table,1,1,1,
+carnal,brother,a carnal at a park,a brother at a park,1,1,1,
