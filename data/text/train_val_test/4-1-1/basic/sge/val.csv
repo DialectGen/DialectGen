@@ -1,34 +1,35 @@
-Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,polysemic
-teh tarik,milk tea,a small teh tarik,a small milk tea,1,0
-kopi,coffee,a man buying kopi,a man buying coffee,1,0
-ang pow,red packet,an ang pow on the ground,a red packet on the ground,0,0
-sotong,squid,a sotong on a counter,a squid on a counter,0,0
-tapao,takeout,chinese food tapao,chinese food takeout,0,0
-kiasu,"a grasping, selfish attitude",a kiasu businesswoman,"a businesswoman with a grasping, selfish attitude",1,0
-sian,bored,a sian dog in the front yard,a bored dog in the front yard,0,0
-lepak,relax,a cat lepak,a cat relaxing,0,0
-can,yes,a woman gesturing can,a woman gesturing yes,1,1
-chope,save a table,chope at a cafe,saving a table at a cafe,1,0
-shiok,very tasty,something shiok,something tasty,0,0
-atas,high class,an atas car,a high class car,1,0
-ulu,secluded,an ulu house,a secluded house,0,0
-makan,eat,people makan,people eating,1,0
-zhng,redecorate,a man zhng his desk,a man redecorates his desk,1,0
-ger,girl,a ger in a city,a girl in a city,1,0
-handphone,mobile phone,a painting of a handphone,a painting of a mobile phone,1,0
-ah long,a loan shark,an ah long talking to someone,a loan shark talking to someone,1,0
-kopi tiam,small food court,a modern kopi tiam,a modern small food court,1,0
-yandao,handsome male,a yandao walking,a handsome male walking,1,0
-mug,study,an older person rob,an older person studying,1,1
-lightbulb,third wheel,painting of a light bulb,painting of a third wheel,1,1
-teh,tea,white teh,white tea,0,0
-char kway teow,stir-fried rice noodles,char kway teow with fruit,stir-fried rice noodles with fruit,0,0
-sinseh,traditional Chinese physician,a sinseh with two people,a traditional Chinese physician with two people,1,0
-hawker centre,food court,a person at a hawker centre,a person at a food court,0,0
-killer litter,litter thrown from a high-rise building,a person avoiding killer litter,a person avoiding litter thrown from a high-rise building,1,0
-changkol,hoe,a new changkol,a new hoe,0,0
-chilli crab,spicy stir-fried crab,a waiter holding a chilli crab dish,a waiter holding a spicy stir-fried crab dish,1,0
-mamak,uncle,a mamak drinking coffee at the dining table,an uncle drinking coffee at the dining table,1,0
-popiah,Fujianese fresh spring roll,popiah in a bowl,Fujianese fresh spring roll in a bowl,0,0
-roti prata,Indian flatbread,roti prata on a counter,Indian flatbread on a counter,0,0
-bak kwa,Chinese pork jerky,one piece of bak kwa,one piece of Chinese pork jerky,1,0
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
+teh tarik,milk tea,a small teh tarik,a small milk tea,1,1,0,
+kopi,coffee,a man buying kopi,a man buying coffee,1,1,0,
+ang pow,red packet,an ang pow on the ground,a red packet on the ground,0,1,0,
+sotong,squid,a sotong on a counter,a squid on a counter,0,1,0,
+tapao,takeout,chinese food tapao,chinese food takeout,0,1,0,
+kiasu,a grasping and selfish attitude,a kiasu businesswoman,a businesswoman with a grasping and selfish attitude,1,1,0,
+sian,bored,a sian dog in the front yard,a bored dog in the front yard,0,1,0,
+lepak,relax,a cat lepak,a cat relaxing,0,1,0,
+can,yes,a woman gesturing can,a woman gesturing yes,1,1,1,
+chope,save a table,chope at a cafe,saving a table at a cafe,1,1,0,
+shiok,very tasty,something shiok,something tasty,0,1,0,
+atas,high class,an atas car,a high class car,1,1,0,
+ulu,secluded,an ulu house,a secluded house,0,1,0,
+makan,eat,people makan,people eating,1,1,0,
+zhng,redecorate,a man zhng his desk,a man redecorates his desk,1,1,0,
+ger,girl,a ger in a city,a girl in a city,1,1,0,
+handphone,mobile phone,a painting of a handphone,a painting of a mobile phone,1,1,0,
+ah long,a loan shark,an ah long talking to someone,a loan shark talking to someone,1,1,0,
+kopi tiam,small food court,a modern kopi tiam,a modern small food court,1,1,0,
+yandao,handsome male,a yandao walking,a handsome male walking,1,1,0,
+mug,study,an older person rob,an older person studying,1,1,1,
+lightbulb,third wheel,painting of a light bulb,painting of a third wheel,1,1,1,
+teh,tea,white teh,white tea,0,1,0,
+char kway teow,stir-fried rice noodles,char kway teow with fruit,stir-fried rice noodles with fruit,0,1,0,
+sinseh,traditional Chinese physician,a sinseh with two people,a traditional Chinese physician with two people,1,1,0,
+hawker centre,food court,a person at a hawker centre,a person at a food court,0,1,0,
+killer litter,litter thrown from a high-rise building,a person avoiding killer litter,a person avoiding litter thrown from a high-rise building,1,1,0,
+changkol,hoe,a new changkol,a new hoe,0,1,0,
+chilli crab,spicy stir-fried crab,a waiter holding a chilli crab dish,a waiter holding a spicy stir-fried crab dish,1,1,0,
+mamak,uncle,a mamak drinking coffee at the dining table,an uncle drinking coffee at the dining table,1,1,0,
+popiah,Fujianese fresh spring roll,popiah in a bowl,Fujianese fresh spring roll in a bowl,0,1,0,
+roti prata,Indian flatbread,roti prata on a counter,Indian flatbread on a counter,0,1,0,
+bak kwa,Chinese pork jerky,one piece of bak kwa,one piece of Chinese pork jerky,1,1,0,
+kaki,buddy,a group of kaki outdoors,a group of buddies outdoors,1,1,1,

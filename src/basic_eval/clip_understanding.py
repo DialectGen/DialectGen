@@ -7,9 +7,9 @@ import torch
 import clip
 
 # ------------------------- Configuration -------------------------
-MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large-turbo"]
-MODES = ["basic"]
-DIALECTS = ["aae", "bre", "che", "ine", "sge"]
+MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large", "flux.1-dev"]
+MODES = ["basic","complex"]
+DIALECTS = ["aae", "che", "ine", "sge", "bre"]
 # ------------------------------------------------------------------
 
 # Path settings

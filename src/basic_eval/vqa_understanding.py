@@ -5,9 +5,12 @@ import t2v_metrics
 import torch  # Import torch for type checking
 
 # ------------------------- Configuration -------------------------
+# MODELS_TO_EVALUATE = ["stable-diffusion1.4"]
 MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large-turbo"]
-MODES = ["basic", "complex"]
-DIALECTS = ["aae", "bre", "che", "ine", "sge"]
+MODES = ["explained"]
+# DIALECTS = ["aae", "che", "sge"]
+DIALECTS = ["ine", "bre"]
+# DIALECTS = ["aae", "che", "ine", "sge", "bre"]
 # ------------------------------------------------------------------
 
 # Path settings

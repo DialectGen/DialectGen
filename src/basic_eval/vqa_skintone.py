@@ -6,10 +6,9 @@ import torch
 import t2v_metrics
 
 # ------------------------- Configuration -------------------------
-MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large-turbo"]
-MODES = ["complex"]
-DIALECTS = ["aae", "bre", "che", "ine", "sge"]
-FOLDER_MAPPING = {"dialect": "dialect_imgs", "sae": "sae_imgs"}
+MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large", "flux.1-dev"]
+MODES = ["basic","complex"]
+DIALECTS = ["aae", "che", "ine", "sge", "bre"]
 # ------------------------------------------------------------------
 
 # Path settings for the skintone evaluation task.
@@ -18,6 +17,7 @@ MODEL = "vqa"
 BASE_DIR = "/local1/bryanzhou008/Dialect/multimodal-dialectal-bias"
 DATA_DIR = os.path.join(BASE_DIR, "data")
 OUTPUT_DIR = os.path.join(BASE_DIR, f"out/{TASK}/base_models_{MODEL}")
+FOLDER_MAPPING = {"dialect": "dialect_imgs", "sae": "sae_imgs"}
 
 # Images per prompt and initialize the VQA scoring model.
 NUM_IMAGES = 9  

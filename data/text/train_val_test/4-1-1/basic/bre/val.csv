@@ -1,32 +1,38 @@
-Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,polysemic
-lorry,semitruck,a modern lorry,a modern semitruck,0,0
-jumper,sweater,a jumper with holes,a sweater with holes,0,0
-loo,bathroom,a spacious loo,a spacious bathroom,0,0
-banger,sausage,broken bangers,broken sausages,0,0
-rubbish,trash,a rubbish bin,a trash bin,0,0
-flat,apartment,a photograph of a college flat,a photograph of a college apartment,0,1
-car boot,car trunk,a modern car boot,a modern car trunk,0,0
-queue,line,a queue outside the store,a line outside the store,1,0
-trousers,pants,a pair of designer trousers,a pair of designer pants,0,0
-biscuit,cookie,a painting of some biscuits,a painting of some cookies,0,0
-torch,flashlight,a purple torch,a purple flashlight,0,1
-nappies,diapers,a pair of pink nappies,a pair of pink diapers,0,0
-petrol,gasoline,a petrol tanker,a gasoline tanker,0,0
-football,soccer,a painting of a football team,a painting of a soccer team,1,1
-chemist,pharmacy,entrance of a chemist,entrance of a pharmacy,0,1
-chips,french fries,burnt chips,burnt french fries,0,1
-barrister,attorney,a barrister with a notepad,an attorney with a notepad,1,0
-caretaker,janitor,a painting of an old caretaker,a painting of an old janitor,1,1
-cooker,stove,a rusty cooker,a rusty stove,0,0
-cot,crib,a golden cot,a golden crib,0,1
-hoarding,billboard,a hoarding lit up at night,a billboard lit up at night,0,0
-hoover,vacuum cleaner,a dirty hoover,a dirty vacuum cleaner,0,0
-jug,pitcher,a colorful jug,a colorful pitcher,0,0
-postman,mailman,a painting of an old postman,a painting of an old mailman,1,0
-pram,baby carriage,a painting of a vintage pram,a painting of a vintage baby carriage,0,0
-saloon,sedan,a broken saloon,a broken sedan,0,0
-bonnet,hood of car,a broken bonnet,a broken hood of car,0,0
-coriander,cilantro,a basket of coriander,a basket of cilantro,0,0
-courgette,zucchini,a moldy courgette,a moldy zucchini,0,0
-tube,subway,a painting of the tube,a painting of the subway,0,0
-aubergine,eggplant,a moldy aubergine,a moldy eggplant,1,0
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
+lorry,semitruck,a modern lorry,a modern semitruck,0,1,0,
+jumper,sweater,a jumper with holes,a sweater with holes,0,1,0,
+loo,bathroom,a spacious loo,a spacious bathroom,0,1,0,
+banger,sausage,broken bangers,broken sausages,0,1,0,
+rubbish,trash,a rubbish bin,a trash bin,0,1,0,
+flat,apartment,a photograph of a college flat,a photograph of a college apartment,0,1,1,
+car boot,car trunk,a modern car boot,a modern car trunk,0,1,0,
+queue,line,a queue outside the store,a line outside the store,1,1,0,
+trousers,pants,a pair of designer trousers,a pair of designer pants,0,1,0,
+biscuit,cookie,a painting of some biscuits,a painting of some cookies,0,1,0,
+torch,flashlight,a purple torch,a purple flashlight,0,1,1,
+nappy,diaper,a pair of pink nappies,a pair of pink diapers,0,1,0,
+petrol,gasoline,a petrol tanker,a gasoline tanker,0,1,0,
+football,soccer,a painting of a football team,a painting of a soccer team,1,1,1,
+chemist,pharmacy,entrance of a chemist,entrance of a pharmacy,0,1,1,
+chips,french fries,burnt chips,burnt french fries,0,1,1,
+barrister,attorney,a barrister with a notepad,an attorney with a notepad,1,1,0,
+caretaker,janitor,a painting of an old caretaker,a painting of an old janitor,1,1,1,
+cooker,stove,a rusty cooker,a rusty stove,0,1,0,
+cot,crib,a golden cot,a golden crib,0,1,1,
+hoarding,billboard,a hoarding lit up at night,a billboard lit up at night,0,1,0,
+hoover,vacuum cleaner,a dirty hoover,a dirty vacuum cleaner,0,1,0,
+jug,pitcher,a colorful jug,a colorful pitcher,0,1,0,
+postman,mailman,a painting of an old postman,a painting of an old mailman,1,1,0,
+pram,baby carriage,a painting of a vintage pram,a painting of a vintage baby carriage,0,1,0,
+saloon,sedan,a broken saloon,a broken sedan,0,1,0,
+bonnet,hood of car,a broken bonnet,a broken hood of car,0,1,0,
+coriander,cilantro,a basket of coriander,a basket of cilantro,0,1,0,
+courgette,zucchini,a moldy courgette,a moldy zucchini,0,1,0,
+tube,subway,a painting of the tube,a painting of the subway,0,1,0,
+aubergine,eggplant,a moldy aubergine,a moldy eggplant,1,1,0,
+zebra crossing,crosswalk,a woman on a zebra crossing,a woman on a crosswalk,1,1,0,
+motorway,highway,a motorway with traffic cones,a highway with traffic cones,0,1,0,
+plaster,band-aid,a box of medical plasters,a box of medical band-aids,0,1,1,
+bin liner,trash bag,a bin liner on the ground,a trash bag on the ground,0,1,0,
+waistcoat,vest,a striped waistcoat displayed in a store,a striped vest displayed in a store,0,1,1,
+rocket,arugula,a pizza topped generously with rocket,a pizza topped generously with arugula,0,1,0,

@@ -8,9 +8,9 @@ import torch
 import clip
 
 # ------------------------- Configuration -------------------------
-MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large-turbo"]
-MODES = ["complex"]
-DIALECTS = ["aae", "bre", "che", "ine", "sge"]
+MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large", "flux.1-dev"]
+MODES = ["basic","complex"]
+IALECTS = ["aae", "che", "ine", "sge", "bre"]
 FOLDER_MAPPING = {"dialect": "dialect_imgs", "sae": "sae_imgs"}
 # ------------------------------------------------------------------
 
