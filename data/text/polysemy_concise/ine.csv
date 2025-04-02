@@ -1,19 +1,19 @@
 Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
-math,monastery,an old math,an old monastery,0,1,1,a student solving math problems on a chalkboard
+math,monastery,a medieval math,a medieval monastery,0,1,1,a student solving math problems on a chalkboard
 math,monastery,a math on a hill,a monastery on a hill,0,1,1,a professor exploring complex math equations
 math,monastery,a small math,a small monastery,0,1,1,a teacher explaining math concepts to a class
 math,monastery,a painting of a math,a painting of a monastery,0,1,1,a pile of math textbooks on a desk
-math,monastery,a busy math,a busy monastery,1,1,1,a shirt with math equations
+math,monastery,a crowded math,a crowded monastery,1,1,1,a shirt with math equations
 math,monastery,a math in a dark forest,a monastery in a dark forest,0,1,1,a computer screen displaying math formulas
 chick,bamboo blinds,a window covered with chick,a window covered with bamboo blinds,0,1,1,a fluffy chick in a nest
-chick,bamboo blinds,well-designed chick,well-designed bamboo blinds,0,1,1,a mother hen with her adorable chicks
-chick,bamboo blinds,dusty chick,dusty bamboo blinds,0,1,1,a newly hatched baby chick
-chick,bamboo blinds,chick with green paint,bamboo blinds with green paint,0,1,1,a group of tiny chicks pecking at feed
 chick,bamboo blinds,a doorway with chick,a doorway with bamboo blinds,0,1,1,a curious chick exploring its surroundings
-chick,bamboo blinds,broken chick,broken bamboo blinds,0,1,1,a brood of chicks under a heat lamp
+chick,bamboo blinds,hand-crafted chick,hand-crafted bamboo blinds,0,1,1,a newly hatched baby chick
+chick,bamboo blinds,sun-faded chick,sun-faded bamboo blinds,0,1,1,a mother hen with her adorable chicks
+chick,bamboo blinds,chick with decorative trim,bamboo blinds with decorative trim,0,1,1,a group of tiny chicks pecking at feed
+chick,bamboo blinds,tattered chick,tattered bamboo blinds,0,1,1,a brood of chicks under a heat lamp
 dicky,car trunk,a dicky filled with luggage,a car trunk filled with luggage,0,1,1,
 dicky,car trunk,a dicky left open,a car trunk left open,0,1,1,
-dicky,car trunk,a red dicky,a red car trunk,0,1,1,
+dicky,car trunk,a spacious red dicky,a spacious red car trunk,0,1,1,
 dicky,car trunk,a damaged dicky,a damaged car trunk,0,1,1,
 dicky,car trunk,a suitcase in a dicky,a suitcase in a car trunk,0,1,1,
-dicky,car trunk,a dirty dicky,a dirty car trunk,0,1,1,
+dicky,car trunk,a rusty dicky,a rusty car trunk,0,1,1,

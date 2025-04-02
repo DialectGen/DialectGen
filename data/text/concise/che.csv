@@ -1,9 +1,9 @@
 Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
 torque,truck,a large black torque,a large black truck,0,1,1,
-torque,truck,a green torque,a green truck,1,1,1,
+torque,truck,a green torque,a green truck,0,1,1,
 torque,truck,a torque with a dog,a truck with a dog,0,1,1,
-torque,truck,a painting of a torque,a painting of a truck,1,1,1,
-torque,truck,a new torque,a new truck,1,1,1,
+torque,truck,a painting of a torque,a painting of a truck,0,1,1,
+torque,truck,a new torque,a new truck,0,1,1,
 torque,truck,an old torque,an old truck,0,1,1,
 raspa,shaved ice,a painting of raspa,a painting of shaved ice,1,1,0,
 raspa,shaved ice,a man enjoying raspa,a man enjoying shaved ice,1,1,0,

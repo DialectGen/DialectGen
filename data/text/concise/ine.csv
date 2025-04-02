@@ -1,9 +1,9 @@
 Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
-math,monastery,an old math,an old monastery,0,1,1,a student solving math problems on a chalkboard
+math,monastery,a medieval math,a medieval monastery,0,1,1,a student solving math problems on a chalkboard
 math,monastery,a math on a hill,a monastery on a hill,0,1,1,a professor exploring complex math equations
 math,monastery,a small math,a small monastery,0,1,1,a teacher explaining math concepts to a class
 math,monastery,a painting of a math,a painting of a monastery,0,1,1,a pile of math textbooks on a desk
-math,monastery,a busy math,a busy monastery,1,1,1,a shirt with math equations
+math,monastery,a crowded math,a crowded monastery,1,1,1,a shirt with math equations
 math,monastery,a math in a dark forest,a monastery in a dark forest,0,1,1,a computer screen displaying math formulas
 simkin,champagne,simkin on a wooden table,champagne on a wooden table,0,1,0,
 simkin,champagne,simkin in a cabinet,champagne in a cabinet,0,1,0,
@@ -24,11 +24,11 @@ medico,medical practitioner,a medico with a woman,a medical practitioner with a 
 medico,medical practitioner,a medico with a notepad,a medical practitioner with a notepad,1,1,0,
 medico,medical practitioner,a painting of a medico,a painting of a medical practitioner,1,1,0,
 chick,bamboo blinds,a window covered with chick,a window covered with bamboo blinds,0,1,1,a fluffy chick in a nest
-chick,bamboo blinds,well-designed chick,well-designed bamboo blinds,0,1,1,a mother hen with her adorable chicks
-chick,bamboo blinds,dusty chick,dusty bamboo blinds,0,1,1,a newly hatched baby chick
-chick,bamboo blinds,chick with green paint,bamboo blinds with green paint,0,1,1,a group of tiny chicks pecking at feed
 chick,bamboo blinds,a doorway with chick,a doorway with bamboo blinds,0,1,1,a curious chick exploring its surroundings
-chick,bamboo blinds,broken chick,broken bamboo blinds,0,1,1,a brood of chicks under a heat lamp
+chick,bamboo blinds,hand-crafted chick,hand-crafted bamboo blinds,0,1,1,a newly hatched baby chick
+chick,bamboo blinds,sun-faded chick,sun-faded bamboo blinds,0,1,1,a mother hen with her adorable chicks
+chick,bamboo blinds,chick with decorative trim,bamboo blinds with decorative trim,0,1,1,a group of tiny chicks pecking at feed
+chick,bamboo blinds,tattered chick,tattered bamboo blinds,0,1,1,a brood of chicks under a heat lamp
 ghat,mountain pass,a dark ghat,a dark mountain pass,0,1,0,
 ghat,mountain pass,a ghat covered in snow,a mountain pass covered in snow,0,1,0,
 ghat,mountain pass,a crowded ghat,a crowded mountain pass,0,1,0,
@@ -199,10 +199,10 @@ almirah,wardrobe,a broken almirah,a broken wardrobe,0,1,0,
 almirah,wardrobe,a green almirah,a green wardrobe,0,1,0,
 dicky,car trunk,a dicky filled with luggage,a car trunk filled with luggage,0,1,1,
 dicky,car trunk,a dicky left open,a car trunk left open,0,1,1,
-dicky,car trunk,a red dicky,a red car trunk,0,1,1,
+dicky,car trunk,a spacious red dicky,a spacious red car trunk,0,1,1,
 dicky,car trunk,a damaged dicky,a damaged car trunk,0,1,1,
 dicky,car trunk,a suitcase in a dicky,a suitcase in a car trunk,0,1,1,
-dicky,car trunk,a dirty dicky,a dirty car trunk,0,1,1,
+dicky,car trunk,a rusty dicky,a rusty car trunk,0,1,1,
 stepney,spare tire,a stepney mounted on a vehicle,a spare tire mounted on a vehicle,0,1,0,
 stepney,spare tire,a worn-out stepney,a worn-out spare tire,0,1,0,
 stepney,spare tire,a stepney leaning against a wall,a spare tire leaning against a wall,0,1,0,
