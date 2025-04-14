@@ -72,6 +72,7 @@ def generate_dalle2_image(prompt: str) -> Image:
             quality="standard",
             n=1,
         )
+        # print(response)
         image_url = response.data[0].url
         # Download the image content and open it with PIL
         img_data = requests.get(image_url).content

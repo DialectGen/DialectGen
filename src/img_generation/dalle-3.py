@@ -9,7 +9,6 @@ import requests
 from io import BytesIO
 from PIL import Image
 from openai import OpenAI
-from dotenv import load_dotenv
 
 # ---------------------------
 # Global Configuration
@@ -22,9 +21,7 @@ BASE_DIR = Path(__file__).resolve().parents[2]
 MODEL_ID = "dall-e-3"
 
 # Initialize the OpenAI client for DALL-E 3
-load_dotenv(BASE_DIR  / ".csv")
-api_key = os.getenv("OPENAI_API_KEY")
-client = OpenAI(api_key = api_key)
+client = OpenAI()
 
 # ---------------------------
 # Helper Functions
@@ -62,11 +59,14 @@ def parse_args():
     )
     return parser.parse_args()
 
-def generate_dalle3_image(prompt: str) -> Image:
+def generate_dalle3_image(prompt: str):
     """
     Generates a single image using DALL-E 3.
-    The DALL-E 3 API returns a response containing a URL pointing to the generated image.
-    If any error occurs, this function returns a completely black image (1024x1024).
+    The DALL-E 3 API returns a response containing a URL pointing to the generated image and the revised prompt.
+    If any error occurs, this function returns a completely black image (1024x1024) and sets the revised prompt to an error message.
+    Returns:
+        image (Image): The generated image.
+        revised_prompt (str): The revised prompt provided by DALL-E 3 or an error message.
     """
     try:
         response = client.images.generate(
@@ -76,21 +76,23 @@ def generate_dalle3_image(prompt: str) -> Image:
             quality="standard",
             n=1,
         )
+        revised_prompt = response.data[0].revised_prompt
         image_url = response.data[0].url
         # Download the image content and open it with PIL
         img_data = requests.get(image_url).content
         image = Image.open(BytesIO(img_data))
     except Exception as e:
         print(f"Error generating image for prompt '{prompt}': {e}. Returning black image.")
+        revised_prompt = f"Error: {e}"
         image = Image.new("RGB", (1024, 1024), color="black")
-    return image
+    return image, revised_prompt
 
 def ensure_and_generate(prompt_folder: Path, prompt: str, replace: bool) -> None:
     """
     For a given prompt folder:
       - If replace==True, the folder is removed and recreated.
       - If the folder does not exist, it is created.
-      - Then, if the folder does not contain "0.jpg", the missing image is generated.
+      - Then, if the folder does not contain "0.jpg", the missing image and its revised prompt are generated.
     """
     if replace:
         if prompt_folder.exists():
@@ -109,9 +111,12 @@ def ensure_and_generate(prompt_folder: Path, prompt: str, replace: bool) -> None
         return
 
     print(f"Generating image for prompt '{prompt}' in folder '{prompt_folder}'.")
-    new_image = generate_dalle3_image(prompt)
+    new_image, revised_prompt = generate_dalle3_image(prompt)
     # Save the generated image as "0.jpg"
     new_image.save(str(prompt_folder / "0.jpg"))
+    # Save the revised prompt to "revised_prompt.txt"
+    with open(prompt_folder / "revised_prompt.txt", "w", encoding="utf-8") as file:
+        file.write(revised_prompt)
 
 # ---------------------------
 # Main Workflow
