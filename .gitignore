@@ -58,5 +58,9 @@ data/image
 data/video
 data/cache
 
-# Ouputs/
+# Ouputs/checkpoints
 out/
+checkpoints/
+
+# Diffusers for SD fine-tuning
+diffusers/
