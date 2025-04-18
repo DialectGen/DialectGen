@@ -18,14 +18,14 @@ for dialect in "${DIALECTS[@]}"; do
     echo "=================================================="
     
     # Run with waiting
-    CUDA_VISIBLE_DEVICES=6,7 torchrun \
-        --nproc-per-node=2 \
+    export CUDA_VISIBLE_DEVICES=1,2,3,4
+    torchrun \
+        --nproc-per-node=4 \
         --master-port=$CURRENT_MASTER_PORT \
         --rdzv-endpoint=localhost:$CURRENT_RDZV_PORT \
         cogvideox5.py \
         --dialect $dialect \
         --mode $mode \
-        --overwrite
 
     # Increment ports for next run
     BASE_MASTER_PORT=$((BASE_MASTER_PORT + 1))

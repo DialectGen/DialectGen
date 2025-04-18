@@ -58,20 +58,24 @@ class PromptDataset(Dataset):
 # Main Functions
 # ---------------------------
 def prepare_directory(args, path: Path):
-    if path.exists():
-        # if any(path.iterdir()) and dist.get_rank() == 0:
-        #     response = input(f"Directory {path} exists. Overwrite? (y/n): ").lower()
-        #     if response != "y":
-        #         sys.exit(1)
-        if args.overwrite:
-            shutil.rmtree(path)
-        else:
-            raise Error("path exists")
+    # if path.exists():
+    #     # if any(path.iterdir()) and dist.get_rank() == 0:
+    #     #     response = input(f"Directory {path} exists. Overwrite? (y/n): ").lower()
+    #     #     if response != "y":
+    #     #         sys.exit(1)
+    #     if args.overwrite:
+    #         shutil.rmtree(path)
+    #     else:
+    #         raise Error("path exists")
     path.mkdir(parents=True, exist_ok=True)
 
 def generate_video(pipe, prompt, output_dir, seed):
     
     for i in range(5):
+        output_path = output_dir / prompt['dir_name'][0] / f"{i}.mp4"
+        (output_dir / prompt['dir_name'][0]).mkdir(parents=True, exist_ok=True)
+        if output_path.exists():
+            continue
         result = pipe(
             prompt=prompt["text"][0],
             num_videos_per_prompt=1,
@@ -81,8 +85,6 @@ def generate_video(pipe, prompt, output_dir, seed):
             generator=torch.Generator(device="cuda").manual_seed(seed+i)
         )
         # print(result)
-        output_path = output_dir / prompt['dir_name'][0] / f"{i}.mp4"
-        (output_dir / prompt['dir_name'][0]).mkdir(parents=True, exist_ok=True)
         export_to_video(result.frames[0], str(output_path), fps=8)
     # return str(output_path)
 
