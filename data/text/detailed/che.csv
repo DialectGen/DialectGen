@@ -1,10 +1,10 @@
 Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
-torque,truck,a large black torque driving on a neighborhood street,a large black truck driving on a neighborhood street,0,1,1,
-torque,truck,a woman driving a green torque on a farm,a woman driving a green truck on a farm,1,1,1,
-torque,truck,a torque with a dog in the back,a truck with a dog in the back,0,1,1,
-torque,truck,a man driving a torque on the highway,a man driving a truck on the highway,1,1,1,
-torque,truck,two kids sitting on the back of a torque,two kids sitting on the back of a truck,1,1,1,
-torque,truck,a torque parked on a driveway,a truck parked on a driveway,0,1,1,
+torque,truck,a large black torque driving on a neighborhood street,a large black truck driving on a neighborhood street,0,1,1,a mechanic measuring the torque applied to a lug nut
+torque,truck,a woman driving a green torque on a farm,a woman driving a green truck on a farm,1,1,1,a woman adjusting the torque setting on a power drill
+torque,truck,a torque with a dog in the back,a truck with a dog in the back,0,1,1,a diagram illustrating torque forces acting on a rotating wheel
+torque,truck,a man driving a torque on the highway,a man driving a truck on the highway,1,1,1,a man using a torque wrench to tighten bolts under a car
+torque,truck,two kids sitting on the back of a torque,two kids sitting on the back of a truck,1,1,1,an instructional video explaining torque in physics class
+torque,truck,a torque parked on a driveway,a truck parked on a driveway,0,1,1,a torque gauge lying on a workbench next to mechanical parts
 raspa,shaved ice,a street vendor selling raspa,a street vendor selling shaved ice,1,1,0,
 raspa,shaved ice,a man enjoying raspa on a hot day,a man enjoying shaved ice on a hot day,1,1,0,
 raspa,shaved ice,a cup of raspa near a tree,a cup of shaved ice near a tree,0,1,0,
@@ -53,12 +53,12 @@ Chuco Town,El Paso,a street in Chuco Town with plants,a street in El Paso with p
 Chuco Town,El Paso,a bus station in Chuco Town,a bus station in El Paso,0,1,0,
 Chuco Town,El Paso,a typical house in Chuco Town,a typical house in El Paso,0,1,0,
 Chuco Town,El Paso,a bird's eye view of Chuco Town,a bird's eye view of El Paso,0,1,0,
-carnal,brother,a woman and her carnal eating at a restaurant,a woman and her brother eating at a restaurant,1,1,1,
-carnal,brother,a man hiking with his carnal,a man hiking with his brother,1,1,1,
-carnal,brother,my carnal posing for a picture,my brother posing for a picture,1,1,1,
-carnal,brother,me standing with my carnal,me standing with my brother,1,1,1,
-carnal,brother,my carnal and I sitting at a table,my brother and I sitting at a table,1,1,1,
-carnal,brother,my carnal riding a bike,my brother riding a bike,1,1,1,
+carnal,brother,a woman and her carnal eating at a restaurant,a woman and her brother eating at a restaurant,1,1,1,a romantic novel exploring carnal longing
+carnal,brother,a man hiking with his carnal,a man hiking with his brother,1,1,1,a painting representing carnal temptation in a classical style
+carnal,brother,my carnal posing for a picture,my brother posing for a picture,1,1,1,a poem about carnal love and desire
+carnal,brother,me standing with my carnal,me standing with my brother,1,1,1,a scene depicting carnal intimacy in a dimly lit room
+carnal,brother,my carnal and I sitting at a table,my brother and I sitting at a table,1,1,1,a philosophical discussion about carnal instincts and the soul
+carnal,brother,my carnal riding a bike,my brother riding a bike,1,1,1,a dramatic film exploring the consequences of carnal obsession
 carnalita,sister,a woman and her carnalita eating at a restaurant,a woman and her sister eating at a restaurant,1,1,0,
 carnalita,sister,a man hiking with his carnalita,a man hiking with his sister,1,1,0,
 carnalita,sister,me and my carnalita posing for a picture,me and my sister posing for a picture,1,1,0,

@@ -1,10 +1,10 @@
 Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
-math,monastery,an old math in the village square,an old monastery in the village square,0,1,1,
-math,monastery,a math on a grassy hill with trees,a monastery on a grassy hill with trees,0,1,1,
-math,monastery,an older person entering a math,an older person entering a monastery,1,1,1,
-math,monastery,a math in an old city center,a monastery in an old city center,0,1,1,
-math,monastery,a math with a crowd of people outside,a monastery with a crowd of people outside,1,1,1,
-math,monastery,a math in a dark forest,a monastery in a dark forest,0,1,1,
+math,monastery,an old math in the village square,an old monastery in the village square,0,1,1,a math textbook from the 1960s lying on a wooden desk
+math,monastery,a math on a grassy hill with trees,a monastery on a grassy hill with trees,0,1,1,a whiteboard filled with complex math equations
+math,monastery,an older person entering a math,an older person entering a monastery,1,1,1,a student explaining a math problem to a teacher
+math,monastery,a math in an old city center,a monastery in an old city center,0,1,1,a young girl solving math exercises in her workbook
+math,monastery,a math with a crowd of people outside,a monastery with a crowd of people outside,1,1,1,a math competition in a crowded school hall
+math,monastery,a math in a dark forest,a monastery in a dark forest,0,1,1,an open laptop displaying a math quiz in a dim room
 simkin,champagne,a bottle of simkin on a wooden table,a bottle of champagne on a wooden table,0,1,0,
 simkin,champagne,simkin on a shelf in a grocery store,champagne on a shelf in a grocery store,0,1,0,
 simkin,champagne,simkin and two glasses on a table outside,champagne and two glasses on a table outside,0,1,0,
@@ -23,12 +23,12 @@ medico,medical practitioner,a medico walking in a park,a medical practitioner wa
 medico,medical practitioner,the medico talking with a patient in a room,the medical practitioner talking with a patient in a room,1,1,0,
 medico,medical practitioner,a medico standing outside a building,a medical practitioner standing outside a building,1,1,0,
 medico,medical practitioner,a medico talking with a nurse,a medical practitioner talking with a nurse,1,1,0,
-chick,bamboo blinds,two windows covered with chick,two windows covered with bamboo blinds,0,1,1,
-chick,bamboo blinds,a living room with windows covered with chick,a living room with windows covered with bamboo blinds,0,1,1,
-chick,bamboo blinds,a kitchen with a window covered with chick,a kitchen with a window covered with bamboo blinds,0,1,1,
-chick,bamboo blinds,a window covered with chick,a window covered with bamboo blinds,0,1,1,
-chick,bamboo blinds,a doorway with chick covering it,a doorway with bamboo blinds covering it,0,1,1,
-chick,bamboo blinds,a window with rolled up chick,a window with rolled up bamboo blinds,0,1,1,
+chick,bamboo blinds,two windows covered with chick,two windows covered with bamboo blinds,0,1,1,two fluffy yellow chicks standing in front of a mirror
+chick,bamboo blinds,a living room with windows covered with chick,a living room with windows covered with bamboo blinds,0,1,1,a chick pecking at feed in a coop
+chick,bamboo blinds,a kitchen with a window covered with chick,a kitchen with a window covered with bamboo blinds,0,1,1,a hand holding a tiny chick inside a basket
+chick,bamboo blinds,a window covered with chick,a window covered with bamboo blinds,0,1,1,several chicks huddled under a heat lamp
+chick,bamboo blinds,a doorway with chick covering it,a doorway with bamboo blinds covering it,0,1,1,a chick perched on a wooden fence
+chick,bamboo blinds,a window with rolled up chick,a window with rolled up bamboo blinds,0,1,1,a line of chicks walking behind their mother hen
 ghat,mountain pass,a ghat with lots of pine trees,a mountain pass with lots of pine trees,0,1,0,
 ghat,mountain pass,a ghat covered in snow,a mountain pass covered in snow,0,1,0,
 ghat,mountain pass,a ghat with a road with lots of cars,a mountain pass with a road with lots of cars,0,1,0,
@@ -197,12 +197,12 @@ almirah,wardrobe,a painted almirah with intricate designs,a painted wardrobe wit
 almirah,wardrobe,an almirah storing precious heirlooms,a wardrobe storing precious heirlooms,0,1,0,
 almirah,wardrobe,my personal almirah for all my books,my personal wardrobe for all my books,0,1,0,
 almirah,wardrobe,a large almirah in the bedroom corner,a large wardrobe in the bedroom corner,0,1,0,
-dicky,car trunk,a man loading groceries into the dicky,a man loading groceries into the car trunk,1,1,1,
-dicky,car trunk,a white car with an empty dicky,a white car with an empty car trunk,1,0,1,
-dicky,car trunk,a woman retrieving bags from the dicky,a woman retrieving bags from the car trunk,1,1,1,
-dicky,car trunk,a dirty dicky covered with mud stains,a dirty car trunk covered with mud stains,1,0,1,
-dicky,car trunk,a mechanic repairing a broken dicky,a mechanic repairing a broken car trunk,1,1,1,
-dicky,car trunk,children hiding inside an open dicky,children hiding inside an open car trunk,1,1,1,
+dicky,car trunk,a man loading groceries into the dicky,a man loading groceries into the car trunk,1,1,1,a man adjusting his tuxedo’s detachable dicky collar
+dicky,car trunk,a white car with an empty dicky,a white car with an empty car trunk,1,0,1,a white formal shirt with a starched dicky folded neatly
+dicky,car trunk,a woman retrieving bags from the dicky,a woman retrieving bags from the car trunk,1,1,1,a woman ironing a vintage detachable dicky for formalwear
+dicky,car trunk,a dirty dicky covered with mud stains,a dirty car trunk covered with mud stains,1,0,1,a stained dicky collar lying in a laundry basket
+dicky,car trunk,a mechanic repairing a broken dicky,a mechanic repairing a broken car trunk,1,1,1,a tailor sewing a torn dicky back into shape
+dicky,car trunk,children hiding inside an open dicky,children hiding inside an open car trunk,1,1,1,a child wearing a comically oversized tuxedo dicky
 stepney,spare tire,a stepney stored neatly inside the garage,a spare tire stored neatly inside the garage,0,0,0,
 stepney,spare tire,a mechanic installing a new stepney tire,a mechanic installing a new spare tire,0,1,0,
 stepney,spare tire,a dusty stepney on an old car,a dusty spare tire on an old car,0,0,0,

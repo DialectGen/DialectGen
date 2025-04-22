@@ -47,12 +47,12 @@ lepak,relax,people lepak on a coach,people relaxing on a coach,1,1,0,
 lepak,relax,a couple lepak in a park,a couple relaxing in a park,1,1,0,
 lepak,relax,a cat lepak,a cat relaxing,0,1,0,
 lepak,relax,a lepak vacation setting,a relaxing vacation setting,0,1,0,
-can,yes,a person gesturing can,a person gesturing yes,1,1,1,
-can,yes,a person answering can,a person answering yes,1,1,1,
-can,yes,a worker gesturing can,a worker gesturing yes,1,1,1,
-can,yes,a student gesturing can,a student gesturing yes,1,1,1,
-can,yes,a woman gesturing can,a woman gesturing yes,1,1,1,
-can,yes,a man gesturing can,a man gesturing yes,1,1,1,
+can,yes,a person gesturing can,a person gesturing yes,1,1,1,a soda can on the table
+can,yes,a person answering can,a person answering yes,1,1,1,a metal can filled with beans
+can,yes,a worker gesturing can,a worker gesturing yes,1,1,1,a trash can in a kitchen
+can,yes,a student gesturing can,a student gesturing yes,1,1,1,a can opener next to cans
+can,yes,a woman gesturing can,a woman gesturing yes,1,1,1,a paint can on a shelf
+can,yes,a man gesturing can,a man gesturing yes,1,1,1,a stack of soup cans
 chope,save a table,a student chope,a student saving a table,1,1,0,
 chope,save a table,a man chope,a man saving a table,1,1,0,
 chope,save a table,a woman chope,a woman saving a table,1,1,0,
@@ -119,18 +119,18 @@ yandao,handsome male,a yandao walking,a handsome male walking,1,1,0,
 yandao,handsome male,a photo of a yandao,a photo of a handsome male,1,1,0,
 yandao,handsome male,a yandao,a handsome male,1,1,0,
 yandao,handsome male,a yandao at a gym,a handsome male at a gym,1,1,0,
-mug,study,a man mugging for finals,a man studying for finals,1,1,1,
-mug,study,a woman mugging at home,a woman studying at home,1,1,1,
-mug,study,a child busy mugging,a child busy studying,1,1,1,
-mug,study,a group of people mugging,a group of people studying,1,1,1,
-mug,study,an older person mugging,an older person studying,1,1,1,
-mug,study,mugging at a table,studying at a table,1,1,1,
-lightbulb,third wheel,a man being a lightbulb,a man being a third wheel,1,1,1,
-lightbulb,third wheel,a woman being a lightbulb,a woman being a third wheel,1,1,1,
-lightbulb,third wheel,a lightbulb sitting with a couple,a third wheel sitting with a couple,1,1,1,
-lightbulb,third wheel,a person feeling like a lightbulb,a person feeling like a third wheel,1,1,1,
-lightbulb,third wheel,scene with an awkward lightbulb,scene with an awkward third wheel,1,1,1,
-lightbulb,third wheel,a young lightbulb,a young third wheel,1,1,1,
+mug,study,a man mugging for finals,a man studying for finals,1,1,1,a coffee mug on the desk
+mug,study,a woman mugging at home,a woman studying at home,1,1,1,a mug filled with tea
+mug,study,a child busy mugging,a child busy studying,1,1,1,a colorful ceramic mug
+mug,study,a group of people mugging,a group of people studying,1,1,1,a mug decorated with patterns
+mug,study,an older person mugging,an older person studying,1,1,1,a mug placed next to books
+mug,study,mugging at a table,studying at a table,1,1,1,a mug steaming with coffee
+lightbulb,third wheel,a man being a lightbulb,a man being a third wheel,1,1,1,a glowing lightbulb hanging
+lightbulb,third wheel,a woman being a lightbulb,a woman being a third wheel,1,1,1,a broken incandescent lightbulb
+lightbulb,third wheel,a lightbulb sitting with a couple,a third wheel sitting with a couple,1,1,1,a lightbulb in a lamp
+lightbulb,third wheel,a person feeling like a lightbulb,a person feeling like a third wheel,1,1,1,a box of spare lightbulbs
+lightbulb,third wheel,scene with an awkward lightbulb,scene with an awkward third wheel,1,1,1,a filament inside a lightbulb
+lightbulb,third wheel,a young lightbulb,a young third wheel,1,1,1,a new energy-efficient lightbulb
 teh,tea,a painting of black teh,a painting of black tea,0,1,0,
 teh,tea,teh in a store,tea in a store,1,1,0,
 teh,tea,a container with teh,a container with tea,0,1,0,
@@ -197,9 +197,9 @@ bak kwa,Chinese pork jerky,a painting of bak kwa,a painting of Chinese pork jerk
 bak kwa,Chinese pork jerky,a shop with bak kwa,a shop with Chinese pork jerky,0,1,0,
 bak kwa,Chinese pork jerky,one piece of bak kwa,one piece of Chinese pork jerky,1,1,0,
 bak kwa,Chinese pork jerky,a person holding bak kwa,a person holding Chinese pork jerky,0,1,0,
-kaki,buddy,two kaki chatting,two buddies chatting,1,1,1,
-kaki,buddy,kaki playing soccer,buddies playing soccer,1,1,1,
-kaki,buddy,kaki having coffee,buddies having coffee,1,1,1,
-kaki,buddy,kaki laughing together,buddies laughing together,1,1,1,
-kaki,buddy,a group of kaki outdoors,a group of buddies outdoors,1,1,1,
-kaki,buddy,kaki watching a movie,buddies watching a movie,1,1,1,
+kaki,buddy,two kaki chatting,two buddies chatting,1,1,1,a fresh persimmon fruit (kaki)
+kaki,buddy,kaki playing soccer,buddies playing soccer,1,1,1,a ripe kaki sliced open
+kaki,buddy,kaki having coffee,buddies having coffee,1,1,1,a bowl of kaki fruits
+kaki,buddy,kaki laughing together,buddies laughing together,1,1,1,kaki hanging from a branch
+kaki,buddy,a group of kaki outdoors,a group of buddies outdoors,1,1,1,orange kaki fruits in a basket
+kaki,buddy,kaki watching a movie,buddies watching a movie,1,1,1,a plate with peeled kaki

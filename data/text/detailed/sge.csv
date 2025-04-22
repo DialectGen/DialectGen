@@ -47,12 +47,12 @@ lepak,relax,people lepak on a sofa,people relaxing on a sofa,1,1,0,
 lepak,relax,a couple lepak in a park,a couple relaxing in a park,1,1,0,
 lepak,relax,a cat lepak by a window,a cat relaxing by a window,0,1,0,
 lepak,relax,a lepak vacation setting,a relaxing vacation setting,0,1,0,
-can,yes,a student in a class nodding can,a student in a class nodding yes,1,1,1,
-can,yes,a worker nodding can to his supervisor,a worker nodding yes to his supervisor,1,1,1,
-can,yes,a customer at a restaurant nodding can,a customer at a restaurant nodding yes,1,1,1,
-can,yes,a person nodding can in agreement,a person nodding yes in agreement,1,1,1,
-can,yes,a woman nodding can,a woman nodding yes,1,1,1,
-can,yes,a man nodding can,a man nodding yes,1,1,1,
+can,yes,a student in a class nodding can,a student in a class nodding yes,1,1,1,a crushed aluminum soda can lying next to a recycling bin
+can,yes,a worker nodding can to his supervisor,a worker nodding yes to his supervisor,1,1,1,a metal food can labeled for emergency rations
+can,yes,a customer at a restaurant nodding can,a customer at a restaurant nodding yes,1,1,1,a row of soup cans stacked neatly on a store shelf
+can,yes,a person nodding can in agreement,a person nodding yes in agreement,1,1,1,a person holding a paint can while renovating a room
+can,yes,a woman nodding can,a woman nodding yes,1,1,1,a shiny tin can filled with cookies on a kitchen counter
+can,yes,a man nodding can,a man nodding yes,1,1,1,a man opening a can of soda while sitting on a bench
 chope,save a table,a student chope at the dining hall,a student saving a table at the dining hall,1,1,0,
 chope,save a table,a person chope at the library,a person saving a table at the library,1,1,0,
 chope,save a table,a person chope using a bag,a person saving a table using a bag,1,1,0,
@@ -119,18 +119,18 @@ yandao,handsome male,a yandao at a gym,a handsome male at a gym,1,1,0,
 yandao,handsome male,a yandao,a handsome male,1,1,0,
 yandao,handsome male,a yandao with his partner,a handsome male with his partner,1,1,0,
 yandao,handsome male,a group of yandaos,a group of handsome males,1,1,0,
-mug,study,a man mug at the coffee shop,a man studying at the coffee shop,1,1,1,
-mug,study,a woman mug at home,a woman studying at home,1,1,1,
-mug,study,a child mug a book,a child studying a book,1,1,1,
-mug,study,a group of students mug,a group of students studying,1,1,1,
-mug,study,a student mug in his room at night,a student studying in his room at night,1,1,1,
-mug,study,a couple of friends mug in the library,a couple friends studying in the library,1,1,1,
-lightbulb,third wheel,a man being a lightbulb on a hike with a couple,a man being a third wheel on a hike with a couple,1,1,1,
-lightbulb,third wheel,a woman being a lightbulb at a museum with a couple,a woman being a third wheel at a museum with a couple,1,1,1,
-lightbulb,third wheel,a lightbulb with a gray shirt with a couple,a third wheel with a gray shirt with a couple,1,1,1,
-lightbulb,third wheel,a couple accompanied by a lightbulb,a couple accompanied by a third wheel,1,1,1,
-lightbulb,third wheel,he was a lightbulb on his friend's date,he was a third wheel on his friend's date,1,1,1,
-lightbulb,third wheel,a lightbulb trailing behind a couple,a third wheel trailing behind a couple,1,1,1,
+mug,study,a man mug at the coffee shop,a man studying at the coffee shop,1,1,1,a ceramic coffee mug with steam rising on a wooden table
+mug,study,a woman mug at home,a woman studying at home,1,1,1,a floral-patterned mug filled with tea on a windowsill
+mug,study,a child mug a book,a child studying a book,1,1,1,a colorful mug with cartoon animals next to a notebook
+mug,study,a group of students mug,a group of students studying,1,1,1,a shelf lined with souvenir mugs from different cities
+mug,study,a student mug in his room at night,a student studying in his room at night,1,1,1,a glowing mug under dim light beside a laptop
+mug,study,a couple of friends mug in the library,a couple friends studying in the library,1,1,1,a mug with a witty slogan on a crowded study table
+lightbulb,third wheel,a man being a lightbulb on a hike with a couple,a man being a third wheel on a hike with a couple,1,1,1,a glowing lightbulb hanging from a rustic wooden ceiling
+lightbulb,third wheel,a woman being a lightbulb at a museum with a couple,a woman being a third wheel at a museum with a couple,1,1,1,a modern LED lightbulb on display in a tech exhibit
+lightbulb,third wheel,a lightbulb with a gray shirt with a couple,a third wheel with a gray shirt with a couple,1,1,1,a lightbulb screwed into a bedside lamp with a gray lampshade
+lightbulb,third wheel,a couple accompanied by a lightbulb,a couple accompanied by a third wheel,1,1,1,a vintage Edison lightbulb glowing warmly on a dinner table
+lightbulb,third wheel,he was a lightbulb on his friend's date,he was a third wheel on his friend's date,1,1,1,a filament inside a clear glass lightbulb glowing brightly
+lightbulb,third wheel,a lightbulb trailing behind a couple,a third wheel trailing behind a couple,1,1,1,a dusty lightbulb dangling from a cord in an old hallway
 teh,tea,a glass filled with black teh,a glass filled with black tea,0,1,0,
 teh,tea,a man with a cup of milk teh,a man with a cup of milk tea,1,1,0,
 teh,tea,a teh pot on a table,a tea pot on a table,0,1,0,
@@ -203,9 +203,9 @@ makan,eat,a group makan dinner at a restaurant,a group eating dinner at a restau
 makan,eat,a man makan satay at the hawker centre,a man eating satay at the hawker centre,0,1,0,
 makan,eat,children excitedly makan pizza at a party,children excitedly eating pizza at a party,0,1,0,
 makan,eat,a woman makan sushi at a crowded table,a woman eating sushi at a crowded table,0,1,0,
-kaki,buddy,two kaki chatting casually outside a cafe,two buddies chatting casually outside a cafe,1,1,1,
-kaki,buddy,kaki laughing while walking along the street,buddies laughing while walking along the street,1,1,1,
-kaki,buddy,kaki sharing a meal at the hawker centre,buddies sharing a meal at the hawker centre,1,1,1,
-kaki,buddy,a group of kaki playing basketball outdoors,a group of buddies playing basketball outdoors,1,1,1,
-kaki,buddy,kaki taking selfies at a famous landmark,buddies taking selfies at a famous landmark,1,1,1,
-kaki,buddy,two kaki relaxing together at the beach,two buddies relaxing together at the beach,1,1,1,
+kaki,buddy,two kaki chatting casually outside a cafe,two buddies chatting casually outside a cafe,1,1,1,a fresh kaki fruit with bright orange skin placed on a plate
+kaki,buddy,kaki laughing while walking along the street,buddies laughing while walking along the street,1,1,1,a kaki tree bearing ripe fruit in autumn
+kaki,buddy,kaki sharing a meal at the hawker centre,buddies sharing a meal at the hawker centre,1,1,1,sliced kaki fruit arranged neatly on a dessert platter
+kaki,buddy,a group of kaki playing basketball outdoors,a group of buddies playing basketball outdoors,1,1,1,a bowl of peeled kaki fruit on a picnic table
+kaki,buddy,kaki taking selfies at a famous landmark,buddies taking selfies at a famous landmark,1,1,1,a basket of harvested kaki set out at a farmer's market
+kaki,buddy,two kaki relaxing together at the beach,two buddies relaxing together at the beach,1,1,1,a chilled drink with a wedge of kaki on the rim served seaside

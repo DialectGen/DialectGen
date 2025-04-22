@@ -1,55 +1,55 @@
 Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
-flat,apartment,a flat to rent,an apartment to rent,0,1,1,
-flat,apartment,a flat with two bedrooms,an apartment with two bedrooms,0,1,1,
-flat,apartment,a city centre flat,a city centre apartment,0,1,1,
-flat,apartment,a flat with balcony,an apartment with balcony,0,1,1,
-flat,apartment,students living in a flat,students living in an apartment,0,1,1,
-flat,apartment,keys to a new flat,keys to a new apartment,0,1,1,
-torch,flashlight,a handheld torch,a handheld flashlight,0,1,1,
-torch,flashlight,a torch in a drawer,a flashlight in a drawer,0,1,1,
-torch,flashlight,a pocket torch,a pocket flashlight,0,1,1,
-torch,flashlight,using a torch at night,using a flashlight at night,0,1,1,
-torch,flashlight,batteries for a torch,batteries for a flashlight,0,1,1,
-torch,flashlight,a torch with a switch,a flashlight with a switch,0,1,1,
-football,soccer,a round football,a round soccer ball,0,1,1,
-football,soccer,a black and white football,a black and white soccor ball,0,1,1,
-football,soccer,a football match in Europe,a soccer match in Europe,0,1,1,
-football,soccer,a football with black spots,a soccer with black spots,0,1,1,
-football,soccer,a team scoring a football goal,a team scoring a soccer goal,1,1,1,
-football,soccer,kicking a football,kicking a soccer ball,0,1,1,
-chemist,pharmacy,shopping at a chemist,shopping at a pharmacy,0,1,1,
-chemist,pharmacy,entering a local chemist,entering a local pharmacy,0,1,1,
-chemist,pharmacy,shelves in a chemist,shelves in a pharmacy,0,1,1,
-chemist,pharmacy,queue at a chemist shop,queue at a pharmacy shop,1,1,1,
-chemist,pharmacy,sign for a chemist shop,sign for a pharmacy shop,0,1,1,
-chemist,pharmacy,products from a chemist,products from a pharmacy,0,1,1,
-chips,french fries,hot chips with vinegar,hot french fries with vinegar,0,1,1,
-chips,french fries,chips with ketchup,french fries with ketchup,0,1,1,
-chips,french fries,thick-cut chips,thick-cut french fries,0,1,1,
-chips,french fries,chips from a chippy,french fries from a chippy,0,1,1,
-chips,french fries,chips with fish,french fries with fish,0,1,1,
-chips,french fries,takeaway chips,takeaway french fries,0,1,1,
-caretaker,janitor,a school caretaker,a school janitor,1,1,1,
-caretaker,janitor,a dirty caretaker,a dirty janitor,1,1,1,
-caretaker,janitor,a tired caretaker,a tired janitor,1,1,1,
-caretaker,janitor,a busy caretaker,a busy janitor,1,1,1,
-caretaker,janitor,a painting of an old caretaker,a painting of an old janitor,1,1,1,
-caretaker,janitor,a caretaker in a mall,a janitor in a mall,1,1,1,
-cot,crib,a baby in a cot,a baby in a crib,0,1,1,
-cot,crib,a wooden nursery cot,a wooden nursery crib,0,1,1,
-cot,crib,toys beside a cot,toys beside a crib,0,1,1,
-cot,crib,a cot with mobile,a crib with mobile,0,1,1,
-cot,crib,a cot with bars,a crib with bars,0,1,1,
-cot,crib,an infant's cot,an infant's crib,0,1,1,
-plaster,band-aid,a plaster wrapped around a finger,a band-aid wrapped around a finger,1,1,1,
-plaster,band-aid,a plaster covering a small cut,a band-aid covering a small cut,1,1,1,
-plaster,band-aid,a plaster on an injured knee,a band-aid on an injured knee,1,1,1,
-plaster,band-aid,a colorful plaster on an elbow,a colorful band-aid on an elbow,1,1,1,
-plaster,band-aid,a plaster for a cut,a band-aid for a cut,1,1,1,
-plaster,band-aid,a plaster peeling off skin,a band-aid peeling off skin,1,1,1,
-waistcoat,vest,a waistcoat under a suit jacket,a vest under a suit jacket,0,1,1,
-waistcoat,vest,a formal waistcoat on a hanger,a formal vest on a hanger,0,1,1,
-waistcoat,vest,a waistcoat worn over a shirt,a vest worn over a shirt,0,1,1,
-waistcoat,vest,a velvet waistcoat on display,a velvet vest on display,0,1,1,
-waistcoat,vest,a striped waistcoat displayed in a store,a striped vest displayed in a store,0,1,1,
-waistcoat,vest,a velvet waistcoat laid flat,a velvet vest laid flat,0,1,1,
+flat,apartment,a flat to rent,an apartment to rent,0,1,1,a flat tire on a bike
+flat,apartment,a flat with two bedrooms,an apartment with two bedrooms,0,1,1,a flat surface for cooking
+flat,apartment,a city centre flat,a city centre apartment,0,1,1,a flat stone on the beach
+flat,apartment,a flat with balcony,an apartment with balcony,0,1,1,a flat piece of metal
+flat,apartment,students living in a flat,students living in an apartment,0,1,1,a completely flat pancake
+flat,apartment,keys to a new flat,keys to a new apartment,0,1,1,a flat screen television
+torch,flashlight,a handheld torch,a handheld flashlight,0,1,1,an Olympic torch burning brightly
+torch,flashlight,a torch in a drawer,a flashlight in a drawer,0,1,1,a flaming medieval torch
+torch,flashlight,a pocket torch,a pocket flashlight,0,1,1,a torch lighting a cave
+torch,flashlight,using a torch at night,using a flashlight at night,0,1,1,a torch on a castle wall
+torch,flashlight,batteries for a torch,batteries for a flashlight,0,1,1,a wooden torch lit with fire
+torch,flashlight,a torch with a switch,a flashlight with a switch,0,1,1,a ceremonial torch in hand
+football,soccer,a round football,a round soccer ball,0,1,1,a football player wearing a helmet
+football,soccer,a black and white football,a black and white soccor ball,0,1,1,a football thrown in a match
+football,soccer,a football match in Europe,a soccer match in Europe,0,1,1,a quarterback holding a football
+football,soccer,a football with black spots,a soccer with black spots,0,1,1,a football kicked over goalposts
+football,soccer,a team scoring a football goal,a team scoring a soccer goal,1,1,1,a touchdown scored with a football
+football,soccer,kicking a football,kicking a soccer ball,0,1,1,a leather American football
+chemist,pharmacy,shopping at a chemist,shopping at a pharmacy,0,1,1,a chemist working in a laboratory
+chemist,pharmacy,entering a local chemist,entering a local pharmacy,0,1,1,a chemist mixing chemicals
+chemist,pharmacy,shelves in a chemist,shelves in a pharmacy,0,1,1,a chemist wearing safety goggles
+chemist,pharmacy,queue at a chemist shop,queue at a pharmacy shop,1,1,1,a chemist examining test tubes
+chemist,pharmacy,sign for a chemist shop,sign for a pharmacy shop,0,1,1,a chemist conducting an experiment
+chemist,pharmacy,products from a chemist,products from a pharmacy,0,1,1,a chemist holding beakers
+chips,french fries,hot chips with vinegar,hot french fries with vinegar,0,1,1,a bowl of crispy potato chips
+chips,french fries,chips with ketchup,french fries with ketchup,0,1,1,potato chips served at a party
+chips,french fries,thick-cut chips,thick-cut french fries,0,1,1,a bag of salted potato chips
+chips,french fries,chips from a chippy,french fries from a chippy,0,1,1,barbecue-flavored potato chips
+chips,french fries,chips with fish,french fries with fish,0,1,1,a snack bowl filled with chips
+chips,french fries,takeaway chips,takeaway french fries,0,1,1,chips spilling from a packet
+caretaker,janitor,a school caretaker,a school janitor,1,1,1,a caretaker looking after pets
+caretaker,janitor,a dirty caretaker,a dirty janitor,1,1,1,a caretaker of an elderly person
+caretaker,janitor,a tired caretaker,a tired janitor,1,1,1,a caretaker feeding animals
+caretaker,janitor,a busy caretaker,a busy janitor,1,1,1,a caretaker watering plants
+caretaker,janitor,a painting of an old caretaker,a painting of an old janitor,1,1,1,a caretaker comforting a patient
+caretaker,janitor,a caretaker in a mall,a janitor in a mall,1,1,1,a caretaker assisting residents
+cot,crib,a baby in a cot,a baby in a crib,0,1,1,a camping cot in a tent
+cot,crib,a wooden nursery cot,a wooden nursery crib,0,1,1,a portable cot folded up
+cot,crib,toys beside a cot,toys beside a crib,0,1,1,a cot set up outdoors
+cot,crib,a cot with mobile,a crib with mobile,0,1,1,a cot in a military camp
+cot,crib,a cot with bars,a crib with bars,0,1,1,a green cot for camping
+cot,crib,an infant's cot,an infant's crib,0,1,1,a cot placed inside a cabin
+plaster,band-aid,a plaster wrapped around a finger,a band-aid wrapped around a finger,1,1,1,spreading plaster on a wall
+plaster,band-aid,a plaster covering a small cut,a band-aid covering a small cut,1,1,1,mixing plaster for repairs
+plaster,band-aid,a plaster on an injured knee,a band-aid on an injured knee,1,1,1,a worker applying wall plaster
+plaster,band-aid,a colorful plaster on an elbow,a colorful band-aid on an elbow,1,1,1,smooth plaster finish on ceiling
+plaster,band-aid,a plaster for a cut,a band-aid for a cut,1,1,1,a cracked plaster wall
+plaster,band-aid,a plaster peeling off skin,a band-aid peeling off skin,1,1,1,a bucket of fresh plaster
+waistcoat,vest,a waistcoat under a suit jacket,a vest under a suit jacket,0,1,1,a waistcoat worn by a chef
+waistcoat,vest,a formal waistcoat on a hanger,a formal vest on a hanger,0,1,1,a reflective safety waistcoat
+waistcoat,vest,a waistcoat worn over a shirt,a vest worn over a shirt,0,1,1,a construction waistcoat
+waistcoat,vest,a velvet waistcoat on display,a velvet vest on display,0,1,1,a bright orange safety waistcoat
+waistcoat,vest,a striped waistcoat displayed in a store,a striped vest displayed in a store,0,1,1,a high-visibility waistcoat
+waistcoat,vest,a velvet waistcoat laid flat,a velvet vest laid flat,0,1,1,a waterproof waistcoat for cycling

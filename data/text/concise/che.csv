@@ -1,10 +1,10 @@
 Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
-torque,truck,a large black torque,a large black truck,0,1,1,
-torque,truck,a green torque,a green truck,0,1,1,
-torque,truck,a torque with a dog,a truck with a dog,0,1,1,
-torque,truck,a painting of a torque,a painting of a truck,0,1,1,
-torque,truck,a new torque,a new truck,0,1,1,
-torque,truck,an old torque,an old truck,0,1,1,
+torque,truck,a large black torque,a large black truck,0,1,1,a mechanic adjusting the torque
+torque,truck,a green torque,a green truck,0,1,1,a torque wrench on the floor
+torque,truck,a torque with a dog,a truck with a dog,0,1,1,a diagram showing torque forces
+torque,truck,a painting of a torque,a painting of a truck,0,1,1,a gauge measuring torque
+torque,truck,a new torque,a new truck,0,1,1,a torque applied to engine parts
+torque,truck,an old torque,an old truck,0,1,1,setting the torque precisely
 raspa,shaved ice,a painting of raspa,a painting of shaved ice,1,1,0,
 raspa,shaved ice,a man enjoying raspa,a man enjoying shaved ice,1,1,0,
 raspa,shaved ice,a cup of raspa,a cup of shaved ice,0,1,0,
@@ -53,12 +53,12 @@ Chuco Town,El Paso,a person in Chuco,a person in El Paso,0,1,0,
 Chuco Town,El Paso,Chuco landscape,El Paso landscape,0,1,0,
 Chuco Town,El Paso,a typical house in Chuco,a typical house in El Paso,0,1,0,
 Chuco Town,El Paso,a bird's eye view of Chuco,a bird's eye view of El Paso,0,1,0,
-carnal,brother,a painting of a carnal,a painting of a brother,1,1,1,
-carnal,brother,a man hiking with his carnal,a man hiking with his brother,1,1,1,
-carnal,brother,a carnal in a house,a brother in a house,1,1,1,
-carnal,brother,me with my carnal,me with my brother,1,1,1,
-carnal,brother,a carnal at a table,a brother at a table,1,1,1,
-carnal,brother,a carnal at a park,a brother at a park,1,1,1,
+carnal,brother,a painting of a carnal,a painting of a brother,1,1,1,a depiction of carnal desires
+carnal,brother,a man hiking with his carnal,a man hiking with his brother,1,1,1,a scene showing carnal passion
+carnal,brother,a carnal in a house,a brother in a house,1,1,1,a symbol of carnal temptation
+carnal,brother,me with my carnal,me with my brother,1,1,1,a poem about carnal attraction
+carnal,brother,a carnal at a table,a brother at a table,1,1,1,a movie exploring carnal themes
+carnal,brother,a carnal at a park,a brother at a park,1,1,1,a novel depicting carnal relations
 carnalita,sister,a painting of a carnalita,a painting of a sister,1,1,0,
 carnalita,sister,a man hiking with his carnalita,a man hiking with his sister,1,1,0,
 carnalita,sister,a carnalita in a house,a sister in a house,1,1,0,
