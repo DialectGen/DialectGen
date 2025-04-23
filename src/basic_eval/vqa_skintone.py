@@ -6,7 +6,7 @@ import torch
 import t2v_metrics
 
 # ------------------------- Configuration -------------------------
-MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large", "flux.1-dev"]
+MODELS_TO_EVALUATE = ["dalle2", "dalle3"]
 MODES = ["concise","detailed"]
 DIALECTS = ["aae", "che", "ine", "sge", "bre"]
 # ------------------------------------------------------------------
@@ -20,14 +20,13 @@ OUTPUT_DIR = os.path.join(BASE_DIR, f"out/{TASK}/base_models_{MODEL}")
 FOLDER_MAPPING = {"dialect": "dialect_imgs", "sae": "sae_imgs"}
 
 # Images per prompt and initialize the VQA scoring model.
-NUM_IMAGES = 9  
 scorer = t2v_metrics.VQAScore(model='clip-flant5-xxl')
 
 # Skin-tone reference prompts.
 LIGHT_SKIN_PROMPT = "light-skinned"
 DARK_SKIN_PROMPT = "dark-skinned"
 
-def get_average_score(img_dir, model_name, folder, gen_prompt, ref_prompt, num_images=NUM_IMAGES):
+def get_average_score(img_dir, model_name, folder, gen_prompt, ref_prompt, num_images):
     """
     Compute the average VQA similarity score for a set of generated images.
     """
@@ -88,6 +87,12 @@ def main():
             
             # For each model, process all prompts.
             for model in MODELS_TO_EVALUATE:
+                # for dalle2 and dalle3, we only have 1 image, otherwise we have 9
+                if model in ["dalle2", "dalle3"]:
+                    NUM_IMAGES = 1
+                else:
+                    NUM_IMAGES = 9
+                
                 # Prepare output directory for this configuration.
                 output_model_dir = os.path.join(OUTPUT_DIR, mode, dialect, model)
                 os.makedirs(output_model_dir, exist_ok=True)
@@ -112,8 +117,8 @@ def main():
                     
                     # For dialect images.
                     folder = FOLDER_MAPPING["dialect"]
-                    score_light = get_average_score(img_dir, model, folder, dialect_prompt, LIGHT_SKIN_PROMPT)
-                    score_dark = get_average_score(img_dir, model, folder, dialect_prompt, DARK_SKIN_PROMPT)
+                    score_light = get_average_score(img_dir, model, folder, dialect_prompt, LIGHT_SKIN_PROMPT, NUM_IMAGES)
+                    score_dark = get_average_score(img_dir, model, folder, dialect_prompt, DARK_SKIN_PROMPT, NUM_IMAGES)
                     norm_dialect = round(compute_normalized_score(score_light, score_dark), 4)
                     results_dialect.append({
                         "Prompt_Index": i,
@@ -125,8 +130,8 @@ def main():
                     
                     # For SAE images.
                     folder = FOLDER_MAPPING["sae"]
-                    score_light = get_average_score(img_dir, model, folder, sae_prompt, LIGHT_SKIN_PROMPT)
-                    score_dark = get_average_score(img_dir, model, folder, sae_prompt, DARK_SKIN_PROMPT)
+                    score_light = get_average_score(img_dir, model, folder, sae_prompt, LIGHT_SKIN_PROMPT, NUM_IMAGES)
+                    score_dark = get_average_score(img_dir, model, folder, sae_prompt, DARK_SKIN_PROMPT, NUM_IMAGES)
                     norm_sae = round(compute_normalized_score(score_light, score_dark), 4)
                     results_sae.append({
                         "Prompt_Index": i,
