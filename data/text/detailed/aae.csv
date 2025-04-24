@@ -17,7 +17,6 @@ crib,house,a family in front of their new crib,a family in front of their new ho
 crib,house,a retiree and her one story crib with a flower garden,a retiree and her one story house with a flower garden,1,1,1,a hand-painted crib with a mobile above
 crib,house,a crib with a white picket fence,a house with a white picket fence,0,1,1,a gently rocking crib near a window
 crib,house,a brick crib with a garden,a brick house with a garden,0,1,1,a vintage crib stored in an attic
-Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
 holla,holler,a man holla at a girl across the street,a man holler at a girl across the street,1,1,0,
 holla,holler,a man holla at a woman near the bus stop,a man holler at a woman near the bus stop,1,1,0,
 holla,holler,a guy holla at a woman walking past him,a man holler at a woman walking past him,1,2,0,
