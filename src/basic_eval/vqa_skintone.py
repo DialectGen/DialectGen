@@ -6,9 +6,9 @@ import torch
 import t2v_metrics
 
 # ------------------------- Configuration -------------------------
-MODELS_TO_EVALUATE = ["dalle2", "dalle3"]
-MODES = ["concise","detailed"]
-DIALECTS = ["aae", "che", "ine", "sge", "bre"]
+MODELS_TO_EVALUATE = ["stable-diffusion2.1"]
+MODES = ["concise", "detailed"]
+DIALECTS = ["aae", "che", "sge", "ine", "bre"]
 # ------------------------------------------------------------------
 
 # Path settings for the skintone evaluation task.

@@ -13,13 +13,8 @@ from openai import OpenAI
 # ---------------------------
 # Global Configuration
 # ---------------------------
-# BASE_DIR is set to the repository root.
 BASE_DIR = Path(__file__).resolve().parents[2]
-
-# Model identifier for DALL-E 2
 MODEL_ID = "dall-e-2"
-
-# Initialize the OpenAI client for DALL-E 2
 client = OpenAI()
 
 # ---------------------------
@@ -53,28 +48,20 @@ def parse_args():
         action="store_true",
         help=(
             "If provided, the output image directory for each dialect is replaced; "
-            "otherwise, the script resumes and generates only missing images."
+            "otherwise, the script resumes and generates only missing or black placeholder images."
         )
     )
     return parser.parse_args()
 
 def generate_dalle2_image(prompt: str) -> Image:
-    """
-    Generates a single image using DALL-E 2.
-    The DALL-E 2 API returns a response containing a URL pointing to the generated image.
-    If any error occurs, this function returns a completely black image (1024x1024).
-    """
     try:
         response = client.images.generate(
             model=MODEL_ID,
             prompt=prompt,
             size="1024x1024",
-            quality="standard",
             n=1,
         )
-        # print(response)
         image_url = response.data[0].url
-        # Download the image content and open it with PIL
         img_data = requests.get(image_url).content
         image = Image.open(BytesIO(img_data))
     except Exception as e:
@@ -82,33 +69,39 @@ def generate_dalle2_image(prompt: str) -> Image:
         image = Image.new("RGB", (1024, 1024), color="black")
     return image
 
+def is_black_image(image_path: Path) -> bool:
+    try:
+        with Image.open(image_path) as img:
+            img = img.convert("RGB")
+            extrema = img.getextrema()
+            return extrema == ((0, 0), (0, 0), (0, 0))
+    except Exception as e:
+        print(f"Error checking if image is black at '{image_path}': {e}")
+        return False
+
 def ensure_and_generate(prompt_folder: Path, prompt: str, replace: bool) -> None:
-    """
-    For a given prompt folder:
-      - If replace==True, the folder is removed and recreated.
-      - If the folder does not exist, it is created.
-      - Then, if the folder does not contain "0.jpg", the missing image is generated.
-    """
+    image_path = prompt_folder / "0.jpg"
     if replace:
         if prompt_folder.exists():
             shutil.rmtree(prompt_folder)
         prompt_folder.mkdir(parents=True, exist_ok=True)
-        missing_indices = [0]
+        regenerate = True
     else:
         if not prompt_folder.exists():
             prompt_folder.mkdir(parents=True, exist_ok=True)
-            missing_indices = [0]
+            regenerate = True
+        elif not image_path.is_file() or is_black_image(image_path):
+            regenerate = True
         else:
-            missing_indices = [0] if not (prompt_folder / "0.jpg").is_file() else []
+            regenerate = False
 
-    if not missing_indices:
-        print(f"Skipping generation for folder '{prompt_folder}' (already complete).")
+    if not regenerate:
+        print(f"Skipping generation for folder '{prompt_folder}' (already contains valid image).")
         return
 
     print(f"Generating image for prompt '{prompt}' in folder '{prompt_folder}'.")
     new_image = generate_dalle2_image(prompt)
-    # Save the generated image as "0.jpg"
-    new_image.save(str(prompt_folder / "0.jpg"))
+    new_image.save(str(image_path))
 
 # ---------------------------
 # Main Workflow
@@ -118,7 +111,6 @@ def main():
     mode = args.mode
     replace_flag = args.replace
 
-    # ENTIGEN prompt prefixes mapping for dialect prompts and SAE prompt prefix.
     entigen_prefixes = {
         "aae": "In African American English, ",
         "bre": "In British English, ",
@@ -128,16 +120,12 @@ def main():
     }
     sae_prefix = "In Standard American English, "
 
-    # Process each dialect in the order provided.
     for dialect in args.dialects:
-        # Define paths based on the specified mode and dialect.
         data_file = BASE_DIR / "data" / "text" / mode / f"{dialect}.csv"
-        # Change folder name to "dalle2" instead of "dalle3"
         img_dir = BASE_DIR / "data" / "image" / mode / f"{dialect}" / "dalle2"
         lr_subdir = img_dir / "dialect_imgs"
         hr_subdir = img_dir / "sae_imgs"
 
-        # If --replace is set, remove the entire image directory for the dialect.
         if replace_flag:
             if img_dir.exists():
                 shutil.rmtree(img_dir)
@@ -147,18 +135,15 @@ def main():
             lr_subdir.mkdir(parents=True, exist_ok=True)
             hr_subdir.mkdir(parents=True, exist_ok=True)
 
-        # Read CSV data containing prompts.
         df = pd.read_csv(data_file, encoding='unicode_escape')
         dialect_prompts = df["Dialect_Prompt"].tolist()
         sae_prompts = df["SAE_Prompt"].tolist()
 
-        # Iterate over each prompt pair and generate missing images.
         for dp, sp in tqdm(zip(dialect_prompts, sae_prompts), total=len(dialect_prompts), desc=f"Processing dialect {dialect}"):
             if mode == "entigen":
                 dp = entigen_prefixes[dialect] + dp
                 sp = sae_prefix + sp
 
-            # Use the prompt text as the folder name (in production, consider sanitizing these names).
             dp_dir = lr_subdir / dp
             sp_dir = hr_subdir / sp
 

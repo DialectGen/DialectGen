@@ -9,7 +9,7 @@ import t2v_metrics
 import torch  # type checking
 
 # ------------------------- Configuration -------------------------
-MODELS_TO_EVALUATE = ["dalle3"]
+MODELS_TO_EVALUATE = ["stable-diffusion2.1"]
 MODES = ["concise", "detailed"]
 DIALECTS = ["aae", "che", "sge", "ine", "bre"]
 # ------------------------------------------------------------------

@@ -57,6 +57,7 @@ pretrained/
 data/image
 data/video
 data/cache
+out_bak
 
 # Ouputs/checkpoints
 out/

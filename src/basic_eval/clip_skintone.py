@@ -8,9 +8,9 @@ import torch
 import clip
 
 # ------------------------- Configuration -------------------------
-MODELS_TO_EVALUATE = ["dalle2", "dalle3"]
-MODES = ["concise","detailed"]
-DIALECTS = ["aae", "che", "ine", "sge", "bre"]
+MODELS_TO_EVALUATE = ["stable-diffusion2.1"]
+MODES = ["concise", "detailed"]
+DIALECTS = ["aae", "che", "sge", "ine", "bre"]
 FOLDER_MAPPING = {"dialect": "dialect_imgs", "sae": "sae_imgs"}
 # ------------------------------------------------------------------
 
