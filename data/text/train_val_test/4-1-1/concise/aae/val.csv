@@ -1,0 +1,35 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
+lil,little,a lil horse,a little horse,0,1,0,
+whip,car,an electric whip,an electric car,0,1,1,a whip used by a horse rider
+crib,house,a waterfront crib,a waterfront house,0,1,1,a crib with colorful bedding
+holla,holler,a holla from the audience,a holler from the audience,1,1,0,
+homie,close friend,a homie from childhood,a close friend from childhood,1,1,0,
+crew,friends,my crew wearing red,my friends wearing red,1,1,1,the submarine crew preparing
+nana,grandma,my nana in her house,my grandma in her house,1,1,0,
+bae,lover,my bae wearing purple,my lover wearing purple,1,1,0,
+dough,money,a wallet overflowing with dough,a wallet overflowing with money,0,1,1,a baker shaping dough
+kicks,sneakers,brand new kicks,brand new sneakers,0,1,0,
+piece,gun,a broken piece,a broken gun,0,1,1,a broken piece of pottery
+threads,clothes,a rack of beautiful threads,a rack of beautiful clothes,0,1,1,threads wound on a bobbin
+grill,dental jewelry,silver grills,silver dental jewelry,0,1,1,a shiny new cooking grill
+tint,tinted car windows,broken tint,broken tinted car windows,0,1,1,a box of green tint bottles
+drop,convertible car,a painting of a vintage drop,a painting of a vintage convertible car,0,1,1,a clear drop of dew
+lid,hat,a beautiful lid,a beautiful hat,0,1,1,a ceramic lid on a dish
+glass,mirror,a painting of a glass,a painting of a mirror,0,1,1,glass placed on a coaster
+gat,gun,a broken gat,a broken gun,0,1,0,
+chains,necklace,a display of chains,a display of necklace,0,1,1,bike chains hanging on a wall
+roller,car,a rental roller,a rental car,0,1,1,a road roller flattening asphalt
+hammer,gun,licensed hammer,licensed gun,0,1,1,a hammer in a toolbox
+bussin,tasty,a painting of bussin food,a painting of tasty food,0,1,0,
+hood,neighborhood,an empty hood,an empty neighborhood,0,1,1,a hood hanging from a hook
+paper,bills,a man flashing paper,a man flashing bills,1,1,1,a student holding paper sheets
+fam,close friends,me with my fam,me with my close friends,1,1,0,
+boo,lover,my boo wearing pink,my lover wearing pink,1,1,0,
+homeboy,close friend,a homeboy from childhood,a close friend from childhood,1,1,0,
+mellow,high on marijuana,college students feeling mellow,college students high on marijuana,1,1,0,
+nappiness,hair frizziness,my natural nappiness,my natural hair frizziness,1,1,0,
+bling,flashy jewelry,a display of bling,a display of flashy jewelry,0,1,0,
+fit,outfit,my vintage fit,my vintage outfit,0,1,1,pipes fit together
+peepers,glasses,a pair of broken peepers,a pair of broken glasses,0,1,1,animal peepers in the dark
+tat,tattoo,a botched tat,a botched tattoo,0,1,0,
+dreads,dreadlocks,cutting my dreads,cutting my dreadlocks,1,1,0,

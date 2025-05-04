@@ -1,0 +1,38 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
+lorry,semitruck,a lorry with a flat tyre,a semitruck with a flat tire,0,2,0,
+jumper,sweater,a jumper folded neatly,a sweater folded neatly,0,1,0,
+loo,bathroom,a loo with a shower curtain,a bathroom with a shower curtain,0,1,0,
+banger,sausage,my bangers sizzling in a pan,my sausages sizzling in a pan,0,1,0,
+rubbish,trash,a rubbish skip in a construction site,a trash dumpster in a construction site,0,2,0,
+flat,apartment,my flat with an open-plan kitchen,my apartment with an open-plan kitchen,0,1,1,a set of flat-pack furniture ready for assembly
+car boot,car trunk,my car boot after a shopping spree,my car trunk after a shopping spree,0,1,0,
+queue,line,a queue at the post office,a line at the post office,1,1,0,
+trousers,pants,my trousers hanging in the closet,my pants hanging in the closet,0,1,0,
+biscuit,cookie,a biscuit with a bite taken out,a cookie with a bite taken out,0,1,0,
+torch,flashlight,a policeman shining a torch at the suspect,a policeman shining a flashlight at the suspect,1,1,1,a firefighter holding a torch in smoky ruins
+nappy,diaper,a nappy on a clothesline,a diaper on a clothesline,0,1,0,
+petrol,gasoline,a brightly lit petrol station sign at night,a brightly lit gasoline station sign at night,0,1,0,
+football,soccer,a goalkeeper trying to catch a football,a goalkeeper trying to catch a soccer ball,1,1,1,a child catching a spiraling football in a yard
+chemist,pharmacy,a chemist with a neon sign,a pharmacy with a neon sign,0,1,1,a sign for the building reading “Dept. of Chemistry” with a lab flask
+chips,french fries,a chips portion next to a burger,a french fries portion next to a burger,0,1,1,a stack of unopened chips bags at a picnic
+barrister,attorney,a barrister with legal books,an attorney with legal books,1,1,0,
+caretaker,janitor,a building caretaker taking out the rubbish,a building janitor taking out the trash,1,1,1,a part-time caretaker checking on tenants’ needs
+cooker,stove,my cooker after making breakfast,my stove after making breakfast,0,1,0,
+cot,crib,a cot with stuffed animals,a crib with stuffed animals,0,1,1,a narrow cot placed beside a hospital bed
+hoarding,billboard,a hoarding lit up at night,a billboard lit up at night,0,1,0,
+hoover,vacuum cleaner,a man using a hoover on a carpeted floor,a man using a vacuum cleaner on a carpeted floor,1,1,0,
+jug,pitcher,a jug in the refrigerator,a pitcher in the refrigerator,0,1,0,
+postman,mailman,my postman with a big sack,my mailman with a big bag,1,2,0,
+pram,baby carriage,a man walking with a pram on a cobblestone street,a man walking with a baby carriage on a cobblestone street,1,1,0,
+saloon,sedan,my saloon at the petrol station,my sedan at the gas station,0,2,0,
+bonnet,hood,a bonnet covered in snow,a hood with racing stripes,0,1,0,
+coriander,cilantro,a coriander bunch at the market,a cilantro bunch at the market,0,1,0,
+courgette,zucchini,a courgette in a shopping basket,a zucchini in a shopping basket,0,1,0,
+tube,subway,a tube map on the wall,a subway map on the wall,0,1,0,
+aubergine,eggplant,my aubergine in a curry,my eggplant in a curry,0,1,0,
+zebra crossing,crosswalk,a zebra crossing near traffic lights,a crosswalk near traffic lights,0,0,0,
+motorway,highway,a motorway blocked due to accident,a highway blocked due to accident,0,0,0,
+plaster,band-aid,a waterproof plaster on a hand,a waterproof band-aid on a hand,1,1,1,a tub of plaster of Paris beside a molding kit
+bin liner,trash bag,a stack of unused bin liners,a stack of unused trash bags,0,0,0,
+waistcoat,vest,a waistcoat embroidered with flowers,a vest embroidered with flowers,1,0,1,a mountaineer in a windproof vest climbing a peak
+rocket,arugula,a basket filled with fresh rocket,a basket filled with fresh arugula,0,0,0,

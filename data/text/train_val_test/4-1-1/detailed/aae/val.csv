@@ -1,0 +1,35 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
+lil,little,a lil one story blue house,a little one story blue house,0,1,0,
+whip,car,a whip parked by the curb,a car parked by the curb,0,1,1,a coiled black whip next to a cowboy hat
+crib,house,a crib with a white picket fence,a house with a white picket fence,0,1,1,a gently rocking crib near a window
+holla,holler,a loud holla from the audience during the show,a loud holler from the audience during the show,1,1,0,
+homie,close friend,a homie from childhood playing video games together,a close friend from childhood playing video games together,1,1,0,
+my crew,my friends,my crew hanging out at the park,my friends hanging out at the park,1,1,1,a yacht crew in matching uniforms
+nana,grandma,a nana knitting a sweater,a grandma knitting a sweater,1,1,0,
+bae,lover,a bae holding a bouquet of roses,a lover holding a bouquet of roses,1,1,0,
+dough,money,a wallet overflowing with fresh green dough,a wallet overflowing with fresh green money,0,1,1,several balls of dough resting before baking
+kicks,sneakers,a row of kicks in a store,a row of sneakers in a store,0,1,0,
+piece,gun,a piece in a holster,a gun in a holster,0,1,1,a missing piece of a Lego set
+threads,clothes,a woman wearing vintage threads,a woman wearing vintage clothes,1,1,1,threads organized by color in a sewing box
+grills,dental jewelry,a rapper showing off his grills,a rapper showing off his dental jewelry,1,1,1,a backyard grill with flames rising
+tint,window tinting,a silver van with light tint on the windows,a silver van with light window tinting on the windows,0,1,1,a painter preparing a color tint for interior walls
+drop,convertible car,a red drop cruising down the street,a red convertible car cruising down the street,0,1,1,a drop of blood in a microscope slide
+lid,cap,a baseball lid with a sports logo,a baseball cap with a sports logo,0,1,1,a sealed bottle with a tight lid
+glass,mirror,a handheld glass with a gold frame,a handheld mirror with a gold frame,0,1,1,a magnifying glass on an antique desk
+gat,gun,a gat stored in a safe,a gun stored in a safe,0,1,0,
+chains,necklace,a display of chains in a jewelry store,a display of necklaces in a jewelry store,0,1,1,industrial chains on display at a hardware store
+roller,car,a blue roller in the parking lot,a blue car in the parking lot,0,1,1,a rolling pin and pastry roller side by side
+hammer,gun,a sleek black hammer with a silencer on a table,a sleek black gun with a silencer on a table,0,1,1,a toolkit with multiple hammers arranged neatly
+bussin,tasty,a bussin bowl of mac and cheese,a tasty bowl of mac and cheese,0,1,0,
+hood,neighborhood,kids playing in the hood,kids playing in the neighborhood,1,1,1,a child hiding under a jacket hood
+paper,money/bills,coins and paper stuffed into a wallet,coins and bills stuffed into a wallet,0,1,1,origami paper folded into shapes
+fam,close friends,a group picture with the fam at the beach,a group picture with close friends at the beach,1,1,0,
+boo,lover,me holding hands at the movie with my boo,me holding hands at the movie with my lover,1,1,0,
+homeboy,close friend,my homeboy helping me with a move,my close friend helping me with a move,1,1,0,
+mellow,close friend,my go-to mellow for advice,my go-to close friend for advice,1,1,0,
+nappiness,hair frizziness,my natural nappiness showing its beauty,my natural hair frizziness showing its beauty,1,1,0,
+bling,flashy jewelry,my favorite bling from my grandma,my favorite piece of flashy jewelry from my grandma,0,1,0,
+fit,outfit,a breezy summer fit for hot days,a breezy summer outfit for hot days,1,1,1,a key that fits into a lock
+peepers,glasses,a pair of peepers sitting on the nightstand,a pair of glasses sitting on the nightstand,0,1,1,a doll with painted-on peepers in a vintage toy box
+tat,tattoo,a tat on a man's leg,a tattoo on a man's leg,1,1,0,
+dreads,dreadlocks,my dreads tied up in a bun,my dreadlocks tied up in a bun,1,1,0,

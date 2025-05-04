@@ -1,0 +1,35 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
+lil,little,a lil baby wrapped in a blanket,a little baby wrapped in a blanket,1,1,0,
+whip,car,a black whip with chrome rims,a black car with chrome rims,0,1,1,a ceremonial whip with ornate handle
+crib,house,a brick crib with a garden,a brick house with a garden,0,1,1,a vintage crib stored in an attic
+holla,holler,she heard a holla from across the street,she heard a holler from across the street,1,1,0,
+homie,close friend,a homie with a skateboard,a close friend with a skateboard,1,1,0,
+my crew,my friends,a crew in matching shirts,a group of friends in matching shirts,1,1,1,a TV production crew on set
+nana,grandma,a nana baking cookies,a grandma baking cookies,1,1,0,
+bae,lover,a bae taking a selfie,a lover taking a selfie,1,1,0,
+dough,money,an armored cash carrier carrying bags of dough,an armored cash carrier carrying bags of money,0,1,1,a plastic-wrapped bag of pastry dough in a freezer
+kicks,sneakers,a pair of kicks hanging on a wire,a pair of sneakers hanging on a wire,0,1,0,
+piece,gun,a piece tucked into a waistband,a gun tucked into a waistband,0,1,1,a piece of fabric folded neatly
+threads,clothes,a rack of designer threads,a rack of designer clothes,0,1,1,decorative threads in a fabric store
+grills,dental jewelry,gold grills on a smiling face,gold dental jewelry on a smiling face,1,1,1,a golden grill rack freshly cleaned
+tint,tinted car windows,a schoolbus with orange tint,a schoolbus with orange tinted windows,0,1,1,orange tint sheets on a crafts table
+drop,convertible car,a vintage drop parked at the beach,a vintage convertible car parked at the beach,0,1,1,a tear drop falling in slow motion
+lid,cap,a boy wearing a lid matching his outfit,a boy wearing a cap matching his outfit,1,1,1,a coffee cup with a black lid
+glass,mirror,a tall glass in the fitting room,a tall mirror in the fitting room,0,1,1,a glass pitcher filled with lemonade
+gat,gun,a black gat inside a half-open drawer,a black gun inside a half-open drawer,0,1,0,
+chains,necklace,a man wearing dark silver chains,a man wearing a dark gray necklace,1,1,1,chains connecting swings on a playground
+roller,car,a roller speeding down the highway,a car speeding down the highway,0,1,1,a roller skate left on a sidewalk
+hammer,gun,a policeman shooting a hammer,a policeman shooting a gun,1,1,1,a rubber mallet labeled “soft hammer”
+bussin,tasty,a bussin plate of fried chicken,a tasty plate of fried chicken,0,1,0,
+hood,neighborhood,a barber shop in the hood,a barber shop in the neighborhood,0,1,1,a parka with a waterproof hood folded back
+paper,money/bills,a rich businessman showing off a large stack of paper,a rich businessman showing off a large stack of bills,1,1,1,a ream of printer paper still in its packaging
+fam,close friends,going on a road trip with my fam,going on a road trip with my close friends,1,1,0,
+boo,lover,me and my boo sharing an umbrella in the rain,me and my lover sharing an umbrella in the rain,1,1,0,
+homeboy,close friend,my homeboy riding a skateboard,my close friend riding a skateboard,1,1,0,
+mellow,close friend,a heart-to-heart with my oldest mellow,a heart-to-heart with my oldest close friend,1,1,0,
+nappiness,hair frizziness,two people with visible nappiness in their hair,two people with visible hair frizziness in their hair,1,1,0,
+bling,flashy jewelry,a statement made with just the right bling,a statement made with just the right flashy jewelry,1,1,0,
+fit,outfit,a new fit for a cold snowy winter in a big city,a new outfit for a cold snowy winter in a big city,1,1,1,a cork that fits inside a wine bottle
+peepers,glasses,my friend holding her pair of peepers,my friend holding her pair of glasses,1,1,1,a lizard’s tiny peepers watching from behind a leaf
+tat,tattoo,a dreamy design for my next tat,a dreamy design for my next tattoo,1,1,0,
+dreads,dreadlocks,my dreads reaching down to my waist,my dreadlocks reaching down to my waist,1,1,0,
