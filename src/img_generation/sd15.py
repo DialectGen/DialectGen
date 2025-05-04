@@ -48,8 +48,8 @@ def parse_args():
         "--mode",
         type=str,
         required=True,
-        choices=["concise", "detailed", "entigen", "polysemy"],
-        help="Mode to use (concise, detailed, entigen, or polysemy)."
+        choices=["concise", "detailed", "entigen", "polysemy", "rewrite_concise", "rewrite_detailed"],
+        help="Mode to use (concise, detailed, entigen, polysemy, rewrite_concise, or rewrite_detailed)."
     )
     parser.add_argument(
         "--replace",
@@ -151,7 +151,16 @@ def main():
                 sp = sae_prefix + sp
 
             # Use the prompt text as the folder name (in production, consider sanitizing these names).
-            dp_dir = lr_subdir / dp
+            import hashlib
+
+            # Hash dialect prompts if using rewrite modes
+            if mode in {"rewrite_concise", "rewrite_detailed"}:
+                dp_hash = hashlib.md5(dp.encode()).hexdigest()
+                dp_dir = lr_subdir / dp_hash
+            else:
+                dp_dir = lr_subdir / dp
+
+            # Always use full SAE prompt (assumed shorter and safer)
             sp_dir = hr_subdir / sp
 
             ensure_and_generate(dp_dir, dp, replace_flag)
