@@ -69,8 +69,9 @@ def generate_dalle3_image(prompt: str):
     """
     # ↳ prepend the “keep‑it‑simple” instruction
     final_prompt = (
-        f"I NEED to test how the tool works with extremely simple prompts. "
-        f"DO NOT add any detail, just use it AS‑IS: {prompt}"
+        f"I NEED to test how the tool works with extremely simple prompts. DO NOT add any detail, just give it to DALL-E AS‑IS!"
+        f"Make sure you use my prompt as the “Revised prompt” WITHOUT ANY changes; I DON'T want you to ever change the prompt in any way what so ever."
+        f"Give my prompt to DALL-E VERBATIM! Here is my prompt: {prompt}"
     )
 
     try:
