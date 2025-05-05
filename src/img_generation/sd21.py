@@ -60,18 +60,71 @@ def parse_args():
     )
     return parser.parse_args()
 
+
+# ---------------------------
+# NEW: helper that encodes arbitrarily long prompts
+# ---------------------------
+def encode_long_prompt(pipe, prompt: str):
+    """
+    Convert an *any‑length* text prompt into `prompt_embeds`
+    and `negative_prompt_embeds` that bypass the 77‑token limit.
+    Works for SD‑2.1 as well as 1.5.
+    """
+    tokenizer    = pipe.tokenizer
+    text_encoder = pipe.text_encoder
+    device       = pipe.device
+    max_len      = tokenizer.model_max_length          # 77 for SD‑2.1
+
+    # Tokenise without truncation
+    input_ids = tokenizer(prompt,
+                          return_tensors="pt",
+                          truncation=False).input_ids.to(device)
+
+    # Empty negative prompt, padded to same length as `input_ids`
+    neg_ids = tokenizer("",
+                        padding="max_length",
+                        max_length=input_ids.shape[-1],
+                        return_tensors="pt").input_ids.to(device)
+
+    # Encode in 77‑token windows
+    pos_chunks, neg_chunks = [], []
+    for i in range(0, input_ids.shape[-1], max_len):
+        pos_chunks.append(text_encoder(input_ids[:, i:i+max_len])[0])
+        neg_chunks.append(text_encoder(neg_ids  [:, i:i+max_len])[0])
+
+    # Concatenate back together
+    prompt_embeds          = torch.cat(pos_chunks, dim=1)
+    negative_prompt_embeds = torch.cat(neg_chunks, dim=1)
+    return prompt_embeds, negative_prompt_embeds
+
+
+# ---------------------------
+# REPLACE the old generator with this version
+# ---------------------------
 def generate_stable_diffusion_batch(prompt: str, num_images: int) -> list:
     """
-    Generates a specified number of images using Stable Diffusion.
-    Images are generated in batches (up to 3 at a time).
+    Generates `num_images` images from **any‑length** prompt.
+    Images come back in batches of ≤3 for GPU efficiency.
     """
     images = []
     while len(images) < num_images:
         batch_size = min(3, num_images - len(images))
-        # Generate a row of images; note that the pipeline call returns a list of images.
-        result = pipe([prompt] * batch_size).images
-        images.extend(result)
+
+        # Encode once, then replicate along batch dimension
+        p_emb, n_emb = encode_long_prompt(pipe, prompt)
+        p_emb = p_emb.repeat(batch_size, 1, 1)
+        n_emb = n_emb.repeat(batch_size, 1, 1)
+
+        # Run the diffusion model
+        batch_imgs = pipe(
+            prompt_embeds=p_emb,
+            negative_prompt_embeds=n_emb
+        ).images
+
+        images.extend(batch_imgs)
+
     return images[:num_images]
+
 
 def ensure_and_generate(prompt_folder: Path, prompt: str, replace: bool) -> None:
     """
