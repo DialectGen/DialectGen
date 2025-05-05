@@ -1,0 +1,223 @@
+Prompt_Index,SAE_Prompt,Score
+0,a red semitruck,0.9827
+1,a large semitruck,0.9799
+2,a broken semitruck,0.2476
+3,a painting of an old semitruck,0.9331
+4,a modern semitruck,0.9828
+5,a small semitruck,0.1564
+6,a cozy sweater,0.9668
+7,a purple sweater,0.9658
+8,a dirty sweater,0.5069
+9,a designer sweater,0.6706
+10,a sweater with holes,0.9044
+11,a colorful sweater,0.979
+12,a modern bathroom,0.9828
+13,a dirty bathroom,0.7919
+14,a colorful bathroom,0.9891
+15,a bathroom with blue tiles,0.9868
+16,a spacious bathroom,0.9371
+17,a tiny bathroom,0.4841
+18,a pack of sausages,0.4532
+19,a plate of sausages and eggs,0.9331
+20,three sausages,0.6939
+21,sizzling sausages,0.8075
+22,broken sausages,0.3498
+23,some expired sausages,0.1426
+24,a pile of trash,0.9037
+25,trash on the floor,0.9769
+26,a heap of trash,0.9612
+27,a painting of trash,0.8466
+28,a trash bin,0.9855
+29,a room full of trash,0.945
+30,an apartment to rent,0.5348
+31,an apartment with two bedrooms,0.4147
+32,a city centre apartment,0.9099
+33,an apartment with balcony,0.9456
+34,students living in an apartment,0.7837
+35,keys to a new apartment,0.6215
+36,a broken car trunk,0.5505
+37,a packed car trunk,0.9687
+38,an empty car trunk,0.9238
+39,a dirty car trunk,0.9705
+40,a modern car trunk,0.9612
+41,a red car trunk,0.8007
+42,a long line,0.7584
+43,a short line,0.4987
+44,a painting of a long line,0.8342
+45,a line of people,0.9356
+46,a line outside the store,0.2731
+47,a line for food,0.4186
+48,a pair of purple pants,0.9836
+49,a pair of denim pants,0.9822
+50,some ripped pants,0.9842
+51,my dirty pants,0.621
+52,a pair of designer pants,0.6224
+53,pants with holes,0.9844
+54,a small cookie,0.7483
+55,a fresh cookie,0.8539
+56,a burnt cookie,0.5131
+57,a broken cookie,0.828
+58,a painting of a cookie,0.9224
+59,a chocolate cookie,0.9023
+60,a handheld flashlight,0.9383
+61,a flashlight in a drawer,0.9866
+62,a pocket flashlight,0.9257
+63,using a flashlight at night,0.9802
+64,batteries for a flashlight,0.7787
+65,a flashlight with a switch,0.6347
+66,some dirty diapers,0.3364
+67,white diapers,0.6108
+68,diapers with holes,0.8129
+69,a pack of diapers,0.8643
+70,a pair of pink diapers,0.7996
+71,a ripped pair of diapers,0.3656
+72,a modern gasoline station,0.9723
+73,a painting of an old gasoline station,0.9578
+74,a vintage gasoline station,0.9342
+75,a gasoline pump,0.9803
+76,a gasoline tanker,0.9262
+77,a gasoline station sign,0.8482
+78,a round soccer ball,0.96
+79,a black and white soccor ball,0.9469
+80,a soccer match in Europe,0.8553
+81,a soccer with black spots,0.9229
+82,a team scoring a soccer goal,0.4092
+83,kicking a soccer ball,0.9211
+84,shopping at a pharmacy,0.9062
+85,entering a local pharmacy,0.9287
+86,shelves in a pharmacy,0.9764
+87,queue at a pharmacy shop,0.5777
+88,sign for a pharmacy shop,0.9771
+89,products from a pharmacy,0.8942
+90,hot french fries with vinegar,0.4237
+91,french fries with ketchup,0.6823
+92,thick-cut french fries,0.8446
+93,french fries from a chippy,0.7942
+94,french fries with fish,0.9806
+95,takeaway french fries,0.9256
+96,an attorney at a table,0.8722
+97,an old attorney,0.9011
+98,an attorney at a park,0.8852
+99,an attorney with a woman,0.7846
+100,an attorney with a notepad,0.5775
+101,a painting of an attorney,0.6286
+102,a school janitor,0.7918
+103,a dirty janitor,0.7938
+104,a tired janitor,0.685
+105,a busy janitor,0.6974
+106,a painting of an old janitor,0.6632
+107,a janitor in a mall,0.8758
+108,a burning stove,0.9768
+109,an old gas stove,0.9069
+110,a modern electric stove,0.6132
+111,a dirty stove,0.9746
+112,a rusty stove,0.9535
+113,a large stove,0.8843
+114,a baby in a crib,0.7152
+115,a wooden nursery crib,0.9502
+116,toys beside a crib,0.9656
+117,a crib with mobile,0.8718
+118,a crib with bars,0.6221
+119,an infant's crib,0.9594
+120,a billboard in a city,0.9653
+121,a broken billboard,0.9807
+122,a colorful billboard,0.9746
+123,a bright red billboard,0.9595
+124,a billboard lit up,0.968
+125,a dirty billboard,0.984
+126,a bright red vacuum cleaner,0.9682
+127,a vacuum cleaner with a long cord,0.7601
+128,a modern vacuum cleaner,0.9754
+129,a broken vacuum cleaner,0.5571
+130,a dirty vacuum cleaner,0.9662
+131,a painting of an old vacuum cleaner,0.8036
+132,a filled pitcher,0.947
+133,an empty pitcher,0.1604
+134,a broken pitcher,0.586
+135,a dirty pitcher,0.7815
+136,a colorful pitcher,0.9858
+137,a bright blue pitcher,0.9536
+138,a young mailman,0.5624
+139,a lazy mailman,0.2651
+140,a tired mailman,0.5262
+141,a busy mailman,0.732
+142,a painting of an old mailman,0.5826
+143,a mailman on the street,0.7888
+144,a colorful baby carriage,0.9708
+145,a baby carriage with a sunshade,0.963
+146,a bright pink baby carriage,0.9285
+147,a dirty baby carriage,0.9745
+148,a painting of a vintage baby carriage,0.9587
+149,a modern baby carriage,0.9125
+150,a luxurious sedan,0.9456
+151,a bright red sedan,0.9331
+152,a dirty sedan,0.9724
+153,a sedan on the street,0.8947
+154,a broken sedan,0.6161
+155,a painting of a vintage sedan,0.7877
+156,an open hood of car,0.9907
+157,a dirty hood of car,0.8919
+158,a bright red hood of car,0.7453
+159,a hood of car with stripes,0.8813
+160,a broken hood of car,0.668
+161,a colorful hood of car,0.8257
+162,chopped cilantro,0.8946
+163,cilantro on a table,0.9449
+164,cilantro in a basket,0.9712
+165,a painting of cilantro,0.7432
+166,a basket of cilantro,0.9715
+167,a dish with cilantro,0.9698
+168,a sliced zucchini,0.7776
+169,a zucchini on the table,0.9483
+170,zucchini in a basket,0.9616
+171,a painting of a zucchini,0.9599
+172,a moldy zucchini,0.2476
+173,a dish with zucchini,0.9191
+174,inside of the subway,0.9856
+175,a subway station,0.9797
+176,a dirty subway,0.9431
+177,a modern subway,0.937
+178,a painting of the subway,0.2886
+179,an abandoned subway station,0.7029
+180,a sliced eggplant,0.5491
+181,an eggplant on the table,0.9826
+182,eggplant in a basket,0.9636
+183,a painting of an eggplant,0.9772
+184,a moldy eggplant,0.7556
+185,a dish with eggplant,0.9488
+186,people on a crosswalk,0.9213
+187,a busy crosswalk,0.854
+188,a painted crosswalk,0.8406
+189,a wide crosswalk,0.8246
+190,a woman on a crosswalk,0.9496
+191,an empty crosswalk,0.8445
+192,cars on a busy highway,0.9801
+193,an empty highway,0.9509
+194,a highway at sunset,0.9841
+195,a highway sign,0.938
+196,a highway with traffic cones,0.9743
+197,a snowy highway,0.8702
+198,a band-aid wrapped around a finger,0.7764
+199,a band-aid covering a small cut,0.6225
+200,a band-aid on an injured knee,0.8834
+201,a colorful band-aid on an elbow,0.9781
+202,a band-aid for a cut,0.5749
+203,a band-aid peeling off skin,0.57
+204,a torn trash bag,0.6302
+205,a black trash bag,0.9666
+206,an overflowing trash bag,0.7928
+207,a roll of trash bags,0.6472
+208,a trash bag on the ground,0.9776
+209,a transparent trash bag,0.6713
+210,a vest under a suit jacket,0.946
+211,a formal vest on a hanger,0.9527
+212,a vest worn over a shirt,0.9816
+213,a velvet vest on display,0.7233
+214,a striped vest displayed in a store,0.9352
+215,a velvet vest laid flat,0.8844
+216,a salad bowl filled with arugula,0.8625
+217,chopped arugula leaves,0.5338
+218,a sandwich layered with arugula,0.9315
+219,fresh arugula on a dinner plate,0.9447
+220,a pizza topped generously with arugula,0.954
+221,a pile of washed arugula leaves,0.77

@@ -1,0 +1,223 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Score
+0,a red lorry,a red semitruck,0.9815
+1,a large lorry,a large semitruck,0.9637
+2,a broken lorry,a broken semitruck,0.9836
+3,a painting of an old lorry,a painting of an old semitruck,0.9859
+4,a modern lorry,a modern semitruck,0.9761
+5,a small lorry,a small semitruck,0.5769
+6,a cozy jumper,a cozy sweater,0.9594
+7,a purple jumper,a purple sweater,0.9827
+8,a dirty jumper,a dirty sweater,0.9671
+9,a designer jumper,a designer sweater,0.7564
+10,a jumper with holes,a sweater with holes,0.9835
+11,a colorful jumper,a colorful sweater,0.9856
+12,a modern loo,a modern bathroom,0.9793
+13,a dirty loo,a dirty bathroom,0.9926
+14,a colorful loo,a colorful bathroom,0.968
+15,a loo with blue tiles,a bathroom with blue tiles,0.9837
+16,a spacious loo,a spacious bathroom,0.5434
+17,a tiny loo,a tiny bathroom,0.8106
+18,a pack of bangers,a pack of sausages,0.6773
+19,a plate of bangers and eggs,a plate of sausages and eggs,0.9343
+20,three bangers,three sausages,0.8732
+21,sizzling bangers,sizzling sausages,0.6178
+22,broken bangers,broken sausages,0.4377
+23,some expired bangers,some expired sausages,0.1659
+24,a pile of rubbish,a pile of trash,0.9767
+25,rubbish on the floor,trash on the floor,0.9887
+26,a heap of rubbish,a heap of trash,0.9752
+27,a painting of rubbish,a painting of trash,0.9466
+28,a rubbish bin,a trash bin,0.9793
+29,a room full of rubbish,a room full of trash,0.9827
+30,a flat to rent,an apartment to rent,0.4968
+31,a flat with two bedrooms,an apartment with two bedrooms,0.5521
+32,a city centre flat,a city centre apartment,0.9038
+33,a flat with balcony,an apartment with balcony,0.9484
+34,students living in a flat,students living in an apartment,0.8827
+35,keys to a new flat,keys to a new apartment,0.5452
+36,a broken car boot,a broken car trunk,0.752
+37,a packed car boot,a packed car trunk,0.951
+38,an empty car boot,an empty car trunk,0.5871
+39,a dirty car boot,a dirty car trunk,0.6901
+40,a modern car boot,a modern car trunk,0.5677
+41,a red car boot,a red car trunk,0.6818
+42,a long queue,a long line,0.9708
+43,a short queue,a short line,0.2922
+44,a painting of a long queue,a painting of a long line,0.952
+45,a queue of people,a line of people,0.9705
+46,a queue outside the store,a line outside the store,0.9714
+47,a queue for food,a line for food,0.7767
+48,a pair of purple trousers,a pair of purple pants,0.9859
+49,a pair of denim trousers,a pair of denim pants,0.9805
+50,some ripped trousers,some ripped pants,0.9794
+51,my dirty trousers,my dirty pants,0.8893
+52,a pair of designer trousers,a pair of designer pants,0.8361
+53,trousers with holes,pants with holes,0.9848
+54,a small biscuit,a small cookie,0.7578
+55,a fresh biscuit,a fresh cookie,0.8709
+56,a burnt biscuit,a burnt cookie,0.868
+57,a broken biscuit,a broken cookie,0.951
+58,a painting of a biscuit,a painting of a cookie,0.9602
+59,a chocolate biscuit,a chocolate cookie,0.9163
+60,a handheld torch,a handheld flashlight,0.9022
+61,a torch in a drawer,a flashlight in a drawer,0.6864
+62,a pocket torch,a pocket flashlight,0.9297
+63,using a torch at night,using a flashlight at night,0.9436
+64,batteries for a torch,batteries for a flashlight,0.8719
+65,a torch with a switch,a flashlight with a switch,0.7843
+66,some dirty nappies,some dirty diapers,0.9512
+67,white nappies,white diapers,0.9517
+68,nappies with holes,diapers with holes,0.8976
+69,a pack of nappies,a pack of diapers,0.8791
+70,a pair of pink nappies,a pair of pink diapers,0.8511
+71,a ripped pair of nappies,a ripped pair of diapers,0.9468
+72,a modern petrol station,a modern gasoline station,0.9631
+73,a painting of an old petrol station,a painting of an old gasoline station,0.9665
+74,a vintage petrol station,a vintage gasoline station,0.7126
+75,a petrol pump,a gasoline pump,0.9664
+76,a petrol tanker,a gasoline tanker,0.9025
+77,a petrol station sign,a gasoline station sign,0.937
+78,a round football,a round soccer ball,0.1065
+79,a black and white football,a black and white soccor ball,0.5251
+80,a football match in Europe,a soccer match in Europe,0.943
+81,a football with black spots,a soccer with black spots,0.7089
+82,a team scoring a football goal,a team scoring a soccer goal,0.5575
+83,kicking a football,kicking a soccer ball,0.1323
+84,shopping at a chemist,shopping at a pharmacy,0.9693
+85,entering a local chemist,entering a local pharmacy,0.9379
+86,shelves in a chemist,shelves in a pharmacy,0.968
+87,queue at a chemist shop,queue at a pharmacy shop,0.8573
+88,sign for a chemist shop,sign for a pharmacy shop,0.941
+89,products from a chemist,products from a pharmacy,0.9339
+90,hot chips with vinegar,hot french fries with vinegar,0.4693
+91,chips with ketchup,french fries with ketchup,0.5133
+92,thick-cut chips,thick-cut french fries,0.8444
+93,chips from a chippy,french fries from a chippy,0.7341
+94,chips with fish,french fries with fish,0.6182
+95,takeaway chips,takeaway french fries,0.9533
+96,a barrister at a table,an attorney at a table,0.8407
+97,an old barrister,an old attorney,0.8534
+98,a barrister at a park,an attorney at a park,0.8282
+99,a barrister with a woman,an attorney with a woman,0.7966
+100,a barrister with a notepad,an attorney with a notepad,0.7473
+101,a painting of a barrister,a painting of an attorney,0.8893
+102,a school caretaker,a school janitor,0.2629
+103,a dirty caretaker,a dirty janitor,0.7455
+104,a tired caretaker,a tired janitor,0.5854
+105,a busy caretaker,a busy janitor,0.3281
+106,a painting of an old caretaker,a painting of an old janitor,0.7069
+107,a caretaker in a mall,a janitor in a mall,0.5878
+108,a burning cooker,a burning stove,0.8984
+109,an old gas cooker,an old gas stove,0.9347
+110,a modern electric cooker,a modern electric stove,0.8434
+111,a dirty cooker,a dirty stove,0.9894
+112,a rusty cooker,a rusty stove,0.9836
+113,a large cooker,a large stove,0.9212
+114,a baby in a cot,a baby in a crib,0.8977
+115,a wooden nursery cot,a wooden nursery crib,0.9725
+116,toys beside a cot,toys beside a crib,0.983
+117,a cot with mobile,a crib with mobile,0.9804
+118,a cot with bars,a crib with bars,0.9317
+119,an infant's cot,an infant's crib,0.9673
+120,a hoarding in a city,a billboard in a city,0.8608
+121,a broken hoarding,a broken billboard,0.5176
+122,a colorful hoarding,a colorful billboard,0.6124
+123,a bright red hoarding,a bright red billboard,0.6381
+124,a hoarding lit up,a billboard lit up,0.8208
+125,a dirty hoarding,a dirty billboard,0.8476
+126,a bright red hoover,a bright red vacuum cleaner,0.9769
+127,a hoover with a long cord,a vacuum cleaner with a long cord,0.7942
+128,a modern hoover,a modern vacuum cleaner,0.9702
+129,a broken hoover,a broken vacuum cleaner,0.6963
+130,a dirty hoover,a dirty vacuum cleaner,0.9626
+131,a painting of an old hoover,a painting of an old vacuum cleaner,0.9103
+132,a filled jug,a filled pitcher,0.9276
+133,an empty jug,an empty pitcher,0.7864
+134,a broken jug,a broken pitcher,0.9188
+135,a dirty jug,a dirty pitcher,0.9561
+136,a colorful jug,a colorful pitcher,0.9778
+137,a bright blue jug,a bright blue pitcher,0.9197
+138,a young postman,a young mailman,0.6913
+139,a lazy postman,a lazy mailman,0.779
+140,a tired postman,a tired mailman,0.6988
+141,a busy postman,a busy mailman,0.8002
+142,a painting of an old postman,a painting of an old mailman,0.7459
+143,a postman on the street,a mailman on the street,0.8503
+144,a colorful pram,a colorful baby carriage,0.9751
+145,a pram with a sunshade,a baby carriage with a sunshade,0.9344
+146,a bright pink pram,a bright pink baby carriage,0.9788
+147,a dirty pram,a dirty baby carriage,0.978
+148,a painting of a vintage pram,a painting of a vintage baby carriage,0.9779
+149,a modern pram,a modern baby carriage,0.6612
+150,a luxurious saloon,a luxurious sedan,0.105
+151,a bright red saloon,a bright red sedan,0.446
+152,a dirty saloon,a dirty sedan,0.1522
+153,a saloon on the street,a sedan on the street,0.1147
+154,a broken saloon,a broken sedan,0.1312
+155,a painting of a vintage saloon,a painting of a vintage sedan,0.3213
+156,an open bonnet,an open hood of car,0.6777
+157,a dirty bonnet,a dirty hood of car,0.7925
+158,a bright red bonnet,a bright red hood of car,0.1504
+159,a bonnet with stripes,a hood of car with stripes,0.1243
+160,a broken bonnet,a broken hood of car,0.4754
+161,a colorful bonnet,a colorful hood of car,0.167
+162,chopped coriander,chopped cilantro,0.9493
+163,coriander on a table,cilantro on a table,0.9704
+164,coriander in a basket,cilantro in a basket,0.9748
+165,a painting of coriander,a painting of cilantro,0.9644
+166,a basket of coriander,a basket of cilantro,0.9769
+167,a dish with coriander,a dish with cilantro,0.9891
+168,a sliced courgette,a sliced zucchini,0.9056
+169,a courgette on the table,a zucchini on the table,0.9524
+170,courgette in a basket,zucchini in a basket,0.9702
+171,a painting of a courgette,a painting of a zucchini,0.9484
+172,a moldy courgette,a moldy zucchini,0.7492
+173,a dish with courgette,a dish with zucchini,0.9884
+174,inside of the tube,inside of the subway,0.9088
+175,a tube station,a subway station,0.9634
+176,a dirty tube,a dirty subway,0.652
+177,a modern tube,a modern subway,0.8874
+178,a painting of the tube,a painting of the subway,0.9668
+179,an abandoned tube station,an abandoned subway station,0.9648
+180,a sliced aubergine,a sliced eggplant,0.8012
+181,an aubergine on the table,an eggplant on the table,0.975
+182,aubergine in a basket,eggplant in a basket,0.9776
+183,a painting of an aubergine,a painting of an eggplant,0.9655
+184,a moldy aubergine,a moldy eggplant,0.966
+185,a dish with aubergine,a dish with eggplant,0.9799
+186,people on a zebra crossing,people on a crosswalk,0.9575
+187,a busy zebra crossing,a busy crosswalk,0.5951
+188,a painted zebra crossing,a painted crosswalk,0.8215
+189,a wide zebra crossing,a wide crosswalk,0.589
+190,a woman on a zebra crossing,a woman on a crosswalk,0.8365
+191,an empty zebra crossing,an empty crosswalk,0.8858
+192,cars on a busy motorway,cars on a busy highway,0.9868
+193,an empty motorway,an empty highway,0.7287
+194,a motorway at sunset,a highway at sunset,0.987
+195,a motorway sign,a highway sign,0.9022
+196,a motorway with traffic cones,a highway with traffic cones,0.9805
+197,a snowy motorway,a snowy highway,0.9728
+198,a plaster wrapped around a finger,a band-aid wrapped around a finger,0.9743
+199,a plaster covering a small cut,a band-aid covering a small cut,0.1371
+200,a plaster on an injured knee,a band-aid on an injured knee,0.8713
+201,a colorful plaster on an elbow,a colorful band-aid on an elbow,0.3776
+202,a plaster for a cut,a band-aid for a cut,0.1498
+203,a plaster peeling off skin,a band-aid peeling off skin,0.5457
+204,a torn bin liner,a torn trash bag,0.9354
+205,a black bin liner,a black trash bag,0.8824
+206,an overflowing bin liner,an overflowing trash bag,0.8986
+207,a roll of bin liners,a roll of trash bags,0.6183
+208,a bin liner on the ground,a trash bag on the ground,0.9577
+209,a transparent bin liner,a transparent trash bag,0.8805
+210,a waistcoat under a suit jacket,a vest under a suit jacket,0.9615
+211,a formal waistcoat on a hanger,a formal vest on a hanger,0.8594
+212,a waistcoat worn over a shirt,a vest worn over a shirt,0.9601
+213,a velvet waistcoat on display,a velvet vest on display,0.8827
+214,a striped waistcoat displayed in a store,a striped vest displayed in a store,0.8341
+215,a velvet waistcoat laid flat,a velvet vest laid flat,0.8801
+216,a salad bowl filled with rocket,a salad bowl filled with arugula,0.9384
+217,chopped rocket leaves,chopped arugula leaves,0.7213
+218,a sandwich layered with rocket,a sandwich layered with arugula,0.7675
+219,fresh rocket on a dinner plate,fresh arugula on a dinner plate,0.8482
+220,a pizza topped generously with rocket,a pizza topped generously with arugula,0.9773
+221,a pile of washed rocket leaves,a pile of washed arugula leaves,0.8639

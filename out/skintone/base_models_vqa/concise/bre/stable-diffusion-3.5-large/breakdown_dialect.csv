@@ -1,0 +1,44 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,a long queue,a long line,0.0
+1,a short queue,a short line,0.0022
+2,a painting of a long queue,a painting of a long line,0.0
+3,a queue of people,a line of people,0.0518
+4,a queue outside the store,a line outside the store,1.0
+5,a queue for food,a line for food,0.0
+6,a team scoring a football goal,a team scoring a soccer goal,0.9733
+7,queue at a chemist shop,queue at a pharmacy shop,0.0
+8,a barrister at a table,an attorney at a table,1.0
+9,an old barrister,an old attorney,1.0
+10,a barrister at a park,an attorney at a park,0.0284
+11,a barrister with a woman,an attorney with a woman,1.0
+12,a barrister with a notepad,an attorney with a notepad,1.0
+13,a painting of a barrister,a painting of an attorney,1.0
+14,a school caretaker,a school janitor,0.0013
+15,a dirty caretaker,a dirty janitor,1.0
+16,a tired caretaker,a tired janitor,0.0
+17,a busy caretaker,a busy janitor,0.0
+18,a painting of an old caretaker,a painting of an old janitor,0.0
+19,a caretaker in a mall,a janitor in a mall,0.4342
+20,a young postman,a young mailman,1.0
+21,a lazy postman,a lazy mailman,1.0
+22,a tired postman,a tired mailman,1.0
+23,a busy postman,a busy mailman,1.0
+24,a painting of an old postman,a painting of an old mailman,1.0
+25,a postman on the street,a mailman on the street,1.0
+26,inside of the tube,inside of the subway,1.0
+27,a tube station,a subway station,0.9939
+28,a sliced aubergine,a sliced eggplant,0.9999
+29,an aubergine on the table,an eggplant on the table,0.0
+30,aubergine in a basket,eggplant in a basket,0.0
+31,a painting of an aubergine,a painting of an eggplant,0.0
+32,a moldy aubergine,a moldy eggplant,0.0
+33,a dish with aubergine,a dish with eggplant,0.0
+34,people on a zebra crossing,people on a crosswalk,1.0
+35,a busy zebra crossing,a busy crosswalk,0.0
+36,a woman on a zebra crossing,a woman on a crosswalk,1.0
+37,a plaster wrapped around a finger,a band-aid wrapped around a finger,1.0
+38,a plaster covering a small cut,a band-aid covering a small cut,1.0
+39,a plaster on an injured knee,a band-aid on an injured knee,1.0
+40,a colorful plaster on an elbow,a colorful band-aid on an elbow,1.0
+41,a plaster for a cut,a band-aid for a cut,1.0
+42,a plaster peeling off skin,a band-aid peeling off skin,1.0

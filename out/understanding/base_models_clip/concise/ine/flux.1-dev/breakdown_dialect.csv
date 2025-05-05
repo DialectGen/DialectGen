@@ -1,0 +1,217 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Score
+0,a medieval math,a medieval monastery,0.207
+1,a math on a hill,a monastery on a hill,0.2189
+2,a small math,a small monastery,0.1465
+3,a painting of a math,a painting of a monastery,0.2241
+4,a crowded math,a crowded monastery,0.2107
+5,a math in a dark forest,a monastery in a dark forest,0.2526
+6,simkin on a wooden table,champagne on a wooden table,0.1917
+7,simkin in a cabinet,champagne in a cabinet,0.1962
+8,simkin on a table outside,champagne on a table outside,0.189
+9,a painting of some simkin,a painting of some champagne,0.2244
+10,simkin on the beach,champagne on the beach,0.2278
+11,simkin on top of a piano,champagne on top of a piano,0.2661
+12,an old dai,an old midwife,0.2142
+13,a dai with a woman,a midwife with a woman,0.2028
+14,a painting of a dai,a painting of a midwife,0.2351
+15,a young dai,a young midwife,0.2344
+16,a dai sitting down,a midwife sitting down,0.2143
+17,a photograph of a dai with a cat,a photograph of a midwife with a cat,0.2176
+18,a medico at a table,a medical practitioner at a table,0.2802
+19,an old medico,an old medical practitioner,0.2929
+20,a medico at a park,a medical practitioner at a park,0.3066
+21,a medico with a woman,a medical practitioner with a woman,0.2756
+22,a medico with a notepad,a medical practitioner with a notepad,0.3072
+23,a painting of a medico,a painting of a medical practitioner,0.3089
+24,a window covered with chick,a window covered with bamboo blinds,0.2389
+25,a doorway with chick,a doorway with bamboo blinds,0.2482
+26,hand-crafted chick,hand-crafted bamboo blinds,0.1698
+27,sun-faded chick,sun-faded bamboo blinds,0.1581
+28,chick with decorative trim,bamboo blinds with decorative trim,0.1381
+29,tattered chick,tattered bamboo blinds,0.1572
+30,a dark ghat,a dark mountain pass,0.2243
+31,a ghat covered in snow,a mountain pass covered in snow,0.2606
+32,a crowded ghat,a crowded mountain pass,0.2218
+33,a ghat with a nearby lake,a mountain pass with a nearby lake,0.2529
+34,a painting of a beautiful ghat,a painting of a beautiful mountain pass,0.2744
+35,an abandoned ghat,an abandoned mountain pass,0.265
+36,an old kirana,an old convenience store,0.1478
+37,a modern kirana,a modern convenience store,0.1535
+38,a busy kirana,a busy convenience store,0.2204
+39,a kirana on fire,a convenience store on fire,0.2391
+40,an empty kirana,an empty convenience store,0.185
+41,a painting of a kirana,a painting of a convenience store,0.2201
+42,an old mandapa,an old temple,0.2831
+43,a mandapa on a hill,a temple on a hill,0.2884
+44,a painting of a mandapa,a painting of a temple,0.3145
+45,a mandapa in a dark forest,a temple in a dark forest,0.3346
+46,a mandapa in a city,a temple in a city,0.2828
+47,a abandoned mandapa,an abandoned temple,0.2952
+48,a nai in red,a barber in red,0.2113
+49,an old nai,an old barber,0.1709
+50,a small nai shop,a small barber shop,0.2758
+51,a busy nai shop,a busy barber shop,0.2428
+52,a nai by the chair,a barber by the chair,0.2324
+53,a nai working,a barber working,0.1907
+54,a thana in a city,a police station in a city,0.2079
+55,a busy thana,a busy police station,0.2094
+56,a thana in a small town,a police station in a small town,0.2169
+57,a person entering a thana,a person walking into a police station,0.2342
+58,a painting of a thana,a painting of a police station,0.2009
+59,a photograph of a modern thana,a photograph of a modern police station,0.1693
+60,an abba in front of a house,a father in front of a house,0.2788
+61,a girl standing with her abba,a girl standing with her father,0.2806
+62,a crying abba,a crying father,0.2575
+63,an abba on a bed,a father on a bed,0.2364
+64,an old abba with a dog,an old father with a dog,0.2389
+65,an old abba in the kitchen,an old father in the kitchen,0.3062
+66,a beautiful pial,a beautiful veranda,0.1997
+67,an expensive looking pial,an expensive looking veranda,0.1963
+68,a modern looking pial,a modern looking veranda,0.247
+69,a green pial,a green veranda,0.2286
+70,a dimly lit pial,a dimly lit veranda,0.2254
+71,a painting of a pial,a painting of a veranda,0.2192
+72,a dry nullah,a dry riverbed,0.2856
+73,a beautiful nullah in a painting,a beautiful riverbed in a painting,0.3059
+74,a nullah in a forest,a riverbed in a forest,0.2959
+75,a narrow nullah,a narrow riverbed,0.266
+76,a small nullah,a small riverbed,0.2679
+77,a wet nullah,a wet riverbed,0.2611
+78,a beautiful rani,a beautiful queen,0.2458
+79,a rani in a garden,a queen in a garden,0.2608
+80,a painting of an old rani,a painting of an old queen,0.2847
+81,a rani covered in snow,a queen covered in snow,0.2479
+82,a rani in a large hall,a queen in a large hall,0.2823
+83,an old rani on a bed,an old queen on a bed,0.2725
+84,a sliced brinjal,a sliced eggplant,0.2921
+85,a brinjal on a table,an eggplant on a table,0.3081
+86,brinjal in a basket,eggplant in a basket,0.28
+87,a painting of a brinjal,a painting of a eggplant,0.3699
+88,a moldy brinjal,a moldy eggplant,0.2463
+89,a dish with brinjal,a dish with eggplant,0.2684
+90,a table of khana,a table of food,0.2561
+91,a basket with khana,a basket with food,0.2955
+92,healthy khana,healthy food,0.2483
+93,khana in a cabinet,food in a cabinet,0.269
+94,a person with some khana,a person with some food,0.2706
+95,a family enjoying khana,a family enjoying food,0.3001
+96,a bustling nagar,a bustling town,0.2627
+97,an abandoned nagar,an abandoned town,0.2635
+98,view of a nagar,view of a town,0.2683
+99,a beautiful nagar,a beautiful town,0.2665
+100,a painting of a nagar,a painting of a town,0.3094
+101,a lively nagar,a lively town,0.2424
+102,a dying oont,a dying camel,0.1852
+103,a oont next to water,a camel next to water,0.2342
+104,a painting of a large oont,a painting of a large camel,0.2569
+105,an oont eating food,a camel eating food,0.2208
+106,a oont in the street,a camel in the street,0.2406
+107,an oont walking in the heat,a camel walking in the heat,0.1962
+108,agarbatti in a house,incense in a house,0.2861
+109,agarbatti on a table,incense on a table,0.2996
+110,a painting of agarbatti,a painting of incense,0.3022
+111,agarbatti burning,incense burning,0.2506
+112,red abarbatti,red incense,0.2371
+113,agarbatti on a shelf,incense on a shelf,0.2566
+114,a painting of a beautiful kulang,a painting of a beautiful crane bird,0.2433
+115,a large group of kulang,a large group of crane birds,0.2129
+116,a dirty kulang,a dirty crane bird,0.1842
+117,two kulangs next to each other,two crane birds next to each other,0.1863
+118,a sleeping kulang,a sleeping crane bird,0.2219
+119,a kulang eating food,a crane bird eating food,0.1992
+120,a enormous godown,a enormous warehouse,0.2414
+121,an abandoned godown,an abandoned warehouse,0.2556
+122,a busy godown,a busy warehouse,0.2331
+123,a painting of a godown,a painting of a warehouse,0.2467
+124,a godown on fire,a warehouse on fire,0.2603
+125,a dark abandoned godown,a dark abandoned warehouse,0.2645
+126,painting of a medical hall,painting of a pharmacy,0.2539
+127,a modern medical hall,a modern pharmacy,0.2507
+128,inside a medical hall,inside a pharmacy,0.2403
+129,a busy medical hall,a busy pharmacy,0.2398
+130,entrance of a medical hall,entrance of a pharmacy,0.2429
+131,a rural medical hall,a rural pharmacy,0.2572
+132,an abandoned petrol bunk,an abandoned gas station,0.3425
+133,a petrol bunk in a desert,a gas station in a desert,0.3561
+134,a photograph of a modern petrol bunk,a photograph of a modern gas station,0.2978
+135,a very busy petrol bunk,a very busy gas station,0.2971
+136,a petrol bunk in a big city,a gas station in a big city,0.3332
+137,a dirty petrol bunk,a dirty gas station,0.2951
+138,a man with a blue mo-bike,a man with a blue motorcycle,0.3122
+139,a black mo-bike,a black motorcycle,0.2778
+140,three mo-bikes on the road,three motorcycles on the road,0.2815
+141,a broken mo-bike,a broken motorcycle,0.2709
+142,a mo-bike in the forest,a motorcycle in the forest,0.2919
+143,a group of mo-bike,a group of motorcycles,0.3115
+144,two bundooks leaning on each other,two rifles leaning on each other,0.2015
+145,a person holding a bundook,a person holding a rifle,0.2127
+146,a broken bundook,a broken rifle,0.1833
+147,a rusty bundook,a rusty rifle,0.196
+148,a bundook in a store,a rifle in a store,0.1692
+149,a bundook on the ground,a rifle on the ground,0.201
+150,an old handicraftsman,an old craftsman,0.3139
+151,a group of handicraftsmen,a group of craftsmen,0.2966
+152,a handicraftsman in a house,a craftsman in a house,0.2992
+153,a dirty handicraftsman,a dirty craftsman,0.2863
+154,a handicraftsman in orange,a craftsman in orange,0.3311
+155,a handicraftsman in a big city,a craftsman in a big city,0.2981
+156,an angry incharge,an angry supervisor,0.2202
+157,an old incharge,an old supervisor,0.2432
+158,an incharge in a room,a supervisor in a room,0.2453
+159,a painting of an incharge,a painting of a supervisor,0.2903
+160,an incharge in the office,a supervisor in the office,0.2351
+161,an incharge with a group of people,a supervisor with a group of people,0.25
+162,some pani on the table,some water on the table,0.1943
+163,a child with pani,a child with water,0.2812
+164,dirty pani,dirty water,0.1989
+165,pani in the forest,water in the forest,0.2447
+166,pani in the house,water in the house,0.1956
+167,pani in the well,water in the well,0.305
+168,a colorful yatra,a colorful festival,0.2702
+169,a lively yatra,a lively festival,0.2472
+170,a yatra in the summer,a festival in the summer,0.2731
+171,an indoor yatra,an indoor festival,0.2388
+172,a bustling yatra,a bustling festival,0.2631
+173,a yatra in the winter,a festival in the winter,0.2572
+174,a man next to a naka,a man next to a checkpoint,0.2313
+175,a small red naka,a small red checkpoint,0.2161
+176,a busy naka,a busy checkpoint,0.2143
+177,an empty naka,a empty checkpoint,0.2043
+178,an abandoned naka,an abandoned checkpoint,0.2519
+179,a naka in the winter,a checkpoint in the winter,0.2521
+180,an outdoor tiffin,an outdoor luncheon,0.2764
+181,a lively tiffin,a lively luncheon,0.2237
+182,a tiffin in the building,a luncheon in the building,0.2165
+183,an indoor tiffin,an indoor luncheon,0.2455
+184,a tiffin in the city,a luncheon in the city,0.2714
+185,a tiffin at school,a luncheon at school,0.2615
+186,the inside of a satta den,the inside of a gambling den,0.2274
+187,a satta room,a gambling room,0.205
+188,a place of satta,a place of gambling,0.2259
+189,a bustling satta den,a bustling gambling den,0.2454
+190,a luxurious satta den,a luxurious gambling den,0.2177
+191,a group of people satta,a group of people gambling,0.2261
+192,a luxurious almirah,a luxurious wardrobe,0.2836
+193,an old almirah,an old wardrobe,0.2755
+194,a painting of an almirah,a painting of a wardrobe,0.2838
+195,an almirah in the bedroom,a wardrobe in the bedroom,0.3027
+196,a broken almirah,a broken wardrobe,0.2179
+197,a green almirah,a green wardrobe,0.312
+198,a dicky filled with luggage,a car trunk filled with luggage,0.2474
+199,a dicky left open,a car trunk left open,0.1797
+200,a spacious red dicky,a spacious red car trunk,0.2096
+201,a damaged dicky,a damaged car trunk,0.1872
+202,a suitcase in a dicky,a suitcase in a car trunk,0.2793
+203,a rusty dicky,a rusty car trunk,0.2876
+204,a stepney mounted on a vehicle,a spare tire mounted on a vehicle,0.2506
+205,a worn-out stepney,a worn-out spare tire,0.2304
+206,a stepney leaning against a wall,a spare tire leaning against a wall,0.2269
+207,a black stepney,a black spare tire,0.2275
+208,a mechanic inspecting a stepney,a mechanic inspecting a spare tire,0.2858
+209,a stepney lying on the road,a spare tire lying on the road,0.2634
+210,a group photo of my batchmates,a group photo of my classmates,0.2274
+211,my batchmate smiling,my classmate smiling,0.2371
+212,two batchmates studying,two classmates studying,0.2369
+213,a batchmate at a desk,a classmate at a desk,0.2329
+214,batchmates outside the school,classmates outside the school,0.2619
+215,a batchmate playing basketball,a classmate playing basketball,0.2745
