@@ -1,0 +1,83 @@
+Prompt_Index,SAE_Prompt,Normalized_Score
+0,a man wearing a purple sweater,0.577
+1,a woman knitting a brown sweater,0.4096
+2,a girl knocking on the bathroom door,0.4634
+3,a line of people waiting outside the bathroom,0.4833
+4,a man cutting a sausage in half,0.7208
+5,a woman throwing away the trash,0.6957
+6,a man loading luggage into the car trunk,0.5677
+7,a woman putting groceries in the car trunk,0.3975
+8,a boy waiting in the line at a grocery store,0.6905
+9,a line for the rollercoaster,0.4315
+10,a line at the ticket counter,0.3997
+11,a line for the morning bus,0.3321
+12,a line at the post office,0.4435
+13,a man ironing creases in his pants,0.477
+14,a kid wearing a pair of blue pants,0.7408
+15,a woman enjoying a cup of tea with a cookie,0.3755
+16,a man baking homemade cookies,0.5994
+17,a man searching in the dark with a flashlight,0.4833
+18,a policeman shining a flashlight at the suspect,0.3645
+19,a mother changing her baby's diaper,0.6751
+20,a happy baby wearing pink diapers,0.6854
+21,a man filling up his car with gasoline,0.6836
+22,a group of kids kicking a soccer ball,0.6971
+23,a soccer player in the stadium,0.3369
+24,a soccer player celebrating a win,0.7877
+25,a soccer goalie in the field,0.6342
+26,a goalkeeper trying to catch a soccer ball,0.834
+27,a woman picking up a precription at the pharmacy,0.5411
+28,a group of people waiting at the pharmacy,0.4837
+29,a boy eating french fries,0.8383
+30,an attorney talking to his client,0.6311
+31,a man attending a meeting with his attorney,0.6289
+32,an attorney in a courtroom,0.7106
+33,my attorney discussing the case,0.7384
+34,an attorney with legal books,0.5095
+35,a school janitor sweeping the hallway,0.4268
+36,a man talking to a janitor at the mall,0.7318
+37,a tired janitor in an empty hallway,0.1341
+38,a janitor sweeping the school hallway,0.3987
+39,an office janitor in a supply closet,0.5902
+40,a building janitor taking out the trash,0.7201
+41,a man preparing dinner on the stove,0.6446
+42,a woman putting the baby down in the crib,0.514
+43,a man setting up a crib,0.6407
+44,a baby in a colorful crib,0.8738
+45,a worker changing the image on the billboard,0.681
+46,a group of people staring at a large billboard,0.4217
+47,a woman using a vacuum cleaner to clean the carpet,0.7339
+48,a man using a vacuum cleaner on a carpeted floor,0.7369
+49,a man holding a water pitcher,0.6072
+50,a boy refilling his cup with a water pitcher,0.7722
+51,a mailman delivering packages,0.6885
+52,a man having a friendly chat with the mailman,0.5679
+53,a mailman in blue uniform,0.8877
+54,a mailman in a truck,0.798
+55,a mailman at the front door,0.6121
+56,my mailman with a big bag,0.5185
+57,a woman taking a walk with her baby in the baby carriage,0.5354
+58,a baby carriage with a sleeping baby,0.5411
+59,a man walking with a baby carriage on a cobblestone street,0.3866
+60,a man inside a black sedan,0.6923
+61,a boy sitting on the hood of the car,0.8752
+62,a woman chopping cilantro in the kitchen,0.5902
+63,a man slicing a zucchini in the kitchen,0.5241
+64,a woman picking a zucchini at the market,0.3537
+65,a crowd of people waiting for the subway,0.223
+66,a man sitting inside the subway,0.3199
+67,my subway ride during rush hour,0.367
+68,a grandma slicing an eggplant in the kitchen,0.4338
+69,a man picking an eggplant at the market,0.2644
+70,a band-aid covering a small wound,0.4574
+71,a band-aid on someone's forehead,0.6521
+72,a band-aid floating in a swimming pool,0.5137
+73,a discarded band-aid on the sidewalk,0.6961
+74,a band-aid with cartoon characters,0.8014
+75,a waterproof band-aid on a hand,0.5507
+76,a vest displayed on a mannequin,0.5312
+77,a checked vest on display,0.5279
+78,a man buttoning his vest,0.4286
+79,a silk vest in a boutique,0.3613
+80,a vest matching formal pants,0.5437
+81,a vest embroidered with flowers,0.6697

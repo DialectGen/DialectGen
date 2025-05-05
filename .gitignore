@@ -60,7 +60,6 @@ data/cache
 out_bak
 
 # Ouputs/checkpoints
-out/
 checkpoints/
 
 # Diffusers for SD fine-tuning

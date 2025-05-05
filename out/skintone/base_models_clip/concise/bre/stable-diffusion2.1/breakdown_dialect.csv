@@ -1,0 +1,44 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,a long queue,a long line,0.4317
+1,a short queue,a short line,0.323
+2,a painting of a long queue,a painting of a long line,0.57
+3,a queue of people,a line of people,0.3414
+4,a queue outside the store,a line outside the store,0.3924
+5,a queue for food,a line for food,0.32
+6,a team scoring a football goal,a team scoring a soccer goal,0.7863
+7,queue at a chemist shop,queue at a pharmacy shop,0.5392
+8,a barrister at a table,an attorney at a table,0.6948
+9,an old barrister,an old attorney,0.6673
+10,a barrister at a park,an attorney at a park,0.5732
+11,a barrister with a woman,an attorney with a woman,0.7383
+12,a barrister with a notepad,an attorney with a notepad,0.5928
+13,a painting of a barrister,a painting of an attorney,0.8841
+14,a school caretaker,a school janitor,0.1054
+15,a dirty caretaker,a dirty janitor,0.2782
+16,a tired caretaker,a tired janitor,0.5741
+17,a busy caretaker,a busy janitor,0.6527
+18,a painting of an old caretaker,a painting of an old janitor,0.8244
+19,a caretaker in a mall,a janitor in a mall,0.5615
+20,a young postman,a young mailman,0.6052
+21,a lazy postman,a lazy mailman,0.5221
+22,a tired postman,a tired mailman,0.573
+23,a busy postman,a busy mailman,0.6896
+24,a painting of an old postman,a painting of an old mailman,0.6612
+25,a postman on the street,a mailman on the street,0.4237
+26,inside of the tube,inside of the subway,0.4535
+27,a tube station,a subway station,0.3684
+28,a sliced aubergine,a sliced eggplant,0.2113
+29,an aubergine on the table,an eggplant on the table,0.1372
+30,aubergine in a basket,eggplant in a basket,0.3106
+31,a painting of an aubergine,a painting of an eggplant,0.4097
+32,a moldy aubergine,a moldy eggplant,0.1895
+33,a dish with aubergine,a dish with eggplant,0.32
+34,people on a zebra crossing,people on a crosswalk,0.441
+35,a busy zebra crossing,a busy crosswalk,0.5664
+36,a woman on a zebra crossing,a woman on a crosswalk,0.3177
+37,a plaster wrapped around a finger,a band-aid wrapped around a finger,0.6609
+38,a plaster covering a small cut,a band-aid covering a small cut,0.5041
+39,a plaster on an injured knee,a band-aid on an injured knee,0.4381
+40,a colorful plaster on an elbow,a colorful band-aid on an elbow,0.7003
+41,a plaster for a cut,a band-aid for a cut,0.447
+42,a plaster peeling off skin,a band-aid peeling off skin,0.5328

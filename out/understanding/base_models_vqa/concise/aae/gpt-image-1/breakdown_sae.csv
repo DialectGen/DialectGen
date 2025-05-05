@@ -1,0 +1,205 @@
+Prompt_Index,SAE_Prompt,Score
+0,a little baby,0.9833
+1,a little dog,0.9612
+2,a little cat,0.9712
+3,a painting of a little boy,0.9861
+4,a little horse,0.9655
+5,a little girl,0.9852
+6,a parked car,0.9786
+7,a second-hand car,0.8154
+8,a gas car,0.9092
+9,a rental car,0.1607
+10,an electric car,0.9537
+11,a leased car,0.9897
+12,a suburban house,0.9773
+13,a house downtown,0.798
+14,a lakeside house,0.9676
+15,an old house,0.9773
+16,a waterfront house,0.9654
+17,a brick house,0.9822
+18,a man holler at a girl,0.8756
+19,a man holler at a woman,0.8756
+20,a guy holler at a woman,0.9537
+21,a guy holler at his close friend,0.7796
+22,a holler from the audience,0.7697
+23,a loud holler,0.8067
+24,my close friend,0.6846
+25,my handsome close friend,0.9141
+26,an old close friend,0.9509
+27,me and my close friend,0.9039
+28,a close friend from childhood,0.8872
+29,painting of me and my close friend,0.7288
+30,me and my friends,0.9509
+31,me and my large friends,0.7796
+32,painting of me and my friends,0.8545
+33,me and my small friends,0.151
+34,my friends wearing red,0.951
+35,my friends at my house,0.8872
+36,an old grandma,0.9833
+37,my beautiful grandma,0.9348
+38,a group of grandmas,0.9759
+39,my grandma in purple,0.9589
+40,my grandma in her house,0.8872
+41,an angry grandma,0.9822
+42,a picture of my lover,0.2609
+43,my sleeping lover,0.798
+44,my beautiful lover,0.9039
+45,my lover at my house,0.3098
+46,my lover wearing purple,0.8933
+47,my handsome lover,0.8877
+48,work for money,0.9744
+49,a kid deposit some money,0.9141
+50,a man paying with money,0.7288
+51,a woman paying with money,0.8816
+52,a wallet overflowing with money,0.9311
+53,bags of money,0.9711
+54,dirty sneakers,0.9903
+55,retro sneakers,0.9509
+56,brown sneakers,0.9729
+57,broken sneakers,0.9861
+58,brand new sneakers,0.9449
+59,a painting of blue sneakers,0.9822
+60,a hand-held gun,0.9712
+61,a man aiming his gun,0.9348
+62,a rusty gun,0.9509
+63,a painting of a silver gun,0.9271
+64,a broken gun,0.8986
+65,a long-range gun,0.9729
+66,designer clothes,0.8986
+67,stylish clothes,0.9811
+68,vintage clothes,0.914
+69,a rack of purple clothes,0.9348
+70,a rack of beautiful clothes,0.9185
+71,a painting of blue clothes,0.9452
+72,golden dental jewelry,0.9676
+73,dirty dental jewelry,0.9449
+74,a man wearing dental jewelry,0.8986
+75,a woman wearing dental jewelry,0.9654
+76,silver dental jewelry,0.9452
+77,bronze dental jewelry,0.9482
+78,very dark tinted car windows,0.9633
+79,a convertible with tinted car windows,0.9509
+80,a bus with dark tinted car windows,0.8816
+81,a van with light tinted car windows,0.4056
+82,broken tinted car windows,0.9039
+83,orange tinted car windows,0.8621
+84,a modern convertible car,0.9786
+85,a luxury convertible car,0.9786
+86,a purple convertible car,0.9915
+87,a sporty convertible car,0.9852
+88,a painting of a vintage convertible car,0.9695
+89,a broken convertible car,0.9612
+90,tipping my hat,0.8545
+91,fitted hat,0.8242
+92,stylish hat,0.951
+93,wearing a hat,0.9903
+94,a beautiful hat,0.9348
+95,matching hat,0.8756
+96,broken mirror,0.9537
+97,dirty mirror,0.9773
+98,mirror with gold frame,0.9773
+99,a handheld mirror,0.661
+100,a painting of a mirror,0.8154
+101,a modern mirror,0.9509
+102,a black gun,0.9729
+103,a rusty gun,0.9509
+104,a painting of a silver gun,0.9271
+105,a gun inside a drawer,0.9852
+106,a broken gun,0.8986
+107,a large gun,0.9185
+108,golden necklace,0.9833
+109,silver necklace,0.951
+110,rose gold necklace,0.9589
+111,a painting of shiny necklace,0.495
+112,a display of necklace,0.9676
+113,broken necklace,0.8545
+114,a luxury car,0.9482
+115,a parked car,0.9786
+116,a second-hand car,0.8154
+117,a gas car,0.9092
+118,a rental car,0.1607
+119,a leased car,0.9897
+120,concealed gun,0.8933
+121,a gun with a silencer,0.9633
+122,loading the gun,0.9141
+123,aiming the gun,0.9348
+124,licensed gun,0.7388
+125,gun tucked away,0.6727
+126,tasty food,0.9822
+127,some tasty fries,0.9759
+128,a tasty burrito,0.9185
+129,a plate of tasty food,0.9759
+130,a painting of tasty food,0.9695
+131,a tasty taco,0.9728
+132,a dirty neighborhood,0.9811
+133,a painting of the neighborhood,0.9636
+134,an urban neighborhood,0.9877
+135,a suburban neighborhood,0.9843
+136,an empty neighborhood,0.4596
+137,a busy neighborhood,0.9773
+138,a bag of bills,0.9385
+139,earning bills,0.9822
+140,bills in wallet,0.9676
+141,broken bills,0.9773
+142,a man flashing bills,0.8816
+143,dirty bills,0.9744
+144,a man with his close friends,0.9417
+145,a group picture with the close friends,0.9799
+146,a painting of my close friends,0.8154
+147,my close friends in the house,0.8933
+148,me with my close friends,0.9676
+149,hanging with my close friends,0.9745
+150,a picture of my lover,0.2609
+151,my sleeping lover,0.798
+152,my beautiful lover,0.9039
+153,my lover at my house,0.3098
+154,my lover wearing pink,0.8621
+155,my handsome lover,0.8877
+156,my close friend,0.6846
+157,my handsome close friend,0.9141
+158,an old close friend,0.9509
+159,me and my close friend,0.9039
+160,a close friend from childhood,0.8872
+161,painting of me and my close friend,0.7288
+162,a man high on marijuana,0.981
+163,a woman high on marijuana,0.8929
+164,a painting of a person high on marijuana,0.9563
+165,a group of people high on marijuana,0.9226
+166,college students high on marijuana,0.938
+167,a person high on marijuana,0.9537
+168,my morning hair frizziness,0.9185
+169,a painting of my hair frizziness,0.8816
+170,fixing my hair frizziness,0.5902
+171,a woman with hair frizziness,0.9811
+172,my natural hair frizziness,0.9312
+173,two people with hair frizziness,0.9728
+174,golden flashy jewelry,0.9852
+175,silver flashy jewelry,0.9655
+176,rose gold flashy jewelry,0.9759
+177,a painting of shiny flashy jewelry,0.9417
+178,a display of flashy jewelry,0.9729
+179,broken flashy jewelry,0.9786
+180,my summer outfit,0.9092
+181,my dirty outfit,0.9537
+182,my beautiful outfit,0.7288
+183,my designer outfit,0.7593
+184,my vintage outfit,0.7796
+185,a painting of a blue outfit,0.9482
+186,a pair of black round glasses,0.9589
+187,a pair of modern glasses,0.9482
+188,a pair of gold glasses,0.9869
+189,a pair of silver glasses,0.9811
+190,a pair of broken glasses,0.9693
+191,a dirty pair of glasses,0.992
+192,a large tattoo,0.9633
+193,a creative tattoo,0.9728
+194,a discreet tattoo,0.8816
+195,a beautiful tattoo,0.9633
+196,a botched tattoo,0.7696
+197,a small tattoo,0.9271
+198,a painting of my dreadlocks,0.8756
+199,my dirty dreadlocks,0.8933
+200,my long dreadlocks,0.8479
+201,two people with dreadlocks,0.9843
+202,cutting my dreadlocks,0.1985
+203,dyed dreadlocks,0.9773

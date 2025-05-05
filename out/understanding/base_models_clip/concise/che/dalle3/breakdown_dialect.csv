@@ -1,0 +1,205 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Score
+0,a large black torque,a large black truck,0.2235
+1,a green torque,a green truck,0.2384
+2,a torque with a dog,a truck with a dog,0.2322
+3,a painting of a torque,a painting of a truck,0.1678
+4,a new torque,a new truck,0.1914
+5,an old torque,an old truck,0.2189
+6,a painting of raspa,a painting of shaved ice,0.2271
+7,a man enjoying raspa,a man enjoying shaved ice,0.3063
+8,a cup of raspa,a cup of shaved ice,0.312
+9,colorful raspa,colorful shaved ice,0.3401
+10,cup of raspa on a table,cup of shaved ice on a table,0.3001
+11,a blue raspa,a blue shaved ice,0.3319
+12,a clicka,a friend group,0.2029
+13,a big clicka,a big friend group,0.1764
+14,a clicka at school,a friend group at school,0.26
+15,a painting of a clicka,a painting of a friend group,0.1841
+16,a clicka at the park,a friend group at the park,0.2653
+17,a loud clicka,a loud friend group,0.1885
+18,a painting of a padrino,a painting of a godfather,0.2713
+19,a padrino,a godfather,0.2626
+20,a padrino in a house,a godfather in a house,0.2804
+21,an old padrino,an old godfather,0.2893
+22,a man with a padrino,a man with a godfather,0.2522
+23,a woman with a padrino,a woman with a godfather,0.2388
+24,a big fil,a big field,0.1883
+25,a painting of a fil,a painting of a field,0.3097
+26,a person at a fil,a person at a field,0.2403
+27,a yellow fil,a yellow field,0.2429
+28,a green fil,a green field,0.2889
+29,a busy fil,a busy field,0.2445
+30,an old pinta,an old jail,0.1893
+31,a modern pinta,a modern jail,0.1778
+32,a painting of a pinta,a painting of a jail,0.2663
+33,a small pinta,a small prison,0.1811
+34,go to pinta,go to prison,0.1786
+35,inside a pinta,inside a prison,0.207
+36,a painting of a jaina,a painting of a girlfriend,0.241
+37,a jaina in a home,a girlfriend in a home,0.234
+38,a jaina in a car,a girlfriend in a car,0.2536
+39,a jaina walking,a girlfriend walking,0.1789
+40,me and my jaina,me and my girlfriend,0.2181
+41,at the park with my jaina,at the park with my girlfriend,0.2404
+42,my dad planchar shirts,my dad irons shirts,0.2278
+43,she planchar daily,she irons daily,0.2315
+44,they planchar clothes,they iron clothes,0.2903
+45,I planchar pants,I iron pants,0.2453
+46,we planchar uniforms,we iron uniforms,0.2505
+47,he likes to planchar,he likes to iron,0.2203
+48,a person exploring Chuco,a person exploring El Paso,0.2258
+49,a painting of Chuco,a painting of El Paso,0.3093
+50,a person in Chuco,a person in El Paso,0.2148
+51,Chuco landscape,El Paso landscape,0.2446
+52,a typical house in Chuco,a typical house in El Paso,0.2932
+53,a bird's eye view of Chuco,a bird's eye view of El Paso,0.254
+54,a painting of a carnal,a painting of a brother,0.2308
+55,a man hiking with his carnal,a man hiking with his brother,0.2969
+56,a carnal in a house,a brother in a house,0.1869
+57,me with my carnal,me with my brother,0.1887
+58,a carnal at a table,a brother at a table,0.2279
+59,a carnal at a park,a brother at a park,0.2095
+60,a painting of a carnalita,a painting of a sister,0.2484
+61,a man hiking with his carnalita,a man hiking with his sister,0.2766
+62,a carnalita in a house,a sister in a house,0.2514
+63,me with my carnalita,me with my sister,0.1809
+64,a carnalita at a table,a sister at a table,0.2753
+65,a carnalita at a park,a sister at a park,0.2215
+66,a painting of carnales,a painting of brothers,0.305
+67,carnales in a house,brothers in a house,0.2012
+68,me and my carnales,me and my brothers,0.1908
+69,carnales by a table,brothers by a table,0.2141
+70,carnales together,brothers together,0.2141
+71,carnales walking,brothers walking,0.2368
+72,a painting of carnalas,a painting of sisters,0.3115
+73,carnalas in a house,sisters in a house,0.2366
+74,me and my carnalas,me and my sisters,0.2203
+75,carnalas by a table,sisters by a table,0.2558
+76,carnalas together,sisters together,0.207
+77,carnalas walking,sisters walking,0.2419
+78,a painting of raza,a painting of Mexican American,0.2271
+79,a raza at a park,a Mexican American at a park,0.2158
+80,a raza neighborhood,a Mexican American neighborhood,0.3044
+81,a raza at a store,a Mexican American at a store,0.2209
+82,a young raza,a young Mexican American,0.2588
+83,an old raza,an old Mexican American,0.2354
+84,a vato in a house,a young man in a house,0.2515
+85,a vato in a park,a young man in a park,0.2861
+86,painting of a vato,a painting of a young man,0.2324
+87,a vato in a neighborhood,a young man in a neighborhood,0.2773
+88,a vato on the ground,a young man on the ground,0.2297
+89,a vato leaning,a young man leaning,0.2572
+90,a painting of an ese,a painting of a young man,0.2266
+91,an ese on a sidewalk,a young man on a sidewalk,0.2681
+92,an ese on a trail,a young man on a trail,0.2825
+93,an ese in a park,a young man in a park,0.2598
+94,an ese in a neighborhood,a young man in a neighborhood,0.2841
+95,an ese on a street,a young man on a street,0.2663
+96,a painting of a yonke,a painting of a junkyard,0.3077
+97,an old yonke,an old junkyard,0.3087
+98,a modern yonke,a modern junkyard,0.2777
+99,a big yonke,a big junkyard,0.2487
+100,a small yonke,a small junkyard,0.2933
+101,a dirty yonke,a dirty junkyard,0.206
+102,a painting of pisto,a painting of alcohol,0.2404
+103,aged pisto,aged alcohol,0.2004
+104,strong pisto,strong alcohol,0.2393
+105,old pisto,old alcohol,0.2096
+106,a large pisto,a large alcohol,0.2159
+107,a small pisto,a small alcohol,0.25
+108,a painting of a bato,a painting of a man,0.2012
+109,a big bato,a big man,0.2049
+110,a smaller bato,a smaller man,0.1802
+111,a bato in a house,a man in a house,0.2286
+112,a bato in a park,a man in a park,0.2529
+113,a bato on a street,a man on a street,0.2368
+114,a painting of a madrina,a painting of a godmother,0.2721
+115,an old madrina,an old godmother,0.254
+116,a middle-aged madrina,a middle-aged godmother,0.2413
+117,a madrina in a house,a godmother in a house,0.2601
+118,a madrina at a park,a godmother at a park,0.2272
+119,a madrina in a car,a godmother in a car,0.2826
+120,a guy acting loco,a guy acting crazy,0.2603
+121,a loco cat,a crazy cat,0.2708
+122,a loco dog,a crazy dog,0.2665
+123,a child acting loco,a child acting crazy,0.2472
+124,a loco painting,a crazy painting,0.2477
+125,a loco toy,a crazy toy,0.2479
+126,a mi'ja,a daughter,0.2053
+127,a mi'ja at home,a daughter at home,0.2097
+128,a mi'ja at a park,a daughter at a park,0.213
+129,a younger mi'ja,a younger daughter,0.2506
+130,an older mi'ja,an older daughter,0.2378
+131,a painting of a mi'ja,a painting of a daugher,0.2504
+132,a mijo,a son,0.1752
+133,a mijo at home,a son at home,0.2534
+134,a mijo at a park,a son at a park,0.2867
+135,a younger mijo,a younger son,0.2514
+136,an older mijo,an older son,0.2135
+137,a painting of a mijo,a painting of a son,0.2493
+138,a painting of carnitas,a painting of pulled pork,0.3088
+139,carnitas in a bowl,pulled pork in a bowl,0.2871
+140,carnitas on a table,pulled pork on a table,0.2458
+141,lots of carnitas,lots of pulled pork,0.2474
+142,carnitas at a store,pulled pork at a store,0.234
+143,a small amount of carnitas,a small amount of pulled pork,0.2298
+144,a painting of Califas,a painting of California,0.3125
+145,a Califas landscape,a California landscape,0.287
+146,a city in Califas,a city in California,0.2969
+147,older Califas,older California,0.2879
+148,an iconic bridge in Califas,an iconic bridge in California,0.314
+149,a Califas suburb,a California suburb,0.3252
+150,baro on a counter,money on a counter,0.2167
+151,a painting of baro,a painting of money,0.2814
+152,baro on a table,money on a table,0.2322
+153,baro in the car,money in the car,0.2331
+154,baro on the sidewalk,money on the sidewalk,0.2181
+155,a person holding baro,a person holding money,0.2547
+156,a painting of a cuate,a painting of a close friend,0.2388
+157,me and my cuate,me and my close friend,0.2425
+158,a cuate in a house,a close friend in a house,0.2402
+159,a cuate at a cafe,a close friend at a cafe,0.2453
+160,a cuate on the sidewalk,a close friend on the sidewalk,0.2236
+161,a cuate in a park,a close friend in a park,0.2293
+162,a cat getting apapachar,a cat getting pampered,0.3358
+163,a dog getting apapachar,a dog getting pampered,0.2881
+164,a person apapachar himself,a person pampered himself,0.183
+165,a couple getting apapachar,a couple getting pampered,0.1912
+166,a woman getting apapachar,a woman getting pampered,0.1925
+167,a man getting apapachar,a man getting pampered,0.2143
+168,lonche in the house,lunch in the house,0.2353
+169,getting lonche,getting lunch,0.2374
+170,lonche at the park,lunch at the park,0.2918
+171,a couple getting lonche,a couple getting lunch,0.2487
+172,lonche in the forest,lunch in the forest,0.3255
+173,lonche in the meadow,lunch in the meadow,0.254
+174,a chamaco at the park,a boy at the park,0.2884
+175,a chamaco in a house,a boy in a house,0.2352
+176,a chamaco on the sidewalk,a boy on the sidewalk,0.2699
+177,a painting of a chamaco,a painting of a chamaco,0.3123
+178,a chamaco at a school,a boy at a school,0.3061
+179,a chamaco and a soccer ball,a boy and a soccer ball,0.3022
+180,a chamaca at the park,a girl at the park,0.2935
+181,a chamaca in a house,a girl in a house,0.2793
+182,a chamaca on the sidewalk,a girl on the sidewalk,0.2672
+183,a chamaca and a basketball,a girl and a basketball,0.3173
+184,a chamaca at a school,a girl at a school,0.2795
+185,a chamaca at a store,a girl at a store,0.2805
+186,a pair of colorful chanclas,a pair of colorful flip-flops,0.3304
+187,dirty chanclas on the floor,dirty flip-flops on the floor,0.2935
+188,chanclas at the beach,flip-flops at the beach,0.2879
+189,new chanclas in a store,new flip-flops in a store,0.2761
+190,a woman wearing chanclas,a woman wearing flip-flops,0.232
+191,broken chanclas,broken flip-flops,0.2849
+192,a bowl of cooked frijol,a bowl of cooked beans,0.3174
+193,frijol on a wooden table,beans on a wooden table,0.2903
+194,a spoonful of frijol,a spoonful of beans,0.302
+195,uncooked frijol in a bowl,uncooked beans in a bowl,0.2443
+196,frijol spilled on the floor,beans spilled on the floor,0.2665
+197,a bag of dried frijol,a bag of dried beans,0.2807
+198,a modern refri,a modern fridge,0.2936
+199,an open refri,an open fridge,0.3194
+200,a dirty refri,a dirty fridge,0.3056
+201,a white refri,a white fridge,0.3065
+202,an empty refri,an empty fridge,0.2837
+203,a broken refri,a broken fridge,0.2904

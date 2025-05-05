@@ -1,0 +1,205 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Score
+0,a plastic cup with teh tarik,a plastic cup with milk tea,0.2857
+1,a cup of teh tarik on a table,a cup of milk tea on a table,0.2549
+2,a shop selling teh tarik,a shop selling milk tea,0.2939
+3,a man drinking teh tarik,a man drinking milk tea,0.3021
+4,a woman drinking teh tarik,a woman drinking milk tea,0.3108
+5,three cups of teh tarik on the counter,three cups of milk tea on the counter,0.2634
+6,a couple sitting at a table both with kopi,a couple sitting at a table both with coffee,0.2848
+7,a man getting kopi from a modern cafe,a man getting coffee from a modern cafe,0.2928
+8,a table with a cup of kopi and a slice of cake,a table with a cup of coffee and a slice of cake,0.3073
+9,two people getting kopi from a stall,two people getting coffee from a stall,0.3005
+10,a man buying kopi at a busy counter,a man buying coffee at a busy counter,0.2864
+11,a woman with kopi standing by a bus stop,a woman with coffee standing by a bus stop,0.2939
+12,a child receiving an ang pow from his grandmother,a child receiving a red packet from his grandmother,0.3245
+13,two ang pows on a table with gold designs,two red packets on a table with gold designs,0.2748
+14,an ang pow and food on a table,a red packet and food on a table,0.2754
+15,a group of people holding ang pows,a group of people holding red packets,0.2746
+16,a store selling ang pows,a store selling red packets,0.2597
+17,an ang pow and some fruit on a table,a red packet and some fruit on a table,0.2748
+18,spicy sotong dish,spicy squid dish,0.2857
+19,raw sotong at a market,raw squid at a market,0.2661
+20,deep fried sotong on a plate,deep fried squid on a plate,0.2876
+21,a large sotong in an aquarium with coral,a large squid in an aquarium with coral,0.2595
+22,a sotong dish and rice on a table,a squid dish and rice on a table,0.2932
+23,sliced sotong in a frying pan,sliced squid in a frying pan,0.2926
+24,getting food tapao from the small restaurant,getting food takeout from the small restaurant,0.2412
+25,getting food tapao from the diner,getting food takeout from the diner,0.2292
+26,getting food tapao from the food truck,getting food takeout from the food truck,0.2726
+27,letâs get some food tapao,let's get some food takeout,0.226
+28,chinese food tapao packed in plastic containers,chinese food takeout packed in plastic containers,0.3158
+29,a couple getting food tapao from a hawker stall,a couple getting food takeout from a hawker stall,0.3127
+30,a kiasu businessman grabbing all the samples,a businessman with a grasping and selfish attitude grabbing all the samples,0.283
+31,a kiasu leader cutting in line for a photo,a leader with a grasping and selfish attitude cutting in line for a photo,0.2386
+32,a kiasu student hoarding all the notes,a student with a grasping and selfish attitude hoarding all the notes,0.2795
+33,a kiasu parent rushing to the front row,a parent with a grasping and selfish attitude rushing to the front row,0.243
+34,a kiasu businesswoman buying out limited deals,a businesswoman with a grasping and selfish attitude buying out limited deals,0.2693
+35,a kiasu politician speaking over everyone else,a politician with a grasping and selfish attitude speaking over everyone else,0.2312
+36,a sian cat in a house,a bored cat in a house,0.2636
+37,a sian woman walking on the city street,a bored woman walking on the city street,0.2918
+38,a sian worker in an office,a bored worker in an office,0.2469
+39,a child sian in the summer,a child bored in the summer,0.2408
+40,a sian dog in the front yard,a bored dog in the front yard,0.2683
+41,a sian man on vacation,a bored man on vacation,0.252
+42,a dog lepak on a grassy lawn in front of a house,a dog relaxing on a grassy lawn in front of a house,0.3274
+43,people lepak on a beach with music playing,people relaxing on a beach with music playing,0.2839
+44,a couple lepak in a park under a tree,a couple relaxing in a park under a tree,0.3138
+45,people lepak on a sofa,people relaxing on a sofa,0.2767
+46,a cat lepak by a window,a cat relaxing by a window,0.2999
+47,a lepak vacation setting,a relaxing vacation setting,0.2497
+48,a student in a class nodding can,a student in a class nodding yes,0.2582
+49,a worker nodding can to his supervisor,a worker nodding yes to his supervisor,0.2697
+50,a customer at a restaurant nodding can,a customer at a restaurant nodding yes,0.2616
+51,a person nodding can in agreement,a person nodding yes in agreement,0.1932
+52,a woman nodding can,a woman nodding yes,0.2171
+53,a man nodding can,a man nodding yes,0.202
+54,a student chope at the dining hall,a student saving a table at the dining hall,0.2828
+55,a person chope at the library,a person saving a table at the library,0.279
+56,a person chope using a bag,a person saving a table using a bag,0.2543
+57,a group chope at the food hall,a group saving a table at the food hall,0.2868
+58,chope at a cafe using a tissue packet,saving a table at a cafe using a tissue packet,0.324
+59,chope with a napkin placed on a chair,saving a table with a napkin placed on a chair,0.3154
+60,shiok dumplings,very tasty dumplings,0.3166
+61,a person enjoying shiok food,a person enjoying very tasty food,0.2859
+62,a table full of shiok Mexican food,a table full of very tasty Mexican food,0.287
+63,shiok food,very tasty food,0.2561
+64,shiok Italian food,very tasty Italian food,0.2772
+65,a table full of shiok main dishes,a table full of tasty main dishes,0.3058
+66,an atas clothing boutique,a high class clothing boutique,0.258
+67,an atas party with well dressed people,a high class party with well dressed people,0.2635
+68,an atas red sports car,a high class red sports car,0.2913
+69,a woman with an atas car,a woman with a high class car,0.2811
+70,an atas house with marble floors and chandeliers,a high class house with marble floors and chandeliers,0.3229
+71,an atas restaurant with velvet chairs and dim lighting,a high class restaurant with velvet chairs and dim lighting,0.2908
+72,an ulu tropical beach,a secluded tropical beach,0.2881
+73,camping in an ulu meadow in the mountains,camping in a secluded meadow in the mountains,0.3025
+74,a couple hiking on an ulu trail,a couple hiking on a secluded trail,0.289
+75,a house in an ulu area by a forest,a house in a secluded area by a forest,0.3035
+76,an rv in an ulu town,an rv in a secluded town,0.2804
+77,an ulu locale surrounded by dense forest,an secluded locale surrounded by dense forest,0.2621
+78,a woman makan a bowl of noodles,a woman eating a bowl of noodles,0.3059
+79,a woman makan sushi in a modern restaurant,a woman eating sushi in a modern restaurant,0.3086
+80,a woman makan a slice of cake in a cafe,a woman eating a slice of cake in a cafe,0.3063
+81,a man makan a taco under a streetlight,a man eating a taco under a streetlight,0.3057
+82,a man makan a burrito by the riverside,a man eating a burrito by the riverside,0.3053
+83,a man makan an apple,a man eating an apple,0.3131
+84,a family zhng their living room for the holidays,a family redecorate their living room for the holidays,0.3172
+85,a worker zhng her office space with colorful posters,a worker redecorate her office space with colorful posters,0.3447
+86,a couple zhng their garage with neon lights,a couple redecorate their garage with neon lights,0.3251
+87,a woman zhng her room using fairy lights,a woman redecorate her room using fairy lights,0.3488
+88,a man zhng his desk with anime figurines,a man redecorate his desk with anime figurines,0.3503
+89,a couple zhng their living room,a couple redecorate their living room,0.2831
+90,a group of gers at the mall,a group of girls at the mall,0.2658
+91,a ger hiking in the desert,a girl hiking in the desert,0.2765
+92,a ger posing in front of a mural,a girl posing in front of a mural,0.2755
+93,a ger buying a computer at the electronics store,a girl buying a computer at the electronics store,0.276
+94,a ger with a white shirt,a girl with a white shirt,0.2624
+95,a ger and her partner,a girl and her partner,0.2305
+96,a handphone on a black table,a mobile phone on a black table,0.2941
+97,a person taking a selfie with a handphone,a person taking a selfie with a mobile phone,0.2905
+98,a handphone next to a laptop on a table,a mobile phone next to a laptop on a table,0.2705
+99,a man using a handphone,a man using a mobile phone,0.2732
+100,people on the subway using their handphones,people on the subway using their mobile phones,0.311
+101,a woman taking a photo with a handphone,a woman taking a photo with a mobile phone,0.3039
+102,an ah long counting cash,a loan shark counting cash,0.2656
+103,an ah long carrying a knife in an alley,a loan shark carrying a knife in an alley,0.3114
+104,an ah long holding a bag of cash,a loan shark holding a bag of cash,0.2763
+105,an ah long standing by a black car,a loan shark standing by a black car,0.2706
+106,an ah long threatening someone,a loan shark threatening someone,0.2517
+107,an ah long spray painting a message,a loan shark spray painting a message,0.3108
+108,a man eating food at a kopi tiam,a man eating food at a small food court,0.3029
+109,a woman drinking tea at a kopi tiam,a woman drinking tea at a small food court,0.299
+110,a bowl of noodles on a table in a kopi tiam,a bowl of noodles on a table in a small food court,0.2922
+111,kopi tiam,a small food court,0.2196
+112,a couple at a kopi tiam,a couple at a small food court,0.2626
+113,a group of friends at a kopi tiam,a group of friends at a small food court,0.2699
+114,a yandao on a magazine cover,a handsome male on a magazine cover,0.2773
+115,a yandao performing on stage at a concert,a handsome male performing on stage at a concert,0.2343
+116,a yandao at a gym lifting weights,a handsome male at a gym lifting weights,0.2578
+117,a yandao posing in a streetwear outfit,a handsome male posing in a streetwear outfit,0.3002
+118,a yandao with his partner,a handsome male with his partner,0.247
+119,a group of yandaos,a group of handsome males,0.2348
+120,a man mug at the coffee shop,a man studying at the coffee shop,0.2463
+121,a woman mug at home,a woman studying at home,0.2152
+122,a child mug a book,a child studying a book,0.2438
+123,a group of students mug,a group of students studying,0.2511
+124,a student mug in his room at night,a student studying in his room at night,0.2458
+125,a couple of friends mug in the library,a couple friends studying in the library,0.2439
+126,a man being a lightbulb on a hike with a couple,a man being a third wheel on a hike with a couple,0.2839
+127,a woman being a lightbulb at a museum with a couple,a woman being a third wheel at a museum with a couple,0.2543
+128,a lightbulb with a gray shirt with a couple,a third wheel with a gray shirt with a couple,0.2464
+129,a couple accompanied by a lightbulb,a couple accompanied by a third wheel,0.2044
+130,he was a lightbulb on his friend's date,he was a third wheel on his friend's date,0.2033
+131,a lightbulb trailing behind a couple,a third wheel trailing behind a couple,0.1678
+132,a glass filled with black teh,a glass filled with black tea,0.3025
+133,a man with a cup of milk teh,a man with a cup of milk tea,0.2806
+134,a teh pot on a table,a tea pot on a table,0.2669
+135,a cozy teh shop in a busy city street,a cozy tea shop in a busy city street,0.2717
+136,a teh bag on a plate,a tea bag on a plate,0.2484
+137,a cup filled with green teh,a cup filled with green tea,0.3096
+138,a plate of char kway teow with prawns and egg,a plate of stir-fried rice noodles with prawns and egg,0.3213
+139,a bowl of char kway teow with fishcake slices,a bowl of stir-fried rice noodles with fishcake slices,0.2917
+140,two plates of char kway teow on a wooden table,two plates of stir-fried rice noodles on a wooden table,0.3066
+141,char kway teow in a wok on a stove,stir-fried rice noodles in a wok on a stove,0.316
+142,char kway teow served at a restaurant,stir-fried rice noodles served at a restaurant,0.2998
+143,char kway teow with vegetables on the side,stir-fried rice noodles with vegetables on the side,0.3075
+144,a sinseh and a male patient,a traditional Chinese physician and a male patient,0.2875
+145,a sinseh and a female patient,a traditional Chinese physician and a female patient,0.2729
+146,a sinseh holding medicine,a traditional Chinese physician holding medicine,0.288
+147,a sinseh in an office,a traditional Chinese physician in an office,0.234
+148,a sinseh talking with two people,a traditional Chinese physician talking with two people,0.2921
+149,a sinseh sitting at their desk,a traditional Chinese physician sitting at their desk,0.2789
+150,a large hawker centre with colorful stalls and signs,a large food court with colorful stalls and signs,0.3152
+151,a couple at a hawker centre sharing laksa,a couple at a food court sharing laksa,0.301
+152,a family eating at a hawker centre,a family eating at a food court,0.2986
+153,a food stall at a hawker centre,a food stall at a food court,0.3039
+154,a table with a cup of coffee at a hawker centre,a table with a cup of coffee at a food court,0.2898
+155,a plate of noodles at a hawker centre,a plate of noodles at a food court,0.3168
+156,killer litter from a balcony,litter thrown from a high-rise building from a balcony,0.2728
+157,killer litter from an open window,litter thrown from a high-rise building from an open window,0.2434
+158,a sign advising against killer litter,a sign advising against litter thrown from a high-rise building,0.2865
+159,a person guilty of killer litter,a person guilty of litter thrown from a high-rise building,0.2693
+160,a person on the sidewalk avoiding killer litter,a person on the sidewalk avoiding litter thrown from a high-rise building,0.2974
+161,a couple walking nearly hit by killer litter,a couple walking nearly hit by litter thrown from a high-rise building,0.2744
+162,a man using a changkol in a vegetable garden,a man using a hoe in a vegetable garden,0.294
+163,a changkol on a shelf in a store,a hoe on a shelf in a store,0.2054
+164,a farmer using a changkol in a field,a farmer using a hoe in a field,0.2715
+165,a person digging in their front yard with a changkol,a person digging in their front yard with a hoe,0.2729
+166,a farmer carrying a changkol,a farmer carrying a hoe,0.2825
+167,three changkols leaning on a wall in a shed,three hoes leaning on a wall in a shed,0.2512
+168,a large chilli crab on a banquet table,a large spicy stir-fried crab on a banquet table,0.3054
+169,a family enjoying chilli crab in a fancy restaurant,a family enjoying spicy stir-fried crab in a fancy restaurant,0.3387
+170,two plates of chilli crab on a white table,two plates of spicy stir-fried crab on a white table,0.3006
+171,a large chilli crab and a bowl of rice on a table,a large spicy stir-fried crab and a bowl of rice on a table,0.3128
+172,a waiter holding a chilli crab dish,a waiter holding a spicy stir-fried crab dish,0.3392
+173,a chef making chilli crab in a large wok,a chef making spicy stir-fried crab in a large wok,0.3148
+174,a child with his mamak,a child with his uncle,0.2565
+175,a mamak wearing a dark blue shirt,an uncle wearing a dark blue shirt,0.2618
+176,a group of mamaks talking,a group of uncles talking,0.2402
+177,a mamak buying fruit from the supermarket,an uncle buying fruit from the supermarket,0.2996
+178,a mamak drinking coffee at the dining table,an uncle drinking coffee at the dining table,0.2869
+179,a mamak reading a newspaper while on the couch,an uncle reading a newspaper while on the couch,0.3105
+180,a plate of popiah with chili and sauce,a plate of Fujianese fresh spring roll with chili and sauce,0.2872
+181,a waiter holding a plate of popiah,a waiter holding a plate of Fujianese fresh spring rolls,0.2878
+182,a person eating a popiah at a street stall,a person eating a Fujianese fresh spring roll at a street stall,0.3204
+183,a bowl of noodles and a plate of popiah on a table,a bowl of noodles and a plate of Fujianese fresh spring rolls on a table,0.2911
+184,a plate of popiah with a dipping sauce on the side,a plate of Fujianese fresh spring rolls with a dipping sauce on the side,0.2937
+185,a food stall with popiah,a food stall with Fujianese fresh spring rolls,0.3103
+186,a plate of roti prata with curry on the side,a plate of Indian flatbread with curry on the side,0.2903
+187,a person eating roti prata with their hands,a person eating Indian flatbread with their hands,0.313
+188,roti prata with curry,Indian flatbread with curry,0.3013
+189,a table with roti prata and vegetables,a table with Indian flatbread and vegetables,0.3293
+190,a piece of roti prata dipped in curry,a piece of Indian flatbread dipped in curry,0.2927
+191,roti prata and tea on a table,Indian flatbread and tea on a table,0.3255
+192,a person eating bak kwa at a festival,a person eating Chinese pork jerky at a festival,0.3317
+193,bak kwa in a bag with red wrapping,Chinese pork jerky in a bag with red wrapping,0.3128
+194,a person buying bak kwa from a shop,a person buying Chinese pork jerky from a shop,0.3308
+195,a plate with bak kwa on it,a plate with Chinese pork jerky,0.2809
+196,two people both eating bak kwa,two people both eating Chinese pork jerky,0.2863
+197,a box of bak kwa in a shopping basket,a box of Chinese pork jerky in a shopping basket,0.2745
+198,two kaki chatting casually outside a cafe,two buddies chatting casually outside a cafe,0.2801
+199,kaki laughing while walking along the street,buddies laughing while walking along the street,0.2671
+200,kaki sharing a meal at the hawker centre,buddies sharing a meal at the hawker centre,0.2914
+201,a group of kaki playing basketball outdoors,a group of buddies playing basketball outdoors,0.3137
+202,kaki taking selfies at a famous landmark,buddies taking selfies at a famous landmark,0.2738
+203,two kaki relaxing together at the beach,two buddies relaxing together at the beach,0.2503

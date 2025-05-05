@@ -1,0 +1,127 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,a large teh tarik,a large milk tea,0.2168
+1,a small teh tarik,a small milk tea,0.1612
+2,kopi on a table,coffee on a table,0.0956
+3,kopi on a counter,coffee on a counter,0.2231
+4,two people getting kopi,two people getting coffee,0.2983
+5,a man buying kopi,a man buying coffee,0.2067
+6,a woman with kopi,a woman with coffee,0.1291
+7,a painting of an ang pow,a painting of a red packet,0.642
+8,a person holding an ang pow,a person holding a red packet,0.742
+9,let's get some food tapao,let's get some food takeout,0.3683
+10,a couple getting food tapao,a couple getting food takeout,0.2014
+11,a kiasu businessman,a businessman with a grasping and selfish attitude,0.4751
+12,a kiasu leader,a leader with a grasping and selfish attitude,0.1181
+13,a kiasu student,a student with a grasping and selfish attitude,0.3745
+14,a kiasu parent,a parent with a grasping and selfish attitude,0.6168
+15,a kiasu businesswoman,a businesswoman with a grasping and selfish attitude,0.4098
+16,a kiasu politician,a politician with a grasping and selfish attitude,0.2998
+17,a sian woman,a bored woman,0.1623
+18,a sian worker,a bored worker,0.3458
+19,a child sian,a child bored,0.6635
+20,a sian man,a bored man,0.2552
+21,people lepak on a beach,people relaxing on a beach,0.2189
+22,people lepak on a coach,people relaxing on a coach,0.4624
+23,a couple lepak in a park,a couple relaxing in a park,0.5478
+24,a person gesturing can,a person gesturing yes,0.6232
+25,a person answering can,a person answering yes,0.4371
+26,a worker gesturing can,a worker gesturing yes,0.863
+27,a student gesturing can,a student gesturing yes,0.6828
+28,a woman gesturing can,a woman gesturing yes,0.624
+29,a man gesturing can,a man gesturing yes,0.6102
+30,a student chope,a student saving a table,0.4746
+31,a man chope,a man saving a table,0.5151
+32,a woman chope,a woman saving a table,0.335
+33,a group chope,a group saving a table,0.5032
+34,chope at a cafe,saving a table at a cafe,0.181
+35,chope with a napkin,saving a table with a napkin,0.6821
+36,a painting of something that is shiok,a painting of something that is very tasty,0.6915
+37,an atas party,a high class party,0.7904
+38,an atas car,a high class car,0.2111
+39,an ulu trail,a secluded trail,0.3941
+40,a woman makan noodles,a woman eating noodles,0.5028
+41,a painting of someone makan,a painting of someone eating,0.4286
+42,a person makan salad,a person eating a salad,0.5734
+43,a man makan a taco,a man eating a taco,0.7856
+44,people makan,people eating,0.2325
+45,a man makan a burrito,a man eating a burrito,0.4868
+46,a family zhng their house,a family redecorates their house,0.4391
+47,a worker zhng her office space,a worker redecorates her office space,0.5246
+48,a couple zhng their garage,a couple redecorate their garage,0.6547
+49,a woman zhng her room,a woman redecorates her room,0.1815
+50,a man zhng his desk,a man redecorates his desk,0.5437
+51,a person zhng their kitchen,a person redecorates their kitchen,0.4086
+52,a tall ger,a tall girl,0.199
+53,a ger buying a computer,a girl buying a computer,0.5897
+54,a ger hiking,a girl hiking,0.4092
+55,a ger,a girl,0.4969
+56,a ger in a city,a girl in a city,0.3078
+57,a painting of a ger,a painting of a girl,0.6299
+58,a woman holding a handphone,a woman holding a mobile phone,0.4455
+59,a man with a handphone,a man with a mobile phone,0.4279
+60,a painting of a handphone,a painting of a mobile phone,0.7522
+61,a handphone on a lawn,a mobile phone on a lawn,0.6727
+62,an ah long handling cash,a loan shark handling cash,0.6995
+63,an ah long carrying a knife,a loan shark carrying a knife,0.27
+64,an ah long holding a bag,a loan shark holding a bag,0.198
+65,an ah long,a loan shark,0.424
+66,an ah long talking to someone,a loan shark talking to someone,0.6612
+67,an ah long spray painting,a loan shark spray painting,0.8199
+68,a man at a kopi tiam,a man at a coffee shop,0.1911
+69,a woman at a kopi tiam,a woman at a coffee shop,0.238
+70,a modern kopi tiam,a modern coffee shop,0.1894
+71,an old kopi tiam,an old coffee shop,0.2164
+72,a painting of a yandao,a painting of a handsome male,0.5941
+73,a yandao buying food,a handsome male buying food,0.1633
+74,a yandao walking,a handsome male walking,0.1361
+75,a photo of a yandao,a photo of a handsome male,0.4946
+76,a yandao,a handsome male,0.2812
+77,a yandao at a gym,a handsome male at a gym,0.1944
+78,a man mugging for finals,a man studying for finals,0.4655
+79,a woman mugging at home,a woman studying at home,0.1535
+80,a child busy mugging,a child busy studying,0.4947
+81,a group of people mugging,a group of people studying,0.6198
+82,an older person mugging,an older person studying,0.5569
+83,mugging at a table,studying at a table,0.4951
+84,a man being a lightbulb,a man being a third wheel,0.8658
+85,a woman being a lightbulb,a woman being a third wheel,0.7945
+86,a lightbulb sitting with a couple,a third wheel sitting with a couple,0.8195
+87,a person feeling like a lightbulb,a person feeling like a third wheel,0.8423
+88,scene with an awkward lightbulb,scene with an awkward third wheel,0.8532
+89,a young lightbulb,a young third wheel,0.8537
+90,teh in a store,tea in a store,0.6013
+91,a sinseh and a man,a traditional Chinese physician and a man,0.0583
+92,a sinseh and a woman,a traditional Chinese physician and a woman,0.0304
+93,a painting of a sinseh,a painting of a traditional Chinese physician,0.1485
+94,a sinseh,a traditional Chinese physician,0.4963
+95,a sinseh with two people,a traditional Chinese physician with two people,0.0274
+96,a sinseh sitting,a traditional Chinese physician sitting,0.0536
+97,a couple at a hawker centre,a couple at a food court,0.2234
+98,a modern hawker centre,a modern food court,0.2006
+99,a painting of killer litter,a painting of litter thrown from a high-rise building,0.8689
+100,a person avoiding killer litter,a person avoiding litter thrown from a high-rise building,0.7623
+101,a person nearly hit by killer litter,a person nearly hit by litter thrown from a high-rise building,0.7039
+102,a man holding a changkol,a man holding a hoe,0.253
+103,a painting of a changkol,a painting of a hoe,0.6265
+104,an old changkol,an old hoe,0.2154
+105,a family enjoying chilli crab,a family enjoying spicy stir-fried crab,0.2696
+106,a waiter serving chilli crab,a waiter serving spicy stir-fried crab,0.2052
+107,a chef making chilli crab,a chef making spicy stir-fried crab,0.1871
+108,my mamak,my uncle,0.2612
+109,a mamak in blue,an uncle in blue,0.1836
+110,a mamak talking,a uncle talking,0.1594
+111,a mamak buying fruit,an uncle buying fruit,0.1394
+112,a mamak drinking coffee,an uncle drinking coffee,0.1273
+113,a mamak reading a newspaper,an uncle reading a newspaper,0.1592
+114,a painting of popiah,a painting of Fujianese fresh spring roll,0.7892
+115,a person eating a popiah,a person eating a Fujianese fresh spring roll,0.5786
+116,a person eating roti prata,a person eating Indian flatbread,0.2344
+117,a person eating bak kwa,a person eating Chinese pork jerky,0.5474
+118,a painting of bak kwa,a painting of Chinese pork jerky,0.6958
+119,one piece of bak kwa,one piece of Chinese pork jerky,0.3167
+120,two kaki chatting,two buddies chatting,0.2715
+121,kaki playing soccer,buddies playing soccer,0.6906
+122,kaki having coffee,buddies having coffee,0.1645
+123,kaki laughing together,buddies laughing together,0.227
+124,a group of kaki outdoors,a group of buddies outdoors,0.3868
+125,kaki watching a movie,buddies watching a movie,0.3023

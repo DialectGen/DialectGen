@@ -1,0 +1,135 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,a painting of raspa,a painting of shaved ice,1.0
+1,a man enjoying raspa,a man enjoying shaved ice,0.0
+2,cup of raspa on a table,cup of shaved ice on a table,1.0
+3,a blue raspa,a blue shaved ice,1.0
+4,a clicka,a friend group,1.0
+5,a big clicka,a big friend group,1.0
+6,a clicka at school,a friend group at school,0.0219
+7,a clicka at the park,a friend group at the park,0.9966
+8,a loud clicka,a loud friend group,1.0
+9,a painting of a padrino,a painting of a godfather,1.0
+10,a padrino,a godfather,0.0
+11,a padrino in a house,a godfather in a house,1.0
+12,an old padrino,an old godfather,1.0
+13,a man with a padrino,a man with a godfather,1.0
+14,a woman with a padrino,a woman with a godfather,0.0
+15,a big fil,a big field,0.9974
+16,a person at a fil,a person at a field,1.0
+17,a green fil,a green field,1.0
+18,an old pinta,an old jail,0.0044
+19,a modern pinta,a modern jail,0.7548
+20,a small pinta,a small prison,0.0
+21,go to pinta,go to prison,1.0
+22,a painting of a jaina,a painting of a girlfriend,1.0
+23,a jaina in a home,a girlfriend in a home,1.0
+24,a jaina in a car,a girlfriend in a car,0.0
+25,a jaina walking,a girlfriend walking,0.0
+26,me and my jaina,me and my girlfriend,1.0
+27,at the park with my jaina,at the park with my girlfriend,1.0
+28,my dad planchar shirts,my dad irons shirts,1.0
+29,she planchar daily,she irons daily,1.0
+30,they planchar clothes,they iron clothes,0.0
+31,I planchar pants,I iron pants,1.0
+32,we planchar uniforms,we iron uniforms,1.0
+33,he likes to planchar,he likes to iron,0.0
+34,a person exploring Chuco,a person exploring El Paso,0.0282
+35,a painting of a carnal,a painting of a brother,1.0
+36,a man hiking with his carnal,a man hiking with his brother,1.0
+37,a carnal in a house,a brother in a house,1.0
+38,me with my carnal,me with my brother,0.9999
+39,a carnal at a table,a brother at a table,1.0
+40,a carnal at a park,a brother at a park,0.8055
+41,a painting of a carnalita,a painting of a sister,0.9963
+42,a man hiking with his carnalita,a man hiking with his sister,0.0
+43,a carnalita in a house,a sister in a house,0.0095
+44,me with my carnalita,me with my sister,0.0
+45,a carnalita at a table,a sister at a table,0.0
+46,a carnalita at a park,a sister at a park,1.0
+47,a painting of carnales,a painting of brothers,0.0
+48,carnales in a house,brothers in a house,0.0
+49,me and my carnales,me and my brothers,0.0
+50,carnales by a table,brothers by a table,0.0
+51,carnales together,brothers together,0.0
+52,carnales walking,brothers walking,0.0
+53,a painting of carnalas,a painting of sisters,0.0
+54,carnalas in a house,sisters in a house,0.0
+55,me and my carnalas,me and my sisters,0.0
+56,carnalas by a table,sisters by a table,0.0
+57,carnalas together,sisters together,0.0
+58,carnalas walking,sisters walking,0.0
+59,a painting of raza,a painting of Mexican American,0.0
+60,a raza at a park,a Mexican American at a park,0.1254
+61,a raza neighborhood,a Mexican American neighborhood,1.0
+62,a raza at a store,a Mexican American at a store,1.0
+63,a young raza,a young Mexican American,0.0
+64,an old raza,an old Mexican American,0.0
+65,a vato in a house,a young man in a house,0.0
+66,a vato in a park,a young man in a park,0.0
+67,painting of a vato,a painting of a young man,0.0
+68,a vato in a neighborhood,a young man in a neighborhood,0.0
+69,a vato on the ground,a young man on the ground,0.0
+70,a vato leaning,a young man leaning,0.087
+71,a painting of an ese,a painting of a young man,0.0
+72,an ese on a sidewalk,a young man on a sidewalk,1.0
+73,an ese on a trail,a young man on a trail,0.0
+74,an ese in a park,a young man in a park,0.0
+75,an ese in a neighborhood,a young man in a neighborhood,0.0
+76,an ese on a street,a young man on a street,0.0
+77,a painting of a bato,a painting of a man,0.0
+78,a big bato,a big man,0.0
+79,a smaller bato,a smaller man,0.0
+80,a bato in a house,a man in a house,1.0
+81,a bato in a park,a man in a park,0.0
+82,a bato on a street,a man on a street,0.0
+83,a painting of a madrina,a painting of a godmother,0.0
+84,an old madrina,an old godmother,1.0
+85,a middle-aged madrina,a middle-aged godmother,0.0077
+86,a madrina in a house,a godmother in a house,0.0
+87,a madrina at a park,a godmother at a park,0.0
+88,a madrina in a car,a godmother in a car,0.0
+89,a guy acting loco,a guy acting crazy,1.0
+90,a loco cat,a crazy cat,0.9999
+91,a loco dog,a crazy dog,0.1875
+92,a loco painting,a crazy painting,0.9937
+93,a loco toy,a crazy toy,1.0
+94,a mi'ja,a daughter,0.0
+95,a mi'ja at home,a daughter at home,0.0
+96,a mi'ja at a park,a daughter at a park,0.0
+97,a younger mi'ja,a younger daughter,0.0008
+98,an older mi'ja,an older daughter,1.0
+99,a painting of a mi'ja,a painting of a daugher,0.0
+100,a mijo,a son,0.009
+101,a mijo at home,a son at home,0.0001
+102,a mijo at a park,a son at a park,0.0
+103,a younger mijo,a younger son,0.0003
+104,an older mijo,an older son,0.0007
+105,a painting of a mijo,a painting of a son,1.0
+106,a Califas landscape,a California landscape,0.9998
+107,a city in Califas,a city in California,0.9997
+108,a Califas suburb,a California suburb,1.0
+109,baro on the sidewalk,money on the sidewalk,1.0
+110,a painting of a cuate,a painting of a close friend,1.0
+111,me and my cuate,me and my close friend,0.0
+112,a cuate in a house,a close friend in a house,0.0
+113,a cuate at a cafe,a close friend at a cafe,0.0
+114,a cuate on the sidewalk,a close friend on the sidewalk,0.0
+115,a cuate in a park,a close friend in a park,0.0
+116,a person apapachar himself,a person pampered himself,0.0
+117,a couple getting apapachar,a couple getting pampered,0.0
+118,a woman getting apapachar,a woman getting pampered,0.0031
+119,a couple getting lonche,a couple getting lunch,0.0
+120,lonche in the meadow,lunch in the meadow,1.0
+121,a chamaco at the park,a boy at the park,1.0
+122,a chamaco in a house,a boy in a house,1.0
+123,a chamaco on the sidewalk,a boy on the sidewalk,1.0
+124,a painting of a chamaco,a painting of a chamaco,0.0
+125,a chamaco at a school,a boy at a school,0.0003
+126,a chamaco and a soccer ball,a boy and a soccer ball,0.0
+127,a chamaca at the park,a girl at the park,0.0
+128,a chamaca in a house,a girl in a house,0.0008
+129,a chamaca on the sidewalk,a girl on the sidewalk,0.0
+130,a chamaca and a basketball,a girl and a basketball,0.0001
+131,a chamaca at a school,a girl at a school,0.0
+132,a chamaca at a store,a girl at a store,0.0
+133,a woman wearing chanclas,a woman wearing flip-flops,1.0

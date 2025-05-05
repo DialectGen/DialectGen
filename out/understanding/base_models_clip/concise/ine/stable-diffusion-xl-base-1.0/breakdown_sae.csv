@@ -1,0 +1,217 @@
+Prompt_Index,SAE_Prompt,Score
+0,a medieval monastery,0.3048
+1,a monastery on a hill,0.3162
+2,a small monastery,0.295
+3,a painting of a monastery,0.3373
+4,a crowded monastery,0.2835
+5,a monastery in a dark forest,0.3256
+6,champagne on a wooden table,0.293
+7,champagne in a cabinet,0.3284
+8,champagne on a table outside,0.2961
+9,a painting of some champagne,0.3432
+10,champagne on the beach,0.3347
+11,champagne on top of a piano,0.3303
+12,an old midwife,0.305
+13,a midwife with a woman,0.337
+14,a painting of a midwife,0.3453
+15,a young midwife,0.3097
+16,a midwife sitting down,0.2926
+17,a photograph of a midwife with a cat,0.3734
+18,a medical practitioner at a table,0.2946
+19,an old medical practitioner,0.2882
+20,a medical practitioner at a park,0.3057
+21,a medical practitioner with a woman,0.2968
+22,a medical practitioner with a notepad,0.3049
+23,a painting of a medical practitioner,0.3258
+24,a window covered with bamboo blinds,0.3394
+25,a doorway with bamboo blinds,0.3536
+26,hand-crafted bamboo blinds,0.333
+27,sun-faded bamboo blinds,0.3324
+28,bamboo blinds with decorative trim,0.3236
+29,tattered bamboo blinds,0.323
+30,a dark mountain pass,0.3144
+31,a mountain pass covered in snow,0.3051
+32,a crowded mountain pass,0.2888
+33,a mountain pass with a nearby lake,0.286
+34,a painting of a beautiful mountain pass,0.326
+35,an abandoned mountain pass,0.294
+36,an old convenience store,0.3323
+37,a modern convenience store,0.3218
+38,a busy convenience store,0.3202
+39,a convenience store on fire,0.3217
+40,an empty convenience store,0.3291
+41,a painting of a convenience store,0.3771
+42,an old temple,0.3029
+43,a temple on a hill,0.3145
+44,a painting of a temple,0.3585
+45,a temple in a dark forest,0.3403
+46,a temple in a city,0.301
+47,an abandoned temple,0.3193
+48,a barber in red,0.3458
+49,an old barber,0.334
+50,a small barber shop,0.3213
+51,a busy barber shop,0.3227
+52,a barber by the chair,0.3341
+53,a barber working,0.3199
+54,a police station in a city,0.2791
+55,a busy police station,0.2705
+56,a police station in a small town,0.2915
+57,a person walking into a police station,0.3092
+58,a painting of a police station,0.3411
+59,a photograph of a modern police station,0.2738
+60,a father in front of a house,0.2918
+61,a girl standing with her father,0.3222
+62,a crying father,0.2968
+63,a father on a bed,0.2964
+64,an old father with a dog,0.3132
+65,an old father in the kitchen,0.3179
+66,a beautiful veranda,0.3162
+67,an expensive looking veranda,0.2922
+68,a modern looking veranda,0.3056
+69,a green veranda,0.328
+70,a dimly lit veranda,0.3074
+71,a painting of a veranda,0.3451
+72,a dry riverbed,0.3024
+73,a beautiful riverbed in a painting,0.3374
+74,a riverbed in a forest,0.2948
+75,a narrow riverbed,0.2894
+76,a small riverbed,0.2942
+77,a wet riverbed,0.303
+78,a beautiful queen,0.2727
+79,a queen in a garden,0.3183
+80,a painting of an old queen,0.3308
+81,a queen covered in snow,0.3239
+82,a queen in a large hall,0.3245
+83,an old queen on a bed,0.2873
+84,a sliced eggplant,0.3305
+85,an eggplant on a table,0.3437
+86,eggplant in a basket,0.3463
+87,a painting of a eggplant,0.4011
+88,a moldy eggplant,0.3257
+89,a dish with eggplant,0.3202
+90,a table of food,0.3002
+91,a basket with food,0.3246
+92,healthy food,0.2751
+93,food in a cabinet,0.3335
+94,a person with some food,0.283
+95,a family enjoying food,0.3082
+96,a bustling town,0.2837
+97,an abandoned town,0.3044
+98,view of a town,0.3055
+99,a beautiful town,0.2987
+100,a painting of a town,0.3198
+101,a lively town,0.2935
+102,a dying camel,0.3181
+103,a camel next to water,0.342
+104,a painting of a large camel,0.3661
+105,a camel eating food,0.3362
+106,a camel in the street,0.3425
+107,a camel walking in the heat,0.3227
+108,incense in a house,0.317
+109,incense on a table,0.331
+110,a painting of incense,0.3343
+111,incense burning,0.287
+112,red incense,0.268
+113,incense on a shelf,0.2822
+114,a painting of a beautiful crane bird,0.3636
+115,a large group of crane birds,0.3273
+116,a dirty crane bird,0.308
+117,two crane birds next to each other,0.3233
+118,a sleeping crane bird,0.31
+119,a crane bird eating food,0.3318
+120,a enormous warehouse,0.3117
+121,an abandoned warehouse,0.3167
+122,a busy warehouse,0.2976
+123,a painting of a warehouse,0.3466
+124,a warehouse on fire,0.322
+125,a dark abandoned warehouse,0.3193
+126,painting of a pharmacy,0.3669
+127,a modern pharmacy,0.3266
+128,inside a pharmacy,0.3289
+129,a busy pharmacy,0.336
+130,entrance of a pharmacy,0.3258
+131,a rural pharmacy,0.3239
+132,an abandoned gas station,0.3252
+133,a gas station in a desert,0.3548
+134,a photograph of a modern gas station,0.316
+135,a very busy gas station,0.3075
+136,a gas station in a big city,0.3111
+137,a dirty gas station,0.3064
+138,a man with a blue motorcycle,0.3247
+139,a black motorcycle,0.2898
+140,three motorcycles on the road,0.2923
+141,a broken motorcycle,0.3218
+142,a motorcycle in the forest,0.3506
+143,a group of motorcycles,0.3213
+144,two rifles leaning on each other,0.3018
+145,a person holding a rifle,0.2886
+146,a broken rifle,0.2792
+147,a rusty rifle,0.3246
+148,a rifle in a store,0.3236
+149,a rifle on the ground,0.2994
+150,an old craftsman,0.3113
+151,a group of craftsmen,0.3275
+152,a craftsman in a house,0.3217
+153,a dirty craftsman,0.2858
+154,a craftsman in orange,0.3497
+155,a craftsman in a big city,0.2968
+156,an angry supervisor,0.2701
+157,an old supervisor,0.2744
+158,a supervisor in a room,0.2853
+159,a painting of a supervisor,0.3255
+160,a supervisor in the office,0.2584
+161,a supervisor with a group of people,0.2659
+162,some water on the table,0.2902
+163,a child with water,0.3157
+164,dirty water,0.2496
+165,water in the forest,0.3001
+166,water in the house,0.2548
+167,water in the well,0.3216
+168,a colorful festival,0.3078
+169,a lively festival,0.2988
+170,a festival in the summer,0.3029
+171,an indoor festival,0.3057
+172,a bustling festival,0.3028
+173,a festival in the winter,0.3336
+174,a man next to a checkpoint,0.3161
+175,a small red checkpoint,0.2864
+176,a busy checkpoint,0.2654
+177,a empty checkpoint,0.2921
+178,an abandoned checkpoint,0.3044
+179,a checkpoint in the winter,0.324
+180,an outdoor luncheon,0.3077
+181,a lively luncheon,0.2968
+182,a luncheon in the building,0.3001
+183,an indoor luncheon,0.2945
+184,a luncheon in the city,0.3099
+185,a luncheon at school,0.3032
+186,the inside of a gambling den,0.2968
+187,a gambling room,0.332
+188,a place of gambling,0.2793
+189,a bustling gambling den,0.3083
+190,a luxurious gambling den,0.3052
+191,a group of people gambling,0.3263
+192,a luxurious wardrobe,0.3229
+193,an old wardrobe,0.315
+194,a painting of a wardrobe,0.3603
+195,a wardrobe in the bedroom,0.3263
+196,a broken wardrobe,0.3052
+197,a green wardrobe,0.367
+198,a car trunk filled with luggage,0.3053
+199,a car trunk left open,0.2942
+200,a spacious red car trunk,0.3183
+201,a damaged car trunk,0.3206
+202,a suitcase in a car trunk,0.3236
+203,a rusty car trunk,0.3098
+204,a spare tire mounted on a vehicle,0.2936
+205,a worn-out spare tire,0.3046
+206,a spare tire leaning against a wall,0.3195
+207,a black spare tire,0.2923
+208,a mechanic inspecting a spare tire,0.3268
+209,a spare tire lying on the road,0.3382
+210,a group photo of my classmates,0.2753
+211,my classmate smiling,0.2691
+212,two classmates studying,0.2941
+213,a classmate at a desk,0.2881
+214,classmates outside the school,0.2845
+215,a classmate playing basketball,0.2963

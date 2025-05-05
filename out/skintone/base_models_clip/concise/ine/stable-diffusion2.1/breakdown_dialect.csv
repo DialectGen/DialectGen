@@ -1,0 +1,74 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,a crowded math,a crowded monastery,0.513
+1,a painting of some simkin,a painting of some champagne,0.7604
+2,an old dai,an old midwife,0.3169
+3,a dai with a woman,a midwife with a woman,0.3618
+4,a painting of a dai,a painting of a midwife,0.536
+5,a young dai,a young midwife,0.2746
+6,a dai sitting down,a midwife sitting down,0.3254
+7,a photograph of a dai with a cat,a photograph of a midwife with a cat,0.5205
+8,a medico at a table,a medical practitioner at a table,0.2274
+9,an old medico,an old medical practitioner,0.2078
+10,a medico at a park,a medical practitioner at a park,0.4261
+11,a medico with a woman,a medical practitioner with a woman,0.264
+12,a medico with a notepad,a medical practitioner with a notepad,0.3561
+13,a painting of a medico,a painting of a medical practitioner,0.7032
+14,a nai in red,a barber in red,0.3139
+15,an old nai,an old barber,0.1865
+16,a nai by the chair,a barber by the chair,0.3875
+17,a nai working,a barber working,0.2771
+18,a person entering a thana,a person walking into a police station,0.235
+19,an abba in front of a house,a father in front of a house,0.5328
+20,a girl standing with her abba,a girl standing with her father,0.2511
+21,a crying abba,a crying father,0.5824
+22,an abba on a bed,a father on a bed,0.4493
+23,an old abba with a dog,an old father with a dog,0.7552
+24,an old abba in the kitchen,an old father in the kitchen,0.4348
+25,a beautiful rani,a beautiful queen,0.0158
+26,a rani in a garden,a queen in a garden,0.1336
+27,a painting of an old rani,a painting of an old queen,0.1656
+28,a rani covered in snow,a queen covered in snow,0.1253
+29,a rani in a large hall,a queen in a large hall,0.1668
+30,an old rani on a bed,an old queen on a bed,0.0724
+31,a painting of a brinjal,a painting of a eggplant,0.5296
+32,a person with some khana,a person with some food,0.1325
+33,a family enjoying khana,a family enjoying food,0.1308
+34,a bustling nagar,a bustling town,0.0875
+35,a lively nagar,a lively town,0.0848
+36,a painting of agarbatti,a painting of incense,0.2339
+37,a busy godown,a busy warehouse,0.1129
+38,a very busy petrol bunk,a very busy gas station,0.4837
+39,a man with a blue mo-bike,a man with a blue motorcycle,0.689
+40,a black mo-bike,a black motorcycle,0.2686
+41,an old handicraftsman,an old craftsman,0.3064
+42,a group of handicraftsmen,a group of craftsmen,0.2429
+43,a handicraftsman in a house,a craftsman in a house,0.3287
+44,a dirty handicraftsman,a dirty craftsman,0.2536
+45,a handicraftsman in orange,a craftsman in orange,0.2984
+46,a handicraftsman in a big city,a craftsman in a big city,0.3974
+47,an angry incharge,an angry supervisor,0.385
+48,an old incharge,an old supervisor,0.2364
+49,an incharge in a room,a supervisor in a room,0.5261
+50,a painting of an incharge,a painting of a supervisor,0.1145
+51,an incharge in the office,a supervisor in the office,0.6738
+52,an incharge with a group of people,a supervisor with a group of people,0.6316
+53,a child with pani,a child with water,0.0722
+54,a man next to a naka,a man next to a checkpoint,0.2056
+55,a lively tiffin,a lively luncheon,0.5033
+56,a tiffin in the building,a luncheon in the building,0.7278
+57,an indoor tiffin,an indoor luncheon,0.3736
+58,a tiffin in the city,a luncheon in the city,0.2027
+59,a tiffin at school,a luncheon at school,0.4013
+60,the inside of a satta den,the inside of a gambling den,0.3396
+61,a satta room,a gambling room,0.3562
+62,a place of satta,a place of gambling,0.2427
+63,a bustling satta den,a bustling gambling den,0.195
+64,a luxurious satta den,a luxurious gambling den,0.4635
+65,a group of people satta,a group of people gambling,0.3742
+66,a mechanic inspecting a stepney,a mechanic inspecting a spare tire,0.2773
+67,a group photo of my batchmates,a group photo of my classmates,0.2913
+68,my batchmate smiling,my classmate smiling,0.2791
+69,two batchmates studying,two classmates studying,0.5463
+70,a batchmate at a desk,a classmate at a desk,0.626
+71,batchmates outside the school,classmates outside the school,0.2684
+72,a batchmate playing basketball,a classmate playing basketball,0.5075

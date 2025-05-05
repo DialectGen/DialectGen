@@ -1,0 +1,127 @@
+Prompt_Index,SAE_Prompt,Normalized_Score
+0,a man drinking milk tea,0.7933
+1,a woman drinking milk tea,0.5275
+2,a couple sitting at a table both with coffee,0.2633
+3,a man getting coffee from a modern cafe,0.691
+4,two people getting coffee from a stall,0.3069
+5,a man buying coffee at a busy counter,0.4178
+6,a woman with coffee standing by a bus stop,0.3621
+7,a child receiving a red packet from his grandmother,0.8627
+8,a group of people holding red packets,0.746
+9,let's get some food takeout,0.8543
+10,a couple getting food takeout from a hawker stall,0.8658
+11,a businessman with a grasping and selfish attitude grabbing all the samples,0.7225
+12,a leader with a grasping and selfish attitude cutting in line for a photo,0.6891
+13,a student with a grasping and selfish attitude hoarding all the notes,0.3571
+14,a parent with a grasping and selfish attitude rushing to the front row,0.7456
+15,a businesswoman with a grasping and selfish attitude buying out limited deals,0.2129
+16,a politician with a grasping and selfish attitude speaking over everyone else,0.7165
+17,a bored woman walking on the city street,0.2875
+18,a bored worker in an office,0.2249
+19,a child bored in the summer,0.5785
+20,a bored man on vacation,0.5999
+21,people relaxing on a beach with music playing,0.1209
+22,a couple relaxing in a park under a tree,0.4906
+23,people relaxing on a sofa,0.5159
+24,a student in a class nodding yes,0.8685
+25,a worker nodding yes to his supervisor,0.9474
+26,a customer at a restaurant nodding yes,0.7751
+27,a person nodding yes in agreement,0.5355
+28,a woman nodding yes,0.7203
+29,a man nodding yes,0.0444
+30,a student saving a table at the dining hall,0.837
+31,a person saving a table at the library,0.6102
+32,a person saving a table using a bag,0.4956
+33,a group saving a table at the food hall,0.5962
+34,saving a table at a cafe using a tissue packet,0.6805
+35,saving a table with a napkin placed on a chair,0.2695
+36,a person enjoying very tasty food,0.9208
+37,a high class party with well dressed people,0.4397
+38,a woman with a high class car,0.7608
+39,a couple hiking on a secluded trail,0.5368
+40,a woman eating a bowl of noodles,0.7718
+41,a woman eating sushi in a modern restaurant,0.7136
+42,a woman eating a slice of cake in a cafe,0.3599
+43,a man eating a taco under a streetlight,0.5358
+44,a man eating a burrito by the riverside,0.9192
+45,a man eating an apple,0.3308
+46,a family redecorate their living room for the holidays,0.7472
+47,a worker redecorate her office space with colorful posters,0.4978
+48,a couple redecorate their garage with neon lights,0.6948
+49,a woman redecorate her room using fairy lights,0.7358
+50,a man redecorate his desk with anime figurines,0.5287
+51,a couple redecorate their living room,0.4833
+52,a group of girls at the mall,0.262
+53,a girl hiking in the desert,0.5909
+54,a girl posing in front of a mural,0.8541
+55,a girl buying a computer at the electronics store,0.2768
+56,a girl with a white shirt,0.1148
+57,a girl and her partner,0.0198
+58,a person taking a selfie with a mobile phone,0.465
+59,a man using a mobile phone,0.1866
+60,people on the subway using their mobile phones,0.5725
+61,a woman taking a photo with a mobile phone,0.4395
+62,a loan shark counting cash,0.9438
+63,a loan shark carrying a knife in an alley,0.7497
+64,a loan shark holding a bag of cash,0.8668
+65,a loan shark standing by a black car,0.3812
+66,a loan shark threatening someone,0.9563
+67,a loan shark spray painting a message,0.8432
+68,a man eating food at a small food court,0.4881
+69,a woman drinking tea at a small food court,0.5542
+70,a couple at a small food court,0.5996
+71,a group of friends at a small food court,0.3849
+72,a handsome male on a magazine cover,0.2065
+73,a handsome male performing on stage at a concert,0.8143
+74,a handsome male at a gym lifting weights,0.8085
+75,a handsome male posing in a streetwear outfit,0.9776
+76,a handsome male with his partner,0.2604
+77,a group of handsome males,0.0535
+78,a man studying at the coffee shop,0.104
+79,a woman studying at home,0.71
+80,a child studying a book,0.8592
+81,a group of students studying,0.6077
+82,a student studying in his room at night,0.621
+83,a couple friends studying in the library,0.7666
+84,a man being a third wheel on a hike with a couple,0.2012
+85,a woman being a third wheel at a museum with a couple,0.2012
+86,a third wheel with a gray shirt with a couple,0.2012
+87,a couple accompanied by a third wheel,0.2012
+88,he was a third wheel on his friend's date,0.2012
+89,a third wheel trailing behind a couple,0.2012
+90,a man with a cup of milk tea,0.1249
+91,a traditional Chinese physician and a male patient,0.5763
+92,a traditional Chinese physician and a female patient,0.5665
+93,a traditional Chinese physician holding medicine,0.4386
+94,a traditional Chinese physician in an office,0.5069
+95,a traditional Chinese physician talking with two people,0.3213
+96,a traditional Chinese physician sitting at their desk,0.6577
+97,a couple at a food court sharing laksa,0.3074
+98,a family eating at a food court,0.5499
+99,a person guilty of litter thrown from a high-rise building,0.6604
+100,a person on the sidewalk avoiding litter thrown from a high-rise building,0.3547
+101,a couple walking nearly hit by litter thrown from a high-rise building,0.6591
+102,a man using a hoe in a vegetable garden,0.2434
+103,a farmer using a hoe in a field,0.0575
+104,a person digging in their front yard with a hoe,0.2181
+105,a family enjoying spicy stir-fried crab in a fancy restaurant,0.4752
+106,a waiter holding a spicy stir-fried crab dish,0.066
+107,a chef making spicy stir-fried crab in a large wok,0.5844
+108,a child with his uncle,0.2012
+109,an uncle wearing a dark blue shirt,0.2121
+110,a group of uncles talking,0.7983
+111,an uncle buying fruit from the supermarket,0.1469
+112,an uncle drinking coffee at the dining table,0.2525
+113,an uncle reading a newspaper while on the couch,0.4701
+114,a waiter holding a plate of Fujianese fresh spring rolls,0.8547
+115,a person eating a Fujianese fresh spring roll at a street stall,0.6381
+116,a person eating Indian flatbread with their hands,0.1316
+117,a person eating Chinese pork jerky at a festival,0.3862
+118,a person buying Chinese pork jerky from a shop,0.6814
+119,two people both eating Chinese pork jerky,0.2882
+120,two buddies chatting casually outside a cafe,0.3585
+121,buddies laughing while walking along the street,0.812
+122,buddies sharing a meal at the hawker centre,0.3307
+123,a group of buddies playing basketball outdoors,0.9585
+124,buddies taking selfies at a famous landmark,0.5485
+125,two buddies relaxing together at the beach,0.5545

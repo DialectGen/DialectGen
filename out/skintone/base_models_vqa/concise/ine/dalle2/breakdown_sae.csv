@@ -1,0 +1,74 @@
+Prompt_Index,SAE_Prompt,Normalized_Score
+0,a crowded monastery,0.9996
+1,a painting of some champagne,1.0
+2,an old midwife,1.0
+3,a midwife with a woman,0.0
+4,a painting of a midwife,1.0
+5,a young midwife,1.0
+6,a midwife sitting down,1.0
+7,a photograph of a midwife with a cat,1.0
+8,a medical practitioner at a table,1.0
+9,an old medical practitioner,1.0
+10,a medical practitioner at a park,0.0
+11,a medical practitioner with a woman,1.0
+12,a medical practitioner with a notepad,1.0
+13,a painting of a medical practitioner,1.0
+14,a barber in red,1.0
+15,an old barber,1.0
+16,a barber by the chair,0.0
+17,a barber working,1.0
+18,a person walking into a police station,0.0
+19,a father in front of a house,0.0024
+20,a girl standing with her father,1.0
+21,a crying father,0.0
+22,a father on a bed,1.0
+23,an old father with a dog,1.0
+24,an old father in the kitchen,1.0
+25,a beautiful queen,0.0
+26,a queen in a garden,1.0
+27,a painting of an old queen,1.0
+28,a queen covered in snow,1.0
+29,a queen in a large hall,0.0
+30,an old queen on a bed,0.0
+31,a painting of a eggplant,0.0
+32,a person with some food,0.0
+33,a family enjoying food,0.0
+34,a bustling town,0.0
+35,a lively town,0.0
+36,a painting of incense,0.0
+37,a busy warehouse,1.0
+38,a very busy gas station,0.0
+39,a man with a blue motorcycle,0.0
+40,a black motorcycle,0.0034
+41,an old craftsman,1.0
+42,a group of craftsmen,0.0
+43,a craftsman in a house,1.0
+44,a dirty craftsman,1.0
+45,a craftsman in orange,1.0
+46,a craftsman in a big city,1.0
+47,an angry supervisor,1.0
+48,an old supervisor,0.9992
+49,a supervisor in a room,0.0
+50,a painting of a supervisor,0.0
+51,a supervisor in the office,1.0
+52,a supervisor with a group of people,0.0
+53,a child with water,1.0
+54,a man next to a checkpoint,0.0
+55,a lively luncheon,1.0
+56,a luncheon in the building,1.0
+57,an indoor luncheon,1.0
+58,a luncheon in the city,1.0
+59,a luncheon at school,1.0
+60,the inside of a gambling den,0.0472
+61,a gambling room,0.5
+62,a place of gambling,1.0
+63,a bustling gambling den,0.0
+64,a luxurious gambling den,1.0
+65,a group of people gambling,1.0
+66,a mechanic inspecting a spare tire,1.0
+67,a group photo of my classmates,0.0
+68,my classmate smiling,0.0
+69,two classmates studying,1.0
+70,a classmate at a desk,0.0099
+71,classmates outside the school,0.0
+72,a classmate playing basketball,0.0

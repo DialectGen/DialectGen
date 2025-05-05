@@ -1,0 +1,135 @@
+Prompt_Index,SAE_Prompt,Normalized_Score
+0,a painting of shaved ice,0.808
+1,a man enjoying shaved ice,0.8467
+2,cup of shaved ice on a table,0.7412
+3,a blue shaved ice,0.7816
+4,a friend group,0.6783
+5,a big friend group,0.6969
+6,a friend group at school,0.7713
+7,a friend group at the park,0.5599
+8,a loud friend group,0.8243
+9,a painting of a godfather,0.7513
+10,a godfather,0.4719
+11,a godfather in a house,0.553
+12,an old godfather,0.5808
+13,a man with a godfather,0.5756
+14,a woman with a godfather,0.7145
+15,a big field,0.2804
+16,a person at a field,0.2776
+17,a green field,0.4061
+18,an old jail,0.2696
+19,a modern jail,0.333
+20,a small prison,0.2151
+21,go to prison,0.7003
+22,a painting of a girlfriend,0.7093
+23,a girlfriend in a home,0.3803
+24,a girlfriend in a car,0.5233
+25,a girlfriend walking,0.188
+26,me and my girlfriend,0.7571
+27,at the park with my girlfriend,0.6983
+28,my dad irons shirts,0.6291
+29,she irons daily,0.6121
+30,they iron clothes,0.4616
+31,I iron pants,0.4405
+32,we iron uniforms,0.4783
+33,he likes to iron,0.8622
+34,a person exploring El Paso,0.6348
+35,a painting of a brother,0.7803
+36,a man hiking with his brother,0.5359
+37,a brother in a house,0.6306
+38,me with my brother,0.7803
+39,a brother at a table,0.5885
+40,a brother at a park,0.6819
+41,a painting of a sister,0.6963
+42,a man hiking with his sister,0.5618
+43,a sister in a house,0.4484
+44,me with my sister,0.3379
+45,a sister at a table,0.6422
+46,a sister at a park,0.5889
+47,a painting of brothers,0.7913
+48,brothers in a house,0.5801
+49,me and my brothers,0.8654
+50,brothers by a table,0.8007
+51,brothers together,0.7632
+52,brothers walking,0.5587
+53,a painting of sisters,0.5887
+54,sisters in a house,0.4729
+55,me and my sisters,0.7451
+56,sisters by a table,0.5416
+57,sisters together,0.6118
+58,sisters walking,0.2602
+59,a painting of Mexican American,0.6006
+60,a Mexican American at a park,0.4544
+61,a Mexican American neighborhood,0.3366
+62,a Mexican American at a store,0.6434
+63,a young Mexican American,0.5306
+64,an old Mexican American,0.5706
+65,a young man in a house,0.4452
+66,a young man in a park,0.6351
+67,a painting of a young man,0.5505
+68,a young man in a neighborhood,0.2814
+69,a young man on the ground,0.5612
+70,a young man leaning,0.4593
+71,a painting of a young man,0.5505
+72,a young man on a sidewalk,0.5207
+73,a young man on a trail,0.3297
+74,a young man in a park,0.6351
+75,a young man in a neighborhood,0.2814
+76,a young man on a street,0.5003
+77,a painting of a man,0.7361
+78,a big man,0.5134
+79,a smaller man,0.5556
+80,a man in a house,0.3562
+81,a man in a park,0.2768
+82,a man on a street,0.2918
+83,a painting of a godmother,0.8539
+84,an old godmother,0.8391
+85,a middle-aged godmother,0.5705
+86,a godmother in a house,0.3714
+87,a godmother at a park,0.5992
+88,a godmother in a car,0.7231
+89,a guy acting crazy,0.6617
+90,a crazy cat,0.7494
+91,a crazy dog,0.6685
+92,a crazy painting,0.4366
+93,a crazy toy,0.8282
+94,a daughter,0.5774
+95,a daughter at home,0.4149
+96,a daughter at a park,0.6651
+97,a younger daughter,0.6678
+98,an older daughter,0.6499
+99,a painting of a daugher,0.7035
+100,a son,0.5437
+101,a son at home,0.7587
+102,a son at a park,0.7941
+103,a younger son,0.7928
+104,an older son,0.8379
+105,a painting of a son,0.8357
+106,a California landscape,0.6064
+107,a city in California,0.4745
+108,a California suburb,0.6314
+109,money on the sidewalk,0.6399
+110,a painting of a close friend,0.7044
+111,me and my close friend,0.6307
+112,a close friend in a house,0.4137
+113,a close friend at a cafe,0.3677
+114,a close friend on the sidewalk,0.4414
+115,a close friend in a park,0.3272
+116,a person pampered himself,0.5233
+117,a couple getting pampered,0.635
+118,a woman getting pampered,0.5437
+119,a couple getting lunch,0.3764
+120,lunch in the meadow,0.5061
+121,a boy at the park,0.7682
+122,a boy in a house,0.6153
+123,a boy on the sidewalk,0.5335
+124,a painting of a chamaco,0.1924
+125,a boy at a school,0.587
+126,a boy and a soccer ball,0.8004
+127,a girl at the park,0.5094
+128,a girl in a house,0.4442
+129,a girl on the sidewalk,0.2281
+130,a girl and a basketball,0.7696
+131,a girl at a school,0.3892
+132,a girl at a store,0.5523
+133,a woman wearing flip-flops,0.5049

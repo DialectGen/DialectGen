@@ -1,0 +1,223 @@
+Prompt_Index,SAE_Prompt,Score
+0,a red semitruck driving down the street,0.3133
+1,a delivery semitruck loaded with packages,0.3159
+2,a semitruck parked by the curb,0.2932
+3,a semitruck parked at a stop sign,0.3196
+4,a semitruck hauling timber,0.3249
+5,a semitruck with a flat tire,0.2778
+6,a cozy sweater hanging in a closet,0.3366
+7,a man wearing a purple sweater,0.3383
+8,a woman knitting a brown sweater,0.3652
+9,a sweater with reindeer patterns,0.3701
+10,a sweater on a hanger,0.3101
+11,a sweater folded neatly,0.2908
+12,a girl knocking on the bathroom door,0.3183
+13,a set of fresh towels in the bathroom,0.3051
+14,a line of people waiting outside the bathroom,0.3152
+15,a bathroom with a leaky faucet,0.2782
+16,a tidy bathroom with shiny blue wall tiles,0.3326
+17,a bathroom with a shower curtain,0.3093
+18,a pack of sausages at the grocery store,0.3191
+19,a plate of sausages and eggs with toast,0.3473
+20,a man cutting a sausage in half,0.3345
+21,sausages on a grill,0.3135
+22,sausages and mashed potatoes on a plate,0.3641
+23,my sausages sizzling in a pan,0.3017
+24,a woman throwing away the trash,0.3085
+25,a bin overflowing with trash,0.2754
+26,a raccoon going through trash,0.344
+27,a trash can near a park bench,0.2646
+28,a trash pile in an alley,0.3137
+29,a trash dumpster in a construction site,0.3314
+30,a top-floor apartment with a view of the city,0.324
+31,a college student's apartment,0.28
+32,a cozy apartment in the city,0.2988
+33,an apartment with a balcony overlooking the city,0.2896
+34,an apartment with a rooftop garden,0.2801
+35,my apartment with an open-plan kitchen,0.2947
+36,a man loading luggage into the car trunk,0.3144
+37,a spare tire in the car trunk,0.2897
+38,a woman putting groceries in the car trunk,0.3013
+39,a car trunk filled with groceries,0.3284
+40,a car trunk packed for a road trip,0.3091
+41,my car trunk after a shopping spree,0.2885
+42,a boy waiting in the line at a grocery store,0.3279
+43,a line for the rollercoaster,0.2909
+44,a line of cars at a drive-through,0.3122
+45,a line at the ticket counter,0.3391
+46,a line for the morning bus,0.3121
+47,a line at the post office,0.3045
+48,a man ironing creases in his pants,0.3217
+49,a pair of purple pants folded on a chair,0.384
+50,a kid wearing a pair of blue pants,0.3555
+51,a pants display in a store,0.3291
+52,pants with a matching blazer,0.2617
+53,my pants hanging in the closet,0.2758
+54,a woman enjoying a cup of tea with a cookie,0.3763
+55,a tin of assorted cookies,0.2949
+56,a man baking homemade cookies,0.3137
+57,a cookie with chocolate chips,0.3375
+58,a cookie on a baking tray,0.3045
+59,a cookie with a bite taken out,0.32
+60,a beam of light from the flashlight,0.2854
+61,a man searching in the dark with a flashlight,0.3277
+62,a rechargeable LED flashlight,0.3305
+63,my flashlight in a toolbox,0.2897
+64,a flashlight with low battery,0.327
+65,a policeman shining a flashlight at the suspect,0.2722
+66,a mother changing her baby's diaper,0.211
+67,a pack of cloth diapers,0.2966
+68,a happy baby wearing pink diapers,0.1931
+69,a diaper on a changing table,0.2973
+70,diapers with cute patterns,0.3645
+71,a diaper on a clothesline,0.3598
+72,a gasoline station at night,0.3739
+73,a man filling up his car with gasoline,0.3052
+74,a sign showing gasoline prices,0.34
+75,a gasoline pump at a station,0.3314
+76,a gasoline tanker on the road,0.3147
+77,a brightly lit gasoline station sign at night,0.3407
+78,a group of kids kicking a soccer ball,0.2989
+79,a soccer player in the stadium,0.2594
+80,a soccer player celebrating a win,0.3079
+81,my soccer cleats on the field,0.2935
+82,a soccer goalie in the field,0.3016
+83,a goalkeeper trying to catch a soccer ball,0.2735
+84,a woman picking up a precription at the pharmacy,0.2889
+85,a wide range of products at the pharmacy,0.3039
+86,a group of people waiting at the pharmacy,0.3049
+87,a pharmacy counter with vitamins,0.3086
+88,my pharmacy where I get prescriptions,0.3239
+89,a pharmacy with a neon sign,0.3454
+90,a bowl of french fries at a restaurant,0.3428
+91,a boy eating french fries,0.346
+92,a plate with a burger and french fries,0.3046
+93,french fries with ketchup and mayo,0.3369
+94,my french fries from the local fry shop,0.2955
+95,a french fries portion next to a burger,0.2965
+96,an office belonging to an attorney,0.3295
+97,an attorney talking to his client,0.2886
+98,a man attending a meeting with his attorney,0.2853
+99,an attorney in a courtroom,0.3163
+100,my attorney discussing the case,0.2785
+101,an attorney with legal books,0.3369
+102,a school janitor sweeping the hallway,0.3727
+103,a man talking to a janitor at the mall,0.328
+104,a tired janitor in an empty hallway,0.3291
+105,a janitor sweeping the school hallway,0.3826
+106,an office janitor in a supply closet,0.3352
+107,a building janitor taking out the trash,0.2859
+108,a man preparing dinner on the stove,0.3063
+109,a bowl of hot soup sitting on the stove,0.3064
+110,a modern electric stove with digital controls,0.3143
+111,a stove with boiling pots,0.2863
+112,a stove with a baking oven,0.3232
+113,my stove after making breakfast,0.2508
+114,a woman putting the baby down in the crib,0.2948
+115,a man setting up a crib,0.3232
+116,a baby in a colorful crib,0.1976
+117,a crib with soft blankets,0.3234
+118,a baby crib with wooden bars,0.3325
+119,a crib with stuffed animals,0.3267
+120,an advertisement on a city billboard,0.3036
+121,a worker changing the image on the billboard,0.3029
+122,a group of people staring at a large billboard,0.351
+123,a billboard advertising a concert,0.3284
+124,my billboard design displayed downtown,0.3226
+125,a billboard lit up at night,0.3301
+126,a woman using a vacuum cleaner to clean the carpet,0.3624
+127,a bright red vacuum cleaner in a store,0.3681
+128,a dirty vacuum cleaner on the carpet,0.3584
+129,a vacuum cleaner stored in a closet,0.3392
+130,a red vacuum cleaner with a long cord on the floor,0.3526
+131,a man using a vacuum cleaner on a carpeted floor,0.3411
+132,a man holding a water pitcher,0.3389
+133,a boy refilling his cup with a water pitcher,0.3207
+134,a decorative ceramic pitcher,0.3527
+135,a pitcher filled with lemonade,0.3682
+136,a pitcher with a floral design,0.3291
+137,a pitcher in the refrigerator,0.3541
+138,a mailman delivering packages,0.294
+139,a man having a friendly chat with the mailman,0.2896
+140,a mailman in blue uniform,0.3455
+141,a mailman in a truck,0.3117
+142,a mailman at the front door,0.3195
+143,my mailman with a big bag,0.3021
+144,a woman taking a walk with her baby in the baby carriage,0.3323
+145,a baby carriage with a sunshade parked on a sidewalk,0.2968
+146,a bright pink baby carriage next to a bench,0.3581
+147,a baby carriage with a sleeping baby,0.3133
+148,a baby carriage near a playground,0.2931
+149,a man walking with a baby carriage on a cobblestone street,0.3393
+150,a luxurious sedan parked outside a mansion,0.3312
+151,the spacious interior of the sedan,0.3218
+152,a man inside a black sedan,0.2947
+153,a sedan parked in the driveway,0.2814
+154,a sedan with tinted windows,0.2889
+155,my sedan at the gas station,0.279
+156,a boy sitting on the hood of the car,0.3221
+157,a car with a red hood,0.2664
+158,a car at a repair shop with an open hood,0.2766
+159,a hood with a company logo,0.2796
+160,a hood in the process of being painted,0.3017
+161,a hood with racing stripes,0.3073
+162,a woman chopping cilantro in the kitchen,0.3389
+163,cilantro at the supermarket,0.3536
+164,cilantro sprinked on top of pasta,0.2884
+165,cilantro garnishing a curry,0.2548
+166,cilantro leaves on a cutting board,0.3701
+167,a cilantro bunch at the market,0.3124
+168,a man slicing a zucchini in the kitchen,0.31
+169,a woman picking a zucchini at the market,0.3032
+170,a large basket of zucchinis,0.3209
+171,a zucchini in a vegetable garden,0.344
+172,my zucchini in a stir fry,0.3312
+173,a zucchini in a shopping basket,0.3493
+174,a crowd of people waiting for the subway,0.3185
+175,a busy subway station with people rushing inside,0.2887
+176,a man sitting inside the subway,0.3324
+177,a subway train arriving,0.3214
+178,my subway ride during rush hour,0.301
+179,a subway map on the wall,0.324
+180,a grandma slicing an eggplant in the kitchen,0.3374
+181,a large basket of eggplants,0.3435
+182,a man picking an eggplant at the market,0.2646
+183,an eggplant in the supermarket,0.3251
+184,a grilled eggplant with olive oil,0.3923
+185,my eggplant in a curry,0.2976
+186,a child waiting at a crosswalk,0.3607
+187,a faded crosswalk,0.3127
+188,bikes crossing a crosswalk,0.2949
+189,a crosswalk near a park,0.3274
+190,a woman walking over a crosswalk,0.2719
+191,a crosswalk near traffic lights,0.2959
+192,trucks parked along the highway,0.2574
+193,a crowded highway during rush hour,0.2927
+194,a highway passing through mountains,0.2907
+195,an aerial view of a highway,0.3168
+196,highway signs at night,0.3185
+197,a highway blocked due to accident,0.28
+198,a band-aid covering a small wound,0.3381
+199,a band-aid on someone's forehead,0.321
+200,a band-aid floating in a swimming pool,0.3971
+201,a discarded band-aid on the sidewalk,0.3683
+202,a band-aid with cartoon characters,0.2875
+203,a waterproof band-aid on a hand,0.3361
+204,a black trash bag left outdoors,0.3086
+205,a trash bag full of leaves,0.3503
+206,a neatly tied trash bag,0.3156
+207,a trash bag beside a dumpster,0.3001
+208,a trash bag overflowing with trash,0.2615
+209,a stack of unused trash bags,0.3084
+210,a vest displayed on a mannequin,0.3008
+211,a checked vest on display,0.3177
+212,a man buttoning his vest,0.331
+213,a silk vest in a boutique,0.322
+214,a vest matching formal pants,0.3167
+215,a vest embroidered with flowers,0.3601
+216,arugula leaves in a salad spinner,0.3541
+217,a sandwich filled with arugula,0.354
+218,chopped arugula sprinkled on pasta,0.3298
+219,a burger topped with fresh arugula,0.328
+220,a gardener harvesting arugula leaves,0.3051
+221,a basket filled with fresh arugula,0.3762

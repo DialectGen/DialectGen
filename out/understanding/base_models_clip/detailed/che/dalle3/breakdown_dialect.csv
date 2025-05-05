@@ -1,0 +1,205 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Score
+0,a large black torque driving on a neighborhood street,a large black truck driving on a neighborhood street,0.2611
+1,a woman driving a green torque on a farm,a woman driving a green truck on a farm,0.2911
+2,a torque with a dog in the back,a truck with a dog in the back,0.3208
+3,a man driving a torque on the highway,a man driving a truck on the highway,0.2521
+4,two kids sitting on the back of a torque,two kids sitting on the back of a truck,0.2164
+5,a torque parked on a driveway,a truck parked on a driveway,0.1934
+6,a street vendor selling raspa,a street vendor selling shaved ice,0.2643
+7,a man enjoying raspa on a hot day,a man enjoying shaved ice on a hot day,0.3083
+8,a cup of raspa near a tree,a cup of shaved ice near a tree,0.3761
+9,a colorful cup of raspa next to a spoon,a colorful cup of shaved ice next to a spoon,0.2766
+10,a girl enjoying a bowl of raspa in the park,a girl enjoying a bowl of shaved ice in the park,0.3426
+11,two people sharing a cup of raspa on the table,two people sharing a cup of shaved ice on the table,0.304
+12,a street mural of a clicka hanging out together,a street mural of a friend group hanging out together,0.281
+13,a group of teens in a clicka walking through the neighborhood,a group of teens in a friend group walking through the neighborhood,0.3105
+14,a clicka gathered around a bench talking,a friend group gathered around a bench talking,0.2883
+15,a clicka laughing loudly by a taco stand,a friend group laughing loudly by a taco stand,0.2776
+16,a clicka posing for a picture in front of a mural,a friend group posing for a picture in front of a mural,0.2622
+17,a clicka skateboarding down the street together,a friend group skateboarding down the street together,0.3074
+18,a padrino cutting a birthday cake,a godfather cutting a birthday cake,0.2592
+19,a padrino officiating a wedding ceremony,a godfather officiating a wedding ceremony,0.2816
+20,a padrino playing chess with his godson,a godfather playing chess with his godson,0.3231
+21,a padrino cheering at a baseball game,a godfather cheering at a baseball game,0.3012
+22,a padrino enjoying a cigar in a lounge,a godfather enjoying a cigar in a lounge,0.3221
+23,a padrino gifting a necklace at a baptism,a godfather gifting a necklace at a baptism,0.3013
+24,a person hiking through a fil,a person hiking through a field,0.253
+25,a park with a big fil,a park with a big field,0.2687
+26,a person running through a fil,a person running through a field,0.2705
+27,a brown dog running in the fil,a brown dog running in the field,0.3059
+28,two kids playing around in the fil,two kids playing around in the field,0.261
+29,a wide and open fil next to the lake,a wide and open field next to the lake,0.2555
+30,two men sitting in a pinta cell,two men sitting in a jail cell,0.3186
+31,a pinta guard standing in front of a wall,a jail guard standing in front of a wall,0.2466
+32,a tall pinta building surrounded by barbed wire,a tall jail building surrounded by barbed wire,0.3442
+33,a small pinta with high fences,a small prison with high fences,0.1956
+34,a man about to go to pinta,a man about to go to prison,0.2
+35,inside a pinta with barred windows,inside a prison with barred windows,0.2295
+36,a person and their jaina walking down a street,a person and their girlfriend walking down a street,0.278
+37,a man and his jaina laughing,a man and his girlfriend laughing,0.3294
+38,a person and their jaina dressed in similar looking clothes,a person and their girlfriend dressed in similar looking clothes,0.2674
+39,my jaina and I driving in a blue car,my girlfriend and I driving in a blue car,0.2839
+40,me having dinner in a restaurant with my jaina,me having dinner in a restaurant with my girlfriend,0.2801
+41,a sunny day in the park with my jaina,a sunny day in the park with my girlfriend,0.3011
+42,a person planchar a dress shirt,a person irons a dress shirt,0.3234
+43,a person planchar a towel in a sunny room,a person irons a towel in a sunny room,0.3327
+44,a man planchar his pants before work,a man irons his pants before work,0.3169
+45,my mother planchar the curtains,my mother irons the curtains,0.2305
+46,a woman planchar clothes in the laundry room,a woman irons clothes in the laundry room,0.3175
+47,my brother planchar his uniform shirt,my brother irons his uniform shirt,0.2132
+48,a person exploring Chuco on a sunny afternoon,a person exploring El Paso on a sunny afternoon,0.264
+49,a lively restaurant in Chuco bustling at night,a lively restaurant in El Paso bustling at night,0.2812
+50,a quiet street in Chuco lined with flowering plants,a quiet street in El Paso lined with flowering plants,0.2938
+51,a crowded bus station in Chuco near downtown,a crowded bus station in El Paso near downtown,0.2276
+52,a typical single-story house in Chuco with a porch,a typical single-story house in El Paso with a porch,0.2677
+53,a bird's eye view of Chuco with mountains in background,a bird's eye view of El Paso with mountains in background,0.2237
+54,a woman and her carnal eating at a restaurant,a woman and her brother eating at a restaurant,0.2926
+55,a man hiking with his carnal on a forest trail,a man hiking with his brother on a forest trail,0.2995
+56,my carnal posing for a picture,my brother posing for a picture,0.2166
+57,me standing with my carnal,me standing with my brother,0.2333
+58,my carnal and I sitting at a table,my brother and I sitting at a table,0.2174
+59,my carnal riding a bike,my brother riding a bike,0.2066
+60,a woman and her carnalita eating at a restaurant,a woman and her sister eating at a restaurant,0.3129
+61,a man hiking with his carnalita through a mountain path,a man hiking with his sister through a mountain path,0.3117
+62,me and my carnalita posing for a picture,me and my sister posing for a picture,0.2371
+63,me standing with my carnalita,me standing with my sister,0.2273
+64,my carnalita and I sitting at a table,my sister and I sitting at a table,0.2255
+65,my carnalita riding a bike,my sister riding a bike,0.2083
+66,my carnales playing basketball together,my brothers playing basketball together,0.2586
+67,a carnales duo in a rock band,a brothers duo in a rock band,0.2507
+68,my carnales on a camping trip,my brothers on a camping trip,0.2681
+69,a carnales wrestling match,a brothers wrestling match,0.265
+70,my carnales building a treehouse,my brothers building a treehouse,0.2501
+71,a carnales handshake at graduation,a brothers handshake at graduation,0.3207
+72,a carnalas moment at a wedding,a sisters moment at a wedding,0.2951
+73,my carnalas studying together,my sisters studying together,0.265
+74,a carnalas dance routine,a sisters dance routine,0.2392
+75,my carnalas sharing a secret,my sisters sharing a secret,0.2574
+76,my carnalas having a tea party in the garden,my sisters having a tea party in the garden,0.247
+77,my carnalas braiding each other's hair,my sisters braiding each other's hair,0.1907
+78,a group of raza at a family reunion,a group of mexican americans at a family reunion,0.2871
+79,a raza activist speaking at a rally,a mexican american activist speaking at a rally,0.3074
+80,a raza community center hosting an event,a mexican american community center hosting an event,0.2983
+81,a raza cultural festival in the park,a mexican american cultural festival in the park,0.2539
+82,a raza musician performing live,a mexican american musician performing live,0.2386
+83,a raza student at a graduation ceremony,a mexican american student at a graduation ceremony,0.281
+84,a vato wearing sunglasses and a bandana,a young man wearing sunglasses and a bandana,0.3312
+85,a vato skateboarding down a hill,a young man skateboarding down a hill,0.2793
+86,a vato leaning against a lowrider,a young man leaning against a lowrider,0.2959
+87,a vato playing an acoustic guitar,a young man playing an acoustic guitar,0.3174
+88,a vato writing in a journal at a cafe,a young man writing in a journal at a cafe,0.2882
+89,a vato shooting pool at a bar,a young man shooting pool at a bar,0.3241
+90,an ese playing basketball in a local court,a young man playing basketball in a local court,0.3106
+91,an ese walking his pitbull in the neighborhood,a young man walking his pitbull in the neighborhood,0.3172
+92,an ese buying street tacos from a food truck,a young man buying street tacos from a food truck,0.3298
+93,an ese riding a BMX bike in a skate park,a young man riding a BMX bike in a skate park,0.3109
+94,an ese breakdancing on a city street,a young man breakdancing on a city street,0.2864
+95,an ese playing the trumpet in a mariachi band,a young man playing the trumpet in a mariachi band,0.3393
+96,a yonke with stacks of old tires,a junkyard with stacks of old tires,0.3658
+97,a yonke with a rusty old crane,a junkyard with a rusty old crane,0.3292
+98,a yonke filled with abandoned bicycles,a junkyard filled with abandoned bicycles,0.3504
+99,a yonke with a broken-down school bus,a junkyard with a broken-down school bus,0.3683
+100,a yonke guarded by a stray dog,a junkyard guarded by a stray dog,0.3769
+101,a yonke with piles of scrap metal,a junkyard with piles of scrap metal,0.3259
+102,a pisto bottle with a lime wedge,an alcohol bottle with a lime wedge,0.314
+103,a pisto cocktail with an umbrella,an alcohol cocktail with an umbrella,0.3367
+104,a pisto shot glass on a bar counter,an alcohol shot glass on a bar counter,0.3093
+105,a pisto flask in a back pocket,an alcohol flask in a back pocket,0.2912
+106,a pisto can sitting by a campfire,an alcohol can sitting by a campfire,0.3254
+107,a pisto mixed drink with fruit garnish,an alcohol mixed drink with fruit garnish,0.2722
+108,a bato grilling burgers at a cookout,a man grilling burgers at a cookout,0.3329
+109,a bato riding a horse at a ranch,a man riding a horse at a ranch,0.2976
+110,a bato repairing a broken fence,a man repairing a broken fence,0.302
+111,a bato practicing archery in a field,a man practicing archery in a field,0.3182
+112,a bato jogging in a city park,a man jogging in a city park,0.3103
+113,a bato watching a sunset from a pier,a man watching a sunset from a pier,0.3383
+114,a madrina baking cookies for a bake sale,a godmother baking cookies for a bake sale,0.3069
+115,a madrina attending a school play,a godmother attending a school play,0.2529
+116,a madrina planting flowers in the garden,a godmother planting flowers in the garden,0.2833
+117,a madrina knitting a sweater for her godchild,a godmother knitting a sweater for her godchild,0.2932
+118,a madrina singing in a church choir,a godmother singing in a church choir,0.3172
+119,a madrina decorating a Christmas tree,a godmother decorating a Christmas tree,0.2908
+120,a loco guy dancing in the rain,a crazy guy dancing in the rain,0.356
+121,a loco stunt on a skateboard,a crazy stunt on a skateboard,0.2833
+122,a loco artist painting upside down,a crazy artist painting upside down,0.2907
+123,my loco dog chasing its tail,my crazy dog chasing its tail,0.2646
+124,a loco expression on her face,a crazy expression on her face,0.2859
+125,a loco scene at the concert,a crazy scene at the concert,0.2628
+126,my mi'ja playing in a sandbox,my daughter playing in a sandbox,0.208
+127,a mi'ja drawing with chalk on the sidewalk,a daughter drawing with chalk on the sidewalk,0.3099
+128,my mi'ja holding a big ice cream cone,my daughter holding a big ice cream cone,0.2971
+129,a mi'ja riding a bike for the first time,a daughter riding a bike for the first time,0.2853
+130,a mi'ja wearing a princess costume,a daughter wearing a princess costume,0.2815
+131,my mi'ja exploring the beach,my daughter exploring the beach,0.282
+132,my mijo kicking a soccer ball,my son kicking a soccer ball,0.2713
+133,a mijo climbing a tree,a son climbing a tree,0.2936
+134,my mijo reading a comic book,my son reading a comic book,0.2949
+135,a mijo playing with a toy train,a son playing with a toy train,0.3267
+136,my mijo catching a fish,my son catching a fish,0.2688
+137,a mijo building a sandcastle,a son building a sandcastle,0.3284
+138,a carnitas taco with cilantro and onions,a pulled pork taco with cilantro and onions,0.3202
+139,my carnitas burrito bowl,my pulled pork burrito bowl,0.2856
+140,a carnitas slider with barbecue sauce,a pulled pork slider with barbecue sauce,0.3546
+141,an overflowing carnitas sandwich,an overflowing pulled pork sandwich,0.3011
+142,a carnitas pizza with jalapenos,a pulled pork pizza with jalapenos,0.3401
+143,a carnitas platter at a family barbecue,a pulled pork platter at a family barbecue,0.2772
+144,a sunny day in califas,a sunny day in california,0.3152
+145,a surfer on a califas wave,a surfer on a california wave,0.2917
+146,my vacation in califas,my vacation in california,0.2754
+147,a road trip through califas,a road trip through california,0.2963
+148,an iconic bridge in califas,an iconic bridge in california,0.315
+149,a bustling market in califas,a bustling market in california,0.3008
+150,a stack of baro on the counter,a stack of money on the counter,0.2251
+151,my wallet full of baro,my wallet full of money,0.2931
+152,an envelope with baro,an envelope with money,0.2481
+153,a jar filled with baro,a jar filled with money,0.2394
+154,a hand dropping baro into a piggy bank,a hand dropping money into a piggy bank,0.279
+155,a suitcase overflowing with baro,a suitcase overflowing with money,0.2593
+156,a cuate at a campfire,a close friend at a campfire,0.2711
+157,my cuate wearing a birthday hat,my close friend wearing a birthday hat,0.2909
+158,a memory with my cuate at the beach,a memory with my close friend at the beach,0.2402
+159,an afternoon with my cuate at the cafe,an afternoon with my close friend at the cafe,0.1983
+160,a photo of me and my cuate,a photo of me and my close friend,0.2551
+161,a cuate helping with homework,a close friend helping with homework,0.2377
+162,a room set up to apapachar someone,a room set up to pamper someone,0.2955
+163,a dog getting apapachar with a warm blanket,a dog getting pampered with a warm blanket,0.2958
+164,my favorite apapachar session with candles,my favorite pampering session with candles,0.2817
+165,a man deciding to apapachar himself,a man deciding to pamper himself,0.2348
+166,a day out to apapachar with friends,a day out to pamper with friends,0.2161
+167,a cat ready to apapachar in the sun,a cat ready to pamper in the sun,0.306
+168,a delicious lonche in the garden,a delicious lunch in the garden,0.3075
+169,my favorite lonche spot in the city,my favorite lunch spot in the city,0.2549
+170,an appetizing lonche on a plate,an appetizing lunch on a plate,0.2624
+171,a group of people sharing a lonche,a group of people sharing a lunch,0.301
+172,a lonche packed for a picnic,a lunch packed for a picnic,0.295
+173,a child excited for his lonche break,a child excited for his lunch break,0.2606
+174,a chamaco flying a kite,a boy flying a kite,0.3011
+175,my chamaco wearing a school uniform,my boy wearing a school uniform,0.2848
+176,an adventurous chamaco climbing a tree,an adventurous boy climbing a tree,0.3185
+177,a chamaco with his toy collection,a boy with his toy collection,0.3321
+178,a chamaco making a sandcastle,a boy making a sandcastle,0.3345
+179,a tired chamaco after soccer practice,a tired boy after soccer practice,0.305
+180,a chamaca with a flower crown,a girl with a flower crown,0.3012
+181,my chamaca's first day at school,my girl's first day at school,0.2572
+182,a chamaca playing with her dolls,a girl playing with her dolls,0.3374
+183,an artistic chamaca painting a picture,an artistic girl painting a picture,0.3077
+184,a chamaca practicing her dance routine,a girl practicing her dance routine,0.2268
+185,a chamaca laughing at a playground,a girl laughing at a playground,0.3478
+186,a child running outside wearing bright blue chanclas,a child running outside wearing bright blue flip-flops,0.3049
+187,chanclas left abandoned by the edge of a pool,flip-flops left abandoned by the edge of a pool,0.2715
+188,an elderly man relaxing outdoors wearing comfortable chanclas,an elderly man relaxing outdoors wearing comfortable flip-flops,0.3119
+189,chanclas neatly arranged next to a door entrance,flip-flops neatly arranged next to a door entrance,0.2792
+190,a young woman walking her dog wearing colorful chanclas,a young woman walking her dog wearing colorful flip-flops,0.297
+191,sandy chanclas lying near a beach chair at sunset,sandy flip-flops lying near a beach chair at sunset,0.3266
+192,a large pot of frijol cooking on the kitchen stove,a large pot of beans cooking on the kitchen stove,0.3059
+193,a wooden spoon stirring freshly prepared frijol in a bowl,a wooden spoon stirring freshly prepared beans in a bowl,0.3436
+194,a small bowl of frijol served next to fresh tortillas,a small bowl of beans served next to fresh tortillas,0.3262
+195,a woman placing frijol onto a plate at a market,a woman placing beans onto a plate at a market,0.3451
+196,a man holding a bag of dried frijol at the store,a man holding a bag of dried beans at the store,0.3482
+197,a table set with frijol and rice for family dinner,a table set with beans and rice for family dinner,0.346
+198,a refri fully stocked with fresh fruits and cold drinks,a fridge fully stocked with fresh fruits and cold drinks,0.3442
+199,a young woman organizing vegetables inside a spacious refri,a young woman organizing vegetables inside a spacious fridge,0.3544
+200,a stainless steel refri standing in a bright modern kitchen,a stainless steel fridge standing in a bright modern kitchen,0.3314
+201,a small refri placed next to a kitchen countertop,a small fridge placed next to a kitchen countertop,0.3042
+202,an old white refri covered with colorful fridge magnets,an old white fridge covered with colorful fridge magnets,0.3766
+203,a man reaching into a refri to grab some milk,a man reaching into a fridge to grab some milk,0.3308
