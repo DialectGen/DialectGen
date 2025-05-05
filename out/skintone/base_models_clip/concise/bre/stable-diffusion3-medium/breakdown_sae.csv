@@ -1,0 +1,44 @@
+Prompt_Index,SAE_Prompt,Normalized_Score
+0,a long line,0.4819
+1,a short line,0.3359
+2,a painting of a long line,0.6415
+3,a line of people,0.4137
+4,a line outside the store,0.3419
+5,a line for food,0.5322
+6,a team scoring a soccer goal,0.6737
+7,queue at a pharmacy shop,0.3267
+8,an attorney at a table,0.7663
+9,an old attorney,0.5346
+10,an attorney at a park,0.2298
+11,an attorney with a woman,0.4753
+12,an attorney with a notepad,0.6789
+13,a painting of an attorney,0.565
+14,a school janitor,0.708
+15,a dirty janitor,0.7757
+16,a tired janitor,0.8425
+17,a busy janitor,0.7113
+18,a painting of an old janitor,0.7881
+19,a janitor in a mall,0.6294
+20,a young mailman,0.9334
+21,a lazy mailman,0.795
+22,a tired mailman,0.7934
+23,a busy mailman,0.5619
+24,a painting of an old mailman,0.8471
+25,a mailman on the street,0.6178
+26,inside of the subway,0.2306
+27,a subway station,0.2223
+28,a sliced eggplant,0.2218
+29,an eggplant on the table,0.11
+30,eggplant in a basket,0.0513
+31,a painting of an eggplant,0.2714
+32,a moldy eggplant,0.1564
+33,a dish with eggplant,0.3643
+34,people on a crosswalk,0.562
+35,a busy crosswalk,0.6298
+36,a woman on a crosswalk,0.5879
+37,a band-aid wrapped around a finger,0.7481
+38,a band-aid covering a small cut,0.7133
+39,a band-aid on an injured knee,0.4724
+40,a colorful band-aid on an elbow,0.653
+41,a band-aid for a cut,0.7205
+42,a band-aid peeling off skin,0.8908

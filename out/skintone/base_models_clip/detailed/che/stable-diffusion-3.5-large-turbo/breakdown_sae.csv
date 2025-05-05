@@ -1,0 +1,137 @@
+Prompt_Index,SAE_Prompt,Normalized_Score
+0,a woman driving a green truck on a farm,0.4729
+1,a man driving a truck on the highway,0.4668
+2,two kids sitting on the back of a truck,0.5622
+3,a street vendor selling shaved ice,0.5661
+4,a man enjoying shaved ice on a hot day,0.446
+5,a girl enjoying a bowl of shaved ice in the park,0.2016
+6,two people sharing a cup of shaved ice on the table,0.7271
+7,a group of teens in a friend group walking through the neighborhood,0.3131
+8,a friend group gathered around a bench talking,0.1897
+9,a friend group laughing loudly by a taco stand,0.2772
+10,a friend group posing for a picture in front of a mural,0.2141
+11,a friend group skateboarding down the street together,0.6632
+12,a godfather cutting a birthday cake,0.4455
+13,a godfather officiating a wedding ceremony,0.5806
+14,a godfather playing chess with his godson,0.2149
+15,a godfather cheering at a baseball game,0.8986
+16,a godfather enjoying a cigar in a lounge,0.3952
+17,a godfather gifting a necklace at a baptism,0.8551
+18,a person hiking through a field,0.3382
+19,a person running through a field,0.3407
+20,two kids playing around in the field,0.5916
+21,two men sitting in a jail cell,0.3683
+22,a jail guard standing in front of a wall,0.2943
+23,a small prison with high fences,0.1666
+24,a man about to go to prison,0.1032
+25,a person and their girlfriend walking down a street,0.1959
+26,a man and his girlfriend laughing,0.3386
+27,a person and their girlfriend dressed in similar looking clothes,0.3351
+28,my girlfriend and I driving in a blue car,0.6524
+29,me having dinner in a restaurant with my girlfriend,0.0742
+30,a sunny day in the park with my girlfriend,0.1497
+31,a person irons a dress shirt,0.6624
+32,a person irons a towel in a sunny room,0.5618
+33,a man irons his pants before work,0.3649
+34,my mother irons the curtains,0.6047
+35,a woman irons clothes in the laundry room,0.3124
+36,my brother irons his uniform shirt,0.6423
+37,a person exploring El Paso on a sunny afternoon,0.3982
+38,a woman and her brother eating at a restaurant,0.4863
+39,a man hiking with his brother on a forest trail,0.514
+40,my brother posing for a picture,0.5218
+41,me standing with my brother,0.2164
+42,my brother and I sitting at a table,0.3446
+43,my brother riding a bike,0.3916
+44,a woman and her sister eating at a restaurant,0.358
+45,a man hiking with his sister through a mountain path,0.4487
+46,me and my sister posing for a picture,0.1378
+47,me standing with my sister,0.0952
+48,my sister and I sitting at a table,0.2047
+49,my sister riding a bike,0.2362
+50,my brothers playing basketball together,0.3094
+51,a brothers duo in a rock band,0.492
+52,my brothers on a camping trip,0.5949
+53,a brothers wrestling match,0.8336
+54,my brothers building a treehouse,0.7618
+55,a brothers handshake at graduation,0.8631
+56,a sisters moment at a wedding,0.469
+57,my sisters studying together,0.2901
+58,a sisters dance routine,0.1815
+59,my sisters sharing a secret,0.1634
+60,my sisters having a tea party in the garden,0.3351
+61,my sisters braiding each other's hair,0.0967
+62,a group of mexican americans at a family reunion,0.1599
+63,a mexican american activist speaking at a rally,0.3589
+64,a mexican american community center hosting an event,0.5552
+65,a mexican american cultural festival in the park,0.2328
+66,a mexican american musician performing live,0.2134
+67,a mexican american student at a graduation ceremony,0.7382
+68,a young man wearing sunglasses and a bandana,0.7983
+69,a young man skateboarding down a hill,0.6559
+70,a young man leaning against a lowrider,0.8258
+71,a young man playing an acoustic guitar,0.461
+72,a young man writing in a journal at a cafe,0.6244
+73,a young man shooting pool at a bar,0.5949
+74,a young man playing basketball in a local court,0.1667
+75,a young man walking his pitbull in the neighborhood,0.646
+76,a young man buying street tacos from a food truck,0.6972
+77,a young man riding a BMX bike in a skate park,0.733
+78,a young man breakdancing on a city street,0.7504
+79,a young man playing the trumpet in a mariachi band,0.4336
+80,a man grilling burgers at a cookout,0.6668
+81,a man riding a horse at a ranch,0.5721
+82,a man repairing a broken fence,0.3865
+83,a man practicing archery in a field,0.3457
+84,a man jogging in a city park,0.4183
+85,a man watching a sunset from a pier,0.3624
+86,a godmother baking cookies for a bake sale,0.7359
+87,a godmother attending a school play,0.6166
+88,a godmother planting flowers in the garden,0.3305
+89,a godmother knitting a sweater for her godchild,0.5759
+90,a godmother singing in a church choir,0.6856
+91,a godmother decorating a Christmas tree,0.4455
+92,a crazy guy dancing in the rain,0.4479
+93,a crazy stunt on a skateboard,0.7394
+94,a crazy artist painting upside down,0.7342
+95,a crazy expression on her face,0.1631
+96,a crazy scene at the concert,0.6034
+97,my daughter playing in a sandbox,0.7041
+98,a daughter drawing with chalk on the sidewalk,0.7492
+99,my daughter holding a big ice cream cone,0.618
+100,a daughter riding a bike for the first time,0.5565
+101,a daughter wearing a princess costume,0.2838
+102,my daughter exploring the beach,0.4905
+103,my son kicking a soccer ball,0.7124
+104,a son climbing a tree,0.8781
+105,my son reading a comic book,0.6895
+106,a son playing with a toy train,0.6914
+107,my son catching a fish,0.9242
+108,a son building a sandcastle,0.7068
+109,a surfer on a california wave,0.7097
+110,my vacation in california,0.2744
+111,a bustling market in california,0.29
+112,a hand dropping money into a piggy bank,0.4924
+113,a close friend at a campfire,0.5312
+114,my close friend wearing a birthday hat,0.3823
+115,a memory with my close friend at the beach,0.1097
+116,an afternoon with my close friend at the cafe,0.1162
+117,a photo of me and my close friend,0.2612
+118,a close friend helping with homework,0.5504
+119,my favorite pampering session with candles,0.7922
+120,a man deciding to pamper himself,0.3583
+121,a day out to pamper with friends,0.5617
+122,a group of people sharing a lunch,0.4392
+123,a child excited for his lunch break,0.8186
+124,a boy flying a kite,0.7432
+125,my boy wearing a school uniform,0.6693
+126,an adventurous boy climbing a tree,0.9067
+127,a boy with his toy collection,0.7185
+128,a boy making a sandcastle,0.6616
+129,a tired boy after soccer practice,0.7015
+130,a girl with a flower crown,0.1979
+131,my girl's first day at school,0.431
+132,a girl playing with her dolls,0.3112
+133,an artistic girl painting a picture,0.4695
+134,a girl practicing her dance routine,0.2437
+135,a girl laughing at a playground,0.6733

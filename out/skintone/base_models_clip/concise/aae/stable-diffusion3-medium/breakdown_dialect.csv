@@ -1,0 +1,81 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,a lil baby,a little baby,0.8024
+1,a painting of a lil boy,a painting of a little boy,0.5816
+2,a lil girl,a little girl,0.2881
+3,a man holla at a girl,a man holler at a girl,0.2922
+4,a man holla at a woman,a man holler at a woman,0.4274
+5,a guy holla at a woman,a guy holler at a woman,0.1308
+6,a guy holla at his homie,a guy holler at his close friend,0.4509
+7,a holla from the audience,a holler from the audience,0.4543
+8,my homie,my close friend,0.4932
+9,my handsome homie,my handsome close friend,0.5782
+10,an old homie,an old close friend,0.5132
+11,me and my homie,me and my close friend,0.6021
+12,a homie from childhood,a close friend from childhood,0.4751
+13,painting of me and my homie,painting of me and my close friend,0.7119
+14,me and my crew,me and my friends,0.6964
+15,me and my large crew,me and my large friends,0.7904
+16,painting of me and my crew,painting of me and my friends,0.8115
+17,me and my small crew,me and my small friends,0.8507
+18,my crew wearing red,my friends wearing red,0.4209
+19,my crew at my house,my friends at my house,0.7802
+20,an old nana,an old grandma,0.7122
+21,my beautiful nana,my beautiful grandma,0.9021
+22,a group of nanas,a group of grandmas,0.3182
+23,my nana in purple,my grandma in purple,0.9026
+24,my nana in her house,my grandma in her house,0.8321
+25,an angry nana,an angry grandma,0.1817
+26,a picture of my bae,a picture of my lover,0.5463
+27,my sleeping bae,my sleeping lover,0.7965
+28,my beautiful bae,my beautiful lover,0.6447
+29,my bae at my house,my lover at my house,0.8316
+30,my bae wearing purple,my lover wearing purple,0.2848
+31,my handsome bae,my handsome lover,0.5509
+32,a kid deposit some dough,a kid deposit some money,0.9572
+33,a man paying with dough,a man paying with money,0.8666
+34,a woman paying with dough,a woman paying with money,0.8376
+35,a man aiming his piece,a man aiming his gun,0.4757
+36,a man wearing grills,a man wearing dental jewelry,0.6684
+37,a woman wearing grills,a woman wearing dental jewelry,0.6235
+38,tipping my lid,tipping my hat,0.7664
+39,wearing a lid,wearing a hat,0.8967
+40,loading the hammer,loading the gun,0.8284
+41,aiming the hammer,aiming the gun,0.2891
+42,a busy hood,a busy neighborhood,0.5575
+43,a man flashing paper,a man flashing bills,0.7066
+44,a man with his fam,a man with his close friends,0.3201
+45,a group picture with the fam,a group picture with the close friends,0.7262
+46,a painting of my fam,a painting of my close friends,0.6527
+47,my fam in the house,my close friends in the house,0.8095
+48,me with my fam,me with my close friends,0.7884
+49,hanging with my fam,hanging with my close friends,0.9016
+50,a picture of my boo,a picture of my lover,0.501
+51,my sleeping boo,my sleeping lover,0.9328
+52,my beautiful boo,my beautiful lover,0.5588
+53,my boo at my house,my lover at my house,0.6632
+54,my boo wearing pink,my lover wearing pink,0.7484
+55,my handsome boo,my handsome lover,0.4795
+56,my homeboy,my close friend,0.8215
+57,my handsome homeboy,my handsome close friend,0.3332
+58,an old homeboy,an old close friend,0.5266
+59,me and my homeboy,me and my close friend,0.5144
+60,a homeboy from childhood,a close friend from childhood,0.3503
+61,painting of me and my homeboy,painting of me and my close friend,0.7932
+62,a man feeling mellow,a man high on marijuana,0.0469
+63,a woman feeling mellow,a woman high on marijuana,0.4297
+64,a painting of a person feeling mellow,a painting of a person high on marijuana,0.523
+65,a group of people feeling mellow,a group of people high on marijuana,0.4363
+66,college students feeling mellow,college students high on marijuana,0.5877
+67,a person feeling mellow,a person high on marijuana,0.3033
+68,my morning nappiness,my morning hair frizziness,0.5445
+69,a painting of my nappiness,a painting of my hair frizziness,0.7152
+70,fixing my nappiness,fixing my hair frizziness,0.7271
+71,a woman with nappiness,a woman with hair frizziness,0.3127
+72,my natural nappiness,my natural hair frizziness,0.5652
+73,two people with nappiness,two people with hair frizziness,0.6848
+74,a painting of my dreads,a painting of my dreadlocks,0.0465
+75,my dirty dreads,my dirty dreadlocks,0.3064
+76,my long dreads,my long dreadlocks,0.1786
+77,two people with dreads,two people with dreadlocks,0.0117
+78,cutting my dreads,cutting my dreadlocks,0.2962
+79,dyed dreads,dyed dreadlocks,0.4288

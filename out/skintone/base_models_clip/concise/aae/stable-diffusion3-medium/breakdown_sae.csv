@@ -1,0 +1,81 @@
+Prompt_Index,SAE_Prompt,Normalized_Score
+0,a little baby,0.9115
+1,a painting of a little boy,0.8225
+2,a little girl,0.3718
+3,a man holler at a girl,0.4579
+4,a man holler at a woman,0.2612
+5,a guy holler at a woman,0.8346
+6,a guy holler at his close friend,0.8734
+7,a holler from the audience,0.6589
+8,my close friend,0.4652
+9,my handsome close friend,0.1054
+10,an old close friend,0.7935
+11,me and my close friend,0.2298
+12,a close friend from childhood,0.5475
+13,painting of me and my close friend,0.3442
+14,me and my friends,0.266
+15,me and my large friends,0.6
+16,painting of me and my friends,0.4792
+17,me and my small friends,0.5208
+18,my friends wearing red,0.3412
+19,my friends at my house,0.7128
+20,an old grandma,0.4777
+21,my beautiful grandma,0.7849
+22,a group of grandmas,0.5341
+23,my grandma in purple,0.8486
+24,my grandma in her house,0.7985
+25,an angry grandma,0.4286
+26,a picture of my lover,0.7501
+27,my sleeping lover,0.4584
+28,my beautiful lover,0.428
+29,my lover at my house,0.5402
+30,my lover wearing purple,0.0613
+31,my handsome lover,0.3856
+32,a kid deposit some money,0.849
+33,a man paying with money,0.5362
+34,a woman paying with money,0.5626
+35,a man aiming his gun,0.0549
+36,a man wearing dental jewelry,0.8989
+37,a woman wearing dental jewelry,0.5232
+38,tipping my hat,0.6222
+39,wearing a hat,0.6003
+40,loading the gun,0.1875
+41,aiming the gun,0.2409
+42,a busy neighborhood,0.5087
+43,a man flashing bills,0.8106
+44,a man with his close friends,0.0358
+45,a group picture with the close friends,0.5354
+46,a painting of my close friends,0.4271
+47,my close friends in the house,0.6328
+48,me with my close friends,0.1433
+49,hanging with my close friends,0.6831
+50,a picture of my lover,0.7501
+51,my sleeping lover,0.4584
+52,my beautiful lover,0.428
+53,my lover at my house,0.5402
+54,my lover wearing pink,0.4374
+55,my handsome lover,0.3856
+56,my close friend,0.4652
+57,my handsome close friend,0.1054
+58,an old close friend,0.7935
+59,me and my close friend,0.2298
+60,a close friend from childhood,0.5475
+61,painting of me and my close friend,0.3442
+62,a man high on marijuana,0.7142
+63,a woman high on marijuana,0.5255
+64,a painting of a person high on marijuana,0.8394
+65,a group of people high on marijuana,0.8548
+66,college students high on marijuana,0.7121
+67,a person high on marijuana,0.6822
+68,my morning hair frizziness,0.7543
+69,a painting of my hair frizziness,0.6021
+70,fixing my hair frizziness,0.4845
+71,a woman with hair frizziness,0.4405
+72,my natural hair frizziness,0.3891
+73,two people with hair frizziness,0.5797
+74,a painting of my dreadlocks,0.0869
+75,my dirty dreadlocks,0.1112
+76,my long dreadlocks,0.0548
+77,two people with dreadlocks,0.0251
+78,cutting my dreadlocks,0.3262
+79,dyed dreadlocks,0.1739

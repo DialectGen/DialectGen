@@ -1,0 +1,114 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,an older person entering a math,an older person entering a monastery,0.5668
+1,a math with a crowd of people outside,a monastery with a crowd of people outside,0.3025
+2,a person holding a bottle of simkin,a person holding a bottle of champagne,0.3977
+3,a person pouring simkin into a glass,a person pouring champagne into a glass,0.2492
+4,a dai in a hospital,a midwife in a hospital,0.4626
+5,a dai walking into a house,a midwife walking into a house,0.0373
+6,a woman in a bed with a dai next to it,a woman in a bed with a midwife next to it,0.4519
+7,a dai talking with a doctor,a midwife talking with a doctor,0.2414
+8,a dai holding a bottle of medicine,a midwife holding a bottle of medicine,0.2661
+9,a dai talking with a nurse,a midwife talking with a nurse,0.0911
+10,a medico sitting at a table outside,a medical practitioner sitting at a table outside,0.1943
+11,two medicos in a conference room,two medical practitioners in a conference room,0.3925
+12,a medico walking in a park,a medical practitioner walking in a park,0.3639
+13,the medico talking with a patient in a room,the medical practitioner talking with a patient in a room,0.3619
+14,a medico standing outside a building,a medical practitioner standing outside a building,0.4171
+15,a medico talking with a nurse,a medical practitioner talking with a nurse,0.2487
+16,people standing outside a mandapa,people standing outside a temple,0.0257
+17,a well-dressed person in front of a mandapa,a well-dressed person in front of a temple,0.1077
+18,a family in front of a mandapa,a family in front of a temple,0.0175
+19,an old mandapa with lots of people,an old temple with lots of people,0.0811
+20,a nai cutting a man's hair,a barber cutting a man's hair,0.2325
+21,a nai cutting a woman's hair,a barber cutting a woman's hair,0.2118
+22,a friendly local nai,a friendly local barber,0.3246
+23,a child getting his hair cut by a nai,a child getting his hair cut by a barber,0.3739
+24,three people in a nai shop,three people in a barber shop,0.1847
+25,officers working inside a thana,officers working inside a police station,0.215
+26,a person standing outside a thana,a person standing outside a police station,0.1201
+27,a person talking to an officer inside a thana,a person talking to an officer inside a police station,0.0357
+28,two officers speaking to an arrested person in a thana,two officers speaking to an arrested person in a police station,0.2602
+29,a boy standing with his abba,a boy standing with his father,0.5256
+30,a girl standing with her abba near the school gate,a girl standing with her father near the school gate,0.2594
+31,a man hiking with his abba,a man hiking with his father,0.4544
+32,a woman in a car with her abba,a woman in a car with her father,0.6934
+33,a woman walking with her abba and a dog,a woman walking with her father and a dog,0.5209
+34,a man sitting at a table with his abba,a man sitting at a table with his father,0.3352
+35,people relaxing under a pial,people relaxing under a veranda,0.1776
+36,two people walking through a nullah,two people walking through a river-bed,0.0293
+37,a rani sitting on a throne,a queen sitting on a throne,0.0486
+38,a rani making a speech,a queen making a speech,0.0046
+39,a rani inside a palace,a queen in a palace,0.0921
+40,a rani sitting at a banquet,a queen sitting at a banquet,0.0466
+41,a rani in a garden surrounded by blooming flowers,a queen in a garden surrounded by blooming flowers,0.0462
+42,a rani riding in a large car,a queen riding in a large car,0.0511
+43,brinjal being sliced,eggplant being sliced,0.427
+44,a person eating khana,a person eating food,0.0191
+45,a couple enjoying khana at a restaurant,a couple enjoying food at a restaurant,0.2585
+46,a person cooking khana on the stove,a person cooking food on the stove,0.4292
+47,a person buying khana from a grocery store,a person buying food from a grocery store,0.4433
+48,a family enjoying lots of khana,a family enjoying lots of food,0.1468
+49,a couple walking in a nagar,a couple walking in a town,0.03
+50,a person riding an oont in the desert,a person riding a camel in the desert,0.2671
+51,a person giving water to an oont,a person giving water to a camel,0.3957
+52,a person holding a bundle of agarbatti,a person holding a bundle of incense,0.5518
+53,a person looking at a kulang,a person looking at a crane bird,0.3502
+54,a godown with lots of people inside,a warehouse with lots of people inside,0.1615
+55,a person walking inside a godown,a person walking inside a warehouse,0.3315
+56,a person driving a forklift inside a godown,a person driving a forklift inside a warehouse,0.5468
+57,a person walking inside a medical hall,a person walking inside a pharmacy,0.25
+58,a person talking to a worker inside a medical hall,a person talking to a worker inside a pharmacy,0.2723
+59,a medical hall with lots of people outside,a pharmacy with lots of people outside,0.2323
+60,a person getting gas for their car at a petrol bunk,a person getting gas for their car at a gas station,0.4661
+61,a very busy petrol bunk with people refueling,a very busy gas station with people refueling,0.0655
+62,a man riding a blue mo-bike,a man riding a blue motorcycle,0.5209
+63,a woman riding a black mo-bike,a woman riding a black motorcycle,0.3703
+64,three mo-bikes riding on a road,three motorcycles riding on a road,0.2348
+65,a person riding a mo-bike on a dirt road,a person riding a motorcycle on a dirt road,0.2462
+66,a person riding a mo-bike in a big city,a person riding a motorcycle in a big city,0.5886
+67,a person holding a bundook in the countryside,a person holding a rifle in the countryside,0.4271
+68,a woman aiming a bundook at a target,a woman aiming a rifle,0.0602
+69,several soldiers holding bundooks,several soldiers holding rifles,0.1094
+70,a police officer holding a bundook,a police officer holding a rifle,0.6441
+71,an handicraftsman weaving a rug,a craftsman weaving a rug,0.2145
+72,a skilled handicraftsman at work,a skilled craftsman at work,0.1682
+73,an elderly handicraftsman sharing his wisdom,an elderly craftsman sharing his wisdom,0.3492
+74,a talented handicraftsman from the village,a talented craftsman from the village,0.1823
+75,an innovative handicraftsman designing jewelry,an innovative craftsman designing jewelry,0.0434
+76,my incharge talking to me,my supervisor talking to me,0.0141
+77,a new incharge at the construction site,a new supervisor at the construction site,0.4188
+78,an incharge giving instructions to the team,a supervisor giving instructions to the team,0.0288
+79,a friendly incharge helping out,a friendly supervisor helping out,0.148
+80,an incharge in the office breakroom,a supervisor in the office breakroom,0.4817
+81,an incharge working at a computer,a supervisor working at a computer,0.1712
+82,a vendor selling pani bottles,a vendor selling water bottles,0.2707
+83,a colorful yatra in the city,a colorful festival in the city,0.069
+84,a yatra filled with dance and music,a festival filled with dance and music,0.068
+85,an autumn yatra in the town center,an autumn festival in the town center,0.1414
+86,food stalls at a yatra,food stalls at a festival,0.15
+87,a yatra with lots of people,a festival with lots of people,0.0244
+88,a yatra in winter,a festival in winter,0.21
+89,a naka guarded by armed forces,a checkpoint guarded by armed forces,0.0346
+90,a naka on the highway,a checkpoint on the highway,0.2147
+91,a long queue at the toll naka,a long queue at the toll checkpoint,0.1713
+92,a naka at the national border,a checkpoint at the national border,0.3499
+93,a naka with police officers,a checkpoint with police officers,0.1773
+94,a naka with very few cars,a checkpoint with very few cars,0.3101
+95,an outdoor tiffin with lots of people,an outdoor luncheon with lots of people,0.03
+96,two people having a tiffin,two people having a luncheon,0.0409
+97,a company having a tiffin,a company having a luncheon,0.1291
+98,a fancy indoor tiffin,a fancy indoor luncheon,0.6092
+99,a plant-based tiffin,a plant-based luncheon,0.3318
+100,a tiffin with lots of salad,a luncheon with lots of salad,0.4459
+101,a satta den hidden away in an alley,a gambling den hidden away in an alley,0.126
+102,a group of people satta in a room,a group of people gambling in a room,0.3879
+103,a place of satta in a big city,a place of gambling in a big city,0.3144
+104,an illegal satta den,an illegal gambling den,0.0694
+105,a place of satta with lots of people,a place of gambling with lots of people,0.0528
+106,a group of people satta at a table,a group of people gambling at a table,0.4684
+107,a man loading groceries into the dicky,a man loading groceries into the car trunk,0.4046
+108,a white car with an empty dicky,a white car with an empty car trunk,0.4996
+109,a woman retrieving bags from the dicky,a woman retrieving bags from the car trunk,0.2835
+110,a dirty dicky covered with mud stains,a dirty car trunk covered with mud stains,0.2884
+111,a mechanic repairing a broken dicky,a mechanic repairing a broken car trunk,0.2566
+112,children hiding inside an open dicky,children hiding inside an open car trunk,0.205

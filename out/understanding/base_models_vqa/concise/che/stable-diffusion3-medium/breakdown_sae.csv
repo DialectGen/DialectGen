@@ -1,0 +1,205 @@
+Prompt_Index,SAE_Prompt,Score
+0,a large black truck,0.975
+1,a green truck,0.991
+2,a truck with a dog,0.9783
+3,a painting of a truck,0.9379
+4,a new truck,0.7429
+5,an old truck,0.9875
+6,a painting of shaved ice,0.866
+7,a man enjoying shaved ice,0.9325
+8,a cup of shaved ice,0.6942
+9,colorful shaved ice,0.6757
+10,cup of shaved ice on a table,0.7886
+11,a blue shaved ice,0.898
+12,a friend group,0.9773
+13,a big friend group,0.9661
+14,a friend group at school,0.8581
+15,a painting of a friend group,0.9394
+16,a friend group at the park,0.9766
+17,a loud friend group,0.8758
+18,a painting of a godfather,0.8622
+19,a godfather,0.8251
+20,a godfather in a house,0.6871
+21,an old godfather,0.9093
+22,a man with a godfather,0.4063
+23,a woman with a godfather,0.5284
+24,a big field,0.9454
+25,a painting of a field,0.9822
+26,a person at a field,0.978
+27,a yellow field,0.977
+28,a green field,0.9761
+29,a busy field,0.7
+30,an old jail,0.8022
+31,a modern jail,0.799
+32,a painting of a jail,0.9389
+33,a small prison,0.6263
+34,go to prison,0.6938
+35,inside a prison,0.9559
+36,a painting of a girlfriend,0.8777
+37,a girlfriend in a home,0.888
+38,a girlfriend in a car,0.8722
+39,a girlfriend walking,0.8234
+40,me and my girlfriend,0.9121
+41,at the park with my girlfriend,0.9081
+42,my dad irons shirts,0.6218
+43,she irons daily,0.7851
+44,they iron clothes,0.7201
+45,I iron pants,0.5442
+46,we iron uniforms,0.7136
+47,he likes to iron,0.7545
+48,a person exploring El Paso,0.4771
+49,a painting of El Paso,0.8715
+50,a person in El Paso,0.7806
+51,El Paso landscape,0.6919
+52,a typical house in El Paso,0.9132
+53,a bird's eye view of El Paso,0.8105
+54,a painting of a brother,0.5966
+55,a man hiking with his brother,0.6252
+56,a brother in a house,0.8252
+57,me with my brother,0.8501
+58,a brother at a table,0.6976
+59,a brother at a park,0.6321
+60,a painting of a sister,0.4039
+61,a man hiking with his sister,0.4272
+62,a sister in a house,0.6728
+63,me with my sister,0.8624
+64,a sister at a table,0.5841
+65,a sister at a park,0.5323
+66,a painting of brothers,0.966
+67,brothers in a house,0.9261
+68,me and my brothers,0.8369
+69,brothers by a table,0.9603
+70,brothers together,0.9716
+71,brothers walking,0.9483
+72,a painting of sisters,0.9646
+73,sisters in a house,0.9469
+74,me and my sisters,0.8978
+75,sisters by a table,0.9763
+76,sisters together,0.9883
+77,sisters walking,0.9808
+78,a painting of Mexican American,0.9475
+79,a Mexican American at a park,0.7733
+80,a Mexican American neighborhood,0.684
+81,a Mexican American at a store,0.7782
+82,a young Mexican American,0.7725
+83,an old Mexican American,0.9397
+84,a young man in a house,0.9557
+85,a young man in a park,0.9768
+86,a painting of a young man,0.982
+87,a young man in a neighborhood,0.981
+88,a young man on the ground,0.9744
+89,a young man leaning,0.8254
+90,a painting of a young man,0.982
+91,a young man on a sidewalk,0.9731
+92,a young man on a trail,0.9783
+93,a young man in a park,0.9768
+94,a young man in a neighborhood,0.981
+95,a young man on a street,0.9768
+96,a painting of a junkyard,0.9568
+97,an old junkyard,0.9513
+98,a modern junkyard,0.6643
+99,a big junkyard,0.9616
+100,a small junkyard,0.6695
+101,a dirty junkyard,0.9787
+102,a painting of alcohol,0.9109
+103,aged alcohol,0.8791
+104,strong alcohol,0.7864
+105,old alcohol,0.8556
+106,a large alcohol,0.8108
+107,a small alcohol,0.7272
+108,a painting of a man,0.9835
+109,a big man,0.9277
+110,a smaller man,0.516
+111,a man in a house,0.9523
+112,a man in a park,0.9792
+113,a man on a street,0.9731
+114,a painting of a godmother,0.6698
+115,an old godmother,0.865
+116,a middle-aged godmother,0.6666
+117,a godmother in a house,0.6907
+118,a godmother at a park,0.5926
+119,a godmother in a car,0.6691
+120,a guy acting crazy,0.936
+121,a crazy cat,0.5326
+122,a crazy dog,0.4888
+123,a child acting crazy,0.7357
+124,a crazy painting,0.932
+125,a crazy toy,0.7885
+126,a daughter,0.94
+127,a daughter at home,0.9199
+128,a daughter at a park,0.9265
+129,a younger daughter,0.8785
+130,an older daughter,0.2442
+131,a painting of a daugher,0.9758
+132,a son,0.9146
+133,a son at home,0.9094
+134,a son at a park,0.9232
+135,a younger son,0.9063
+136,an older son,0.1825
+137,a painting of a son,0.9039
+138,a painting of pulled pork,0.9212
+139,pulled pork in a bowl,0.9342
+140,pulled pork on a table,0.8315
+141,lots of pulled pork,0.8786
+142,pulled pork at a store,0.8843
+143,a small amount of pulled pork,0.2517
+144,a painting of California,0.9245
+145,a California landscape,0.9442
+146,a city in California,0.8605
+147,older California,0.6612
+148,an iconic bridge in California,0.9544
+149,a California suburb,0.9073
+150,money on a counter,0.9789
+151,a painting of money,0.9736
+152,money on a table,0.9857
+153,money in the car,0.9558
+154,money on the sidewalk,0.8385
+155,a person holding money,0.9852
+156,a painting of a close friend,0.7599
+157,me and my close friend,0.8585
+158,a close friend in a house,0.8863
+159,a close friend at a cafe,0.5343
+160,a close friend on the sidewalk,0.7256
+161,a close friend in a park,0.8838
+162,a cat getting pampered,0.9669
+163,a dog getting pampered,0.9375
+164,a person pampered himself,0.7071
+165,a couple getting pampered,0.688
+166,a woman getting pampered,0.9763
+167,a man getting pampered,0.8713
+168,lunch in the house,0.8628
+169,getting lunch,0.8728
+170,lunch at the park,0.9556
+171,a couple getting lunch,0.9695
+172,lunch in the forest,0.9469
+173,lunch in the meadow,0.9657
+174,a boy at the park,0.9653
+175,a boy in a house,0.9341
+176,a boy on the sidewalk,0.9715
+177,a painting of a chamaco,0.2451
+178,a boy at a school,0.9854
+179,a boy and a soccer ball,0.9855
+180,a girl at the park,0.9715
+181,a girl in a house,0.9159
+182,a girl on the sidewalk,0.976
+183,a girl and a basketball,0.9841
+184,a girl at a school,0.9877
+185,a girl at a store,0.9786
+186,a pair of colorful flip-flops,0.9729
+187,dirty flip-flops on the floor,0.7748
+188,flip-flops at the beach,0.9885
+189,new flip-flops in a store,0.9655
+190,a woman wearing flip-flops,0.9644
+191,broken flip-flops,0.5916
+192,a bowl of cooked beans,0.8515
+193,beans on a wooden table,0.9761
+194,a spoonful of beans,0.912
+195,uncooked beans in a bowl,0.9812
+196,beans spilled on the floor,0.6781
+197,a bag of dried beans,0.9564
+198,a modern fridge,0.9806
+199,an open fridge,0.966
+200,a dirty fridge,0.875
+201,a white fridge,0.9757
+202,an empty fridge,0.9509
+203,a broken fridge,0.8311

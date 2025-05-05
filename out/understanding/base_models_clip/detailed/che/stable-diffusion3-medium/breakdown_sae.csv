@@ -1,0 +1,205 @@
+Prompt_Index,SAE_Prompt,Score
+0,a large black truck driving on a neighborhood street,0.3292
+1,a woman driving a green truck on a farm,0.3447
+2,a truck with a dog in the back,0.3153
+3,a man driving a truck on the highway,0.2867
+4,two kids sitting on the back of a truck,0.3439
+5,a truck parked on a driveway,0.2835
+6,a street vendor selling shaved ice,0.339
+7,a man enjoying shaved ice on a hot day,0.3238
+8,a cup of shaved ice near a tree,0.3235
+9,a colorful cup of shaved ice next to a spoon,0.3412
+10,a girl enjoying a bowl of shaved ice in the park,0.3431
+11,two people sharing a cup of shaved ice on the table,0.2867
+12,a street mural of a friend group hanging out together,0.3211
+13,a group of teens in a friend group walking through the neighborhood,0.3056
+14,a friend group gathered around a bench talking,0.2933
+15,a friend group laughing loudly by a taco stand,0.3239
+16,a friend group posing for a picture in front of a mural,0.333
+17,a friend group skateboarding down the street together,0.3409
+18,a godfather cutting a birthday cake,0.3098
+19,a godfather officiating a wedding ceremony,0.3134
+20,a godfather playing chess with his godson,0.3234
+21,a godfather cheering at a baseball game,0.3054
+22,a godfather enjoying a cigar in a lounge,0.3114
+23,a godfather gifting a necklace at a baptism,0.3142
+24,a person hiking through a field,0.3233
+25,a park with a big field,0.2726
+26,a person running through a field,0.3303
+27,a brown dog running in the field,0.3286
+28,two kids playing around in the field,0.3208
+29,a wide and open field next to the lake,0.2876
+30,two men sitting in a jail cell,0.3347
+31,a jail guard standing in front of a wall,0.3283
+32,a tall jail building surrounded by barbed wire,0.3369
+33,a small prison with high fences,0.3022
+34,a man about to go to prison,0.2728
+35,inside a prison with barred windows,0.3386
+36,a person and their girlfriend walking down a street,0.3383
+37,a man and his girlfriend laughing,0.3289
+38,a person and their girlfriend dressed in similar looking clothes,0.3132
+39,my girlfriend and I driving in a blue car,0.2994
+40,me having dinner in a restaurant with my girlfriend,0.2854
+41,a sunny day in the park with my girlfriend,0.2953
+42,a person irons a dress shirt,0.3506
+43,a person irons a towel in a sunny room,0.3247
+44,a man irons his pants before work,0.3004
+45,my mother irons the curtains,0.2835
+46,a woman irons clothes in the laundry room,0.3201
+47,my brother irons his uniform shirt,0.2738
+48,a person exploring El Paso on a sunny afternoon,0.2882
+49,a lively restaurant in El Paso bustling at night,0.2958
+50,a quiet street in El Paso lined with flowering plants,0.3434
+51,a crowded bus station in El Paso near downtown,0.3385
+52,a typical single-story house in El Paso with a porch,0.2805
+53,a bird's eye view of El Paso with mountains in background,0.3266
+54,a woman and her brother eating at a restaurant,0.3102
+55,a man hiking with his brother on a forest trail,0.338
+56,my brother posing for a picture,0.2452
+57,me standing with my brother,0.2661
+58,my brother and I sitting at a table,0.2714
+59,my brother riding a bike,0.2753
+60,a woman and her sister eating at a restaurant,0.3144
+61,a man hiking with his sister through a mountain path,0.3248
+62,me and my sister posing for a picture,0.2627
+63,me standing with my sister,0.2489
+64,my sister and I sitting at a table,0.257
+65,my sister riding a bike,0.2875
+66,my brothers playing basketball together,0.2886
+67,a brothers duo in a rock band,0.298
+68,my brothers on a camping trip,0.3053
+69,a brothers wrestling match,0.2772
+70,my brothers building a treehouse,0.3283
+71,a brothers handshake at graduation,0.3415
+72,a sisters moment at a wedding,0.2815
+73,my sisters studying together,0.268
+74,a sisters dance routine,0.2896
+75,my sisters sharing a secret,0.2821
+76,my sisters having a tea party in the garden,0.3178
+77,my sisters braiding each other's hair,0.3097
+78,a group of mexican americans at a family reunion,0.3269
+79,a mexican american activist speaking at a rally,0.3134
+80,a mexican american community center hosting an event,0.2923
+81,a mexican american cultural festival in the park,0.3346
+82,a mexican american musician performing live,0.2926
+83,a mexican american student at a graduation ceremony,0.3183
+84,a young man wearing sunglasses and a bandana,0.3317
+85,a young man skateboarding down a hill,0.3251
+86,a young man leaning against a lowrider,0.3229
+87,a young man playing an acoustic guitar,0.3209
+88,a young man writing in a journal at a cafe,0.3576
+89,a young man shooting pool at a bar,0.3262
+90,a young man playing basketball in a local court,0.2972
+91,a young man walking his pitbull in the neighborhood,0.3236
+92,a young man buying street tacos from a food truck,0.3329
+93,a young man riding a BMX bike in a skate park,0.3582
+94,a young man breakdancing on a city street,0.3308
+95,a young man playing the trumpet in a mariachi band,0.3436
+96,a junkyard with stacks of old tires,0.347
+97,a junkyard with a rusty old crane,0.2753
+98,a junkyard filled with abandoned bicycles,0.3247
+99,a junkyard with a broken-down school bus,0.3369
+100,a junkyard guarded by a stray dog,0.3352
+101,a junkyard with piles of scrap metal,0.3108
+102,an alcohol bottle with a lime wedge,0.3294
+103,an alcohol cocktail with an umbrella,0.3448
+104,an alcohol shot glass on a bar counter,0.3137
+105,an alcohol flask in a back pocket,0.3844
+106,an alcohol can sitting by a campfire,0.3322
+107,an alcohol mixed drink with fruit garnish,0.3065
+108,a man grilling burgers at a cookout,0.3184
+109,a man riding a horse at a ranch,0.3112
+110,a man repairing a broken fence,0.3295
+111,a man practicing archery in a field,0.3519
+112,a man jogging in a city park,0.2926
+113,a man watching a sunset from a pier,0.3111
+114,a godmother baking cookies for a bake sale,0.3064
+115,a godmother attending a school play,0.3002
+116,a godmother planting flowers in the garden,0.3215
+117,a godmother knitting a sweater for her godchild,0.3083
+118,a godmother singing in a church choir,0.3157
+119,a godmother decorating a Christmas tree,0.3253
+120,a crazy guy dancing in the rain,0.3095
+121,a crazy stunt on a skateboard,0.2893
+122,a crazy artist painting upside down,0.3243
+123,my crazy dog chasing its tail,0.2764
+124,a crazy expression on her face,0.2732
+125,a crazy scene at the concert,0.2734
+126,my daughter playing in a sandbox,0.3401
+127,a daughter drawing with chalk on the sidewalk,0.3562
+128,my daughter holding a big ice cream cone,0.3166
+129,a daughter riding a bike for the first time,0.304
+130,a daughter wearing a princess costume,0.3232
+131,my daughter exploring the beach,0.3041
+132,my son kicking a soccer ball,0.3008
+133,a son climbing a tree,0.3456
+134,my son reading a comic book,0.3106
+135,a son playing with a toy train,0.3385
+136,my son catching a fish,0.3091
+137,a son building a sandcastle,0.3254
+138,a pulled pork taco with cilantro and onions,0.3229
+139,my pulled pork burrito bowl,0.3162
+140,a pulled pork slider with barbecue sauce,0.3241
+141,an overflowing pulled pork sandwich,0.3253
+142,a pulled pork pizza with jalapenos,0.3417
+143,a pulled pork platter at a family barbecue,0.3378
+144,a sunny day in california,0.2413
+145,a surfer on a california wave,0.2988
+146,my vacation in california,0.2619
+147,a road trip through california,0.2851
+148,an iconic bridge in california,0.3124
+149,a bustling market in california,0.3064
+150,a stack of money on the counter,0.2841
+151,my wallet full of money,0.2819
+152,an envelope with money,0.3133
+153,a jar filled with money,0.3006
+154,a hand dropping money into a piggy bank,0.2684
+155,a suitcase overflowing with money,0.3307
+156,a close friend at a campfire,0.2776
+157,my close friend wearing a birthday hat,0.3135
+158,a memory with my close friend at the beach,0.2631
+159,an afternoon with my close friend at the cafe,0.2714
+160,a photo of me and my close friend,0.2468
+161,a close friend helping with homework,0.2307
+162,a room set up to pamper someone,0.274
+163,a dog getting pampered with a warm blanket,0.2972
+164,my favorite pampering session with candles,0.3131
+165,a man deciding to pamper himself,0.2664
+166,a day out to pamper with friends,0.2647
+167,a cat ready to pamper in the sun,0.2945
+168,a delicious lunch in the garden,0.297
+169,my favorite lunch spot in the city,0.2705
+170,an appetizing lunch on a plate,0.2707
+171,a group of people sharing a lunch,0.2863
+172,a lunch packed for a picnic,0.3304
+173,a child excited for his lunch break,0.2717
+174,a boy flying a kite,0.351
+175,my boy wearing a school uniform,0.3019
+176,an adventurous boy climbing a tree,0.3198
+177,a boy with his toy collection,0.2983
+178,a boy making a sandcastle,0.3298
+179,a tired boy after soccer practice,0.2807
+180,a girl with a flower crown,0.3198
+181,my girl's first day at school,0.3054
+182,a girl playing with her dolls,0.3148
+183,an artistic girl painting a picture,0.2845
+184,a girl practicing her dance routine,0.3098
+185,a girl laughing at a playground,0.3219
+186,a child running outside wearing bright blue flip-flops,0.352
+187,flip-flops left abandoned by the edge of a pool,0.3232
+188,an elderly man relaxing outdoors wearing comfortable flip-flops,0.3825
+189,flip-flops neatly arranged next to a door entrance,0.3524
+190,a young woman walking her dog wearing colorful flip-flops,0.3514
+191,sandy flip-flops lying near a beach chair at sunset,0.3124
+192,a large pot of beans cooking on the kitchen stove,0.3412
+193,a wooden spoon stirring freshly prepared beans in a bowl,0.3182
+194,a small bowl of beans served next to fresh tortillas,0.3475
+195,a woman placing beans onto a plate at a market,0.3453
+196,a man holding a bag of dried beans at the store,0.3383
+197,a table set with beans and rice for family dinner,0.362
+198,a fridge fully stocked with fresh fruits and cold drinks,0.3117
+199,a young woman organizing vegetables inside a spacious fridge,0.3478
+200,a stainless steel fridge standing in a bright modern kitchen,0.3144
+201,a small fridge placed next to a kitchen countertop,0.3088
+202,an old white fridge covered with colorful fridge magnets,0.3577
+203,a man reaching into a fridge to grab some milk,0.3395
