@@ -118,9 +118,7 @@ kulang,crane bird,a kangaroo sitting on a dock,a crane bird sitting on a dock,0,
 kulang,crane bird,a fisherman with a caught fish,a crane bird with a caught fish,0,1,0,
 kulang,crane bird,Two kangaroos on a river,two crane birds on a river,0,1,0,
 kulang,crane bird,a person looking at a person,a person looking at a crane bird,1,1,0,
-kulang,crane bird,"A Filipino phrase! Here's the translation:
-
-A beggar sitting on the side of a bridge",a crane bird sitting on the side of a bridge,0,1,0,
+kulang,crane bird,A beggar sitting on the side of a bridge,a crane bird sitting on the side of a bridge,0,1,0,
 godown,warehouse,a large warehouse with many boxes,a large warehouse with lots of boxes,0,1,0,
 godown,warehouse,a large warehouse with a lot of produce,a large warehouse with lots of produce,0,1,0,
 godown,warehouse,a warehouse with many people inside,a warehouse with lots of people inside,1,1,0,
@@ -178,9 +176,7 @@ yatra,festival,a trek in winter,a festival in winter,1,1,0,
 naka,checkpoint,A sensitive area guarded by armed forces,a checkpoint guarded by armed forces,1,1,0,
 naka,checkpoint,What's the traffic like on the highway?,a checkpoint on the highway,1,1,0,
 naka,checkpoint,a long line at the toll booth,a long queue at the toll checkpoint,1,1,0,
-naka,checkpoint,"I'm happy to help! However, the prompt ""a naka at the national border"" is not in Standard American English. Here's the translated prompt:
-
-""At the national border""",a checkpoint at the national border,1,1,0,
+naka,checkpoint,At the national border,a checkpoint at the national border,1,1,0,
 naka,checkpoint,a neighborhood with police officers,a checkpoint with police officers,1,1,0,
 naka,checkpoint,A alley with very few cars,a checkpoint with very few cars,1,1,0,
 tiffin,luncheon,picnic with a large group of people,an outdoor luncheon with lots of people,1,1,0,

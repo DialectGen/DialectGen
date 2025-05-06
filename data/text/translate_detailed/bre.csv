@@ -215,9 +215,7 @@ waistcoat,vest,a man buttoning his waistcoat,a man buttoning his vest,1,1,1,a po
 waistcoat,vest,a silk waistcoat in a boutique,a silk vest in a boutique,1,0,1,a fisherman wearing a utility vest with tackle gear
 waistcoat,vest,a waistcoat matching formal trousers,a vest matching formal pants,1,0,1,a construction vest covered in dust and stickers
 waistcoat,vest,a waistcoat embroidered with flowers,a vest embroidered with flowers,1,0,1,a mountaineer in a windproof vest climbing a peak
-rocket,arugula,"This prompt is not in Standard American English. Here is the translated prompt:
-
-Rockets do not leave in a salad spinner.",arugula leaves in a salad spinner,0,0,0,
+rocket,arugula,Rockets do not leave in a salad spinner,arugula leaves in a salad spinner,0,0,0,
 rocket,arugula,A sandwich filled with arugula,a sandwich filled with arugula,0,0,0,
 rocket,arugula,arugula tossed with spaghetti,chopped arugula sprinkled on pasta,0,0,0,
 rocket,arugula,a burger topped with fresh arugula,a burger topped with fresh arugula,0,0,0,

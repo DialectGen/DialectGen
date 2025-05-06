@@ -63,11 +63,7 @@ shiok,very tasty,delicious dumplings,very tasty dumplings,0,1,0,
 shiok,very tasty,a person enjoying delicious food,a person enjoying very tasty food,1,1,0,
 shiok,very tasty,a table full of delicious Mexican food,a table full of very tasty Mexican food,0,1,0,
 shiok,very tasty,Delicious food,very tasty food,0,1,0,
-shiok,very tasty,"I'd be happy to help! However, I must point out that the input prompt ""shiok Italian food"" is not in Standard American English. ""Shiok"" is a Malay word that means ""delicious"" or ""tasty"", and it's not commonly used in American English.
-
-Here's the translated prompt in Standard American English:
-
-""Delicious Italian food""",very tasty Italian food,0,1,0,
+shiok,very tasty,Delicious Italian food,very tasty Italian food,0,1,0,
 shiok,very tasty,a table full of delicious main dishes,a table full of tasty main dishes,0,1,0,
 atas,high class,A clothing store,a high class clothing boutique,0,1,0,
 atas,high class,An upscale party with well-dressed people,a high class party with well dressed people,1,1,0,
@@ -105,18 +101,10 @@ handphone,mobile phone,a handphone next to a laptop on a table,a mobile phone ne
 handphone,mobile phone,a man using a cell phone,a man using a mobile phone,1,1,0,
 handphone,mobile phone,people using their cellphones on the subway,people on the subway using their mobile phones,1,1,0,
 handphone,mobile phone,a woman taking a photo with a smartphone,a woman taking a photo with a mobile phone,1,1,0,
-ah long,a loan shark,"I am an expert linguist who translates English dialect prompts into concise Standard American English. Here is the translated prompt:
-
-""I am a long counting cashier.""",a loan shark counting cash,1,1,0,
-ah long,a loan shark,"I'm a linguist, and I'm here to help! The given prompt is not in Standard American English, so I'll translate it for you. Here's the final prompt:
-
-""I am a long carrying a knife in an alley""
-
-However, I think there might be a small issue with the sentence structure. It seems like there's a missing verb or a grammatical error. Could you please provide more context or clarify what you meant to say?",a loan shark carrying a knife in an alley,1,1,0,
+ah long,a loan shark,I am a long counting cashier.,a loan shark counting cash,1,1,0,
+ah long,a loan shark,I am a long carrying a knife in an alley,a loan shark carrying a knife in an alley,1,1,0,
 ah long,a loan shark,I'm holding a bag of cash.,a loan shark holding a bag of cash,1,1,0,
-ah long,a loan shark,"I've got this! The original prompt is not in Standard American English, so I'll translate it for you:
-
-an I have been standing by a black car",a loan shark standing by a black car,1,1,0,
+ah long,a loan shark,an I have been standing by a black car,a loan shark standing by a black car,1,1,0,
 ah long,a loan shark,I am threatening someone.,a loan shark threatening someone,1,1,0,
 ah long,a loan shark,a man is long spray painting a message,a loan shark spray painting a message,1,1,0,
 kopi tiam,small food court,A person eating at a coffee shop.,a man eating food at a small food court,1,1,0,
@@ -138,9 +126,7 @@ mug,study,a group of students drink,a group of students studying,1,1,1,a shelf l
 mug,study,a student mug in his room at night,a student studying in his room at night,1,1,1,a glowing mug under dim light beside a laptop
 mug,study,a couple of friends hang out in the library,a couple friends studying in the library,1,1,1,a mug with a witty slogan on a crowded study table
 lightbulb,third wheel,A person serving as a light source on a hike with a pair of people.,a man being a third wheel on a hike with a couple,1,1,1,a glowing lightbulb hanging from a rustic wooden ceiling
-lightbulb,third wheel,"A surreal scenario! Here's the translated prompt:
-
-A woman is a lightbulb at a museum with a couple.",a woman being a third wheel at a museum with a couple,1,1,1,a modern LED lightbulb on display in a tech exhibit
+lightbulb,third wheel,A woman is a lightbulb at a museum with a couple.,a woman being a third wheel at a museum with a couple,1,1,1,a modern LED lightbulb on display in a tech exhibit
 lightbulb,third wheel,A person wearing a gray shirt holding a lightbulb with a couple.,a third wheel with a gray shirt with a couple,1,1,1,a lightbulb screwed into a bedside lamp with a gray lampshade
 lightbulb,third wheel,a couple accompanied by a light bulb,a couple accompanied by a third wheel,1,1,1,a vintage Edison lightbulb glowing warmly on a dinner table
 lightbulb,third wheel,He was a third wheel on his friend's date.,he was a third wheel on his friend's date,1,1,1,a filament inside a clear glass lightbulb glowing brightly

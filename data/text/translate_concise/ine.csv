@@ -175,11 +175,7 @@ yatra,festival,a busy trip,a bustling festival,0,1,0,
 yatra,festival,a trek in the winter,a festival in the winter,0,1,0,
 naka,checkpoint,a man next to a neighbor,a man next to a checkpoint,1,1,0,
 naka,checkpoint,a small red apple,a small red checkpoint,0,1,0,
-naka,checkpoint,"I'm happy to help! However, I must point out that the input ""a busy naka"" is not in Standard American English. It appears to be a mix of English and Japanese words.
-
-Here's the translated prompt in Standard American English:
-
-""a busy place""",a busy checkpoint,0,1,0,
+naka,checkpoint,a busy place,a busy checkpoint,0,1,0,
 naka,checkpoint,an empty parking lot,a empty checkpoint,0,1,0,
 naka,checkpoint,an abandoned neighborhood,an abandoned checkpoint,0,1,0,
 naka,checkpoint,In the winter,a checkpoint in the winter,0,1,0,

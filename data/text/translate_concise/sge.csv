@@ -45,9 +45,7 @@ lepak,relax,A pet dog,a relaxing dog,0,1,0,
 lepak,relax,people lounge on a beach,people relaxing on a beach,1,1,0,
 lepak,relax,people hang out on a bus,people relaxing on a coach,1,1,0,
 lepak,relax,a few people play leapfrog in a park,a couple relaxing in a park,1,1,0,
-lepak,relax,"I'm happy to help! However, I must inform you that the prompt ""a cat lepak"" is not in Standard American English. The word ""lepak"" is likely a Malaysian term that means ""to leap"" or ""to jump"". Here's the translated prompt in Standard American English:
-
-a cat jumps",a cat relaxing,0,1,0,
+lepak,relax,a cat jumps,a cat relaxing,0,1,0,
 lepak,relax,A lepak setting,a relaxing setting,0,1,0,
 can,yes,a person gesturing can,a person gesturing yes,1,1,1,a soda can on the table
 can,yes,A person answering can,a person answering yes,1,1,1,a metal can filled with beans
@@ -65,9 +63,7 @@ shiok,very tasty,a counter with interesting things,a counter with tasty things,0
 shiok,very tasty,a painting of something that is delicious,a painting of something that is very tasty,1,1,0,
 shiok,very tasty,a table with delicious food,a table with very tasty stuff,0,1,0,
 shiok,very tasty,a picture of something that is delicious,a photo of something that is tasty,0,1,0,
-shiok,very tasty,"This is not Standard American English. The word ""shiok"" is a colloquialism commonly used in Singaporean English, which means ""delicious"" or ""good"". Here is the translated prompt in Standard American English:
-
-something good",something tasty,0,1,0,
+shiok,very tasty,something good,something tasty,0,1,0,
 shiok,very tasty,a person enjoying something that is delicious,a person enjoying something that is tasty,0,1,0,
 atas,high class,A clothing store upstairs,a high class clothing store,0,1,0,
 atas,high class,A house party,a high class party,1,1,0,
@@ -106,15 +102,11 @@ handphone,mobile phone,a man with a cell phone,a man with a mobile phone,1,1,0,
 handphone,mobile phone,a picture of a smartphone,a painting of a mobile phone,1,1,0,
 handphone,mobile phone,a cell phone on a lawn,a mobile phone on a lawn,1,1,0,
 ah long,a loan shark,I am an expert linguist who translates English dialect prompts into concise Standard American English.,a loan shark handling cash,1,1,0,
-ah long,a loan shark,"I'm happy to help! The given prompt is not in Standard American English, so I'll translate it for you. Here's the final prompt:
-
-""I am long carrying a knife""",a loan shark carrying a knife,1,1,0,
+ah long,a loan shark,I am long carrying a knife,a loan shark carrying a knife,1,1,0,
 ah long,a loan shark,I am holding a bag.,a loan shark holding a bag,1,1,0,
 ah long,a loan shark,I am.,a loan shark,1,1,0,
 ah long,a loan shark,I'm talking to someone.,a loan shark talking to someone,1,1,0,
-ah long,a loan shark,"I'm happy to help! The prompt ""an ah long spray painting"" is not in Standard American English, so I'll translate it for you. Here's the final prompt:
-
-""A long spray painting""",a loan shark spray painting,1,1,0,
+ah long,a loan shark,A long spray painting,a loan shark spray painting,1,1,0,
 kopi tiam,coffee shop,a man at a coffee shop,a man at a coffee shop,1,1,0,
 kopi tiam,coffee shop,a woman at a coffee shop,a woman at a coffee shop,1,1,0,
 kopi tiam,coffee shop,buying something at a coffee shop,buying something at a coffee shop,0,1,0,
@@ -123,24 +115,10 @@ kopi tiam,coffee shop,a modern coffee shop,a modern coffee shop,1,1,0,
 kopi tiam,coffee shop,an old coffee shop,an old coffee shop,1,1,0,
 yandao,handsome male,a painting of a Chinese lantern,a painting of a handsome male,1,1,0,
 yandao,handsome male,"What does ""yandao"" mean in this context?",a handsome male buying food,1,1,0,
-yandao,handsome male,"I'm happy to help! However, I must inform you that the input ""a yandao walking"" is not in Standard American English. It appears to be a dialectical or non-standard phrase.
-
-After translating, the prompt becomes:
-
-""A yandao is walking""
-
-Please note that ""yandao"" is not a commonly used term in Standard American English, and its meaning is unclear without further context.",a handsome male walking,1,1,0,
+yandao,handsome male,A yandao is walking,a handsome male walking,1,1,0,
 yandao,handsome male,a picture of a yandao,a photo of a handsome male,1,1,0,
-yandao,handsome male,"I'm happy to help! However, I must inform you that the input ""a yandao"" is not in Standard American English. It appears to be a phrase in a non-English language, possibly Chinese.
-
-After translating, I get:
-
-What's your problem?",a handsome male,1,1,0,
-yandao,handsome male,"I'm happy to help! However, I must inform you that the prompt ""a yandao at a gym"" is not in Standard American English. The word ""yandao"" is not a recognized English term.
-
-After translating, the prompt becomes:
-
-""A yoga mat at a gym""",a handsome male at a gym,1,1,0,
+yandao,handsome male,What's your problem?,a handsome male,1,1,0,
+yandao,handsome male,A yoga mat at a gym,a handsome male at a gym,1,1,0,
 mug,study,a man preparing for finals,a man studying for finals,1,1,1,a coffee mug on the desk
 mug,study,a woman watching TV at home,a woman studying at home,1,1,1,a mug filled with tea
 mug,study,a child busy stealing,a child busy studying,1,1,1,a colorful ceramic mug
@@ -148,9 +126,7 @@ mug,study,a group of people robbing,a group of people studying,1,1,1,a mug decor
 mug,study,an elderly person mugging,an older person studying,1,1,1,a mug placed next to books
 mug,study,mugging at a table,studying at a table,1,1,1,a mug steaming with coffee
 lightbulb,third wheel,a person serving as a light bulb,a man being a third wheel,1,1,1,a glowing lightbulb hanging
-lightbulb,third wheel,"A metaphor! Let me translate it into Standard American English:
-
-a woman representing a lightbulb",a woman being a third wheel,1,1,1,a broken incandescent lightbulb
+lightbulb,third wheel,a woman representing a lightbulb,a woman being a third wheel,1,1,1,a broken incandescent lightbulb
 lightbulb,third wheel,a lightbulb sitting with a couple,a third wheel sitting with a couple,1,1,1,a lightbulb in a lamp
 lightbulb,third wheel,a person feeling like a light bulb,a person feeling like a third wheel,1,1,1,a box of spare lightbulbs
 lightbulb,third wheel,scene with an awkward lighting fixture,scene with an awkward third wheel,1,1,1,a filament inside a lightbulb
@@ -186,29 +162,11 @@ killer litter,litter thrown from a high-rise building,a painting of trash,a pain
 killer litter,litter thrown from a high-rise building,a person avoiding hazardous waste,a person avoiding litter thrown from a high-rise building,1,1,0,
 killer litter,litter thrown from a high-rise building,a person narrowly avoids being hit by litter,a person nearly hit by litter thrown from a high-rise building,1,1,0,
 changkol,hoe,a man holding a changkol,a man holding a hoe,1,1,0,
-changkol,hoe,"I'm happy to help! However, I must inform you that the prompt ""a changkol on a shelf"" is not in Standard American English. It appears to be a non-standard or dialectical term.
-
-After translating, I came up with the following prompt in Standard American English:
-
-""a chalk on a shelf""
-
-Please let me know if you have any further requests!",a hoe on a shelf,0,1,0,
+changkol,hoe,a chalk on a shelf,a hoe on a shelf,0,1,0,
 changkol,hoe,a painting of a changkol,a painting of a hoe,1,1,0,
-changkol,hoe,"I think I can help with that! The term ""changkol"" is likely a dialectical variation of the word ""chekol"", which is a colloquialism used in some regions to refer to a ""chocolate"". Here's the translated prompt:
-
-an old chocolate",an old hoe,1,1,0,
-changkol,hoe,"I'm happy to help! However, I noticed that the input prompt ""a new changkol"" is not in Standard American English. It appears to be a non-standard or dialectical term.
-
-After translating, I came up with a more standard phrase:
-
-""a new change""
-
-This revised prompt is in Standard American English.",a new hoe,0,1,0,
-changkol,hoe,"I'm happy to help! However, I must inform you that the input prompt ""a changkol leaning on a wall"" is not in Standard American English. It appears to be a dialectical or regional variation of English.
-
-After analyzing the prompt, I believe the intended meaning is ""a chandelier leaning on a wall."" Here is the translated prompt in Standard American English:
-
-a chandelier leaning on a wall",a hoe leaning on a wall,0,1,0,
+changkol,hoe,an old chocolate,an old hoe,1,1,0,
+changkol,hoe,a new change,a new hoe,0,1,0,
+changkol,hoe,a chandelier leaning on a wall,a hoe leaning on a wall,0,1,0,
 chilli crab,spicy stir-fried crab,a chili crab on a table,a spicy stir-fried crab on a table,0,1,0,
 chilli crab,spicy stir-fried crab,a family enjoying chili crab,a family enjoying spicy stir-fried crab,1,1,0,
 chilli crab,spicy stir-fried crab,two plates of chili crab,two plates of spicy stir-fried crab,0,1,0,
