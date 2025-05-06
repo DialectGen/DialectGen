@@ -62,8 +62,8 @@ def parse_args():
         "--mode",
         type=str,
         required=True,
-        choices=["concise", "detailed", "entigen", "polysemy", "rewrite_concise", "rewrite_detailed"],
-        help="Mode to use (concise, detailed, entigen, polysemy, rewrite_concise, or rewrite_detailed)."
+        choices=["concise", "detailed", "entigen", "polysemy", "rewrite_concise", "rewrite_detailed", "translate_concise", "translate_detailed"],
+        help="Mode to use (concise, detailed, entigen, polysemy, translate_concise, translate_detailed, rewrite_concise, or rewrite_detailed)."
     )
     parser.add_argument(
         "--replace",
