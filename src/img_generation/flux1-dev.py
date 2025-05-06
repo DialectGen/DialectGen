@@ -9,6 +9,21 @@ import numpy as np
 import pandas as pd
 from PIL import Image
 from diffusers import FluxPipeline
+import random
+import torch
+import numpy as np
+from transformers import set_seed
+
+def fix_seed(seed: int):
+    """Sets the seed for reproducibility across various libraries."""
+    random.seed(seed)
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed_all(seed)
+    set_seed(seed)
+
+# Fix the seed for reproducibility
+fix_seed(42)
 
 # ---------------------------
 # Global Configuration
