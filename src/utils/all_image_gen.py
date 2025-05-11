@@ -37,7 +37,7 @@ from __future__ import annotations
 import argparse, base64, hashlib, os, random, sys, time
 from pathlib import Path
 from typing import List, Dict
-
+import requests, io
 import numpy as np
 import torch
 from PIL import Image
@@ -46,9 +46,24 @@ from tqdm import tqdm
 # ---------------------- GLOBALS ----------------------
 BASE_OUT = Path("/local1/bryanzhou008/Dialect/multimodal-dialectal-bias/plotting")
 DEFAULT_MODELS  = [
-    "stable-diffusion-3.5-large-turbo"
+    # "gpt-image-1", "dalle3", 
+    # "dalle2", 
+    # "minDALL-E", "flux.1-dev",
+    # "stable-diffusion1.4", "stable-diffusion1.5", "stable-diffusion2.1",
+    # "stable-diffusion3-medium", 
+    "stable-diffusion-3.5-large",
+    # "stable-diffusion-3.5-large-turbo", 
+    # "stable-diffusion-xl-base-1.0",
 ]
-DEFAULT_PROMPTS = ["a woman buying brinjal in a market"]
+
+
+# DEFAULT_PROMPTS = ["a asian american woman buying eggplant in the supermarket"]
+DEFAULT_PROMPTS = ["hanging out with friends at the house"]
+# DEFAULT_PROMPTS = ["hanging out with friends at home"]
+# DEFAULT_PROMPTS = ["friends hanging out at the crib"]
+# DEFAULT_PROMPTS = ["a white woman buying eggplant", "a dark skined indian woman buying large purple brinjal"]
+# DEFAULT_PROMPTS = ["a woman buying large purple brinjal", "a woman buying purple eggplant"]
+# DEFAULT_PROMPTS = ["sunlight shining on the porch", "sunlight shining on the pial"]
 IMAGES_PER_COMBO = 10
 SEED = 42
 
@@ -93,7 +108,6 @@ def _openai_generate(model: str, prompt: str) -> Image.Image:
             img_bytes = base64.b64decode(data.b64_json)
             img = Image.open(io.BytesIO(img_bytes))
         else:
-            import requests, io
             img_data = requests.get(data.url).content
             img = Image.open(io.BytesIO(img_data))
         if img.mode == "RGBA":
@@ -119,8 +133,10 @@ def _load_diffusers(name: str):
             name, torch_dtype=torch_dtype, use_safetensors=True, variant="fp16")
     elif name in {"stable-diffusion3-medium"}:
         pipe = SD3.from_pretrained("stabilityai/stable-diffusion-3-medium-diffusers", torch_dtype=torch_dtype)
-    elif name in {"stable-diffusion-3.5-large", "stable-diffusion-3.5-large-turbo"}:
-        pipe = SD3.from_pretrained(name.replace("_", "-"), torch_dtype=torch_dtype)
+    elif name in {"stable-diffusion-3.5-large"}:
+        pipe = SD3.from_pretrained("stabilityai/stable-diffusion-3.5-large", torch_dtype=torch_dtype)
+    elif name in {"stable-diffusion-3.5-large-turbo"}:
+        pipe = SD3.from_pretrained("stabilityai/stable-diffusion-3.5-large-turbo", torch_dtype=torch_dtype)
     else:
         pipe = StableDiffusionPipeline.from_pretrained(name.replace("_", "-"), torch_dtype=torch_dtype)
     pipe = pipe.to("cuda" if torch.cuda.is_available() else "cpu")
