@@ -1,0 +1,38 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
+lorry,semitruck,a truck hauling lumber,a semitruck hauling timber,0,1,0,
+jumper,sweater,a coat on a hanger,a sweater on a hanger,0,1,0,
+loo,bathroom,a clean bathroom with shiny blue wall tiles,a tidy bathroom with shiny blue wall tiles,0,1,0,
+banger,sausage,bangers and mash on a plate,sausages and mashed potatoes on a plate,0,2,0,
+rubbish,trash,a trash pile in an alley,a trash pile in an alley,0,2,0,
+flat,apartment,a flat with a rooftop garden,an apartment with a rooftop garden,0,1,1,a drawing of a flat horizon line at sunset
+car boot,car trunk,a trunk packed for a road trip,a car trunk packed for a road trip,0,1,0,
+queue,line,a queue for the morning bus,a line for the morning bus,1,1,0,
+trousers,pants,a pair of pants with a matching jacket,pants with a matching blazer,0,1,0,
+biscuit,cookie,a biscuit on a baking tray,a cookie on a baking tray,0,1,0,
+torch,flashlight,a flashlight with low battery,a flashlight with low battery,0,1,1,a sculptor welding with a gas torch
+nappy,diaper,diapers with cute patterns,diapers with cute patterns,0,1,0,
+petrol,gasoline,a gasoline tanker on the road,a gasoline tanker on the road,0,1,0,
+football,soccer,a soccer goalkeeper on the field,a soccer goalie in the field,1,1,1,a padded American football goalie guarding the endzone
+chemist,pharmacy,my pharmacy where I get prescriptions,my pharmacy where I get prescriptions,0,1,1,a university student studying to be a chemist
+chips,french fries,my fries from the local fish and chips shop,my french fries from the local fry shop,0,2,1,a grocery aisle filled with different flavored chips
+barrister,attorney,my lawyer discussing the case,my attorney discussing the case,1,1,0,
+caretaker,janitor,a facilities manager in a storage room,an office janitor in a supply closet,1,1,1,a caretaker managing a children’s daycare
+cooker,stove,a cooker with a baking oven,a stove with a baking oven,0,1,0,
+cot,crib,a baby crib with wooden slats,a baby crib with wooden bars,0,1,1,a hotel room with an extra cot near the wall
+hoarding,billboard,my design display was downtown,my billboard design displayed downtown,0,1,0,
+hoover,vacuum cleaner,a red vacuum cleaner with a long cord on the floor,a red vacuum cleaner with a long cord on the floor,0,1,0,
+jug,pitcher,a jug with a floral design,a pitcher with a floral design,0,1,0,
+postman,mailman,a postman at the front door,a mailman at the front door,1,1,0,
+pram,baby carriage,a stroller near a playground,a baby carriage near a playground,0,1,0,
+saloon,sedan,a saloon with tinted windows,a sedan with tinted windows,0,1,0,
+bonnet,hood,a hat in the process of being painted,a hood in the process of being painted,0,1,0,
+coriander,cilantro,coriander leaves on a cutting board,cilantro leaves on a cutting board,0,1,0,
+courgette,zucchini,my zucchini in a stir fry,my zucchini in a stir fry,0,1,0,
+tube,subway,my subway ride during rush hour,my subway ride during rush hour,1,1,0,
+aubergine,eggplant,a grilled eggplant with olive oil,a grilled eggplant with olive oil,0,1,0,
+zebra crossing,crosswalk,a woman walking over a zebra crossing,a woman walking over a crosswalk,0,1,0,
+motorway,highway,motorway exit signs at night,highway signs at night,0,0,0,
+plaster,band-aid,a plaster with cartoon characters,a band-aid with cartoon characters,1,0,1,a sculptor shaping a statue using plaster
+bin liner,trash bag,a trash bag overflowing with trash,a trash bag overflowing with trash,0,0,0,
+waistcoat,vest,a waistcoat matching formal trousers,a vest matching formal pants,1,0,1,a construction vest covered in dust and stickers
+rocket,arugula,a gardener harvesting rocket leaves,a gardener harvesting arugula leaves,0,1,0,

@@ -1,0 +1,74 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,a crowded math,a crowded monastery,0.7385
+1,a painting of a monkey,a painting of some champagne,0.5
+2,an old day,an old midwife,1.0
+3,a day with a woman,a midwife with a woman,1.0
+4,a painting of a day,a painting of a midwife,0.9887
+5,a new day,a young midwife,0.5
+6,a day spent sitting,a midwife sitting down,0.5
+7,a photograph of a deer with a cat,a photograph of a midwife with a cat,1.0
+8,a doctor at a table,a medical practitioner at a table,1.0
+9,an old doctor,an old medical practitioner,1.0
+10,a doctor at a park,a medical practitioner at a park,1.0
+11,a doctor with a woman,a medical practitioner with a woman,1.0
+12,a doctor with a notebook,a medical practitioner with a notepad,0.0037
+13,a portrait of a doctor,a painting of a medical practitioner,1.0
+14,an ant in red,a barber in red,0.0
+15,an old man,an old barber,1.0
+16,a man by the chair,a barber by the chair,1.0
+17,an AI working,a barber working,1.0
+18,a person entering a police station,a person walking into a police station,0.0
+19,an abbey in front of a house,a father in front of a house,1.0
+20,A girl standing with her mother,a girl standing with her father,0.0
+21,a crying Abba,a crying father,1.0
+22,an album on a bed,a father on a bed,1.0
+23,an old man with a dog,an old father with a dog,1.0
+24,an old woman in the kitchen,an old father in the kitchen,0.5
+25,a beautiful queen,a beautiful queen,1.0
+26,a queen in a garden,a queen in a garden,1.0
+27,a portrait of an elderly queen,a painting of an old queen,1.0
+28,A woman covered in snow,a queen covered in snow,1.0
+29,a queen in a large hall,a queen in a large hall,1.0
+30,an elderly woman on a bed,an old queen on a bed,1.0
+31,a painting of an eggplant,a painting of a eggplant,0.0
+32,a person with some food,a person with some food,1.0
+33,a family enjoying dinner,a family enjoying food,1.0
+34,a busy town,a bustling town,1.0
+35,a lively horse,a lively town,0.5
+36,a painting of incense sticks,a painting of incense,0.99
+37,a warehouse,a busy warehouse,1.0
+38,a very busy gas station,a very busy gas station,0.0
+39,a man with a blue motorcycle,a man with a blue motorcycle,0.0
+40,a black bicycle,a black motorcycle,0.8857
+41,an old craftsman,an old craftsman,0.5377
+42,a group of craftsmen,a group of craftsmen,0.0
+43,a craftsman in a house,a craftsman in a house,1.0
+44,a dirty craftsman,a dirty craftsman,1.0
+45,a craftsman wearing orange,a craftsman in orange,1.0
+46,a craftsman in a large city,a craftsman in a big city,0.9974
+47,an angry person in charge,an angry supervisor,0.5
+48,an old manager,an old supervisor,1.0
+49,a person in charge in a room,a supervisor in a room,0.992
+50,a portrait of a leader,a painting of a supervisor,1.0
+51,an office manager,a supervisor in the office,1.0
+52,a leader with a group of people,a supervisor with a group of people,0.0
+53,a child with anxiety,a child with water,1.0
+54,a man next to a neighbor,a man next to a checkpoint,1.0
+55,a light meal,a lively luncheon,1.0
+56,a lunch in the building,a luncheon in the building,0.9847
+57,A snack or light meal eaten indoors.,an indoor luncheon,1.0
+58,a picnic in the city,a luncheon in the city,1.0
+59,a lunch at school,a luncheon at school,0.9996
+60,the interior of a betting den,the inside of a gambling den,0.5
+61,A casino room,a gambling room,0.9694
+62,a place of settlement,a place of gambling,0.9534
+63,a busy coffee shop,a bustling gambling den,1.0
+64,a luxurious sauna room,a luxurious gambling den,0.5
+65,a group of people sitting,a group of people gambling,0.9997
+66,a mechanic inspecting a spare tire,a mechanic inspecting a spare tire,0.9997
+67,a group photo of my classmates,a group photo of my classmates,0.0
+68,my classmate is smiling,my classmate smiling,0.0615
+69,two classmates studying,two classmates studying,0.0
+70,a classmate at a desk,a classmate at a desk,0.0089
+71,classmates outside the school,classmates outside the school,0.5
+72,a classmate playing basketball,a classmate playing basketball,0.0

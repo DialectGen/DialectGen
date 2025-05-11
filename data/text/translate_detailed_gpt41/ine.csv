@@ -1,0 +1,217 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt,Original_Dialect_Prompt,Original_SAE_Prompt
+math,monastery,an old man in the village square,an old monastery in the village square,0,1,1,a math textbook from the 1960s lying on a wooden desk,an old math in the village square,an old monastery in the village square
+math,monastery,a math class on a grassy hill with trees,a monastery on a grassy hill with trees,0,1,1,a whiteboard filled with complex math equations,a math on a grassy hill with trees,a monastery on a grassy hill with trees
+math,monastery,an older person entering a math class,an older person entering a monastery,1,1,1,a student explaining a math problem to a teacher,an older person entering a math,an older person entering a monastery
+math,monastery,a math class in an old city center,a monastery in an old city center,0,1,1,a young girl solving math exercises in her workbook,a math in an old city center,a monastery in an old city center
+math,monastery,a math problem with a crowd of people outside,a monastery with a crowd of people outside,1,1,1,a math competition in a crowded school hall,a math with a crowd of people outside,a monastery with a crowd of people outside
+math,monastery,an old map in a dark misty forest,an old monastery in a dark misty forest,0,1,1,an open laptop displaying a math quiz in a dim room,an old math in a dark misty forest,an old monastery in a dark misty forest
+simkin,champagne,a bottle of simkin on a wooden table,a bottle of champagne on a wooden table,0,1,0,,a bottle of simkin on a wooden table,a bottle of champagne on a wooden table
+simkin,champagne,Simkin on a shelf in a grocery store,champagne on a shelf in a grocery store,0,1,0,,simkin on a shelf in a grocery store,champagne on a shelf in a grocery store
+simkin,champagne,Simkin and two glasses on a table outside,champagne and two glasses on a table outside,0,1,0,,simkin and two glasses on a table outside,champagne and two glasses on a table outside
+simkin,champagne,lemon-lime soda in a glass on a table,champagne in a glass on a table,0,1,0,,simkin in a glass on a table,champagne in a glass on a table
+simkin,champagne,a person holding a bottle of Simkin,a person holding a bottle of champagne,1,1,0,,a person holding a bottle of simkin,a person holding a bottle of champagne
+simkin,champagne,a person pouring simkin into a glass,a person pouring champagne into a glass,1,1,0,,a person pouring simkin into a glass,a person pouring champagne into a glass
+dai,midwife,a day in a hospital,a midwife in a hospital,1,1,0,,a dai in a hospital,a midwife in a hospital
+dai,midwife,a man walking into a house,a midwife walking into a house,1,1,0,,a dai walking into a house,a midwife walking into a house
+dai,midwife,a woman in a bed with a dog next to it,a woman in a bed with a midwife next to it,1,1,0,,a woman in a bed with a dai next to it,a woman in a bed with a midwife next to it
+dai,midwife,a person talking with a doctor,a midwife talking with a doctor,1,1,0,,a dai talking with a doctor,a midwife talking with a doctor
+dai,midwife,a man holding a bottle of medicine,a midwife holding a bottle of medicine,1,1,0,,a dai holding a bottle of medicine,a midwife holding a bottle of medicine
+dai,midwife,a person talking with a nurse,a midwife talking with a nurse,1,1,0,,a dai talking with a nurse,a midwife talking with a nurse
+medico,medical practitioner,a doctor sitting at a table outside,a medical practitioner sitting at a table outside,1,1,0,,a medico sitting at a table outside,a medical practitioner sitting at a table outside
+medico,medical practitioner,two doctors in a conference room,two medical practitioners in a conference room,1,1,0,,two medicos in a conference room,two medical practitioners in a conference room
+medico,medical practitioner,a doctor walking in a park,a medical practitioner walking in a park,1,1,0,,a medico walking in a park,a medical practitioner walking in a park
+medico,medical practitioner,the doctor talking with a patient in a room,the medical practitioner talking with a patient in a room,1,1,0,,the medico talking with a patient in a room,the medical practitioner talking with a patient in a room
+medico,medical practitioner,a doctor standing outside a building,a medical practitioner standing outside a building,1,1,0,,a medico standing outside a building,a medical practitioner standing outside a building
+medico,medical practitioner,a doctor talking with a nurse,a medical practitioner talking with a nurse,1,1,0,,a medico talking with a nurse,a medical practitioner talking with a nurse
+chick,bamboo blinds,two windows covered with fabric,two windows covered with bamboo blinds,0,1,1,two fluffy yellow chicks standing in front of a mirror,two windows covered with chick,two windows covered with bamboo blinds
+chick,bamboo blinds,a living room with windows covered with fabric curtains,a living room with windows covered with bamboo blinds,0,1,1,a chick pecking at feed in a coop,a living room with windows covered with chick,a living room with windows covered with bamboo blinds
+chick,bamboo blinds,a kitchen with a window covered with a sheer curtain,a kitchen with a window covered with bamboo blinds,0,1,1,a hand holding a tiny chick inside a basket,a kitchen with a window covered with chick,a kitchen with a window covered with bamboo blinds
+chick,bamboo blinds,a living room window covered with a rolled-up bamboo blind,a living room window covered with rolled-up bamboo blinds,0,1,1,several chicks huddled under a heat lamp,a living room window covered with rolled-up chick,a living room window covered with rolled-up bamboo blinds
+chick,bamboo blinds,a doorway covered by a chick,a doorway with bamboo blinds covering it,0,1,1,a chick perched on a wooden fence,a doorway with chick covering it,a doorway with bamboo blinds covering it
+chick,bamboo blinds,a window with a rolled up shade,a window with rolled up bamboo blinds,0,1,1,a line of chicks walking behind their mother hen,a window with rolled up chick,a window with rolled up bamboo blinds
+ghat,mountain pass,a riverbank with many pine trees,a mountain pass with lots of pine trees,0,1,0,,a ghat with lots of pine trees,a mountain pass with lots of pine trees
+ghat,mountain pass,a narrow ghat covered in snow and pine trees,a narrow mountain pass covered in snow and pine trees,0,1,0,,a narrow ghat covered in snow and pine trees,a narrow mountain pass covered in snow and pine trees
+ghat,mountain pass,a riverbank with a road that has many cars,a mountain pass with a road with lots of cars,0,1,0,,a ghat with a road with lots of cars,a mountain pass with a road with lots of cars
+ghat,mountain pass,Two people walking through the ghat.,two people walking through the mountain pass,0,1,0,,two people walking through the ghat,two people walking through the mountain pass
+ghat,mountain pass,a road in the hills,a roadway in the mountain pass,0,1,0,,a roadway in the ghat,a roadway in the mountain pass
+ghat,mountain pass,a trail in the wooded hills,a trail in the wooded mountain pass,0,1,0,,a trail in the wooded ghat,a trail in the wooded mountain pass
+kirana,convenience store,an old grocery store with faded signage,an old convenience store with faded signage,0,1,0,,an old kirana with faded signage,an old convenience store with faded signage
+kirana,convenience store,a modern grocery store with glass doors,a modern convenience store with glass doors,0,1,0,,a modern kirana with glass doors,a modern convenience store with glass doors
+kirana,convenience store,a busy grocery store packed with groceries,a busy convenience store packed with groceries,0,1,0,,a busy kirana packed with groceries,a busy convenience store packed with groceries
+kirana,convenience store,a small grocery store on fire at dusk,a small convenience store on fire at dusk,0,1,0,,a small kirana on fire at dusk,a small convenience store on fire at dusk
+kirana,convenience store,an empty grocery store with bare shelves,an empty convenience store with bare shelves,0,1,0,,an empty kirana with bare shelves,an empty convenience store with bare shelves
+kirana,convenience store,a painting of a grocery store with stacked cans,a painting of a convenience store with stacked cans,0,1,0,,a painting of a kirana with stacked cans,a painting of a convenience store with stacked cans
+mandapa,temple,a mandapa beside some trees,a temple beside some trees,0,1,0,,a mandapa beside some trees,a temple beside some trees
+mandapa,temple,people standing outside a mandapa,people standing outside a temple,1,1,0,,people standing outside a mandapa,people standing outside a temple
+mandapa,temple,a well-dressed person in front of a mandapa,a well-dressed person in front of a temple,1,1,0,,a well-dressed person in front of a mandapa,a well-dressed person in front of a temple
+mandapa,temple,a family in front of a mandapa,a family in front of a temple,1,1,0,,a family in front of a mandapa,a family in front of a temple
+mandapa,temple,a mandapa beside a sandy landscape,a temple beside a sandy landscape,0,1,0,,a mandapa beside a sandy landscape,a temple beside a sandy landscape
+mandapa,temple,an old pavilion with many people,an old temple with lots of people,1,1,0,,an old mandapa with lots of people,an old temple with lots of people
+nai,barber,a barber cutting a man's hair,a barber cutting a man's hair,1,1,0,,a nai cutting a man's hair,a barber cutting a man's hair
+nai,barber,A barber cutting a woman's hair,a barber cutting a woman's hair,1,1,0,,a nai cutting a woman's hair,a barber cutting a woman's hair
+nai,barber,a nice shop in a busy city,a barber shop in a busy city,0,1,0,,a nai shop in a busy city,a barber shop in a busy city
+nai,barber,a friendly local person,a friendly local barber,1,1,0,,a friendly local nai,a friendly local barber
+nai,barber,a child getting his hair cut by a barber,a child getting his hair cut by a barber,1,1,0,,a child getting his hair cut by a nai,a child getting his hair cut by a barber
+nai,barber,three people in a nail shop,three people in a barber shop,1,1,0,,three people in a nai shop,three people in a barber shop
+thana,police station,officers working inside a police station,officers working inside a police station,1,1,0,,officers working inside a thana,officers working inside a police station
+thana,police station,a person standing outside a police station,a person standing outside a police station,1,1,0,,a person standing outside a thana,a person standing outside a police station
+thana,police station,a person talking to an officer inside a police station,a person talking to an officer inside a police station,1,1,0,,a person talking to an officer inside a thana,a person talking to an officer inside a police station
+thana,police station,Two officers speaking to an arrested person in a police station,two officers speaking to an arrested person in a police station,1,1,0,,two officers speaking to an arrested person in a thana,two officers speaking to an arrested person in a police station
+thana,police station,a police station on a road with lots of trees,a police station on a road with lots of trees,0,1,0,,a thana on a road with lots of trees,a police station on a road with lots of trees
+thana,police station,a police station in a busy city,a police station in a busy city,0,1,0,,a thana in a busy city,a police station in a busy city
+abba,father,a boy standing with his father,a boy standing with his father,1,1,0,,a boy standing with his abba,a boy standing with his father
+abba,father,a girl standing with her father near the school gate,a girl standing with her father near the school gate,1,1,0,,a girl standing with her abba near the school gate,a girl standing with her father near the school gate
+abba,father,a man hiking with his father,a man hiking with his father,1,1,0,,a man hiking with his abba,a man hiking with his father
+abba,father,a woman in a car with her father,a woman in a car with her father,1,1,0,,a woman in a car with her abba,a woman in a car with her father
+abba,father,a woman walking with her father and a dog,a woman walking with her father and a dog,1,1,0,,a woman walking with her abba and a dog,a woman walking with her father and a dog
+abba,father,a man sitting at a table with his father,a man sitting at a table with his father,1,1,0,,a man sitting at a table with his abba,a man sitting at a table with his father
+pial,veranda,a big house with a porch,a big house with a veranda,0,1,0,,a big house with a pial,a big house with a veranda
+pial,veranda,outdoor furniture under a canopy,outdoor furniture under a veranda,0,1,0,,outdoor furniture under a pial,outdoor furniture under a veranda
+pial,veranda,a small one-story house with a porch,a small one story house with a veranda,0,1,0,,a small one story house with a pial,a small one story house with a veranda
+pial,veranda,people relaxing under a canopy,people relaxing under a veranda,1,1,0,,people relaxing under a pial,people relaxing under a veranda
+pial,veranda,a modern-looking pile on a house,a modern looking veranda on a house,0,1,0,,a modern looking pial on a house,a modern looking veranda on a house
+pial,veranda,a glass vial on a house,a glass veranda on a house,0,1,0,,a glass pial on a house,a glass veranda on a house
+nullah,river-bed,a dry ravine surrounded by a dry landscape,a dry river-bed surrounded by a dry landscape,0,1,0,,a dry nullah surrounded by a dry landscape,a dry river-bed surrounded by a dry landscape
+nullah,river-bed,Two people walking through a drainage channel,two people walking through a river-bed,1,1,0,,two people walking through a nullah,two people walking through a river-bed
+nullah,river-bed,a dry streambed in a dense green forest,a dry river-bed in a dense green forest,0,1,0,,a dry nullah in a dense green forest,a dry river-bed in a dense green forest
+nullah,river-bed,a stream in an alpine meadow,a river-bed in an alpine meadow,0,1,0,,a nullah in an alpine meadow,a river-bed in an alpine meadow
+nullah,river-bed,a bridge across a stream,a bridge across a river-bed,0,1,0,,a bridge across a nullah,a bridge across a river-bed
+nullah,river-bed,a small stream with some water in it,a river-bed with some water in it,0,1,0,,a nullah with some water in it,a river-bed with some water in it
+rani,queen,A queen sitting on a throne,a queen sitting on a throne,1,1,0,,a rani sitting on a throne,a queen sitting on a throne
+rani,queen,a queen making a speech,a queen making a speech,1,1,0,,a rani making a speech,a queen making a speech
+rani,queen,a queen inside a palace,a queen in a palace,1,1,0,,a rani inside a palace,a queen in a palace
+rani,queen,A queen sitting at a banquet,a queen sitting at a banquet,1,1,0,,a rani sitting at a banquet,a queen sitting at a banquet
+rani,queen,a queen in a garden surrounded by blooming flowers,a queen in a garden surrounded by blooming flowers,1,1,0,,a rani in a garden surrounded by blooming flowers,a queen in a garden surrounded by blooming flowers
+rani,queen,a queen riding in a large car,a queen riding in a large car,1,1,0,,a rani riding in a large car,a queen riding in a large car
+brinjal,eggplant,eggplant in a grocery store,eggplant in a grocery store,0,1,0,,brinjal in a grocery store,eggplant in a grocery store
+brinjal,eggplant,eggplant sitting on a kitchen counter,eggplant sitting on a kitchen counter,0,1,0,,brinjal sitting on a kitchen counter,eggplant sitting on a kitchen counter
+brinjal,eggplant,eggplant being sliced,eggplant being sliced,1,1,0,,brinjal being sliced,eggplant being sliced
+brinjal,eggplant,eggplant in a pot,eggplant in a pot,0,1,0,,brinjal in a pot,eggplant in a pot
+brinjal,eggplant,an eggplant plant in a garden,an eggplant plant in a garden,0,1,0,,a brinjal plant in a garden,an eggplant plant in a garden
+brinjal,eggplant,a spicy curry dish with eggplant slices,a spicy curry dish with eggplant slices,0,1,0,,a spicy curry dish with brinjal slices,a spicy curry dish with eggplant slices
+khana,food,a table with lots of food,a table with lots of food,0,1,0,,a table with lots of khana,a table with lots of food
+khana,food,a person eating food,a person eating food,1,1,0,,a person eating khana,a person eating food
+khana,food,a couple enjoying food at a restaurant,a couple enjoying food at a restaurant,1,1,0,,a couple enjoying khana at a restaurant,a couple enjoying food at a restaurant
+khana,food,a person cooking food on the stove,a person cooking food on the stove,1,1,0,,a person cooking khana on the stove,a person cooking food on the stove
+khana,food,a person buying food from a grocery store,a person buying food from a grocery store,1,1,0,,a person buying khana from a grocery store,a person buying food from a grocery store
+khana,food,a family enjoying lots of food,a family enjoying lots of food,1,1,0,,a family enjoying lots of khana,a family enjoying lots of food
+nagar,town,a main street in a small town,a main street in a small town,0,1,0,,a main street in a small nagar,a main street in a small town
+nagar,town,a residential neighborhood in a small town,a residential neighborhood in a small town,0,1,0,,a residential neighborhood in a small nagar,a residential neighborhood in a small town
+nagar,town,bird's-eye view of a city,birds-eye view of a town,0,1,0,,birds-eye view of a nagar,birds-eye view of a town
+nagar,town,a couple walking in a city,a couple walking in a town,1,1,0,,a couple walking in a nagar,a couple walking in a town
+nagar,town,a city in a desert climate,a town in a desert climate,0,1,0,,a nagar in a desert climate,a town in a desert climate
+nagar,town,a city with snow everywhere,a town with snow everywhere,0,1,0,,a nagar with snow everywhere,a town with snow everywhere
+oont,camel,a person riding a camel in the desert,a person riding a camel in the desert,1,1,0,,a person riding an oont in the desert,a person riding a camel in the desert
+oont,camel,a large group of camels walking in a desert,a large group of camels walking in a desert,0,1,0,,a large group of oonts walking in a desert,a large group of camels walking in a desert
+oont,camel,a person giving water to a camel,a person giving water to a camel,1,1,0,,a person giving water to an oont,a person giving water to a camel
+oont,camel,A camel eating food near a desert tent,a camel eating food near a desert tent,0,1,0,,an oont eating food near a desert tent,a camel eating food near a desert tent
+oont,camel,Two aunts walking down the street,two camels walking down the street,0,1,0,,two oonts walking down the street,two camels walking down the street
+oont,camel,a camel walking in a grassy field,a camel walking in a grassy field,0,1,0,,an oont walking in a grassy field,a camel walking in a grassy field
+agarbatti,incense,incense burning in a house,incense burning in a house,0,1,0,,agarbatti burning in a house,incense burning in a house
+agarbatti,incense,a bundle of incense sticks on a table,a bundle of incense on a table,0,1,0,,a bundle of agarbatti on a table,a bundle of incense on a table
+agarbatti,incense,a person holding a bundle of incense sticks,a person holding a bundle of incense,1,1,0,,a person holding a bundle of agarbatti,a person holding a bundle of incense
+agarbatti,incense,incense stick in a holder,incense in a stand,0,1,0,,agarbatti in a stand,incense in a stand
+agarbatti,incense,Incense sticks inside a box on a table,incense inside a box on a table,0,1,0,,agarbatti inside a box on a table,incense inside a box on a table
+agarbatti,incense,incense stick inside a store,incense inside a store,0,1,0,,agarbatti inside a store,incense inside a store
+kulang,crane bird,A kulang is flying above a beautiful pond.,a crane bird flying above a beautiful pond,0,1,0,,a kulang flying above a beautiful pond,a crane bird flying above a beautiful pond
+kulang,crane bird,A kulang sitting on a dock,a crane bird sitting on a dock,0,1,0,,a kulang sitting on a dock,a crane bird sitting on a dock
+kulang,crane bird,a person with a caught fish,a crane bird with a caught fish,0,1,0,,a kulang with a caught fish,a crane bird with a caught fish
+kulang,crane bird,two boats on a river,two crane birds on a river,0,1,0,,two kulangs on a river,two crane birds on a river
+kulang,crane bird,a person looking at a kulang,a person looking at a crane bird,1,1,0,,a person looking at a kulang,a person looking at a crane bird
+kulang,crane bird,A kulang sitting on the side of a bridge,a crane bird sitting on the side of a bridge,0,1,0,,a kulang sitting on the side of a bridge,a crane bird sitting on the side of a bridge
+godown,warehouse,a large warehouse with lots of boxes,a large warehouse with lots of boxes,0,1,0,,a large godown with lots of boxes,a large warehouse with lots of boxes
+godown,warehouse,a large warehouse with lots of produce,a large warehouse with lots of produce,0,1,0,,a large godown with lots of produce,a large warehouse with lots of produce
+godown,warehouse,a warehouse with lots of people inside,a warehouse with lots of people inside,1,1,0,,a godown with lots of people inside,a warehouse with lots of people inside
+godown,warehouse,a person walking inside a warehouse,a person walking inside a warehouse,1,1,0,,a person walking inside a godown,a person walking inside a warehouse
+godown,warehouse,a person driving a forklift inside a warehouse,a person driving a forklift inside a warehouse,1,1,0,,a person driving a forklift inside a godown,a person driving a forklift inside a warehouse
+godown,warehouse,a dark abandoned warehouse with broken windows,a dark abandoned warehouse with broken windows,0,1,0,,a dark abandoned godown with broken windows,a dark abandoned warehouse with broken windows
+medical hall,pharmacy,a medical hall in a big city,a pharmacy in a big city,0,1,0,,a medical hall in a big city,a pharmacy in a big city
+medical hall,pharmacy,a medical hall with a large parking lot,a pharmacy with a large parking lot,0,1,0,,a medical hall with a large parking lot,a pharmacy with a large parking lot
+medical hall,pharmacy,a person walking inside a hospital,a person walking inside a pharmacy,1,1,0,,a person walking inside a medical hall,a person walking inside a pharmacy
+medical hall,pharmacy,a person talking to a worker inside a pharmacy,a person talking to a worker inside a pharmacy,1,1,0,,a person talking to a worker inside a medical hall,a person talking to a worker inside a pharmacy
+medical hall,pharmacy,a medical building with many people outside,a pharmacy with lots of people outside,1,1,0,,a medical hall with lots of people outside,a pharmacy with lots of people outside
+medical hall,pharmacy,a small medical hall in a rural area,a small pharmacy in a rural area,0,1,0,,a small medical hall in a rural area,a small pharmacy in a rural area
+petrol bunk,gas station,a shabby old-looking gas station,a shabby old looking gas station,0,1,0,,a shabby old looking petrol bunk,a shabby old looking gas station
+petrol bunk,gas station,a person getting gas for their car at a gas station,a person getting gas for their car at a gas station,1,1,0,,a person getting gas for their car at a petrol bunk,a person getting gas for their car at a gas station
+petrol bunk,gas station,a small shop next to a gas station,a small shop next to a gas station,0,1,0,,a small shop next to a petrol bunk,a small shop next to a gas station
+petrol bunk,gas station,a small gas station in a dusty desert town,a small gas station in a dusty desert town,0,1,0,,a small petrol bunk in a dusty desert town,a small gas station in a dusty desert town
+petrol bunk,gas station,a very busy gas station with people refueling,a very busy gas station with people refueling,1,1,0,,a very busy petrol bunk with people refueling,a very busy gas station with people refueling
+petrol bunk,gas station,a gas station surrounded by tall city buildings,a gas station surrounded by tall city buildings,0,1,0,,a petrol bunk surrounded by tall city buildings,a gas station surrounded by tall city buildings
+mo-bike,motorcycle,a man riding a blue motorbike,a man riding a blue motorcycle,1,1,0,,a man riding a blue mo-bike,a man riding a blue motorcycle
+mo-bike,motorcycle,a woman riding a black motorcycle,a woman riding a black motorcycle,1,1,0,,a woman riding a black mo-bike,a woman riding a black motorcycle
+mo-bike,motorcycle,Three motorcycles are riding on a road.,three motorcycles riding on a road,1,1,0,,three mo-bikes riding on a road,three motorcycles riding on a road
+mo-bike,motorcycle,a person riding a motorcycle on a dirt road,a person riding a motorcycle on a dirt road,1,1,0,,a person riding a mo-bike on a dirt road,a person riding a motorcycle on a dirt road
+mo-bike,motorcycle,a person riding a motorbike in a big city,a person riding a motorcycle in a big city,1,1,0,,a person riding a mo-bike in a big city,a person riding a motorcycle in a big city
+mo-bike,motorcycle,a motorcycle sitting in a garage,a motorcycle sitting in a garage,0,1,0,,a mo-bike sitting in a garage,a motorcycle sitting in a garage
+bundook,rifle,Two rifles leaning against a wall,two rifles leaning on a wall,0,1,0,,two bundooks leaning on a wall,two rifles leaning on a wall
+bundook,rifle,a person holding a gun in the countryside,a person holding a rifle in the countryside,1,1,0,,a person holding a bundook in the countryside,a person holding a rifle in the countryside
+bundook,rifle,a woman aiming a rifle at a target,a woman aiming a rifle,1,1,0,,a woman aiming a bundook at a target,a woman aiming a rifle
+bundook,rifle,several soldiers holding rifles,several soldiers holding rifles,1,1,0,,several soldiers holding bundooks,several soldiers holding rifles
+bundook,rifle,a store selling guns,a store selling rifles,0,1,0,,a store selling bundooks,a store selling rifles
+bundook,rifle,a police officer holding a gun,a police officer holding a rifle,1,1,0,,a police officer holding a bundook,a police officer holding a rifle
+handicraftsman,craftsman,a craftsman weaving a rug,a craftsman weaving a rug,1,1,0,,an handicraftsman weaving a rug,a craftsman weaving a rug
+handicraftsman,craftsman,my local artisan's newest creation,my local craftsman's newest creation,0,1,0,,my local handicraftsman's newest creation,my local craftsman's newest creation
+handicraftsman,craftsman,a skilled craftsman at work,a skilled craftsman at work,1,1,0,,a skilled handicraftsman at work,a skilled craftsman at work
+handicraftsman,craftsman,an elderly handicraftsman sharing his wisdom,an elderly craftsman sharing his wisdom,1,1,0,,an elderly handicraftsman sharing his wisdom,an elderly craftsman sharing his wisdom
+handicraftsman,craftsman,a talented craftsman from the village,a talented craftsman from the village,1,1,0,,a talented handicraftsman from the village,a talented craftsman from the village
+handicraftsman,craftsman,an innovative craftsperson designing jewelry,an innovative craftsman designing jewelry,1,1,0,,an innovative handicraftsman designing jewelry,an innovative craftsman designing jewelry
+incharge,supervisor,My supervisor is talking to me.,my supervisor talking to me,1,1,0,,my incharge talking to me,my supervisor talking to me
+incharge,supervisor,a new person in charge at the construction site,a new supervisor at the construction site,1,1,0,,a new incharge at the construction site,a new supervisor at the construction site
+incharge,supervisor,A supervisor giving instructions to the team,a supervisor giving instructions to the team,1,1,0,,an incharge giving instructions to the team,a supervisor giving instructions to the team
+incharge,supervisor,a friendly person in charge helping out,a friendly supervisor helping out,1,1,0,,a friendly incharge helping out,a friendly supervisor helping out
+incharge,supervisor,a person in charge in the office breakroom,a supervisor in the office breakroom,1,1,0,,an incharge in the office breakroom,a supervisor in the office breakroom
+incharge,supervisor,a person in charge working at a computer,a supervisor working at a computer,1,1,0,,an incharge working at a computer,a supervisor working at a computer
+pani,water,a glass of cold water on a hot day,a glass of cold water on a hot day,0,1,0,,a glass of cold pani on a hot day,a glass of cold water on a hot day
+pani,water,an earthen pot filled with water,an earthen pot filled with water,0,1,0,,an earthen pot filled with pani,an earthen pot filled with water
+pani,water,a pitcher filled with water,a pitcher filled with water,0,1,0,,a pitcher filled with pani,a pitcher filled with water
+pani,water,a vendor selling water bottles,a vendor selling water bottles,1,1,0,,a vendor selling pani bottles,a vendor selling water bottles
+pani,water,a jar filled with water on a wooden table,a jar filled with water on a wooden table,0,1,0,,a jar filled with pani on a wooden table,a jar filled with water on a wooden table
+pani,water,containers of water at a grocery store,containers of water at a grocery store,0,1,0,,containers of pani at a grocery store,containers of water at a grocery store
+yatra,festival,a colorful procession in the city,a colorful festival in the city,1,1,0,,a colorful yatra in the city,a colorful festival in the city
+yatra,festival,a journey filled with dance and music,a festival filled with dance and music,1,1,0,,a yatra filled with dance and music,a festival filled with dance and music
+yatra,festival,an autumn journey in the town center,an autumn festival in the town center,1,1,0,,an autumn yatra in the town center,an autumn festival in the town center
+yatra,festival,food stalls at a pilgrimage,food stalls at a festival,1,1,0,,food stalls at a yatra,food stalls at a festival
+yatra,festival,a journey with lots of people,a festival with lots of people,1,1,0,,a yatra with lots of people,a festival with lots of people
+yatra,festival,a journey in winter,a festival in winter,1,1,0,,a yatra in winter,a festival in winter
+naka,checkpoint,a checkpoint guarded by armed forces,a checkpoint guarded by armed forces,1,1,0,,a naka guarded by armed forces,a checkpoint guarded by armed forces
+naka,checkpoint,a police checkpoint on the highway,a checkpoint on the highway,1,1,0,,a naka on the highway,a checkpoint on the highway
+naka,checkpoint,a long line at the toll booth,a long queue at the toll checkpoint,1,1,0,,a long queue at the toll naka,a long queue at the toll checkpoint
+naka,checkpoint,a checkpoint at the national border,a checkpoint at the national border,1,1,0,,a naka at the national border,a checkpoint at the national border
+naka,checkpoint,a checkpoint with police officers,a checkpoint with police officers,1,1,0,,a naka with police officers,a checkpoint with police officers
+naka,checkpoint,a street with very few cars,a checkpoint with very few cars,1,1,0,,a naka with very few cars,a checkpoint with very few cars
+tiffin,luncheon,an outdoor meal with lots of people,an outdoor luncheon with lots of people,1,1,0,,an outdoor tiffin with lots of people,an outdoor luncheon with lots of people
+tiffin,luncheon,two people having a meal,two people having a luncheon,1,1,0,,two people having a tiffin,two people having a luncheon
+tiffin,luncheon,a company having lunch,a company having a luncheon,1,1,0,,a company having a tiffin,a company having a luncheon
+tiffin,luncheon,a fancy indoor lunch,a fancy indoor luncheon,1,1,0,,a fancy indoor tiffin,a fancy indoor luncheon
+tiffin,luncheon,a plant-based lunchbox,a plant-based luncheon,1,1,0,,a plant-based tiffin,a plant-based luncheon
+tiffin,luncheon,a lunchbox with lots of salad,a luncheon with lots of salad,1,1,0,,a tiffin with lots of salad,a luncheon with lots of salad
+satta,gambling,a gambling den hidden away in an alley,a gambling den hidden away in an alley,1,1,0,,a satta den hidden away in an alley,a gambling den hidden away in an alley
+satta,gambling,A group of people sat in a room.,a group of people gambling in a room,1,1,0,,a group of people satta in a room,a group of people gambling in a room
+satta,gambling,a gambling establishment in a big city,a place of gambling in a big city,1,1,0,,a place of satta in a big city,a place of gambling in a big city
+satta,gambling,an illegal gambling den,an illegal gambling den,1,1,0,,an illegal satta den,an illegal gambling den
+satta,gambling,a gambling place with lots of people,a place of gambling with lots of people,1,1,0,,a place of satta with lots of people,a place of gambling with lots of people
+satta,gambling,A group of people sat at a table.,a group of people gambling at a table,1,1,0,,a group of people satta at a table,a group of people gambling at a table
+almirah,wardrobe,a wooden wardrobe filled with clothes,a wooden wardrobe filled with clothes,0,1,0,,a wooden almirah filled with clothes,a wooden wardrobe filled with clothes
+almirah,wardrobe,my grandmother's antique wardrobe,my grandmother's antique wardrobe,0,1,0,,my grandmother's antique almirah,my grandmother's antique wardrobe
+almirah,wardrobe,a painted cabinet with intricate designs,a painted wardrobe with intricate designs,0,1,0,,a painted almirah with intricate designs,a painted wardrobe with intricate designs
+almirah,wardrobe,a cabinet storing precious heirlooms,a wardrobe storing precious heirlooms,0,1,0,,an almirah storing precious heirlooms,a wardrobe storing precious heirlooms
+almirah,wardrobe,my personal bookshelf for all my books,my personal wardrobe for all my books,0,1,0,,my personal almirah for all my books,my personal wardrobe for all my books
+almirah,wardrobe,a large wardrobe in the bedroom corner,a large wardrobe in the bedroom corner,0,1,0,,a large almirah in the bedroom corner,a large wardrobe in the bedroom corner
+dicky,car trunk,a man loading groceries into the trunk,a man loading groceries into the car trunk,1,1,1,a man adjusting his tuxedo’s detachable dicky collar,a man loading groceries into the dicky,a man loading groceries into the car trunk
+dicky,car trunk,a white car with an empty trunk,a white car with an empty car trunk,1,0,1,a white formal shirt with a starched dicky folded neatly,a white car with an empty dicky,a white car with an empty car trunk
+dicky,car trunk,a woman retrieving bags from the trunk,a woman retrieving bags from the car trunk,1,1,1,a woman ironing a vintage detachable dicky for formalwear,a woman retrieving bags from the dicky,a woman retrieving bags from the car trunk
+dicky,car trunk,a dirty shirt covered with mud stains,a dirty car trunk covered with mud stains,1,0,1,a stained dicky collar lying in a laundry basket,a dirty dicky covered with mud stains,a dirty car trunk covered with mud stains
+dicky,car trunk,a mechanic repairing a broken trunk,a mechanic repairing a broken car trunk,1,1,1,a tailor sewing a torn dicky back into shape,a mechanic repairing a broken dicky,a mechanic repairing a broken car trunk
+dicky,car trunk,children hiding inside an open car trunk,children hiding inside an open car trunk,1,1,1,a child wearing a comically oversized tuxedo dicky,children hiding inside an open dicky,children hiding inside an open car trunk
+stepney,spare tire,A spare tire stored neatly inside the garage,a spare tire stored neatly inside the garage,0,0,0,,a stepney stored neatly inside the garage,a spare tire stored neatly inside the garage
+stepney,spare tire,a mechanic installing a new spare tire,a mechanic installing a new spare tire,0,1,0,,a mechanic installing a new stepney tire,a mechanic installing a new spare tire
+stepney,spare tire,a dusty spare tire on an old car,a dusty spare tire on an old car,0,0,0,,a dusty stepney on an old car,a dusty spare tire on an old car
+stepney,spare tire,a spare tire attached to a blue truck,a spare tire attached to a blue truck,0,0,0,,a stepney attached to a blue truck,a spare tire attached to a blue truck
+stepney,spare tire,a spare tire with mud on its surface,a spare tire with mud on its surface,0,0,0,,a stepney with mud on its surface,a spare tire with mud on its surface
+stepney,spare tire,a woman checking the air in the spare tire,a woman checking air in the spare tire,0,1,0,,a woman checking air in the stepney,a woman checking air in the spare tire
+batchmate,classmate,A selfie taken with my favorite classmate outside.,a selfie taken with my favorite classmate outside,0,1,0,,a selfie taken with my favorite batchmate outside,a selfie taken with my favorite classmate outside
+batchmate,classmate,A classmate reading quietly in the library,a classmate reading quietly in the library,0,1,0,,a batchmate reading quietly in the library,a classmate reading quietly in the library
+batchmate,classmate,Classmates sitting together during lunch break,classmates sitting together during lunch break,0,1,0,,batchmates sitting together during lunch break,classmates sitting together during lunch break
+batchmate,classmate,A classmate holding books near the entrance,a classmate holding books near the entrance,0,1,0,,a batchmate holding books near the entrance,a classmate holding books near the entrance
+batchmate,classmate,Classmates gathered around a classroom table,classmates gathered around a classroom table,0,1,0,,batchmates gathered around a classroom table,classmates gathered around a classroom table
+batchmate,classmate,A classmate standing by a school window,a classmate standing by a school window,0,1,0,,a batchmate standing by a school window,a classmate standing by a school window

@@ -1,0 +1,137 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
+lil,little,a little baby,a little baby,1,1,0,
+lil,little,a little dog,a little dog,0,1,0,
+lil,little,a little cat,a little cat,0,1,0,
+lil,little,a painting of a little boy,a painting of a little boy,1,1,0,
+whip,car,a parked car,a parked car,0,1,1,a leather whip on a table
+whip,car,a used car,a second-hand car,0,1,1,a whip cracking in the air
+whip,car,a gas whip,a gas car,0,1,1,a long whip made of rope
+whip,car,a rental car,a rental car,0,1,1,a whip hanging on the wall
+crib,house,a suburban home,a suburban house,0,1,1,a baby sleeping in a crib
+crib,house,a baby crib located in the city center,a house downtown,0,1,1,a wooden crib in the bedroom
+crib,house,a lakeside residence,a lakeside house,0,1,1,a crib filled with soft toys
+crib,house,a used crib,an old house,0,1,1,a vintage crib for infants
+holla,holler,a man calls out to a girl,a man holler at a girl,1,1,0,
+holla,holler,a man calls out to a woman,a man holler at a woman,1,1,0,
+holla,holler,a man approaches a woman,a guy holler at a woman,1,1,0,
+holla,holler,A friend calls his buddy.,a guy holler at his close friend,1,1,0,
+homie,close friend,My friend,my close friend,1,1,0,
+homie,close friend,My good friend,my handsome close friend,1,1,0,
+homie,close friend,an old friend,an old close friend,1,1,0,
+homie,close friend,me and my friend,me and my close friend,1,1,0,
+crew,friends,I and my team,me and my friends,1,1,1,the ship's crew on deck
+crew,friends,my team and I,me and my large friends,1,1,1,a crew sailing a yacht
+crew,friends,portrait of me and my team,painting of me and my friends,1,1,1,airline crew at the airport
+crew,friends,my small crew and I,me and my small friends,1,1,1,a space crew in uniform
+nana,grandma,an old grandmother,an old grandma,1,1,0,
+nana,grandma,my beautiful grandmother,my beautiful grandma,1,1,0,
+nana,grandma,a group of grandmothers,a group of grandmas,1,1,0,
+nana,grandma,My grandmother is wearing purple.,my grandma in purple,1,1,0,
+bae,lover,a picture of my boyfriend,a picture of my lover,1,1,0,
+bae,lover,My significant other,my sleeping lover,1,1,0,
+bae,lover,My beautiful boyfriend or girlfriend,my beautiful lover,1,1,0,
+bae,lover,My boyfriend is at my house.,my lover at my house,1,1,0,
+dough,money,work for pay,work for money,0,1,1,kneading dough on a table
+dough,money,a child deposits some money,a kid deposit some money,1,1,1,rolling out pizza dough
+dough,money,a man paying with money,a man paying with money,1,1,1,dough rising in a bowl
+dough,money,a woman paying with money,a woman paying with money,1,1,1,cutting cookie dough shapes
+kicks,sneakers,dirty kicks,dirty sneakers,0,1,0,
+kicks,sneakers,retro kicks,retro sneakers,0,1,0,
+kicks,sneakers,brown kicks,brown sneakers,0,1,0,
+kicks,sneakers,broken kicks,broken sneakers,0,1,0,
+piece,gun,a handheld device,a hand-held gun,0,1,1,a puzzle piece on the table
+piece,gun,a man aiming his gun,a man aiming his gun,1,1,1,a missing chess piece
+piece,gun,a rusty piece,a rusty gun,0,1,1,a single piece of cake
+piece,gun,a picture of a silver object,a painting of a silver gun,0,1,1,a metal piece of machinery
+threads,clothes,designer threads,designer clothes,0,1,1,sewing threads on a spool
+threads,clothes,stylish threads,stylish clothes,0,1,1,threads for embroidery
+threads,clothes,vintage threads,vintage clothes,0,1,1,threads scattered on fabric
+threads,clothes,a rack of purple threads,a rack of purple clothes,0,1,1,colorful threads for sewing
+grill,dental jewelry,golden grills,golden dental jewelry,0,1,1,a grill cooking burgers
+grill,dental jewelry,dirty grills,dirty dental jewelry,0,1,1,a barbecue grill with ashes
+grill,dental jewelry,a man wearing sunglasses,a man wearing dental jewelry,1,1,1,a chef using a grill
+grill,dental jewelry,a woman wearing gold teeth,a woman wearing dental jewelry,1,1,1,a charcoal grill smoking
+tint,tinted car windows,very dark tint,very dark tinted car windows,0,1,1,a bottle of red hair tint
+tint,tinted car windows,a convertible with a tint,a convertible with tinted car windows,0,1,1,pink tint for sunglasses
+tint,tinted car windows,a bus with dark-tinted windows,a bus with dark tinted car windows,0,1,1,a tint applied to lenses
+tint,tinted car windows,a van with light tint,a van with light tinted car windows,0,1,1,hair tint in various colors
+drop,convertible car,a modern drop,a modern convertible car,0,1,1,a water drop on a leaf
+drop,convertible car,a luxury drop,a luxury convertible car,0,1,1,a drop of rain falling
+drop,convertible car,a purple drop,a purple convertible car,0,1,1,a single drop of paint
+drop,convertible car,a sporty drop,a sporty convertible car,0,1,1,a tear drop rolling down
+lid,hat,Tipping my hat,tipping my hat,1,1,1,lid covering a pot
+lid,hat,fitted lid,fitted hat,0,1,1,a lid tightly on a jar
+lid,hat,stylish lid,stylish hat,0,1,1,a pot with a glass lid
+lid,hat,wearing a hat,wearing a hat,1,1,1,a box lid slightly open
+glass,mirror,broken glass,broken mirror,0,1,1,a drinking glass on the table
+glass,mirror,dirty glass,dirty mirror,0,1,1,a glass filled with juice
+glass,mirror,glass with gold frame,mirror with gold frame,0,1,1,a wine glass next to cheese
+glass,mirror,a handheld glass,a handheld mirror,0,1,1,glass with fresh water
+gat,gun,a black cat,a black gun,0,1,0,
+gat,gun,a rusty gun,a rusty gun,0,1,0,
+gat,gun,a painting of a silver cat,a painting of a silver gun,0,1,0,
+gat,gun,a gun is inside a drawer,a gun inside a drawer,0,1,0,
+chains,necklace,golden chains,golden necklace,0,1,1,metal chains used in construction
+chains,necklace,silver chains,silver necklace,0,1,1,chains securing a gate
+chains,necklace,rose gold chains,rose gold necklace,0,1,1,heavy chains on a ship anchor
+chains,necklace,a painting of shiny chains,a painting of shiny necklace,0,1,1,chains linking fences
+roller,car,a luxury roller,a luxury car,0,1,1,a paint roller in use
+roller,car,a parked roller,a parked car,0,1,1,a roller for flattening dough
+roller,car,a used roller,a second-hand car,0,1,1,a lint roller on clothing
+roller,car,a gas roller,a gas car,0,1,1,a roller for printing ink
+hammer,gun,concealed hammer,concealed gun,0,1,1,a hammer lying on a bench
+hammer,gun,a hammer with a silencer,a gun with a silencer,0,1,1,a claw hammer hanging in a shed
+hammer,gun,loading the hammer,loading the gun,1,1,1,a carpenter holding a hammer
+hammer,gun,aiming the hammer,aiming the gun,1,1,1,a worker swinging a hammer
+bussin,tasty,delicious food,tasty food,0,1,0,
+bussin,tasty,some delicious French fries,some tasty fries,0,1,0,
+bussin,tasty,"a big, delicious burrito",a tasty burrito,0,1,0,
+bussin,tasty,a plate of delicious food,a plate of tasty food,0,1,0,
+hood,neighborhood,a dirty hood,a dirty neighborhood,0,1,1,a coat with a hood
+hood,neighborhood,a picture of the roof,a painting of the neighborhood,0,1,1,a hood covering a jacket
+hood,neighborhood,an urban neighborhood,an urban neighborhood,0,1,1,a sweatshirt with a hood
+hood,neighborhood,a suburban neighborhood,a suburban neighborhood,0,1,1,a raincoat hood in use
+paper,bills,a bag of paper,a bag of bills,0,1,1,sheets of paper on a desk
+paper,bills,earning paper,earning bills,0,1,1,a stack of printer paper
+paper,bills,paper in wallet,bills in wallet,0,1,1,a notebook filled with paper
+paper,bills,broken paper,broken bills,0,1,1,torn pieces of paper
+fam,close friends,a man with his family,a man with his close friends,1,1,0,
+fam,close friends,a family picture,a group picture with the close friends,1,1,0,
+fam,close friends,a painting of my family,a painting of my close friends,1,1,0,
+fam,close friends,My family is at home.,my close friends in the house,1,1,0,
+boo,lover,a picture of my boyfriend,a picture of my lover,1,1,0,
+boo,lover,My sleeping baby,my sleeping lover,1,1,0,
+boo,lover,my beautiful boyfriend,my beautiful lover,1,1,0,
+boo,lover,My boyfriend is at my house.,my lover at my house,1,1,0,
+homeboy,close friend,My friend,my close friend,1,1,0,
+homeboy,close friend,My good-looking friend,my handsome close friend,1,1,0,
+homeboy,close friend,an old friend from childhood,an old close friend,1,1,0,
+homeboy,close friend,my friend and I,me and my close friend,1,1,0,
+mellow,high on marijuana,a man feeling relaxed,a man high on marijuana,1,1,0,
+mellow,high on marijuana,a woman feeling relaxed,a woman high on marijuana,1,1,0,
+mellow,high on marijuana,a painting of a person feeling relaxed,a painting of a person high on marijuana,1,1,0,
+mellow,high on marijuana,a group of people feeling relaxed,a group of people high on marijuana,1,1,0,
+nappiness,hair frizziness,My morning happiness,my morning hair frizziness,1,1,0,
+nappiness,hair frizziness,a picture of my happiness,a painting of my hair frizziness,1,1,0,
+nappiness,hair frizziness,fixing my unhappiness,fixing my hair frizziness,1,1,0,
+nappiness,hair frizziness,a woman with happiness,a woman with hair frizziness,1,1,0,
+bling,flashy jewelry,golden jewelry,golden flashy jewelry,0,1,0,
+bling,flashy jewelry,silver jewelry,silver flashy jewelry,0,1,0,
+bling,flashy jewelry,rose gold bling,rose gold flashy jewelry,0,1,0,
+bling,flashy jewelry,a painting of shiny jewelry,a painting of shiny flashy jewelry,0,1,0,
+fit,outfit,my summer outfit,my summer outfit,0,1,1,a puzzle piece that doesn't fit
+fit,outfit,my dirty jeans,my dirty outfit,0,1,1,a piece perfectly fit into place
+fit,outfit,my beautiful fit,my beautiful outfit,0,1,1,gears fit together smoothly
+fit,outfit,my designer fit,my designer outfit,0,1,1,a key fit into a lock
+peepers,glasses,a pair of black round eyes,a pair of black round glasses,0,1,1,frogs with large peepers
+peepers,glasses,a pair of modern glasses,a pair of modern glasses,0,1,1,bird peepers in nature
+peepers,glasses,a pair of gold glasses,a pair of gold glasses,0,1,1,a frog's peepers glowing
+peepers,glasses,a pair of silver eyes,a pair of silver glasses,0,1,1,a close-up of owl peepers
+tat,tattoo,a large tattoo,a large tattoo,0,1,0,
+tat,tattoo,a creative tattoo,a creative tattoo,0,1,0,
+tat,tattoo,a discreet tattoo,a discreet tattoo,0,1,0,
+tat,tattoo,a beautiful tattoo,a beautiful tattoo,0,1,0,
+dreads,dreadlocks,a portrait of my dreadlocks,a painting of my dreadlocks,1,1,0,
+dreads,dreadlocks,my dirty dreadlocks,my dirty dreadlocks,1,1,0,
+dreads,dreadlocks,my long dreadlocks,my long dreadlocks,1,1,0,
+dreads,dreadlocks,two individuals with dreadlocks,two people with dreadlocks,1,1,0,

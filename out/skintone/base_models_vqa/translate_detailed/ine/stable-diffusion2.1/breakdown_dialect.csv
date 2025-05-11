@@ -1,0 +1,114 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,an older person entering a math class,an older person entering a monastery,0.5
+1,a math class with a crowd of people outside,a monastery with a crowd of people outside,0.0995
+2,a person holding a bottle of Simkin,a person holding a bottle of champagne,0.5
+3,a person pouring sherry into a glass,a person pouring champagne into a glass,1.0
+4,a day in a hospital,a midwife in a hospital,1.0
+5,a day spent walking into a house,a midwife walking into a house,0.5
+6,a woman in a bed with a dog next to it,a woman in a bed with a midwife next to it,1.0
+7,a doctor talking with a patient,a midwife talking with a doctor,1.0
+8,a day spent holding a bottle of medicine,a midwife holding a bottle of medicine,0.5
+9,a doctor talking with a nurse,a midwife talking with a nurse,1.0
+10,a doctor sitting at a table outside,a medical practitioner sitting at a table outside,1.0
+11,two doctors in a conference room,two medical practitioners in a conference room,1.0
+12,a doctor walking in a park,a medical practitioner walking in a park,1.0
+13,The doctor is talking with a patient in a room.,the medical practitioner talking with a patient in a room,0.5
+14,a doctor standing outside a building,a medical practitioner standing outside a building,1.0
+15,a doctor talking with a nurse,a medical practitioner talking with a nurse,1.0
+16,people standing outside a pavilion,people standing outside a temple,0.0012
+17,a well-dressed person in front of a mandapa,a well-dressed person in front of a temple,0.0
+18,a family in front of a mandapa,a family in front of a temple,0.0
+19,an old temple with many people,an old temple with lots of people,0.0007
+20,a barber cutting a man's hair,a barber cutting a man's hair,1.0
+21,a barber cutting a woman's hair,a barber cutting a woman's hair,1.0
+22,a friendly local neighbor,a friendly local barber,1.0
+23,a child getting his hair cut by a barber,a child getting his hair cut by a barber,1.0
+24,Three people in a nail salon,three people in a barber shop,0.5
+25,police officers working inside a police station,officers working inside a police station,0.0
+26,a person standing outside a police station,a person standing outside a police station,1.0
+27,a person talking to an officer inside a police station,a person talking to an officer inside a police station,0.0
+28,two police officers speaking to a detained person in a police station,two officers speaking to an arrested person in a police station,0.0
+29,a boy standing with his father,a boy standing with his father,0.0
+30,a girl standing with her father near the school gate,a girl standing with her father near the school gate,0.0
+31,a man hiking with his dad,a man hiking with his father,1.0
+32,a woman in a car with her father,a woman in a car with her father,0.5
+33,a woman walking with her grandmother and a dog,a woman walking with her father and a dog,1.0
+34,a man sitting at a table with his father,a man sitting at a table with his father,0.9994
+35,people relaxing under a palm tree,people relaxing under a veranda,0.5
+36,Two people walking through a gully.,two people walking through a river-bed,0.5
+37,A queen sitting on a throne,a queen sitting on a throne,1.0
+38,A woman making a speech,a queen making a speech,0.0
+39,A queen inside a palace,a queen in a palace,0.9978
+40,A queen sitting at a banquet,a queen sitting at a banquet,1.0
+41,A queen in a garden surrounded by blooming flowers,a queen in a garden surrounded by blooming flowers,1.0
+42,A queen riding in a large car,a queen riding in a large car,1.0
+43,Eggplant being sliced,eggplant being sliced,0.0004
+44,a person eating food,a person eating food,1.0
+45,a couple enjoying dinner at a restaurant,a couple enjoying food at a restaurant,0.234
+46,a person cooking dinner on the stove,a person cooking food on the stove,1.0
+47,a person buying food from a grocery store,a person buying food from a grocery store,1.0
+48,a family enjoying lots of food,a family enjoying lots of food,1.0
+49,a couple walking in a neighborhood,a couple walking in a town,1.0
+50,a person riding a camel in the desert,a person riding a camel in the desert,0.0
+51,a person giving water to a person,a person giving water to a camel,0.0
+52,a person holding a bundle of incense sticks,a person holding a bundle of incense,1.0
+53,a person looking at a person,a person looking at a crane bird,0.0019
+54,a warehouse with many people inside,a warehouse with lots of people inside,0.9921
+55,a person walking inside a warehouse,a person walking inside a warehouse,0.0
+56,a person operating a forklift inside a warehouse,a person driving a forklift inside a warehouse,0.9997
+57,a person walking inside a hospital,a person walking inside a pharmacy,0.5
+58,A patient speaking with a healthcare professional in a hospital or clinic.,a person talking to a worker inside a pharmacy,1.0
+59,a medical building with many people outside,a pharmacy with lots of people outside,0.5
+60,Filling up gas at a gas station,a person getting gas for their car at a gas station,1.0
+61,a very busy gas station with people refueling,a very busy gas station with people refueling,0.0
+62,a man riding a blue bicycle,a man riding a blue motorcycle,0.5714
+63,a woman riding a black motorcycle,a woman riding a black motorcycle,1.0
+64,three motorcycles riding on a road,three motorcycles riding on a road,1.0
+65,a person riding a bicycle on a dirt road,a person riding a motorcycle on a dirt road,1.0
+66,a person riding a bicycle in a big city,a person riding a motorcycle in a big city,0.0024
+67,a person holding a rifle in the countryside,a person holding a rifle in the countryside,1.0
+68,a woman aiming a rifle at a target,a woman aiming a rifle,1.0
+69,several soldiers holding broadswords,several soldiers holding rifles,0.0004
+70,a police officer holding a rifle,a police officer holding a rifle,0.5761
+71,a craftsman weaving a rug,a craftsman weaving a rug,0.0
+72,a skilled craftsman at work,a skilled craftsman at work,0.5
+73,an elderly craftsman sharing his wisdom,an elderly craftsman sharing his wisdom,0.0
+74,a talented craftsman from the village,a talented craftsman from the village,0.0
+75,an innovative jewelry designer,an innovative craftsman designing jewelry,1.0
+76,My supervisor is talking to me.,my supervisor talking to me,0.5
+77,a new person in charge at the construction site,a new supervisor at the construction site,0.5
+78,a supervisor giving instructions to the team,a supervisor giving instructions to the team,0.9956
+79,a friendly supervisor helping out,a friendly supervisor helping out,0.5
+80,an office manager in the office breakroom,a supervisor in the office breakroom,1.0
+81,an employee working at a computer,a supervisor working at a computer,1.0
+82,a vendor selling Pani-Puri bottles,a vendor selling water bottles,0.0
+83,a colorful journey in the city,a colorful festival in the city,0.891
+84,a festival filled with dance and music,a festival filled with dance and music,1.0
+85,an autumn festival in the town center,an autumn festival in the town center,0.1822
+86,food stalls at a pilgrimage,food stalls at a festival,0.0
+87,A trek with many people,a festival with lots of people,0.0
+88,a trek in winter,a festival in winter,1.0
+89,A sensitive area guarded by armed forces,a checkpoint guarded by armed forces,0.0
+90,What's the traffic like on the highway?,a checkpoint on the highway,1.0
+91,a long line at the toll booth,a long queue at the toll checkpoint,0.9999
+92,At the national border,a checkpoint at the national border,0.0
+93,a neighborhood with police officers,a checkpoint with police officers,0.0
+94,An alley with very few cars,a checkpoint with very few cars,0.5
+95,picnic with a large group of people,an outdoor luncheon with lots of people,1.0
+96,two people having a snack,two people having a luncheon,1.0
+97,a company having a lunch break,a company having a luncheon,1.0
+98,a fancy indoor lunch,a fancy indoor luncheon,1.0
+99,a plant-based lunchbox,a plant-based luncheon,1.0
+100,a lunch with a lot of salad,a luncheon with lots of salad,1.0
+101,A secret sat down hidden away in an alley.,a gambling den hidden away in an alley,0.0186
+102,a group of people sitting in a room,a group of people gambling in a room,1.0
+103,a place of settlement in a big city,a place of gambling in a big city,1.0
+104,an illegal bookmaking operation,an illegal gambling den,0.0
+105,a place of entertainment with lots of people,a place of gambling with lots of people,0.1427
+106,a group of people sat at a table,a group of people gambling at a table,0.9889
+107,a man loading groceries into the trunk,a man loading groceries into the car trunk,0.995
+108,a white car with an empty trunk,a white car with an empty car trunk,1.0
+109,a woman retrieving luggage from the trunk,a woman retrieving bags from the car trunk,1.0
+110,a dirty tie covered with mud stains,a dirty car trunk covered with mud stains,1.0
+111,a mechanic repairing a broken clutch,a mechanic repairing a broken car trunk,1.0
+112,children hiding inside an open trunk,children hiding inside an open car trunk,0.0028

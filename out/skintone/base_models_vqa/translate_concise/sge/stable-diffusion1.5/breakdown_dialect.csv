@@ -1,0 +1,127 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,a large pulled tea,a large milk tea,0.5
+1,a small pulled tea,a small milk tea,0.5
+2,coffee on a table,coffee on a table,0.0004
+3,coffee on a counter,coffee on a counter,0.9442
+4,Two people getting coffee,two people getting coffee,1.0
+5,a man buying coffee,a man buying coffee,0.1274
+6,a woman with coffee,a woman with coffee,1.0
+7,a painting of a red envelope,a painting of a red packet,0.5
+8,a person holding a red envelope,a person holding a red packet,1.0
+9,Let's get some takeout food.,let's get some food takeout,0.9993
+10,a couple getting takeout,a couple getting food takeout,0.534
+11,a risk-averse businessman,a businessman with a grasping and selfish attitude,1.0
+12,A risk-averse leader,a leader with a grasping and selfish attitude,0.9831
+13,A risk-averse student,a student with a grasping and selfish attitude,1.0
+14,A risk-averse parent,a parent with a grasping and selfish attitude,1.0
+15,A risk-averse businesswoman,a businesswoman with a grasping and selfish attitude,1.0
+16,a risk-averse politician,a politician with a grasping and selfish attitude,1.0
+17,Asian woman,a bored woman,0.0
+18,Asian worker,a bored worker,0.0
+19,a child was seen,a child bored,0.5
+20,Asian man,a bored man,0.0
+21,people lounge on a beach,people relaxing on a beach,0.9994
+22,People are spending time together on a bus.,people relaxing on a coach,0.5
+23,A few people are playing leapfrog in a park.,a couple relaxing in a park,0.5
+24,a person making a gesture,a person gesturing yes,0.5
+25,A person answering can,a person answering yes,1.0
+26,a worker making a gesture,a worker gesturing yes,0.5
+27,a student can gesture,a student gesturing yes,0.5
+28,a woman gesturing with a can,a woman gesturing yes,0.5
+29,a man making a gesture,a man gesturing yes,0.5
+30,a student chooses,a student saving a table,0.6207
+31,a man chose,a man saving a table,0.7863
+32,a woman chooses,a woman saving a table,1.0
+33,a group store,a group saving a table,0.5
+34,order at a coffee shop,saving a table at a cafe,0.9998
+35,Use a napkin,saving a table with a napkin,1.0
+36,a painting of something that is delicious,a painting of something that is very tasty,1.0
+37,A house party,a high class party,0.0
+38,an above-ground car,a high class car,1.0
+39,an Ulu Trail,a secluded trail,0.0605
+40,a woman eats noodles,a woman eating noodles,0.0004
+41,a painting of someone eating,a painting of someone eating,1.0
+42,A person is eating a salad.,a person eating a salad,1.0
+43,a man is eating a taco,a man eating a taco,0.0
+44,people eat,people eating,1.0
+45,A man is eating a burrito.,a man eating a burrito,1.0
+46,A family is fixing their house.,a family redecorates their house,0.5
+47,a worker is rearranging her office space,a worker redecorates her office space,0.0
+48,a couple fixing their garage,a couple redecorate their garage,1.0
+49,a woman cleaning her room,a woman redecorates her room,1.0
+50,a man cleaning his desk,a man redecorates his desk,1.0
+51,a person renovating their kitchen,a person redecorates their kitchen,1.0
+52,a tall guy,a tall girl,1.0
+53,a person buying a computer,a girl buying a computer,0.0
+54,a hiker hiking,a girl hiking,1.0
+55,a gerbil,a girl,1.0
+56,a yurt in a city,a girl in a city,0.5
+57,a painting of a gerbil,a painting of a girl,1.0
+58,a woman holding a cell phone,a woman holding a mobile phone,1.0
+59,a man with a cell phone,a man with a mobile phone,0.0019
+60,a picture of a smartphone,a painting of a mobile phone,1.0
+61,a cell phone on a lawn,a mobile phone on a lawn,1.0
+62,I am an expert linguist who translates English dialect prompts into concise Standard American English.,a loan shark handling cash,0.9628
+63,I have been carrying a knife for a long time.,a loan shark carrying a knife,0.5
+64,I am holding a bag.,a loan shark holding a bag,1.0
+65,I am.,a loan shark,0.0001
+66,I'm talking to someone.,a loan shark talking to someone,0.9992
+67,A long spray painting,a loan shark spray painting,0.999
+68,a man at a coffee shop,a man at a coffee shop,1.0
+69,a woman at a coffee shop,a woman at a coffee shop,1.0
+70,a modern coffee shop,a modern coffee shop,1.0
+71,an old coffee shop,an old coffee shop,1.0
+72,a painting of a Chinese lantern,a painting of a handsome male,0.0004
+73,"What does ""yandao"" mean in this context?",a handsome male buying food,0.0
+74,A handsome guy is walking,a handsome male walking,0.5
+75,a picture of a handsome man,a photo of a handsome male,0.5
+76,What's your problem?,a handsome male,0.0015
+77,A yoga mat at a gym,a handsome male at a gym,1.0
+78,a man preparing for finals,a man studying for finals,0.9397
+79,a woman watching TV at home,a woman studying at home,0.8222
+80,a child who is busy stealing,a child busy studying,0.5
+81,a group of people committing a robbery,a group of people studying,0.5
+82,an elderly person committing a robbery,an older person studying,0.5
+83,mugging at a table,studying at a table,0.0731
+84,a person serving as a light bulb,a man being a third wheel,1.0
+85,a woman representing a lightbulb,a woman being a third wheel,1.0
+86,a lightbulb sitting with a couple,a third wheel sitting with a couple,1.0
+87,a person feeling like a light bulb,a person feeling like a third wheel,1.0
+88,scene with an awkward lighting fixture,scene with an awkward third wheel,1.0
+89,a young light bulb,a young third wheel,1.0
+90,in a store,tea in a store,0.5
+91,a sensei and a man,a traditional Chinese physician and a man,0.0
+92,a sensei and a woman,a traditional Chinese physician and a woman,0.0
+93,a painting of a sensei,a painting of a traditional Chinese physician,0.0
+94,a sense,a traditional Chinese physician,0.0009
+95,a teacher with two people,a traditional Chinese physician with two people,0.5
+96,a sensei sitting,a traditional Chinese physician sitting,0.0
+97,a couple at a food court,a couple at a food court,0.2764
+98,a modern food court,a modern food court,0.9998
+99,a painting of trash,a painting of litter thrown from a high-rise building,0.9627
+100,a person avoiding hazardous waste,a person avoiding litter thrown from a high-rise building,0.9842
+101,A person narrowly avoids being hit by litter.,a person nearly hit by litter thrown from a high-rise building,0.5
+102,a man holding a hoe,a man holding a hoe,0.5
+103,a painting of a changkol,a painting of a hoe,0.0
+104,an old chocolate,an old hoe,0.0
+105,a family enjoying chili crab,a family enjoying spicy stir-fried crab,0.0
+106,a waiter serving chili crab,a waiter serving spicy stir-fried crab,0.0008
+107,a chef making chili crab,a chef making spicy stir-fried crab,1.0
+108,My mother,my uncle,0.0
+109,a man in blue,an uncle in blue,0.5591
+110,A mother talking,a uncle talking,0.0086
+111,a mother buying fruit,an uncle buying fruit,0.0
+112,A Malay mother drinking coffee,an uncle drinking coffee,0.0
+113,A mother reading a newspaper,an uncle reading a newspaper,1.0
+114,a painting of spring rolls,a painting of Fujianese fresh spring roll,1.0
+115,a person eating a spring roll,a person eating a Fujianese fresh spring roll,0.5
+116,A person eating roti prata,a person eating Indian flatbread,0.0
+117,a person eating bak kwa,a person eating Chinese pork jerky,0.0007
+118,a painting of bak kwa,a painting of Chinese pork jerky,0.9964
+119,One piece of dried pork,one piece of Chinese pork jerky,0.5
+120,two friends chatting,two buddies chatting,0.0
+121,kiwi playing soccer,buddies playing soccer,1.0
+122,Having coffee with a friend,buddies having coffee,0.9784
+123,What does that mean?,buddies laughing together,0.0
+124,a group of people outdoors,a group of buddies outdoors,1.0
+125,kiwi watching a movie,buddies watching a movie,1.0

@@ -13,6 +13,8 @@ import pandas as pd
 from PIL import Image
 from diffusers import StableDiffusionPipeline
 from transformers import set_seed
+from typing import List      
+
 
 # ------------------------------------------------------------------
 # Reproducibility helpers
@@ -62,7 +64,8 @@ def parse_args():
             "concise", "detailed",
             "entigen", "polysemy",
             "rewrite_concise", "rewrite_detailed",
-            "translate_concise", "translate_detailed"
+            "translate_concise", "translate_detailed",
+            "translate_concise_gpt41", "translate_detailed_gpt41"
         ],
         help="Generation mode."
     )
@@ -98,7 +101,7 @@ def encode_long_prompt(pipe, prompt: str):
     negative_prompt_embeds = torch.cat(neg_chunks, dim=1)
     return prompt_embeds, negative_prompt_embeds
 
-def generate_stable_diffusion_batch(prompt: str, num_images: int) -> list[Image.Image]:
+def generate_stable_diffusion_batch(prompt: str, num_images: int) -> List[Image.Image]:
     images = []
     while len(images) < num_images:
         batch_size = min(3, num_images - len(images))

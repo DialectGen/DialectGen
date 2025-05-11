@@ -1,0 +1,205 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Score
+0,a painting of Tarik,a painting of milk tea,0.0
+1,a photo of the tarik,a photo of milk tea,0.0953
+2,selling the tarik,selling milk tea,0.2188
+3,a large pulled tea,a large milk tea,0.0
+4,a small pulled tea,a small milk tea,0.0
+5,The tea tarik on a table,milk tea on a counter,0.5765
+6,coffee on a table,coffee on a table,0.9747
+7,coffee on a counter,coffee on a counter,0.8935
+8,a painting of coffee,a painting of coffee,0.9749
+9,Two people getting coffee,two people getting coffee,0.9285
+10,a man buying coffee,a man buying coffee,0.8241
+11,a woman with coffee,a woman with coffee,0.9846
+12,a painting of a red envelope,a painting of a red packet,0.0
+13,Two red envelopes on a table,two red packets on a table,0.8268
+14,a red envelope on a counter,a red packet on a counter,0.0
+15,a person holding a red envelope,a person holding a red packet,0.8573
+16,a red envelope on the ground,a red packet on the ground,0.0
+17,a child holding a red envelope,a child holding a red packet,0.9429
+18,a painting of squid,a painting of squid,0.838
+19,octopus on a table,squid on a table,0.7019
+20,A squid in a market,a squid in a market,0.9111
+21,a cuttlefish in an aquarium,a squid in an aquarium,0.8669
+22,A squid on a counter,a squid on a counter,0.8259
+23,octopus in a box,squid in a box,0.9048
+24,A person ordering takeout.,a person getting takeout,0.7354
+25,tap on a table,takeout on a table,0.3183
+26,Take out from the food truck,takeout from the food truck,0.7262
+27,Let's get some takeout food.,let's get some food takeout,0.8603
+28,Chinese food takeout,chinese food takeout,0.9599
+29,a couple getting takeout,a couple getting food takeout,0.5118
+30,a risk-averse businessman,a businessman with a grasping and selfish attitude,0.5517
+31,A risk-averse leader,a leader with a grasping and selfish attitude,0.5319
+32,A risk-averse student,a student with a grasping and selfish attitude,0.5715
+33,A risk-averse parent,a parent with a grasping and selfish attitude,0.2019
+34,A risk-averse businesswoman,a businesswoman with a grasping and selfish attitude,0.385
+35,a risk-averse politician,a politician with a grasping and selfish attitude,0.6831
+36,Asian cat,a bored cat,0.7095
+37,Asian woman,a bored woman,0.4292
+38,Asian worker,a bored worker,0.6186
+39,a child was seen,a child bored,0.0
+40,Asian dog,a bored dog,0.7078
+41,Asian man,a bored man,0.5804
+42,A pet dog,a relaxing dog,0.8013
+43,people lounge on a beach,people relaxing on a beach,0.9786
+44,People are spending time together on a bus.,people relaxing on a coach,0.0
+45,A few people are playing leapfrog in a park.,a couple relaxing in a park,0.0
+46,a cat jumps,a cat relaxing,0.1447
+47,A hangout spot,a relaxing setting,0.0
+48,a person making a gesture,a person gesturing yes,0.0
+49,A person answering can,a person answering yes,0.5405
+50,a worker making a gesture,a worker gesturing yes,0.0
+51,a student can gesture,a student gesturing yes,0.0
+52,a woman gesturing with a can,a woman gesturing yes,0.0
+53,a man making a gesture,a man gesturing yes,0.0
+54,a student chooses,a student saving a table,0.4365
+55,a man chose,a man saving a table,0.2858
+56,a woman chooses,a woman saving a table,0.2377
+57,a group store,a group saving a table,0.0
+58,order at a coffee shop,saving a table at a cafe,0.4353
+59,Use a napkin,saving a table with a napkin,0.7581
+60,a counter with interesting things,a counter with tasty things,0.6866
+61,a painting of something that is delicious,a painting of something that is very tasty,0.975
+62,a table with delicious food,a table with very tasty stuff,0.9781
+63,a picture of something that is delicious,a photo of something that is tasty,0.9542
+64,something good,something tasty,0.5702
+65,a person enjoying something that is delicious,a person enjoying something that is tasty,0.981
+66,A clothing store upstairs,a high class clothing store,0.8338
+67,A house party,a high class party,0.1934
+68,a painting of something that is upscale,a painting of something that is high class,0.7782
+69,an upscale restaurant,a high class restaurant,0.9539
+70,an above-ground car,a high class car,0.3341
+71,A high-class house,a high class house,0.9695
+72,an Ulu Beach,a secluded beach,0.8179
+73,an alley,a secluded street,0.0
+74,an Ulu Trail,a secluded trail,0.9345
+75,an Eskimo whaling station,a secluded locale,0.7366
+76,Inupiat Eskimo house,a secluded house,0.9067
+77,an Inuit village,a secluded town,0.0
+78,a woman eats noodles,a woman eating noodles,0.7085
+79,a painting of someone eating,a painting of someone eating,0.9679
+80,A person is eating a salad.,a person eating a salad,0.5579
+81,a man is eating a taco,a man eating a taco,0.7579
+82,people eat,people eating,0.6132
+83,A man is eating a burrito.,a man eating a burrito,0.6802
+84,A family is fixing their house.,a family redecorates their house,0.0
+85,a worker is rearranging her office space,a worker redecorates her office space,0.4668
+86,a couple fixing their garage,a couple redecorate their garage,0.4285
+87,a woman cleaning her room,a woman redecorates her room,0.3943
+88,a man cleaning his desk,a man redecorates his desk,0.4458
+89,a person renovating their kitchen,a person redecorates their kitchen,0.7501
+90,a tall guy,a tall girl,0.3986
+91,a person buying a computer,a girl buying a computer,0.3878
+92,a hiker hiking,a girl hiking,0.7567
+93,a gerbil,a girl,0.1088
+94,a yurt in a city,a girl in a city,0.0
+95,a painting of a gerbil,a painting of a girl,0.0784
+96,a cell phone on a table,a mobile phone on a table,0.9648
+97,a woman holding a cell phone,a woman holding a mobile phone,0.9882
+98,a cell phone on the ground,a mobile phone on the ground,0.9828
+99,a man with a cell phone,a man with a mobile phone,0.988
+100,a picture of a smartphone,a painting of a mobile phone,0.2414
+101,a cell phone on a lawn,a mobile phone on a lawn,0.8801
+102,I am an expert linguist who translates English dialect prompts into concise Standard American English.,a loan shark handling cash,0.1483
+103,I have been carrying a knife for a long time.,a loan shark carrying a knife,0.0
+104,I am holding a bag.,a loan shark holding a bag,0.1354
+105,I am.,a loan shark,0.29
+106,I'm talking to someone.,a loan shark talking to someone,0.328
+107,A long spray painting,a loan shark spray painting,0.2553
+108,a man at a coffee shop,a man at a coffee shop,0.9802
+109,a woman at a coffee shop,a woman at a coffee shop,0.9791
+110,buying something at a coffee shop,buying something at a coffee shop,0.8474
+111,a coffee shop,a coffee shop,0.9522
+112,a modern coffee shop,a modern coffee shop,0.9626
+113,an old coffee shop,an old coffee shop,0.8053
+114,a painting of a Chinese lantern,a painting of a handsome male,0.1561
+115,"What does ""yandao"" mean in this context?",a handsome male buying food,0.4307
+116,A handsome guy is walking,a handsome male walking,0.0
+117,a picture of a handsome man,a photo of a handsome male,0.0
+118,What's your problem?,a handsome male,0.3976
+119,A yoga mat at a gym,a handsome male at a gym,0.1821
+120,a man preparing for finals,a man studying for finals,0.7296
+121,a woman watching TV at home,a woman studying at home,0.1304
+122,a child who is busy stealing,a child busy studying,0.0
+123,a group of people committing a robbery,a group of people studying,0.0
+124,an elderly person committing a robbery,an older person studying,0.0
+125,mugging at a table,studying at a table,0.2693
+126,a person serving as a light bulb,a man being a third wheel,0.2147
+127,a woman representing a lightbulb,a woman being a third wheel,0.3712
+128,a lightbulb sitting with a couple,a third wheel sitting with a couple,0.2161
+129,a person feeling like a light bulb,a person feeling like a third wheel,0.5042
+130,scene with an awkward lighting fixture,scene with an awkward third wheel,0.4052
+131,a young light bulb,a young third wheel,0.2597
+132,a painting of black tea,a painting of black tea,0.7154
+133,in a store,tea in a store,0.0
+134,a container with the,a container with tea,0.1196
+135,the shop in the city,a tea shop in a city,0.0
+136,white tea,white tea,0.902
+137,a jar with dry tea,a jar with dry tea,0.7129
+138,a plate of stir-fried rice noodles,a plate of stir-fried rice noodles,0.8752
+139,a bowl of stir-fried rice noodles,a bowl of stir-fried rice noodles,0.8963
+140,a painting of stir-fried noodles with rice noodles and dark soy sauce,a painting of stir-fried rice noodles,0.7081
+141,Char kway teow with vegetables,stir-fried rice noodle with vegetables,0.877
+142,Char kway teow with fruit,stir-fried rice noodles with fruit,0.5863
+143,two plates of char kway teow,two plates of stir-fried rice noodles,0.8262
+144,a sensei and a man,a traditional Chinese physician and a man,0.6169
+145,a sensei and a woman,a traditional Chinese physician and a woman,0.7402
+146,a painting of a sensei,a painting of a traditional Chinese physician,0.8262
+147,a sense,a traditional Chinese physician,0.2152
+148,a teacher with two people,a traditional Chinese physician with two people,0.0
+149,a sensei sitting,a traditional Chinese physician sitting,0.7637
+150,a large food court,a large food court,0.9332
+151,a couple at a food court,a couple at a food court,0.8806
+152,a modern food court,a modern food court,0.9333
+153,an old marketplace,an older food court,0.863
+154,a person at a food court,a person at a food court,0.8992
+155,a busy marketplace,a busy food court,0.6024
+156,deadly garbage falling,litter thrown from a high-rise building falling,0.0
+157,throw trash out the window,litter thrown from a high-rise building from window,0.0
+158,a sign warning about falling objects,a sign about litter thrown from a high-rise building,0.0
+159,a painting of trash,a painting of litter thrown from a high-rise building,0.454
+160,a person avoiding hazardous waste,a person avoiding litter thrown from a high-rise building,0.2517
+161,A person narrowly avoids being hit by litter.,a person nearly hit by litter thrown from a high-rise building,0.0
+162,a man holding a hoe,a man holding a hoe,0.0
+163,a piece of chalk on a shelf,a hoe on a shelf,0.0
+164,a painting of a changkol,a painting of a hoe,0.2437
+165,an old chocolate,an old hoe,0.2086
+166,a new change,a new hoe,0.33
+167,a chandelier leaning against a wall,a hoe leaning on a wall,0.0
+168,a chili crab on a table,a spicy stir-fried crab on a table,0.5679
+169,a family enjoying chili crab,a family enjoying spicy stir-fried crab,0.7895
+170,two plates of chili crab,two plates of spicy stir-fried crab,0.6109
+171,a large chili crab with rice,a large spicy stir-fried crab with rice,0.4756
+172,a waiter serving chili crab,a waiter serving spicy stir-fried crab,0.5207
+173,a chef making chili crab,a chef making spicy stir-fried crab,0.5852
+174,My mother,my uncle,0.1623
+175,a man in blue,an uncle in blue,0.6995
+176,A mother talking,a uncle talking,0.1534
+177,a mother buying fruit,an uncle buying fruit,0.1241
+178,A Malay mother drinking coffee,an uncle drinking coffee,0.3445
+179,A mother reading a newspaper,an uncle reading a newspaper,0.0924
+180,a plate of spring rolls,a plate of Fujianese fresh spring roll,0.843
+181,One spring roll.,one Fujianese fresh spring roll,0.6408
+182,a painting of spring rolls,a painting of Fujianese fresh spring roll,0.8361
+183,a person eating a spring roll,a person eating a Fujianese fresh spring roll,0.0
+184,popiah on a table,Fujianese fresh spring roll on a table,0.6452
+185,popiah in a bowl,Fujianese fresh spring roll in a bowl,0.354
+186,a plate of roti prata,a plate of Indian flatbread,0.8904
+187,a painting of roti prata,a painting of Indian flat bread,0.8613
+188,a table with roti prata,a table with Indian flatbread,0.8695
+189,A person eating roti prata,a person eating Indian flatbread,0.7087
+190,Roti prata on a counter,Indian flatbread on a counter,0.838
+191,Roti prata on a table,Indian flatbread on a table,0.8737
+192,a person eating bak kwa,a person eating Chinese pork jerky,0.6179
+193,Pork floss in a bag,Chinese pork jerky in a bag,0.4693
+194,a painting of bak kwa,a painting of Chinese pork jerky,0.5577
+195,a store that sells bak kwa,a shop with Chinese pork jerky,0.0
+196,One piece of dried pork,one piece of Chinese pork jerky,0.0
+197,A person holding bak kwa.,a person holding Chinese pork jerky,0.6432
+198,two friends chatting,two buddies chatting,0.8102
+199,kiwi playing soccer,buddies playing soccer,0.5055
+200,Having coffee with a friend,buddies having coffee,0.8677
+201,What does that mean?,buddies laughing together,0.2579
+202,a group of people outdoors,a group of buddies outdoors,0.9539
+203,kiwi watching a movie,buddies watching a movie,0.4211

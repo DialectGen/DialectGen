@@ -1,0 +1,223 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Score
+0,a red truck driving down the street,a red semitruck driving down the street,0.2952
+1,a delivery truck loaded with packages,a delivery semitruck loaded with packages,0.2976
+2,a truck parked by the curb,a semitruck parked by the curb,0.2613
+3,a truck parked at a rest stop,a semitruck parked at a stop sign,0.2698
+4,a truck hauling lumber,a semitruck hauling timber,0.3156
+5,a truck with a flat tire,a semitruck with a flat tire,0.2791
+6,a cozy sweater hanging in a closet,a cozy sweater hanging in a closet,0.3131
+7,a man wearing a purple sweater,a man wearing a purple sweater,0.3415
+8,a woman knitting a brown sweater,a woman knitting a brown sweater,0.2988
+9,a sweater with reindeer patterns,a sweater with reindeer patterns,0.3518
+10,a coat on a hanger,a sweater on a hanger,0.2677
+11,a sweater folded neatly,a sweater folded neatly,0.2846
+12,a girl knocking on the bathroom door,a girl knocking on the bathroom door,0.304
+13,a set of fresh towels in the bathroom,a set of fresh towels in the bathroom,0.304
+14,a line of people waiting outside the restroom,a line of people waiting outside the bathroom,0.2536
+15,a bathroom with a leaky faucet,a bathroom with a leaky faucet,0.2556
+16,a clean bathroom with shiny blue wall tiles,a tidy bathroom with shiny blue wall tiles,0.3504
+17,a bathroom with a shower curtain,a bathroom with a shower curtain,0.3037
+18,a pack of sausages at the grocery store,a pack of sausages at the grocery store,0.293
+19,a plate of sausages and eggs with toast,a plate of sausages and eggs with toast,0.0
+20,a man cutting a sausage in half,a man cutting a sausage in half,0.2836
+21,hot dogs on a grill,sausages on a grill,0.2767
+22,sausages and mashed potatoes on a plate,sausages and mashed potatoes on a plate,0.0
+23,My sausages are sizzling in a pan.,my sausages sizzling in a pan,0.0
+24,a woman throwing away the trash,a woman throwing away the trash,0.3126
+25,a trash can overflowing with trash,a bin overflowing with trash,0.2588
+26,a raccoon going through trash,a raccoon going through trash,0.3496
+27,a trash can near a park bench,a trash can near a park bench,0.2712
+28,a trash pile in an alley,a trash pile in an alley,0.2984
+29,a trash dumpster in a construction site,a trash dumpster in a construction site,0.2866
+30,a top-floor apartment with a view of the city,a top-floor apartment with a view of the city,0.3023
+31,a college student's apartment,a college student's apartment,0.2849
+32,a cozy apartment in the city,a cozy apartment in the city,0.2972
+33,an apartment with a balcony overlooking the city,an apartment with a balcony overlooking the city,0.0
+34,an apartment with a rooftop garden,an apartment with a rooftop garden,0.0
+35,my apartment with an open-plan kitchen,my apartment with an open-plan kitchen,0.2916
+36,a man loading luggage into the car trunk,a man loading luggage into the car trunk,0.3064
+37,a spare tire in the trunk,a spare tire in the car trunk,0.2941
+38,a woman putting groceries in the trunk,a woman putting groceries in the car trunk,0.2966
+39,a car trunk filled with groceries,a car trunk filled with groceries,0.3204
+40,a trunk packed for a road trip,a car trunk packed for a road trip,0.2995
+41,trunk after a shopping spree,my car trunk after a shopping spree,0.27
+42,a boy waiting in the queue at a grocery store,a boy waiting in the line at a grocery store,0.3155
+43,a line for the rollercoaster,a line for the rollercoaster,0.0
+44,a line of cars at a drive-through,a line of cars at a drive-through,0.0
+45,a line at the ticket counter,a line at the ticket counter,0.0
+46,a line for the morning bus,a line for the morning bus,0.0
+47,a line at the post office,a line at the post office,0.0
+48,a man ironing creases in his pants,a man ironing creases in his pants,0.0
+49,a pair of purple trousers folded on a chair,a pair of purple pants folded on a chair,0.32
+50,a child wearing blue pants,a kid wearing a pair of blue pants,0.0
+51,a pants display in a store,a pants display in a store,0.3093
+52,a pair of pants with a matching jacket,pants with a matching blazer,0.2761
+53,My pants are hanging in the closet.,my pants hanging in the closet,0.0
+54,a woman enjoying a cup of tea with a biscuit,a woman enjoying a cup of tea with a cookie,0.3179
+55,a tin of assorted cookies,a tin of assorted cookies,0.0
+56,a man baking homemade biscuits,a man baking homemade cookies,0.2908
+57,a chocolate chip cookie,a cookie with chocolate chips,0.0
+58,a biscuit on a baking tray,a cookie on a baking tray,0.265
+59,a cookie with a bite taken out,a cookie with a bite taken out,0.2608
+60,a beam of light from the flashlight,a beam of light from the flashlight,0.2778
+61,a man searching in the dark with a flashlight,a man searching in the dark with a flashlight,0.303
+62,a rechargeable LED flashlight,a rechargeable LED flashlight,0.3282
+63,My flashlight is in a toolbox.,my flashlight in a toolbox,0.0
+64,a flashlight with low battery,a flashlight with low battery,0.2862
+65,a police officer shining a flashlight at the suspect,a policeman shining a flashlight at the suspect,0.2968
+66,a mother changing her baby's diaper,a mother changing her baby's diaper,0.2768
+67,a pack of diapers,a pack of cloth diapers,0.3106
+68,a happy baby wearing pink diapers,a happy baby wearing pink diapers,0.3073
+69,a diaper on a changing table,a diaper on a changing table,0.309
+70,diapers with cute patterns,diapers with cute patterns,0.306
+71,a diaper on a clothesline,a diaper on a clothesline,0.3273
+72,a gas station at night,a gasoline station at night,0.3169
+73,a man filling up his car with gasoline,a man filling up his car with gasoline,0.2925
+74,a sign showing gasoline prices,a sign showing gasoline prices,0.3045
+75,a gas pump at a station,a gasoline pump at a station,0.2945
+76,a gasoline tanker on the road,a gasoline tanker on the road,0.3113
+77,a brightly lit gas station sign at night,a brightly lit gasoline station sign at night,0.3046
+78,a group of kids kicking a soccer ball,a group of kids kicking a soccer ball,0.0
+79,a football player in the stadium,a soccer player in the stadium,0.2177
+80,a football player celebrating a win,a soccer player celebrating a win,0.2248
+81,my soccer cleats on the field,my soccer cleats on the field,0.0
+82,a soccer goalkeeper on the field,a soccer goalie in the field,0.2833
+83,a soccer goalkeeper trying to catch a soccer ball,a goalkeeper trying to catch a soccer ball,0.0
+84,a woman picking up a prescription at the pharmacy,a woman picking up a precription at the pharmacy,0.2866
+85,a wide range of products at the pharmacy,a wide range of products at the pharmacy,0.2989
+86,a group of people waiting at the pharmacy,a group of people waiting at the pharmacy,0.2942
+87,a pharmacy counter with vitamins,a pharmacy counter with vitamins,0.0
+88,the pharmacy where I get my prescriptions,my pharmacy where I get prescriptions,0.0
+89,a chemist with a neon sign,a pharmacy with a neon sign,0.2861
+90,a bowl of chips at a restaurant,a bowl of french fries at a restaurant,0.2397
+91,a boy eating chips,a boy eating french fries,0.3
+92,a plate with a burger and fries,a plate with a burger and french fries,0.3001
+93,French fries with ketchup and mayonnaise,french fries with ketchup and mayo,0.3132
+94,my fries from the local fish and chips shop,my french fries from the local fry shop,0.2923
+95,a portion of French fries next to a burger,a french fries portion next to a burger,0.0
+96,an office belonging to a lawyer,an office belonging to an attorney,0.2794
+97,a lawyer talking to his client,an attorney talking to his client,0.2848
+98,a man attending a meeting with his lawyer,a man attending a meeting with his attorney,0.2852
+99,a lawyer in a courtroom,an attorney in a courtroom,0.0
+100,My lawyer is discussing the case.,my attorney discussing the case,0.0
+101,a lawyer with legal books,an attorney with legal books,0.0
+102,a school custodian sweeping the hallway,a school janitor sweeping the hallway,0.3452
+103,a man talking to a caretaker at the mall,a man talking to a janitor at the mall,0.2963
+104,a tired caretaker in an empty hallway,a tired janitor in an empty hallway,0.2829
+105,a caretaker sweeping the school hallway,a janitor sweeping the school hallway,0.3588
+106,a facilities manager in a storage room,an office janitor in a supply closet,0.2459
+107,a janitor taking out the trash,a building janitor taking out the trash,0.291
+108,a man preparing dinner on the stove,a man preparing dinner on the stove,0.272
+109,a bowl of hot soup sitting on the stove,a bowl of hot soup sitting on the stove,0.2727
+110,a modern electric cooker with digital controls,a modern electric stove with digital controls,0.2999
+111,a pot with boiling pots,a stove with boiling pots,0.2773
+112,an oven with a baking function,a stove with a baking oven,0.0
+113,my stove after making breakfast,my stove after making breakfast,0.2651
+114,a woman putting the baby down in the crib,a woman putting the baby down in the crib,0.0
+115,a man setting up a cot,a man setting up a crib,0.3162
+116,a baby in a colorful crib,a baby in a colorful crib,0.3126
+117,a cot with soft blankets,a crib with soft blankets,0.2911
+118,a baby crib with wooden slats,a baby crib with wooden bars,0.3465
+119,a cot with stuffed animals,a crib with stuffed animals,0.3142
+120,an advertisement on a city billboard,an advertisement on a city billboard,0.2999
+121,a worker changing the image on the billboard,a worker changing the image on the billboard,0.3321
+122,a group of people staring at a large billboard,a group of people staring at a large billboard,0.3207
+123,a billboard advertising a concert,a billboard advertising a concert,0.2782
+124,My design display was downtown.,my billboard design displayed downtown,0.0
+125,a billboard lit up at night,a billboard lit up at night,0.3108
+126,a woman using a vacuum cleaner to clean the carpet,a woman using a vacuum cleaner to clean the carpet,0.3364
+127,a bright red vacuum cleaner in a store,a bright red vacuum cleaner in a store,0.3254
+128,a dirty vacuum cleaner on the carpet,a dirty vacuum cleaner on the carpet,0.3214
+129,a vacuum cleaner stored in a closet,a vacuum cleaner stored in a closet,0.3051
+130,a red vacuum cleaner with a long cord on the floor,a red vacuum cleaner with a long cord on the floor,0.3257
+131,a man using a vacuum cleaner on a carpeted floor,a man using a vacuum cleaner on a carpeted floor,0.3401
+132,a man holding a water jug,a man holding a water pitcher,0.2966
+133,a boy refilling his cup with a water jug,a boy refilling his cup with a water pitcher,0.3061
+134,a decorative ceramic jug,a decorative ceramic pitcher,0.3291
+135,a jug filled with lemonade,a pitcher filled with lemonade,0.3204
+136,a jug with a floral design,a pitcher with a floral design,0.3257
+137,a jug in the refrigerator,a pitcher in the refrigerator,0.2806
+138,a postman delivering packages,a mailman delivering packages,0.2819
+139,a man having a friendly chat with the postman,a man having a friendly chat with the mailman,0.2879
+140,a postman in a blue uniform,a mailman in blue uniform,0.3048
+141,a postman on a bicycle,a mailman in a truck,0.2235
+142,a postman at the front door,a mailman at the front door,0.3008
+143,my mail carrier with a large package,my mailman with a big bag,0.2873
+144,a woman taking a walk with her baby in the stroller,a woman taking a walk with her baby in the baby carriage,0.3198
+145,a stroller with a sunshade parked on a sidewalk,a baby carriage with a sunshade parked on a sidewalk,0.0
+146,a bright pink pram next to a bench,a bright pink baby carriage next to a bench,0.3414
+147,a stroller with a sleeping baby,a baby carriage with a sleeping baby,0.2831
+148,a stroller near a playground,a baby carriage near a playground,0.3048
+149,a man walking with a stroller on a cobblestone street,a man walking with a baby carriage on a cobblestone street,0.3265
+150,a luxurious lounge parked outside a mansion,a luxurious sedan parked outside a mansion,0.2223
+151,the spacious interior of the saloon,the spacious interior of the sedan,0.2579
+152,a man inside a black sedan,a man inside a black sedan,0.0
+153,a bar is parked in the driveway,a sedan parked in the driveway,0.0
+154,a saloon with tinted windows,a sedan with tinted windows,0.1557
+155,gas station convenience store,my sedan at the gas station,0.2157
+156,a boy sitting on the hood of the car,a boy sitting on the hood of the car,0.3344
+157,a car with a red hood,a car with a red hood,0.282
+158,a car at a repair shop with an open hood,a car at a repair shop with an open hood,0.2603
+159,a hat with a company logo,a hood with a company logo,0.2635
+160,a hat in the process of being painted,a hood in the process of being painted,0.2673
+161,a hat covered in snow,a hood with racing stripes,0.2205
+162,a woman chopping cilantro in the kitchen,a woman chopping cilantro in the kitchen,0.0
+163,coriander at the supermarket,cilantro at the supermarket,0.3261
+164,coriander sprinkled on top of pasta,cilantro sprinked on top of pasta,0.293
+165,coriander garnishing a curry,cilantro garnishing a curry,0.2743
+166,coriander leaves on a cutting board,cilantro leaves on a cutting board,0.3362
+167,a bunch of cilantro at the market,a cilantro bunch at the market,0.0
+168,a man slicing a zucchini in the kitchen,a man slicing a zucchini in the kitchen,0.0
+169,a woman picking a zucchini at the market,a woman picking a zucchini at the market,0.3094
+170,a large basket of zucchinis,a large basket of zucchinis,0.3098
+171,a zucchini in a vegetable garden,a zucchini in a vegetable garden,0.2926
+172,my zucchini in a stir fry,my zucchini in a stir fry,0.3022
+173,a zucchini in a shopping basket,a zucchini in a shopping basket,0.3061
+174,a crowd of people waiting for the subway,a crowd of people waiting for the subway,0.2944
+175,a busy subway station with people rushing inside,a busy subway station with people rushing inside,0.2851
+176,a man sitting inside the subway train,a man sitting inside the subway,0.0
+177,a subway train arriving,a subway train arriving,0.2736
+178,my subway ride during rush hour,my subway ride during rush hour,0.2857
+179,a subway map on the wall,a subway map on the wall,0.0
+180,a grandma slicing an eggplant in the kitchen,a grandma slicing an eggplant in the kitchen,0.3312
+181,a large basket of eggplants,a large basket of eggplants,0.2885
+182,a man picking an eggplant at the market,a man picking an eggplant at the market,0.2826
+183,an eggplant in the supermarket,an eggplant in the supermarket,0.2958
+184,a grilled eggplant with olive oil,a grilled eggplant with olive oil,0.3471
+185,My eggplant in a curry,my eggplant in a curry,0.2993
+186,a child waiting at a crosswalk,a child waiting at a crosswalk,0.0
+187,a faded zebra crossing,a faded crosswalk,0.2967
+188,crossing a crosswalk,bikes crossing a crosswalk,0.0
+189,a zebra crossing near a park,a crosswalk near a park,0.2928
+190,a woman walking across a crosswalk,a woman walking over a crosswalk,0.0
+191,a crosswalk near traffic lights,a crosswalk near traffic lights,0.0
+192,trucks parked along the highway,trucks parked along the highway,0.2872
+193,a crowded highway during rush hour,a crowded highway during rush hour,0.0
+194,a highway passing through mountains,a highway passing through mountains,0.2792
+195,an aerial view of a highway,an aerial view of a highway,0.3059
+196,motorway exit signs at night,highway signs at night,0.2829
+197,a highway blocked due to an accident,a highway blocked due to accident,0.0
+198,a bandage,a band-aid covering a small wound,0.2797
+199,a bandage on someone's forehead,a band-aid on someone's forehead,0.2453
+200,a float in a swimming pool,a band-aid floating in a swimming pool,0.2643
+201,a discarded bandage on the sidewalk,a discarded band-aid on the sidewalk,0.0
+202,a bandage with cartoon characters,a band-aid with cartoon characters,0.0
+203,a waterproof cast on a hand,a waterproof band-aid on a hand,0.2549
+204,a trash bag left outdoors,a black trash bag left outdoors,0.2501
+205,a trash bag full of leaves,a trash bag full of leaves,0.2897
+206,a trash bag,a neatly tied trash bag,0.2431
+207,a trash bag beside a garbage can,a trash bag beside a dumpster,0.2636
+208,a trash bag overflowing with trash,a trash bag overflowing with trash,0.2193
+209,a stack of unused trash bags,a stack of unused trash bags,0.2649
+210,a waistcoat displayed on a mannequin,a vest displayed on a mannequin,0.2855
+211,a checked waistcoat on display,a checked vest on display,0.276
+212,a man buttoning his waistcoat,a man buttoning his vest,0.2917
+213,a silk waistcoat in a boutique,a silk vest in a boutique,0.2979
+214,a vest matching formal trousers,a vest matching formal pants,0.0
+215,a waistcoat embroidered with flowers,a vest embroidered with flowers,0.3579
+216,Rockets do not leave in a salad spinner,arugula leaves in a salad spinner,0.2882
+217,A sandwich filled with arugula,a sandwich filled with arugula,0.3067
+218,arugula tossed with spaghetti,chopped arugula sprinkled on pasta,0.3131
+219,a burger topped with fresh arugula,a burger topped with fresh arugula,0.308
+220,a gardener harvesting arugula leaves,a gardener harvesting arugula leaves,0.0
+221,arugula,a basket filled with fresh arugula,0.2924

@@ -1,0 +1,44 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,a long line,a long line,0.3296
+1,a short line,a short line,0.3708
+2,a painting of a long line,a painting of a long line,0.502
+3,a line of people,a line of people,0.5
+4,a line outside the store,a line outside the store,0.5
+5,a line for food,a line for food,0.5
+6,a team scoring a soccer goal,a team scoring a soccer goal,0.5
+7,pharmacy,queue at a pharmacy shop,0.7488
+8,a lawyer at a table,an attorney at a table,0.5
+9,an old lawyer,an old attorney,0.5
+10,a lawyer at a park,an attorney at a park,0.4409
+11,a lawyer with a woman,an attorney with a woman,0.5012
+12,a lawyer with a notepad,an attorney with a notepad,0.5
+13,a painting of a lawyer,a painting of an attorney,0.6714
+14,a school custodian,a school janitor,0.6708
+15,a dirty janitor,a dirty janitor,0.5567
+16,a tired caretaker,a tired janitor,0.6167
+17,a busy caretaker,a busy janitor,0.6214
+18,a painting of an old caretaker,a painting of an old janitor,0.7346
+19,a security guard in a shopping mall,a janitor in a mall,0.3243
+20,a young postman,a young mailman,0.6498
+21,a lazy postman,a lazy mailman,0.5279
+22,a tired postman,a tired mailman,0.794
+23,a busy postman,a busy mailman,0.6899
+24,a painting of an old postman,a painting of an old mailman,0.7348
+25,a postman on the street,a mailman on the street,0.3673
+26,inside the tube,inside of the subway,0.4323
+27,a subway station,a subway station,0.5
+28,a sliced eggplant,a sliced eggplant,0.2664
+29,an eggplant on the table,an eggplant on the table,0.0879
+30,eggplant in a basket,eggplant in a basket,0.1884
+31,a painting of an eggplant,a painting of an eggplant,0.4855
+32,a moldy eggplant,a moldy eggplant,0.2665
+33,a dish with eggplant,a dish with eggplant,0.4936
+34,people in a crosswalk,people on a crosswalk,0.5
+35,a busy crosswalk,a busy crosswalk,0.5
+36,a woman on a crosswalk,a woman on a crosswalk,0.5
+37,a bandage wrapped around a finger,a band-aid wrapped around a finger,0.5331
+38,a bandage,a band-aid covering a small cut,0.7222
+39,a bandage on an injured knee,a band-aid on an injured knee,0.4651
+40,a colorful bandage on an elbow,a colorful band-aid on an elbow,0.5
+41,a bandage for a cut,a band-aid for a cut,0.5984
+42,a patch of plaster peeling off the wall,a band-aid peeling off skin,0.5

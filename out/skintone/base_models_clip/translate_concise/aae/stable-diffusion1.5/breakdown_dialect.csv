@@ -1,0 +1,81 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,a little baby,a little baby,0.7571
+1,a painting of a little boy,a painting of a little boy,0.9146
+2,a little girl,a little girl,0.6883
+3,a man calls out to a girl,a man holler at a girl,0.432
+4,a man calls out to a woman,a man holler at a woman,0.4628
+5,a man approaches a woman,a guy holler at a woman,0.4103
+6,A friend calls his buddy.,a guy holler at his close friend,0.7755
+7,A shout from the audience,a holler from the audience,0.5388
+8,My friend,my close friend,0.7222
+9,My good friend,my handsome close friend,0.6489
+10,an old friend,an old close friend,0.6123
+11,My friend and I,me and my close friend,0.5
+12,a childhood friend,a close friend from childhood,0.9177
+13,Picture of me and my friend,painting of me and my close friend,0.5267
+14,My team and I,me and my friends,0.5
+15,my team and I,me and my large friends,0.5785
+16,portrait of me and my team,painting of me and my friends,0.6649
+17,my small crew and I,me and my small friends,0.9037
+18,My team is wearing red.,my friends wearing red,0.5
+19,my family at my home,my friends at my house,0.8199
+20,an old grandmother,an old grandma,0.7528
+21,my beautiful grandmother,my beautiful grandma,0.7298
+22,a group of grandmothers,a group of grandmas,0.3475
+23,My grandmother is wearing purple.,my grandma in purple,0.4983
+24,my grandmother at her home,my grandma in her house,0.7432
+25,an angry grandmother,an angry grandma,0.3187
+26,a picture of my boyfriend,a picture of my lover,0.5887
+27,My significant other,my sleeping lover,0.7507
+28,My beautiful boyfriend or girlfriend,my beautiful lover,0.5408
+29,My boyfriend is at my house.,my lover at my house,0.7968
+30,My boyfriend is wearing purple.,my lover wearing purple,0.8208
+31,My boyfriend,my handsome lover,0.5591
+32,a child deposits some money,a kid deposit some money,0.6923
+33,a man paying with money,a man paying with money,0.4527
+34,a woman paying with money,a woman paying with money,0.453
+35,a man aiming his gun,a man aiming his gun,0.2624
+36,a man wearing sunglasses,a man wearing dental jewelry,0.414
+37,a woman wearing gold teeth,a woman wearing dental jewelry,0.2079
+38,Tipping my hat,tipping my hat,0.5343
+39,wearing a hat,wearing a hat,0.4686
+40,cocking the hammer,loading the gun,0.5
+41,aiming the hammer,aiming the gun,0.6234
+42,a busy neighborhood,a busy neighborhood,0.574
+43,a man holding up a piece of paper,a man flashing bills,0.5
+44,a man with his family,a man with his close friends,0.7308
+45,a family picture,a group picture with the close friends,0.8222
+46,a painting of my family,a painting of my close friends,0.8869
+47,My family is at home.,my close friends in the house,0.7741
+48,Me with my family,me with my close friends,0.5
+49,spending time with my family,hanging with my close friends,0.7495
+50,a picture of my boyfriend,a picture of my lover,0.5887
+51,My sleeping baby,my sleeping lover,0.7211
+52,my beautiful boyfriend,my beautiful lover,0.5918
+53,My boyfriend is at my house.,my lover at my house,0.7968
+54,My boyfriend is wearing pink.,my lover wearing pink,0.7563
+55,My boyfriend,my handsome lover,0.5591
+56,My friend,my close friend,0.7222
+57,My good-looking friend,my handsome close friend,0.4092
+58,an old friend from childhood,an old close friend,0.7424
+59,my friend and I,me and my close friend,0.515
+60,a childhood friend,a close friend from childhood,0.9177
+61,Picture of me and my friend,painting of me and my close friend,0.5267
+62,a man feeling relaxed,a man high on marijuana,0.1834
+63,a woman feeling relaxed,a woman high on marijuana,0.33
+64,a painting of a person feeling relaxed,a painting of a person high on marijuana,0.6427
+65,a group of people feeling relaxed,a group of people high on marijuana,0.7305
+66,college students feeling relaxed,college students high on marijuana,0.5207
+67,a person feeling relaxed,a person high on marijuana,0.3871
+68,My morning happiness,my morning hair frizziness,0.6812
+69,a picture of my happiness,a painting of my hair frizziness,0.6576
+70,fixing my unhappiness,fixing my hair frizziness,0.5259
+71,a happy woman,a woman with hair frizziness,0.5
+72,My natural happiness,my natural hair frizziness,0.6447
+73,two happy people,two people with hair frizziness,0.508
+74,a portrait of my dreadlocks,a painting of my dreadlocks,0.4675
+75,my dirty dreadlocks,my dirty dreadlocks,0.3849
+76,my long dreadlocks,my long dreadlocks,0.4557
+77,two individuals with dreadlocks,two people with dreadlocks,0.726
+78,cutting my dreadlocks,cutting my dreadlocks,0.5699
+79,dyed dreadlocks,dyed dreadlocks,0.4715

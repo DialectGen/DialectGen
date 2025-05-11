@@ -1,0 +1,137 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,a woman driving a green Ford on a farm,a woman driving a green truck on a farm,0.6967
+1,a man driving a car on the highway,a man driving a truck on the highway,0.4099
+2,Two kids are sitting on the back of a truck.,two kids sitting on the back of a truck,0.5
+3,a street vendor selling shaved ice,a street vendor selling shaved ice,0.5
+4,a man enjoying raspas on a hot day,a man enjoying shaved ice on a hot day,0.6754
+5,a girl enjoying a bowl of raspa in the park,a girl enjoying a bowl of shaved ice in the park,0.349
+6,Two people sharing a cup of raspberries on the table,two people sharing a cup of shaved ice on the table,0.5
+7,a group of teenagers in a clique walking through the neighborhood,a group of teens in a friend group walking through the neighborhood,0.4659
+8,a group gathered around a bench talking,a friend group gathered around a bench talking,0.4358
+9,A group of people laughing loudly by a taco stand,a friend group laughing loudly by a taco stand,0.5
+10,a person posing for a picture in front of a mural,a friend group posing for a picture in front of a mural,0.7597
+11,a skateboarder skateboarding down the street,a friend group skateboarding down the street together,0.5
+12,a godfather cutting a birthday cake,a godfather cutting a birthday cake,0.6913
+13,a godfather officiating a wedding ceremony,a godfather officiating a wedding ceremony,0.6537
+14,a godfather playing chess with his godson,a godfather playing chess with his godson,0.4868
+15,a godfather cheering at a baseball game,a godfather cheering at a baseball game,0.8878
+16,a godfather enjoying a cigar in a lounge,a godfather enjoying a cigar in a lounge,0.6447
+17,a godfather giving a necklace as a gift at a baptism,a godfather gifting a necklace at a baptism,0.5
+18,a person hiking through a forest,a person hiking through a field,0.4798
+19,a person running through a field,a person running through a field,0.3476
+20,Two children playing in the field.,two kids playing around in the field,0.5
+21,Two men sitting in a prison cell.,two men sitting in a jail cell,0.5
+22,A sentry standing in front of a wall,a jail guard standing in front of a wall,0.1592
+23,a small paint horse with high fences,a small prison with high fences,0.4307
+24,a man about to set sail for the New World,a man about to go to prison,0.3068
+25,a person and their Jain walking down the street,a person and their girlfriend walking down a street,0.0745
+26,a man and his wife laughing,a man and his girlfriend laughing,0.5346
+27,a person and their wife dressed in similar-looking clothes,a person and their girlfriend dressed in similar looking clothes,0.4832
+28,My friend and I are driving in a blue car.,my girlfriend and I driving in a blue car,0.8493
+29,I am having dinner in a restaurant with my friend.,me having dinner in a restaurant with my girlfriend,0.5
+30,a sunny day in the park with my friend,a sunny day in the park with my girlfriend,0.4653
+31,a person plans a dress shirt,a person irons a dress shirt,0.596
+32,a person ironing a towel in a sunny room,a person irons a towel in a sunny room,0.6007
+33,A man plans to iron his pants before work,a man irons his pants before work,0.5
+34,my mother ironed the curtains,my mother irons the curtains,0.5145
+35,a woman plans to iron clothes in the laundry room,a woman irons clothes in the laundry room,0.5333
+36,My brother is planning his uniform shirt.,my brother irons his uniform shirt,0.5
+37,a person exploring Chula Vista on a sunny afternoon,a person exploring El Paso on a sunny afternoon,0.4471
+38,a woman and her companion eating at a restaurant,a woman and her brother eating at a restaurant,0.5811
+39,a man hiking with his companion on a forest trail,a man hiking with his brother on a forest trail,0.4622
+40,My body posing for a picture,my brother posing for a picture,0.5397
+41,I'm standing with my family.,me standing with my brother,0.4632
+42,my friend and I are sitting at a table,my brother and I sitting at a table,0.6633
+43,My brother is riding a bike,my brother riding a bike,0.7859
+44,a woman and her daughter eating at a restaurant,a woman and her sister eating at a restaurant,0.4584
+45,a man hiking with his girlfriend through a mountain path,a man hiking with his sister through a mountain path,0.4102
+46,My girlfriend and I are posing for a picture.,me and my sister posing for a picture,0.5
+47,Me standing with my cantaloupe,me standing with my sister,0.5
+48,My girlfriend and I are sitting at a table.,my sister and I sitting at a table,0.6849
+49,My girlfriend riding a bike,my sister riding a bike,0.3849
+50,My friends are playing basketball together,my brothers playing basketball together,0.7894
+51,a couple of friends in a rock band,a brothers duo in a rock band,0.7958
+52,My cousins are on a camping trip,my brothers on a camping trip,0.7277
+53,a professional wrestling match,a brothers wrestling match,0.6223
+54,My cousins are building a treehouse,my brothers building a treehouse,0.8644
+55,A gang handshake at graduation,a brothers handshake at graduation,0.8356
+56,a carnal moment at a wedding,a sisters moment at a wedding,0.8206
+57,my classmates are studying together,my sisters studying together,0.647
+58,a sensual dance routine,a sisters dance routine,0.2069
+59,My cousins are sharing a secret.,my sisters sharing a secret,0.5
+60,My cousins are having a tea party in the garden,my sisters having a tea party in the garden,0.5864
+61,My cousins are braiding each other's hair,my sisters braiding each other's hair,0.5266
+62,a group of people at a family reunion,a group of mexican americans at a family reunion,0.4442
+63,a racial justice activist speaking at a rally,a mexican american activist speaking at a rally,0.2689
+64,a community center hosting an event,a mexican american community center hosting an event,0.5072
+65,a cultural festival in the park,a mexican american cultural festival in the park,0.1778
+66,a musician performing live,a mexican american musician performing live,0.4913
+67,a student of color at a graduation ceremony,a mexican american student at a graduation ceremony,0.3823
+68,a man wearing sunglasses and a bandana,a young man wearing sunglasses and a bandana,0.5
+69,A man skateboarding down a hill,a young man skateboarding down a hill,0.5
+70,A man leaning against a low-rider,a young man leaning against a lowrider,0.5
+71,a man playing an acoustic guitar,a young man playing an acoustic guitar,0.5
+72,A guy writing in a journal at a cafe,a young man writing in a journal at a cafe,0.7235
+73,A guy playing pool at a bar,a young man shooting pool at a bar,0.3755
+74,an African American playing basketball on a local court,a young man playing basketball in a local court,0.5
+75,an African American walking his pitbull in the neighborhood,a young man walking his pitbull in the neighborhood,0.2078
+76,an African American buying street tacos from a food truck,a young man buying street tacos from a food truck,0.5782
+77,an African American riding a BMX bike in a skate park,a young man riding a BMX bike in a skate park,0.6369
+78,an African American breakdancing on a city street,a young man breakdancing on a city street,0.21
+79,an American playing the trumpet in a mariachi band,a young man playing the trumpet in a mariachi band,0.2357
+80,A person is grilling burgers at a cookout.,a man grilling burgers at a cookout,0.6919
+81,a boy riding a horse at a ranch,a man riding a horse at a ranch,0.6766
+82,A man is repairing a broken fence.,a man repairing a broken fence,0.699
+83,a boy practicing archery in a field,a man practicing archery in a field,0.581
+84,A bat is jogging in a city park.,a man jogging in a city park,0.5
+85,A guy watching a sunset from a pier,a man watching a sunset from a pier,0.3968
+86,a godmother baking cookies for a bake sale,a godmother baking cookies for a bake sale,0.8131
+87,a godmother attending a school play,a godmother attending a school play,0.6534
+88,a godmother planting flowers in the garden,a godmother planting flowers in the garden,0.6009
+89,a godmother knitting a sweater for her godchild,a godmother knitting a sweater for her godchild,0.6377
+90,a godmother singing in a church choir,a godmother singing in a church choir,0.6669
+91,a godmother decorating a Christmas tree,a godmother decorating a Christmas tree,0.6019
+92,A crazy guy dancing in the rain,a crazy guy dancing in the rain,0.4778
+93,a crazy stunt on a skateboard,a crazy stunt on a skateboard,0.8231
+94,a talented artist painting upside down,a crazy artist painting upside down,0.8126
+95,a look of surprise on her face,a crazy expression on her face,0.28
+96,a wild scene at the concert,a crazy scene at the concert,0.576
+97,My daughter is playing in a sandbox,my daughter playing in a sandbox,0.8516
+98,To my sister,a daughter drawing with chalk on the sidewalk,0.7033
+99,My daughter is holding a big ice cream cone,my daughter holding a big ice cream cone,0.6502
+100,To my sister riding a bike for the first time,a daughter riding a bike for the first time,0.8152
+101,To my sister wearing a princess costume,a daughter wearing a princess costume,0.6164
+102,My daughter is exploring the beach.,my daughter exploring the beach,0.5
+103,My son is kicking a soccer ball,my son kicking a soccer ball,0.9022
+104,My son is climbing a tree.,a son climbing a tree,0.9538
+105,My son is reading a comic book,my son reading a comic book,0.8781
+106,My little boy is playing with a toy train.,a son playing with a toy train,0.7919
+107,My son is catching a fish,my son catching a fish,0.9599
+108,My little boy is building a sandcastle,a son building a sandcastle,0.9452
+109,a surfer on a California wave,a surfer on a california wave,0.7647
+110,my vacation in California,my vacation in california,0.831
+111,a bustling market in California,a bustling market in california,0.3834
+112,a hand dropping a bar of soap into a piggy bank,a hand dropping money into a piggy bank,0.6748
+113,a hiker at a campfire,a close friend at a campfire,0.6115
+114,My cousin is wearing a birthday hat.,my close friend wearing a birthday hat,0.5
+115,a memory with my cousin at the beach,a memory with my close friend at the beach,0.5099
+116,an afternoon with my friend at the cafe,an afternoon with my close friend at the cafe,0.4916
+117,a photo of me and my friend,a photo of me and my close friend,0.7627
+118,a cute guy helping with homework,a close friend helping with homework,0.8358
+119,My favorite yoga session with candles,my favorite pampering session with candles,0.5
+120,a man deciding to baptize himself,a man deciding to pamper himself,0.563
+121,a day out to Apache Creek with friends,a day out to pamper with friends,0.857
+122,a group of people sharing a lunch,a group of people sharing a lunch,0.5737
+123,a child excited for his lunch break,a child excited for his lunch break,0.7522
+124,a child flying a kite,a boy flying a kite,0.7724
+125,My grandson is wearing a school uniform.,my boy wearing a school uniform,0.5
+126,a brave young boy climbing a tree,an adventurous boy climbing a tree,0.8294
+127,a boy with his toy collection,a boy with his toy collection,0.8726
+128,a child building a sandcastle,a boy making a sandcastle,0.8556
+129,a tired young boy after soccer practice,a tired boy after soccer practice,0.8199
+130,a woman wearing a flower crown,a girl with a flower crown,0.333
+131,My granddaughter's first day at school,my girl's first day at school,0.7804
+132,a Chicana playing with her dolls,a girl playing with her dolls,0.47
+133,an artistic Mexican American woman painting a picture,an artistic girl painting a picture,0.5
+134,a woman practicing her dance routine,a girl practicing her dance routine,0.2929
+135,a woman laughing at a playground,a girl laughing at a playground,0.719

@@ -1,0 +1,44 @@
+Prompt_Index,SAE_Prompt,Normalized_Score
+0,a long line,0.0
+1,a short line,1.0
+2,a painting of a long line,0.7176
+3,a line of people,0.6105
+4,a line outside the store,0.0001
+5,a line for food,0.0
+6,a team scoring a soccer goal,0.0
+7,queue at a pharmacy shop,0.0284
+8,an attorney at a table,0.2919
+9,an old attorney,1.0
+10,an attorney at a park,1.0
+11,an attorney with a woman,0.0
+12,an attorney with a notepad,1.0
+13,a painting of an attorney,1.0
+14,a school janitor,0.6245
+15,a dirty janitor,0.0
+16,a tired janitor,0.0
+17,a busy janitor,0.9999
+18,a painting of an old janitor,0.0606
+19,a janitor in a mall,0.0
+20,a young mailman,1.0
+21,a lazy mailman,0.9458
+22,a tired mailman,1.0
+23,a busy mailman,1.0
+24,a painting of an old mailman,1.0
+25,a mailman on the street,0.0
+26,inside of the subway,0.0038
+27,a subway station,0.0034
+28,a sliced eggplant,0.0015
+29,an eggplant on the table,0.0
+30,eggplant in a basket,0.0
+31,a painting of an eggplant,0.0
+32,a moldy eggplant,0.0
+33,a dish with eggplant,0.0
+34,people on a crosswalk,1.0
+35,a busy crosswalk,0.0635
+36,a woman on a crosswalk,0.0012
+37,a band-aid wrapped around a finger,1.0
+38,a band-aid covering a small cut,1.0
+39,a band-aid on an injured knee,1.0
+40,a colorful band-aid on an elbow,1.0
+41,a band-aid for a cut,1.0
+42,a band-aid peeling off skin,1.0

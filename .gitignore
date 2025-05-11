@@ -58,6 +58,7 @@ data/image
 data/video
 data/cache
 out_bak
+out_bak1/
 
 # Ouputs/checkpoints
 checkpoints/
@@ -68,3 +69,6 @@ diffusers/
 
 # environment tokens
 .env
+
+# plotting
+plotting/

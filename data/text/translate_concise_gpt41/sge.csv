@@ -1,0 +1,205 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt,Original_Dialect_Prompt,Original_SAE_Prompt
+teh tarik,milk tea,a painting of teh tarik,a painting of milk tea,0,1,0,,a painting of teh tarik,a painting of milk tea
+teh tarik,milk tea,a photo of teh tarik,a photo of milk tea,0,1,0,,a photo of teh tarik,a photo of milk tea
+teh tarik,milk tea,selling teh tarik,selling milk tea,0,1,0,,selling teh tarik,selling milk tea
+teh tarik,milk tea,a large pulled tea,a large milk tea,1,1,0,,a large teh tarik,a large milk tea
+teh tarik,milk tea,a small pulled tea,a small milk tea,1,1,0,,a small teh tarik,a small milk tea
+teh tarik,milk tea,tea with milk on a table,milk tea on a counter,0,1,0,,teh tarik on a table,milk tea on a counter
+kopi,coffee,coffee on a table,coffee on a table,1,1,0,,kopi on a table,coffee on a table
+kopi,coffee,coffee on a counter,coffee on a counter,1,1,0,,kopi on a counter,coffee on a counter
+kopi,coffee,a painting of coffee,a painting of coffee,0,1,0,,a painting of kopi,a painting of coffee
+kopi,coffee,Two people getting coffee,two people getting coffee,1,1,0,,two people getting kopi,two people getting coffee
+kopi,coffee,a man buying coffee,a man buying coffee,1,1,0,,a man buying kopi,a man buying coffee
+kopi,coffee,a woman with coffee,a woman with coffee,1,1,0,,a woman with kopi,a woman with coffee
+ang pow,red packet,a painting of a red envelope,a painting of a red packet,1,1,0,,a painting of an ang pow,a painting of a red packet
+ang pow,red packet,Two red envelopes on a table,two red packets on a table,0,1,0,,two ang pows on a table,two red packets on a table
+ang pow,red packet,a red envelope on a counter,a red packet on a counter,0,1,0,,an ang pow on a counter,a red packet on a counter
+ang pow,red packet,a person holding a red envelope,a person holding a red packet,1,1,0,,a person holding an ang pow,a person holding a red packet
+ang pow,red packet,a red envelope on the ground,a red packet on the ground,0,1,0,,an ang pow on the ground,a red packet on the ground
+ang pow,red packet,a child holding a red envelope,a child holding a red packet,0,1,0,,a child holding an ang pow,a child holding a red packet
+sotong,squid,a painting of squid,a painting of squid,0,1,0,,a painting of sotong,a painting of squid
+sotong,squid,cuttlefish on a table,squid on a table,0,1,0,,sotong on a table,squid on a table
+sotong,squid,a squid in a market,a squid in a market,0,1,0,,a sotong in a market,a squid in a market
+sotong,squid,a cuttlefish in an aquarium,a squid in an aquarium,0,1,0,,a sotong in an aquarium,a squid in an aquarium
+sotong,squid,a squid on a counter,a squid on a counter,0,1,0,,a sotong on a counter,a squid on a counter
+sotong,squid,cuttlefish in a box,squid in a box,0,1,0,,sotong in a box,squid in a box
+tapao,takeout,a person getting takeout,a person getting takeout,0,1,0,,a person getting tapao,a person getting takeout
+tapao,takeout,cover it with a table,takeout on a table,0,1,0,,tapao on a table,takeout on a table
+tapao,takeout,takeout from the food truck,takeout from the food truck,0,1,0,,tapao from the food truck,takeout from the food truck
+tapao,takeout,Let's get some food to take away.,let's get some food takeout,1,1,0,,let's get some food tapao,let's get some food takeout
+tapao,takeout,takeout Chinese food,chinese food takeout,0,1,0,,chinese food tapao,chinese food takeout
+tapao,takeout,a couple getting food to go,a couple getting food takeout,1,1,0,,a couple getting food tapao,a couple getting food takeout
+kiasu,a grasping and selfish attitude,a competitive businessman,a businessman with a grasping and selfish attitude,1,1,0,,a kiasu businessman,a businessman with a grasping and selfish attitude
+kiasu,a grasping and selfish attitude,a competitive leader,a leader with a grasping and selfish attitude,1,1,0,,a kiasu leader,a leader with a grasping and selfish attitude
+kiasu,a grasping and selfish attitude,an overly competitive student,a student with a grasping and selfish attitude,1,1,0,,a kiasu student,a student with a grasping and selfish attitude
+kiasu,a grasping and selfish attitude,an overly competitive parent,a parent with a grasping and selfish attitude,1,1,0,,a kiasu parent,a parent with a grasping and selfish attitude
+kiasu,a grasping and selfish attitude,a competitive businesswoman,a businesswoman with a grasping and selfish attitude,1,1,0,,a kiasu businesswoman,a businesswoman with a grasping and selfish attitude
+kiasu,a grasping and selfish attitude,a competitive politician,a politician with a grasping and selfish attitude,1,1,0,,a kiasu politician,a politician with a grasping and selfish attitude
+sian,bored,a Siamese cat,a bored cat,0,1,0,,a sian cat,a bored cat
+sian,bored,an Asian woman,a bored woman,1,1,0,,a sian woman,a bored woman
+sian,bored,an Asian worker,a bored worker,1,1,0,,a sian worker,a bored worker
+sian,bored,a child sighing,a child bored,1,1,0,,a child sian,a child bored
+sian,bored,an Asian dog,a bored dog,0,1,0,,a sian dog,a bored dog
+sian,bored,an Asian man,a bored man,1,1,0,,a sian man,a bored man
+lepak,relax,a lazy dog,a relaxing dog,0,1,0,,a lepak dog,a relaxing dog
+lepak,relax,people hang out on a beach,people relaxing on a beach,1,1,0,,people lepak on a beach,people relaxing on a beach
+lepak,relax,people hang out on a couch,people relaxing on a coach,1,1,0,,people lepak on a coach,people relaxing on a coach
+lepak,relax,a couple relax in a park,a couple relaxing in a park,1,1,0,,a couple lepak in a park,a couple relaxing in a park
+lepak,relax,a cat relaxing,a cat relaxing,0,1,0,,a cat lepak,a cat relaxing
+lepak,relax,a hangout spot,a relaxing setting,0,1,0,,a lepak setting,a relaxing setting
+can,yes,a person gesturing with a can,a person gesturing yes,1,1,1,a soda can on the table,a person gesturing can,a person gesturing yes
+can,yes,a person answering can,a person answering yes,1,1,1,a metal can filled with beans,a person answering can,a person answering yes
+can,yes,a worker making a gesture,a worker gesturing yes,1,1,1,a trash can in a kitchen,a worker gesturing can,a worker gesturing yes
+can,yes,a student making a gesture,a student gesturing yes,1,1,1,a can opener next to cans,a student gesturing can,a student gesturing yes
+can,yes,a woman gesturing with a can,a woman gesturing yes,1,1,1,a paint can on a shelf,a woman gesturing can,a woman gesturing yes
+can,yes,a man making a gesture,a man gesturing yes,1,1,1,a stack of soup cans,a man gesturing can,a man gesturing yes
+chope,save a table,a student reserves a seat,a student saving a table,1,1,0,,a student chope,a student saving a table
+chope,save a table,a man chops,a man saving a table,1,1,0,,a man chope,a man saving a table
+chope,save a table,a woman chops,a woman saving a table,1,1,0,,a woman chope,a woman saving a table
+chope,save a table,a group of friends,a group saving a table,1,1,0,,a group chope,a group saving a table
+chope,save a table,reserve a seat at a cafe,saving a table at a cafe,1,1,0,,chope at a cafe,saving a table at a cafe
+chope,save a table,reserve with a napkin,saving a table with a napkin,1,1,0,,chope with a napkin,saving a table with a napkin
+shiok,very tasty,a counter with delicious things,a counter with tasty things,0,1,0,,a counter with shiok things,a counter with tasty things
+shiok,very tasty,a painting of something that is delightful,a painting of something that is very tasty,1,1,0,,a painting of something that is shiok,a painting of something that is very tasty
+shiok,very tasty,a table with delicious things,a table with very tasty stuff,0,1,0,,a table with shiok stuff,a table with very tasty stuff
+shiok,very tasty,a photo of something that is very enjoyable,a photo of something that is tasty,0,1,0,,a photo of something that is shiok,a photo of something that is tasty
+shiok,very tasty,something delicious,something tasty,0,1,0,,something shiok,something tasty
+shiok,very tasty,a person enjoying something that is very pleasurable,a person enjoying something that is tasty,0,1,0,,a person enjoying something that is shiok,a person enjoying something that is tasty
+atas,high class,an upscale clothing store,a high class clothing store,0,1,0,,an atas clothing store,a high class clothing store
+atas,high class,an upstairs party,a high class party,1,1,0,,an atas party,a high class party
+atas,high class,a painting of something that is high-class,a painting of something that is high class,0,1,0,,a painting of something that is atas,a painting of something that is high class
+atas,high class,an upscale restaurant,a high class restaurant,0,1,0,,an atas restaurant,a high class restaurant
+atas,high class,a car on top,a high class car,1,1,0,,an atas car,a high class car
+atas,high class,an upstairs house,a high class house,0,1,0,,an atas house,a high class house
+ulu,secluded,an ulu beach,a secluded beach,0,1,0,,an ulu beach,a secluded beach
+ulu,secluded,a street in Ulu,a secluded street,0,1,0,,an ulu street,a secluded street
+ulu,secluded,an ulu trail,a secluded trail,1,1,0,,an ulu trail,a secluded trail
+ulu,secluded,a remote location,a secluded locale,0,1,0,,an ulu locale,a secluded locale
+ulu,secluded,an ulu house,a secluded house,0,1,0,,an ulu house,a secluded house
+ulu,secluded,a small town,a secluded town,0,1,0,,an ulu town,a secluded town
+makan,eat,a woman eating noodles,a woman eating noodles,1,1,0,,a woman makan noodles,a woman eating noodles
+makan,eat,a painting of someone eating,a painting of someone eating,1,1,0,,a painting of someone makan,a painting of someone eating
+makan,eat,a person eating salad,a person eating a salad,1,1,0,,a person makan salad,a person eating a salad
+makan,eat,a man eats a taco,a man eating a taco,1,1,0,,a man makan a taco,a man eating a taco
+makan,eat,people eat,people eating,1,1,0,,people makan,people eating
+makan,eat,a man eats a burrito,a man eating a burrito,1,1,0,,a man makan a burrito,a man eating a burrito
+zhng,redecorate,a family renovating their house,a family redecorates their house,1,1,0,,a family zhng their house,a family redecorates their house
+zhng,redecorate,a worker organizing her office space,a worker redecorates her office space,1,1,0,,a worker zhng her office space,a worker redecorates her office space
+zhng,redecorate,a couple is renovating their garage,a couple redecorate their garage,1,1,0,,a couple zhng their garage,a couple redecorate their garage
+zhng,redecorate,a woman decorates her room,a woman redecorates her room,1,1,0,,a woman zhng her room,a woman redecorates her room
+zhng,redecorate,a man is cleaning his desk,a man redecorates his desk,1,1,0,,a man zhng his desk,a man redecorates his desk
+zhng,redecorate,a person renovating their kitchen,a person redecorates their kitchen,1,1,0,,a person zhng their kitchen,a person redecorates their kitchen
+ger,girl,a tall girl,a tall girl,1,1,0,,a tall ger,a tall girl
+ger,girl,an old man buying a computer,a girl buying a computer,1,1,0,,a ger buying a computer,a girl buying a computer
+ger,girl,an older man hiking,a girl hiking,1,1,0,,a ger hiking,a girl hiking
+ger,girl,a gear,a girl,1,1,0,,a ger,a girl
+ger,girl,a yurt in a city,a girl in a city,1,1,0,,a ger in a city,a girl in a city
+ger,girl,a painting of a yurt,a painting of a girl,1,1,0,,a painting of a ger,a painting of a girl
+handphone,mobile phone,a cell phone on a table,a mobile phone on a table,0,1,0,,a handphone on a table,a mobile phone on a table
+handphone,mobile phone,a woman holding a cellphone,a woman holding a mobile phone,1,1,0,,a woman holding a handphone,a woman holding a mobile phone
+handphone,mobile phone,a cell phone on the ground,a mobile phone on the ground,0,1,0,,a handphone on the ground,a mobile phone on the ground
+handphone,mobile phone,a man with a cellphone,a man with a mobile phone,1,1,0,,a man with a handphone,a man with a mobile phone
+handphone,mobile phone,a painting of a cellphone,a painting of a mobile phone,1,1,0,,a painting of a handphone,a painting of a mobile phone
+handphone,mobile phone,a cell phone on a lawn,a mobile phone on a lawn,1,1,0,,a handphone on a lawn,a mobile phone on a lawn
+ah long,a loan shark,a loan shark handling cash,a loan shark handling cash,1,1,0,,an ah long handling cash,a loan shark handling cash
+ah long,a loan shark,a loan shark carrying a knife,a loan shark carrying a knife,1,1,0,,an ah long carrying a knife,a loan shark carrying a knife
+ah long,a loan shark,a loan shark holding a bag,a loan shark holding a bag,1,1,0,,an ah long holding a bag,a loan shark holding a bag
+ah long,a loan shark,a loan shark,a loan shark,1,1,0,,an ah long,a loan shark
+ah long,a loan shark,I am talking to someone.,a loan shark talking to someone,1,1,0,,an ah long talking to someone,a loan shark talking to someone
+ah long,a loan shark,a man spray painting,a loan shark spray painting,1,1,0,,an ah long spray painting,a loan shark spray painting
+kopi tiam,coffee shop,a man at a coffee shop,a man at a coffee shop,1,1,0,,a man at a kopi tiam,a man at a coffee shop
+kopi tiam,coffee shop,a woman at a coffee shop,a woman at a coffee shop,1,1,0,,a woman at a kopi tiam,a woman at a coffee shop
+kopi tiam,coffee shop,buying something at a coffee shop,buying something at a coffee shop,0,1,0,,buying something at a kopi tiam,buying something at a coffee shop
+kopi tiam,coffee shop,a coffee shop,a coffee shop,0,1,0,,a kopi tiam,a coffee shop
+kopi tiam,coffee shop,a modern coffee shop,a modern coffee shop,1,1,0,,a modern kopi tiam,a modern coffee shop
+kopi tiam,coffee shop,an old coffee shop,an old coffee shop,1,1,0,,an old kopi tiam,an old coffee shop
+yandao,handsome male,a painting of a handsome man,a painting of a handsome male,1,1,0,,a painting of a yandao,a painting of a handsome male
+yandao,handsome male,a handsome guy buying food,a handsome male buying food,1,1,0,,a yandao buying food,a handsome male buying food
+yandao,handsome male,a handsome guy walking,a handsome male walking,1,1,0,,a yandao walking,a handsome male walking
+yandao,handsome male,a photo of a handsome man,a photo of a handsome male,1,1,0,,a photo of a yandao,a photo of a handsome male
+yandao,handsome male,a handsome guy,a handsome male,1,1,0,,a yandao,a handsome male
+yandao,handsome male,a handsome guy at a gym,a handsome male at a gym,1,1,0,,a yandao at a gym,a handsome male at a gym
+mug,study,a man studying for final exams,a man studying for finals,1,1,1,a coffee mug on the desk,a man mugging for finals,a man studying for finals
+mug,study,a woman being robbed at home,a woman studying at home,1,1,1,a mug filled with tea,a woman mugging at home,a woman studying at home
+mug,study,a child busy studying,a child busy studying,1,1,1,a colorful ceramic mug,a child busy mugging,a child busy studying
+mug,study,a group of people committing a robbery,a group of people studying,1,1,1,a mug decorated with patterns,a group of people mugging,a group of people studying
+mug,study,an older person robbing someone,an older person studying,1,1,1,a mug placed next to books,an older person mugging,an older person studying
+mug,study,mugging at a table,studying at a table,1,1,1,a mug steaming with coffee,mugging at a table,studying at a table
+lightbulb,third wheel,a man transforming into a lightbulb,a man being a third wheel,1,1,1,a glowing lightbulb hanging,a man being a lightbulb,a man being a third wheel
+lightbulb,third wheel,a woman transforming into a lightbulb,a woman being a third wheel,1,1,1,a broken incandescent lightbulb,a woman being a lightbulb,a woman being a third wheel
+lightbulb,third wheel,a lightbulb sitting with a couple,a third wheel sitting with a couple,1,1,1,a lightbulb in a lamp,a lightbulb sitting with a couple,a third wheel sitting with a couple
+lightbulb,third wheel,a person feeling like a lightbulb,a person feeling like a third wheel,1,1,1,a box of spare lightbulbs,a person feeling like a lightbulb,a person feeling like a third wheel
+lightbulb,third wheel,scene with an awkward lightbulb,scene with an awkward third wheel,1,1,1,a filament inside a lightbulb,scene with an awkward lightbulb,scene with an awkward third wheel
+lightbulb,third wheel,a young lightbulb,a young third wheel,1,1,1,a new energy-efficient lightbulb,a young lightbulb,a young third wheel
+teh,tea,a painting of black tea,a painting of black tea,0,1,0,,a painting of black teh,a painting of black tea
+teh,tea,the in a store,tea in a store,1,1,0,,teh in a store,tea in a store
+teh,tea,a container with the,a container with tea,0,1,0,,a container with teh,a container with tea
+teh,tea,a tea shop in a city,a tea shop in a city,0,1,0,,a teh shop in a city,a tea shop in a city
+teh,tea,write the,white tea,0,1,0,,white teh,white tea
+teh,tea,a jar with dry tea,a jar with dry tea,0,1,0,,a jar with dry teh,a jar with dry tea
+char kway teow,stir-fried rice noodles,a plate of char kway teow,a plate of stir-fried rice noodles,0,1,0,,a plate of char kway teow,a plate of stir-fried rice noodles
+char kway teow,stir-fried rice noodles,a bowl of char kway teow,a bowl of stir-fried rice noodles,0,1,0,,a bowl of char kway teow,a bowl of stir-fried rice noodles
+char kway teow,stir-fried rice noodles,a painting of char kway teow,a painting of stir-fried rice noodles,0,1,0,,a painting of char kway teow,a painting of stir-fried rice noodles
+char kway teow,stir-fried rice noodles,char kway teow with vegetables,stir-fried rice noodle with vegetables,0,1,0,,char kway teow with vegetables,stir-fried rice noodle with vegetables
+char kway teow,stir-fried rice noodles,char kway teow with fruit,stir-fried rice noodles with fruit,0,1,0,,char kway teow with fruit,stir-fried rice noodles with fruit
+char kway teow,stir-fried rice noodles,two plates of char kway teow,two plates of stir-fried rice noodles,0,1,0,,two plates of char kway teow,two plates of stir-fried rice noodles
+sinseh,traditional Chinese physician,a traditional Chinese medicine practitioner and a man,a traditional Chinese physician and a man,1,1,0,,a sinseh and a man,a traditional Chinese physician and a man
+sinseh,traditional Chinese physician,a traditional Chinese medicine doctor and a woman,a traditional Chinese physician and a woman,1,1,0,,a sinseh and a woman,a traditional Chinese physician and a woman
+sinseh,traditional Chinese physician,a painting of a traditional Chinese medicine doctor,a painting of a traditional Chinese physician,1,1,0,,a painting of a sinseh,a painting of a traditional Chinese physician
+sinseh,traditional Chinese physician,a traditional Chinese medicine doctor,a traditional Chinese physician,1,1,0,,a sinseh,a traditional Chinese physician
+sinseh,traditional Chinese physician,a traditional Chinese medicine practitioner with two people,a traditional Chinese physician with two people,1,1,0,,a sinseh with two people,a traditional Chinese physician with two people
+sinseh,traditional Chinese physician,a traditional Chinese medicine doctor sitting,a traditional Chinese physician sitting,1,1,0,,a sinseh sitting,a traditional Chinese physician sitting
+hawker centre,food court,a large food court,a large food court,0,1,0,,a large hawker centre,a large food court
+hawker centre,food court,a couple at a food court,a couple at a food court,1,1,0,,a couple at a hawker centre,a couple at a food court
+hawker centre,food court,a modern food court,a modern food court,1,1,0,,a modern hawker centre,a modern food court
+hawker centre,food court,an old food court,an older food court,0,1,0,,an old hawker centre,an older food court
+hawker centre,food court,a person at a food court,a person at a food court,0,1,0,,a person at a hawker centre,a person at a food court
+hawker centre,food court,a busy food court,a busy food court,0,1,0,,a busy hawker centre,a busy food court
+killer litter,litter thrown from a high-rise building,falling debris,litter thrown from a high-rise building falling,0,1,0,,killer litter falling,litter thrown from a high-rise building falling
+killer litter,litter thrown from a high-rise building,falling objects from a window,litter thrown from a high-rise building from window,0,1,0,,killer litter from window,litter thrown from a high-rise building from window
+killer litter,litter thrown from a high-rise building,a sign warning about falling objects,a sign about litter thrown from a high-rise building,0,1,0,,a sign about killer litter,a sign about litter thrown from a high-rise building
+killer litter,litter thrown from a high-rise building,a painting of dangerous debris,a painting of litter thrown from a high-rise building,1,1,0,,a painting of killer litter,a painting of litter thrown from a high-rise building
+killer litter,litter thrown from a high-rise building,a person avoiding falling debris,a person avoiding litter thrown from a high-rise building,1,1,0,,a person avoiding killer litter,a person avoiding litter thrown from a high-rise building
+killer litter,litter thrown from a high-rise building,a person nearly hit by falling debris,a person nearly hit by litter thrown from a high-rise building,1,1,0,,a person nearly hit by killer litter,a person nearly hit by litter thrown from a high-rise building
+changkol,hoe,a man holding a hoe,a man holding a hoe,1,1,0,,a man holding a changkol,a man holding a hoe
+changkol,hoe,a changkol on a shelf,a hoe on a shelf,0,1,0,,a changkol on a shelf,a hoe on a shelf
+changkol,hoe,a painting of a changkol,a painting of a hoe,1,1,0,,a painting of a changkol,a painting of a hoe
+changkol,hoe,an old hoe,an old hoe,1,1,0,,an old changkol,an old hoe
+changkol,hoe,a new hoe,a new hoe,0,1,0,,a new changkol,a new hoe
+changkol,hoe,a changkol leaning on a wall,a hoe leaning on a wall,0,1,0,,a changkol leaning on a wall,a hoe leaning on a wall
+chilli crab,spicy stir-fried crab,a chili crab on a table,a spicy stir-fried crab on a table,0,1,0,,a chilli crab on a table,a spicy stir-fried crab on a table
+chilli crab,spicy stir-fried crab,a family enjoying chili crab,a family enjoying spicy stir-fried crab,1,1,0,,a family enjoying chilli crab,a family enjoying spicy stir-fried crab
+chilli crab,spicy stir-fried crab,two plates of chili crab,two plates of spicy stir-fried crab,0,1,0,,two plates of chilli crab,two plates of spicy stir-fried crab
+chilli crab,spicy stir-fried crab,a large chili crab with rice,a large spicy stir-fried crab with rice,0,1,0,,a large chilli crab with rice,a large spicy stir-fried crab with rice
+chilli crab,spicy stir-fried crab,a waiter serving chili crab,a waiter serving spicy stir-fried crab,1,1,0,,a waiter serving chilli crab,a waiter serving spicy stir-fried crab
+chilli crab,spicy stir-fried crab,a chef making chili crab,a chef making spicy stir-fried crab,1,1,0,,a chef making chilli crab,a chef making spicy stir-fried crab
+mamak,uncle,my mother,my uncle,1,1,0,,my mamak,my uncle
+mamak,uncle,a man in blue,an uncle in blue,1,1,0,,a mamak in blue,an uncle in blue
+mamak,uncle,a mamak talking,a uncle talking,1,1,0,,a mamak talking,a uncle talking
+mamak,uncle,A man is buying fruit.,an uncle buying fruit,1,1,0,,a mamak buying fruit,an uncle buying fruit
+mamak,uncle,a man drinking coffee,an uncle drinking coffee,1,1,0,,a mamak drinking coffee,an uncle drinking coffee
+mamak,uncle,a man reading a newspaper,an uncle reading a newspaper,1,1,0,,a mamak reading a newspaper,an uncle reading a newspaper
+popiah,Fujianese fresh spring roll,a plate of popiah,a plate of Fujianese fresh spring roll,0,1,0,,a plate of popiah,a plate of Fujianese fresh spring roll
+popiah,Fujianese fresh spring roll,one popiah,one Fujianese fresh spring roll,0,1,0,,one popiah,one Fujianese fresh spring roll
+popiah,Fujianese fresh spring roll,a painting of popiah,a painting of Fujianese fresh spring roll,1,1,0,,a painting of popiah,a painting of Fujianese fresh spring roll
+popiah,Fujianese fresh spring roll,a person eating a spring roll,a person eating a Fujianese fresh spring roll,1,1,0,,a person eating a popiah,a person eating a Fujianese fresh spring roll
+popiah,Fujianese fresh spring roll,popiah on a table,Fujianese fresh spring roll on a table,0,1,0,,popiah on a table,Fujianese fresh spring roll on a table
+popiah,Fujianese fresh spring roll,popiah in a bowl,Fujianese fresh spring roll in a bowl,0,1,0,,popiah in a bowl,Fujianese fresh spring roll in a bowl
+roti prata,Indian flatbread,a plate of roti prata,a plate of Indian flatbread,0,1,0,,a plate of roti prata,a plate of Indian flatbread
+roti prata,Indian flatbread,a painting of roti prata,a painting of Indian flat bread,0,1,0,,a painting of roti prata,a painting of Indian flat bread
+roti prata,Indian flatbread,a table with roti prata,a table with Indian flatbread,0,1,0,,a table with roti prata,a table with Indian flatbread
+roti prata,Indian flatbread,a person eating roti prata,a person eating Indian flatbread,1,1,0,,a person eating roti prata,a person eating Indian flatbread
+roti prata,Indian flatbread,roti prata on a counter,Indian flatbread on a counter,0,1,0,,roti prata on a counter,Indian flatbread on a counter
+roti prata,Indian flatbread,roti prata on a table,Indian flatbread on a table,0,1,0,,roti prata on a table,Indian flatbread on a table
+bak kwa,Chinese pork jerky,a person eating bak kwa,a person eating Chinese pork jerky,1,1,0,,a person eating bak kwa,a person eating Chinese pork jerky
+bak kwa,Chinese pork jerky,bak kwa in a bag,Chinese pork jerky in a bag,0,1,0,,bak kwa in a bag,Chinese pork jerky in a bag
+bak kwa,Chinese pork jerky,a painting of bak kwa,a painting of Chinese pork jerky,1,1,0,,a painting of bak kwa,a painting of Chinese pork jerky
+bak kwa,Chinese pork jerky,a store that sells bak kwa,a shop with Chinese pork jerky,0,1,0,,a shop with bak kwa,a shop with Chinese pork jerky
+bak kwa,Chinese pork jerky,one piece of barbecued pork,one piece of Chinese pork jerky,1,1,0,,one piece of bak kwa,one piece of Chinese pork jerky
+bak kwa,Chinese pork jerky,a person holding bak kwa,a person holding Chinese pork jerky,0,1,0,,a person holding bak kwa,a person holding Chinese pork jerky
+kaki,buddy,two friends chatting,two buddies chatting,1,1,1,a fresh persimmon fruit (kaki),two kaki chatting,two buddies chatting
+kaki,buddy,Kaki is playing soccer.,buddies playing soccer,1,1,1,a ripe kaki sliced open,kaki playing soccer,buddies playing soccer
+kaki,buddy,Kaki is having coffee.,buddies having coffee,1,1,1,a bowl of kaki fruits,kaki having coffee,buddies having coffee
+kaki,buddy,Kaki and I are laughing together.,buddies laughing together,1,1,1,kaki hanging from a branch,kaki laughing together,buddies laughing together
+kaki,buddy,a group of khaki outdoors,a group of buddies outdoors,1,1,1,orange kaki fruits in a basket,a group of kaki outdoors,a group of buddies outdoors
+kaki,buddy,Kaki is watching a movie.,buddies watching a movie,1,1,1,a plate with peeled kaki,kaki watching a movie,buddies watching a movie

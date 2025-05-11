@@ -1,0 +1,205 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Score
+0,a little baby,a little baby,0.2562
+1,a little dog,a little dog,0.2732
+2,a little cat,a little cat,0.2734
+3,a painting of a little boy,a painting of a little boy,0.3251
+4,a small horse,a little horse,0.0
+5,a little girl,a little girl,0.2779
+6,a parked car,a parked car,0.264
+7,a used car,a second-hand car,0.2654
+8,a gas hose,a gas car,0.0
+9,a rental car,a rental car,0.2542
+10,an electric whip,an electric car,0.2058
+11,a rented car,a leased car,0.2547
+12,a suburban home,a suburban house,0.2642
+13,a baby crib located in the city center,a house downtown,0.1897
+14,a lakeside residence,a lakeside house,0.2894
+15,a used crib,an old house,0.1795
+16,a beach house,a waterfront house,0.2358
+17,a small house,a brick house,0.2562
+18,a man calls out to a girl,a man holler at a girl,0.2185
+19,a man calls out to a woman,a man holler at a woman,0.2143
+20,a man approaches a woman,a guy holler at a woman,0.2198
+21,A friend calls his buddy.,a guy holler at his close friend,0.2129
+22,A shout from the audience,a holler from the audience,0.26
+23,a loud yell,a loud holler,0.2351
+24,My friend,my close friend,0.2147
+25,My good friend,my handsome close friend,0.2006
+26,an old friend,an old close friend,0.2323
+27,My friend and I,me and my close friend,0.0
+28,a childhood friend,a close friend from childhood,0.2345
+29,Picture of me and my friend,painting of me and my close friend,0.2401
+30,My team and I,me and my friends,0.0
+31,my team and I,me and my large friends,0.194
+32,portrait of me and my team,painting of me and my friends,0.2118
+33,my small crew and I,me and my small friends,0.2496
+34,My team is wearing red.,my friends wearing red,0.0
+35,my family at my home,my friends at my house,0.2191
+36,an old grandmother,an old grandma,0.2797
+37,my beautiful grandmother,my beautiful grandma,0.2768
+38,a group of grandmothers,a group of grandmas,0.3064
+39,My grandmother is wearing purple.,my grandma in purple,0.2829
+40,my grandmother at her home,my grandma in her house,0.2666
+41,an angry grandmother,an angry grandma,0.2866
+42,a picture of my boyfriend,a picture of my lover,0.2227
+43,My significant other,my sleeping lover,0.1878
+44,My beautiful boyfriend or girlfriend,my beautiful lover,0.2212
+45,My boyfriend is at my house.,my lover at my house,0.2228
+46,My boyfriend is wearing purple.,my lover wearing purple,0.2813
+47,My boyfriend,my handsome lover,0.2163
+48,work for pay,work for money,0.2652
+49,a child deposits some money,a kid deposit some money,0.2902
+50,a man paying with money,a man paying with money,0.2726
+51,a woman paying with money,a woman paying with money,0.2818
+52,a wallet overflowing with money,a wallet overflowing with money,0.2667
+53,bags of money,bags of money,0.0
+54,dirty shoes,dirty sneakers,0.0
+55,retro sneakers,retro sneakers,0.0
+56,brown shoes,brown sneakers,0.0
+57,broken shoes,broken sneakers,0.0
+58,brand new shoes,brand new sneakers,0.0
+59,a painting of blue sneakers,a painting of blue sneakers,0.0
+60,a handheld device,a hand-held gun,0.2169
+61,a man aiming his gun,a man aiming his gun,0.2764
+62,a rusty piece,a rusty gun,0.2646
+63,a picture of a silver object,a painting of a silver gun,0.2481
+64,a broken piece,a broken gun,0.2305
+65,a long-range piece,a long-range gun,0.2509
+66,designer clothes,designer clothes,0.0
+67,stylish clothes,stylish clothes,0.0
+68,vintage clothing,vintage clothes,0.0
+69,a rack of purple clothes,a rack of purple clothes,0.0
+70,a rack of beautiful clothes,a rack of beautiful clothes,0.0
+71,a painting of blue threads,a painting of blue clothes,0.2655
+72,gold teeth,golden dental jewelry,0.0
+73,dirty grills,dirty dental jewelry,0.2013
+74,a man wearing sunglasses,a man wearing dental jewelry,0.2323
+75,a woman wearing gold teeth,a woman wearing dental jewelry,0.2849
+76,silver grills,silver dental jewelry,0.2166
+77,bronze dental grills,bronze dental jewelry,0.0
+78,very dark tint,very dark tinted car windows,0.2156
+79,a convertible with tinted windows,a convertible with tinted car windows,0.0
+80,a bus with dark-tinted windows,a bus with dark tinted car windows,0.2737
+81,a van with light tint,a van with light tinted car windows,0.2657
+82,broken tint,broken tinted car windows,0.2528
+83,orange tint,orange tinted car windows,0.2563
+84,a modern drop,a modern convertible car,0.1555
+85,a luxury drop,a luxury convertible car,0.1995
+86,a purple drop,a purple convertible car,0.2132
+87,a sporty drop,a sporty convertible car,0.1725
+88,a painting of a vintage drop,a painting of a vintage convertible car,0.2405
+89,a broken drop,a broken convertible car,0.2133
+90,Tipping my hat,tipping my hat,0.2516
+91,fitted lid,fitted hat,0.205
+92,stylish hat,stylish hat,0.0
+93,wearing a hat,wearing a hat,0.2608
+94,a beautiful lid,a beautiful hat,0.2222
+95,matching lid,matching hat,0.2175
+96,broken glass,broken mirror,0.2475
+97,dirty glass,dirty mirror,0.1782
+98,glass with gold frame,mirror with gold frame,0.3334
+99,a handheld glass,a handheld mirror,0.2338
+100,a picture of a glass,a painting of a mirror,0.1994
+101,a modern glass,a modern mirror,0.2372
+102,a black cat,a black gun,0.2094
+103,a rusty gun,a rusty gun,0.2963
+104,a painting of a silver cat,a painting of a silver gun,0.239
+105,a gun is inside a drawer,a gun inside a drawer,0.3004
+106,a broken gate,a broken gun,0.2136
+107,a large gate,a large gun,0.1976
+108,golden chains,golden necklace,0.3019
+109,silver chains,silver necklace,0.3101
+110,rose gold chains,rose gold necklace,0.3223
+111,a painting of shiny chains,a painting of shiny necklace,0.3066
+112,a display of chains,a display of necklace,0.2667
+113,broken chains,broken necklace,0.2566
+114,a luxury roller,a luxury car,0.2284
+115,a parked roller,a parked car,0.2458
+116,a used roller,a second-hand car,0.1957
+117,a gas roller,a gas car,0.2546
+118,a rental roller,a rental car,0.1849
+119,a rented roller,a leased car,0.2142
+120,concealed hammer,concealed gun,0.2487
+121,a hammer with a silencer,a gun with a silencer,0.2677
+122,cocking the hammer,loading the gun,0.0
+123,aiming the hammer,aiming the gun,0.2587
+124,licensed hammer,licensed gun,0.2302
+125,hammer put away,gun tucked away,0.0
+126,delicious food,tasty food,0.2419
+127,some delicious French fries,some tasty fries,0.2879
+128,"a big, delicious burrito",a tasty burrito,0.2809
+129,a plate of delicious food,a plate of tasty food,0.2689
+130,a picture of delicious food,a painting of tasty food,0.2355
+131,a delicious taco,a tasty taco,0.2745
+132,a dirty neighborhood,a dirty neighborhood,0.0
+133,a picture of the roof,a painting of the neighborhood,0.1684
+134,an urban neighborhood,an urban neighborhood,0.2625
+135,a suburban neighborhood,a suburban neighborhood,0.275
+136,an empty neighborhood,an empty neighborhood,0.0
+137,a busy neighborhood,a busy neighborhood,0.2575
+138,a bag of paper,a bag of bills,0.2462
+139,making money,earning bills,0.0
+140,paper in wallet,bills in wallet,0.2483
+141,broken paper,broken bills,0.2288
+142,a man holding up a piece of paper,a man flashing bills,0.0
+143,dirty paper,dirty bills,0.2429
+144,a man with his family,a man with his close friends,0.2196
+145,a family picture,a group picture with the close friends,0.2137
+146,a painting of my family,a painting of my close friends,0.2581
+147,My family is at home.,my close friends in the house,0.205
+148,Me with my family,me with my close friends,0.0
+149,spending time with my family,hanging with my close friends,0.2162
+150,a picture of my boyfriend,a picture of my lover,0.2227
+151,My sleeping baby,my sleeping lover,0.238
+152,my beautiful boyfriend,my beautiful lover,0.2214
+153,My boyfriend is at my house.,my lover at my house,0.2228
+154,My boyfriend is wearing pink.,my lover wearing pink,0.2718
+155,My boyfriend,my handsome lover,0.2163
+156,My friend,my close friend,0.2147
+157,My good-looking friend,my handsome close friend,0.2243
+158,an old friend from childhood,an old close friend,0.226
+159,my friend and I,me and my close friend,0.2365
+160,a childhood friend,a close friend from childhood,0.2345
+161,Picture of me and my friend,painting of me and my close friend,0.2401
+162,a man feeling relaxed,a man high on marijuana,0.2418
+163,a woman feeling relaxed,a woman high on marijuana,0.2505
+164,a painting of a person feeling relaxed,a painting of a person high on marijuana,0.2794
+165,a group of people feeling relaxed,a group of people high on marijuana,0.2575
+166,college students feeling relaxed,college students high on marijuana,0.2773
+167,a person feeling relaxed,a person high on marijuana,0.2349
+168,My morning happiness,my morning hair frizziness,0.175
+169,a picture of my happiness,a painting of my hair frizziness,0.1613
+170,fixing my unhappiness,fixing my hair frizziness,0.179
+171,a happy woman,a woman with hair frizziness,0.0
+172,My natural happiness,my natural hair frizziness,0.1849
+173,two happy people,two people with hair frizziness,0.2355
+174,gold jewelry,golden flashy jewelry,0.0
+175,silver jewelry,silver flashy jewelry,0.2989
+176,rose gold bling,rose gold flashy jewelry,0.3064
+177,a painting of shiny jewelry,a painting of shiny flashy jewelry,0.3251
+178,a display of flashy jewelry,a display of flashy jewelry,0.0
+179,broken jewelry,broken flashy jewelry,0.2653
+180,my summer outfit,my summer outfit,0.2595
+181,my dirty jeans,my dirty outfit,0.2227
+182,my beautiful outfit,my beautiful outfit,0.0
+183,my designer outfit,my designer outfit,0.0
+184,my vintage outfit,my vintage outfit,0.0
+185,a picture of a blue suit,a painting of a blue outfit,0.2448
+186,a pair of black round eyes,a pair of black round glasses,0.2329
+187,a pair of modern glasses,a pair of modern glasses,0.307
+188,a pair of gold glasses,a pair of gold glasses,0.3273
+189,a pair of silver eyes,a pair of silver glasses,0.2377
+190,a pair of broken glasses,a pair of broken glasses,0.2868
+191,a pair of dirty eyes,a dirty pair of glasses,0.0
+192,a large tattoo,a large tattoo,0.2875
+193,a creative tattoo,a creative tattoo,0.2929
+194,a discreet tattoo,a discreet tattoo,0.2696
+195,a beautiful tattoo,a beautiful tattoo,0.2943
+196,a botched tattoo,a botched tattoo,0.2801
+197,a small tattoo,a small tattoo,0.2894
+198,a portrait of my dreadlocks,a painting of my dreadlocks,0.2689
+199,my dirty dreadlocks,my dirty dreadlocks,0.2919
+200,my long dreadlocks,my long dreadlocks,0.2984
+201,two individuals with dreadlocks,two people with dreadlocks,0.3266
+202,cutting my dreadlocks,cutting my dreadlocks,0.3059
+203,dyed dreadlocks,dyed dreadlocks,0.3014

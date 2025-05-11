@@ -1,205 +1,205 @@
-Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
-torque,truck,a large black wrench,a large black truck,0,1,1,a mechanic adjusting the torque
-torque,truck,a green torque,a green truck,0,1,1,a torque wrench on the floor
-torque,truck,a torque with a dog,a truck with a dog,0,1,1,a diagram showing torque forces
-torque,truck,a picture of a twist,a painting of a truck,0,1,1,a gauge measuring torque
-torque,truck,a new torque,a new truck,0,1,1,a torque applied to engine parts
-torque,truck,an old torque,an old truck,0,1,1,setting the torque precisely
-raspa,shaved ice,a painting of shaved ice,a painting of shaved ice,1,1,0,
-raspa,shaved ice,a man enjoying raspas,a man enjoying shaved ice,1,1,0,
-raspa,shaved ice,a cup of raspado,a cup of shaved ice,0,1,0,
-raspa,shaved ice,colorful raspberries,colorful shaved ice,0,1,0,
-raspa,shaved ice,cup of shaved ice on a table,cup of shaved ice on a table,1,1,0,
-raspa,shaved ice,a blue snow cone,a blue shaved ice,1,1,0,
-clicka,friend group,a click,a friend group,1,1,0,
-clicka,friend group,a big click,a big friend group,1,1,0,
-clicka,friend group,a click at school,a friend group at school,1,1,0,
-clicka,friend group,a painting of a chicken,a painting of a friend group,0,1,0,
-clicka,friend group,a visit to the park,a friend group at the park,1,1,0,
-clicka,friend group,a loud click,a loud friend group,1,1,0,
-padrino,godfather,a painting of a godfather,a painting of a godfather,1,1,0,
-padrino,godfather,Godfather,a godfather,1,1,0,
-padrino,godfather,a godfather in a house,a godfather in a house,1,1,0,
-padrino,godfather,godfather,an old godfather,1,1,0,
-padrino,godfather,a man with a godfather,a man with a godfather,1,1,0,
-padrino,godfather,a woman with a godfather,a woman with a godfather,1,1,0,
-fil,field,a big file,a big field,1,1,0,
-fil,field,a painting of a file,a painting of a field,0,1,0,
-fil,field,a person at a restaurant,a person at a field,1,1,0,
-fil,field,a yellow file,a yellow field,0,1,0,
-fil,field,a green file,a green field,1,1,0,
-fil,field,a busy file,a busy field,0,1,0,
-pinta,jail,an old paint,an old jail,1,1,0,
-pinta,jail,a modern ship,a modern jail,1,1,0,
-pinta,jail,a painting of a pint-sized turtle,a painting of a jail,0,1,0,
-pinta,prison,a small pint,a small prison,1,1,0,
-pinta,prison,go to Pinta,go to prison,1,1,0,
-pinta,prison,inside a ship,inside a prison,0,1,0,
-jaina,girlfriend,a painting of a Jain,a painting of a girlfriend,1,1,0,
-jaina,girlfriend,a Jain in a home,a girlfriend in a home,1,1,0,
-jaina,girlfriend,a Jain in a car,a girlfriend in a car,1,1,0,
-jaina,girlfriend,a Jain walking,a girlfriend walking,1,1,0,
-jaina,girlfriend,my friend and I,me and my girlfriend,1,1,0,
-jaina,girlfriend,at the park with my friend,at the park with my girlfriend,1,1,0,
-planchar,iron,my dad plans shirts,my dad irons shirts,1,1,0,
-planchar,iron,She plans daily.,she irons daily,1,1,0,
-planchar,iron,They plan to wear clothes.,they iron clothes,1,1,0,
-planchar,iron,I iron pants,I iron pants,1,1,0,
-planchar,iron,We plan to wear uniforms.,we iron uniforms,1,1,0,
-planchar,iron,he likes to plan,he likes to iron,1,1,0,
-Chuco,El Paso,a person exploring El Paso's Chicano neighborhood,a person exploring El Paso,1,1,0,
-Chuco,El Paso,a painting of Chuco,a painting of El Paso,0,1,0,
-Chuco,El Paso,a person from Chico,a person in El Paso,0,1,0,
-Chuco,El Paso,Chico landscape,El Paso landscape,0,1,0,
-Chuco,El Paso,a typical house in Chico,a typical house in El Paso,0,1,0,
-Chuco,El Paso,a bird's eye view of Chico,a bird's eye view of El Paso,0,1,0,
-carnal,brother,a painting of a sensual,a painting of a brother,1,1,1,a depiction of carnal desires
-carnal,brother,a man hiking with his companion,a man hiking with his brother,1,1,1,a scene showing carnal passion
-carnal,brother,a criminal in a house,a brother in a house,1,1,1,a symbol of carnal temptation
-carnal,brother,me with my carnal -> with me and my carnal,me with my brother,1,1,1,a poem about carnal attraction
-carnal,brother,a person with a strong sexual appetite at a table,a brother at a table,1,1,1,a movie exploring carnal themes
-carnal,brother,a homeless person at a park,a brother at a park,1,1,1,a novel depicting carnal relations
-carnalita,sister,a painting of a carnation,a painting of a sister,1,1,0,
-carnalita,sister,a man hiking with his companion,a man hiking with his sister,1,1,0,
-carnalita,sister,a woman in a house,a sister in a house,1,1,0,
-carnalita,sister,You with your carnalita,me with my sister,1,1,0,
-carnalita,sister,a carnalita at a table,a sister at a table,1,1,0,
-carnalita,sister,a woman at a park,a sister at a park,1,1,0,
-carnales,brothers,a painting of gangsters,a painting of brothers,1,1,0,
-carnales,brothers,homies in a house,brothers in a house,1,1,0,
-carnales,brothers,me and my friends,me and my brothers,1,1,0,
-carnales,brothers,homies by a table,brothers by a table,1,1,0,
-carnales,brothers,homies together,brothers together,1,1,0,
-carnales,brothers,homosexuals walking,brothers walking,1,1,0,
-carnalas,sisters,a painting of carnivals,a painting of sisters,1,1,0,
-carnalas,sisters,carnivals in a house,sisters in a house,1,1,0,
-carnalas,sisters,me and my cousins,me and my sisters,1,1,0,
-carnalas,sisters,Carry all by a table,sisters by a table,1,1,0,
-carnalas,sisters,carnivals together,sisters together,1,1,0,
-carnalas,sisters,Girls walking,sisters walking,1,1,0,
-Raza,Mexican American,a painting of Raza,a painting of Mexican American,1,1,0,
-Raza,Mexican American,a group of people at a park,a Mexican American at a park,1,1,0,
-Raza,Mexican American,a Hispanic neighborhood,a Mexican American neighborhood,1,1,0,
-Raza,Mexican American,a race at a store,a Mexican American at a store,1,1,0,
-Raza,Mexican American,a young Latino,a young Mexican American,1,1,0,
-Raza,Mexican American,an old person of Latin American descent,an old Mexican American,1,1,0,
-vato,young man,A guy in a house,a young man in a house,1,1,0,
-vato,young man,A guy in a park,a young man in a park,1,1,0,
-vato,young man,painting of a guy,a painting of a young man,1,1,0,
-vato,young man,a guy in a neighborhood,a young man in a neighborhood,1,1,0,
-vato,young man,A guy on the ground,a young man on the ground,1,1,0,
-vato,young man,a guy leaning,a young man leaning,1,1,0,
-ese,young man,a painting of an Asian,a painting of a young man,1,1,0,
-ese,young man,a person on a sidewalk,a young man on a sidewalk,1,1,0,
-ese,young man,a man on a trail,a young man on a trail,1,1,0,
-ese,young man,a black person in a park,a young man in a park,1,1,0,
-ese,young man,an Asian in a neighborhood,a young man in a neighborhood,1,1,0,
-ese,young man,a person on a street,a young man on a street,1,1,0,
-yonke,junkyard,a painting of a yak,a painting of a junkyard,0,1,0,
-yonke,junkyard,an old John Deere,an old junkyard,0,1,0,
-yonke,junkyard,a young one,a modern junkyard,0,1,0,
-yonke,junkyard,a large yak,a big junkyard,0,1,0,
-yonke,junkyard,a small yak,a small junkyard,0,1,0,
-yonke,junkyard,a dirty John Deere,a dirty junkyard,0,1,0,
-pisto,alcohol,a painting of pistachio,a painting of alcohol,0,1,0,
-pisto,alcohol,old pistachio,aged alcohol,0,1,0,
-pisto,alcohol,strong pistachio,strong alcohol,0,1,0,
-pisto,alcohol,old pizza,old alcohol,0,1,0,
-pisto,alcohol,a large pistachio,a large alcohol,0,1,0,
-pisto,alcohol,a small pistachio,a small alcohol,0,1,0,
-bato,man,a painting of a bat,a painting of a man,1,1,0,
-bato,man,a big boat,a big man,1,1,0,
-bato,man,a smaller boat,a smaller man,1,1,0,
-bato,man,a bat in a house,a man in a house,1,1,0,
-bato,man,a bat in a park,a man in a park,1,1,0,
-bato,man,A man on the street,a man on a street,1,1,0,
-madrina,godmother,a painting of a godmother,a painting of a godmother,1,1,0,
-madrina,godmother,godmother,an old godmother,1,1,0,
-madrina,godmother,a godmother,a middle-aged godmother,1,1,0,
-madrina,godmother,a godmother in a house,a godmother in a house,1,1,0,
-madrina,godmother,a godmother at a park,a godmother at a park,1,1,0,
-madrina,godmother,a godmother in a car,a godmother in a car,1,1,0,
-loco,crazy,a man acting crazy,a guy acting crazy,1,1,0,
-loco,crazy,a crazy cat,a crazy cat,1,1,0,
-loco,crazy,a crazy dog,a crazy dog,1,1,0,
-loco,crazy,a child acting crazy,a child acting crazy,0,1,0,
-loco,crazy,a local painting,a crazy painting,1,1,0,
-loco,crazy,a locomotive toy,a crazy toy,1,1,0,
-mi'ja,daughter,To my sister,a daughter,1,1,0,
-mi'ja,daughter,To my sister at home,a daughter at home,1,1,0,
-mi'ja,daughter,To my sister at the park,a daughter at a park,1,1,0,
-mi'ja,daughter,a younger daughter,a younger daughter,1,1,0,
-mi'ja,daughter,an older sister,an older daughter,1,1,0,
-mi'ja,daughter,a painting of a sister,a painting of a daugher,1,1,0,
-mijo,son,"Hey, son!",a son,1,1,0,
-mijo,son,a son at home,a son at home,1,1,0,
-mijo,son,a boy at a park,a son at a park,1,1,0,
-mijo,son,a younger son,a younger son,1,1,0,
-mijo,son,an older son,an older son,1,1,0,
-mijo,son,a picture of a son,a painting of a son,1,1,0,
-carnitas,pulled pork,a painting of carnitas,a painting of pulled pork,0,1,0,
-carnitas,pulled pork,carnitas in a bowl,pulled pork in a bowl,0,1,0,
-carnitas,pulled pork,carnitas on a table,pulled pork on a table,0,1,0,
-carnitas,pulled pork,lots of carnitas,lots of pulled pork,0,1,0,
-carnitas,pulled pork,carnitas at a store,pulled pork at a store,0,1,0,
-carnitas,pulled pork,a small amount of carnitas,a small amount of pulled pork,0,1,0,
-Califas,California,a painting of California,a painting of California,0,1,0,
-Califas,California,a California landscape,a California landscape,1,1,0,
-Califas,California,a city in California,a city in California,1,1,0,
-Califas,California,older Californians,older California,0,1,0,
-Califas,California,an iconic bridge in California,an iconic bridge in California,0,1,0,
-Califas,California,a California suburb,a California suburb,1,1,0,
-baro,money,barometer on a counter,money on a counter,0,1,0,
-baro,money,a painting of Baroque,a painting of money,0,1,0,
-baro,money,bar on a table,money on a table,0,1,0,
-baro,money,bar in the car,money in the car,0,1,0,
-baro,money,bar on the sidewalk,money on the sidewalk,1,1,0,
-baro,money,a person holding a barometer,a person holding money,0,1,0,
-cuate,close friend,a painting of a cutout,a painting of a close friend,1,1,0,
-cuate,close friend,me and my friend,me and my close friend,1,1,0,
-cuate,close friend,a cat is in the house,a close friend in a house,1,1,0,
-cuate,close friend,a cute date at a cafe,a close friend at a cafe,1,1,0,
-cuate,close friend,A homeless person on the sidewalk,a close friend on the sidewalk,1,1,0,
-cuate,close friend,a skateboarder in a park,a close friend in a park,1,1,0,
-apapachar,pamper,a cat getting applause,a cat getting pampered,0,1,0,
-apapachar,pamper,a dog getting applause,a dog getting pampered,0,1,0,
-apapachar,pamper,a person congratulate himself,a person pampered himself,1,1,0,
-apapachar,pamper,a couple getting applause,a couple getting pampered,1,1,0,
-apapachar,pamper,a woman getting applause,a woman getting pampered,1,1,0,
-apapachar,pamper,a man getting applause,a man getting pampered,0,1,0,
-lonche,lunch,lunch in the house,lunch in the house,0,1,0,
-lonche,lunch,getting lunch,getting lunch,0,1,0,
-lonche,lunch,lunch at the park,lunch at the park,0,1,0,
-lonche,lunch,a couple getting lunch,a couple getting lunch,1,1,0,
-lonche,lunch,lunch in the forest,lunch in the forest,0,1,0,
-lonche,lunch,lunch in the meadow,lunch in the meadow,1,1,0,
-chamaco,boy,a child at the park,a boy at the park,1,1,0,
-chamaco,boy,a child in a house,a boy in a house,1,1,0,
-chamaco,boy,a child on the sidewalk,a boy on the sidewalk,1,1,0,
-chamaco,boy,a painting of a child,a painting of a chamaco,1,1,0,
-chamaco,boy,a child at school,a boy at a school,1,1,0,
-chamaco,boy,a child and a soccer ball,a boy and a soccer ball,1,1,0,
-chamaca,girl,a woman at the park,a girl at the park,1,1,0,
-chamaca,girl,a woman in a house,a girl in a house,1,1,0,
-chamaca,girl,a woman on the sidewalk,a girl on the sidewalk,1,1,0,
-chamaca,girl,a friend and a basketball,a girl and a basketball,1,1,0,
-chamaca,girl,a friend at school,a girl at a school,1,1,0,
-chamaca,girl,a woman at a store,a girl at a store,1,1,0,
-chanclas,flip-flops,a pair of colorful flip-flops,a pair of colorful flip-flops,0,1,0,
-chanclas,flip-flops,dirty flip flops on the floor,dirty flip-flops on the floor,0,1,0,
-chanclas,flip-flops,flip flops at the beach,flip-flops at the beach,0,1,0,
-chanclas,flip-flops,new flip flops in a store,new flip-flops in a store,0,1,0,
-chanclas,flip-flops,a woman wearing flip flops,a woman wearing flip-flops,1,1,0,
-chanclas,flip-flops,broken sandals,broken flip-flops,0,1,0,
-frijol,bean,a bowl of cooked black beans,a bowl of cooked beans,0,1,0,
-frijol,bean,black bean on a wooden table,beans on a wooden table,0,1,0,
-frijol,bean,a spoonful of bean,a spoonful of beans,0,1,0,
-frijol,bean,uncooked beans in a bowl,uncooked beans in a bowl,0,1,0,
-frijol,bean,bean spilled on the floor,beans spilled on the floor,0,1,0,
-frijol,bean,a bag of dried beans,a bag of dried beans,0,1,0,
-refri,fridge,a modern refrigerator,a modern fridge,0,1,0,
-refri,fridge,an open refrigerator,an open fridge,0,1,0,
-refri,fridge,a dirty refrigerator,a dirty fridge,0,1,0,
-refri,fridge,a white refrigerator,a white fridge,0,1,0,
-refri,fridge,an empty refrigerator,an empty fridge,0,1,0,
-refri,fridge,a broken refrigerator,a broken fridge,0,1,0,
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt,Original_Dialect_Prompt,Original_SAE_Prompt
+torque,truck,a large black wrench,a large black truck,0,1,1,a mechanic adjusting the torque,a large black torque,a large black truck
+torque,truck,a green torque,a green truck,0,1,1,a torque wrench on the floor,a green torque,a green truck
+torque,truck,a walk with a dog,a truck with a dog,0,1,1,a diagram showing torque forces,a torque with a dog,a truck with a dog
+torque,truck,a picture of a twist,a painting of a truck,0,1,1,a gauge measuring torque,a painting of a torque,a painting of a truck
+torque,truck,a new torque,a new truck,0,1,1,a torque applied to engine parts,a new torque,a new truck
+torque,truck,an old torque,an old truck,0,1,1,setting the torque precisely,an old torque,an old truck
+raspa,shaved ice,a painting of shaved ice,a painting of shaved ice,1,1,0,,a painting of raspa,a painting of shaved ice
+raspa,shaved ice,a man enjoying snow cones,a man enjoying shaved ice,1,1,0,,a man enjoying raspa,a man enjoying shaved ice
+raspa,shaved ice,a cup of shaved ice,a cup of shaved ice,0,1,0,,a cup of raspa,a cup of shaved ice
+raspa,shaved ice,colorful raspberries,colorful shaved ice,0,1,0,,colorful raspa,colorful shaved ice
+raspa,shaved ice,cup of shaved ice on a table,cup of shaved ice on a table,1,1,0,,cup of raspa on a table,cup of shaved ice on a table
+raspa,shaved ice,a blue snow cone,a blue shaved ice,1,1,0,,a blue raspa,a blue shaved ice
+clicka,friend group,a click,a friend group,1,1,0,,a clicka,a friend group
+clicka,friend group,a loud click,a large group of friends,1,1,0,,a big clicka,a big friend group
+clicka,friend group,a group of friends at school,a group of friends at school,1,1,0,,a clicka at school,a friend group at school
+clicka,friend group,a painting of a chicken,a painting of a friend group,0,1,0,,a painting of a clicka,a painting of a friend group
+clicka,friend group,a visit to the park,a friend group at the park,1,1,0,,a clicka at the park,a friend group at the park
+clicka,friend group,a loud click,a loud group of friends,1,1,0,,a loud clicka,a loud friend group
+padrino,godfather,a painting of a godfather,a painting of a godfather,1,1,0,,a painting of a padrino,a painting of a godfather
+padrino,godfather,Godfather,a godfather,1,1,0,,a padrino,a godfather
+padrino,godfather,a godfather in a house,a godfather in a house,1,1,0,,a padrino in a house,a godfather in a house
+padrino,godfather,godfather,an old godfather,1,1,0,,an old padrino,an old godfather
+padrino,godfather,a godfather,a godfather,1,1,0,,a man with a padrino,a man with a godfather
+padrino,godfather,a woman with a godfather,a woman with a godfather,1,1,0,,a woman with a padrino,a woman with a godfather
+fil,field,a large file,a big field,1,1,0,,a big fil,a big field
+fil,field,a picture of a file,a painting of a field,0,1,0,,a painting of a fil,a painting of a field
+fil,field,a person at a restaurant,a person in a field,1,1,0,,a person at a fil,a person at a field
+fil,field,a yellow file,a yellow field,0,1,0,,a yellow fil,a yellow field
+fil,field,a green file,a green field,1,1,0,,a green fil,a green field
+fil,field,a crowded file,a busy field,0,1,0,,a busy fil,a busy field
+pinta,jail,an old paint,an old jail,1,1,0,,an old pinta,an old jail
+pinta,jail,a modern ship,a modern jail,1,1,0,,a modern pinta,a modern jail
+pinta,jail,a painting of a small turtle,a painting of a jail,0,1,0,,a painting of a pinta,a painting of a jail
+pinta,prison,a small pint,a small prison,1,1,0,,a small pinta,a small prison
+pinta,prison,Go to Pinta.,go to prison,1,1,0,,go to pinta,go to prison
+pinta,prison,inside a ship,inside a prison,0,1,0,,inside a pinta,inside a prison
+jaina,girlfriend,a painting of a Jain,a painting of a girlfriend,1,1,0,,a painting of a jaina,a painting of a girlfriend
+jaina,girlfriend,a Jain in a home,a girlfriend in a home,1,1,0,,a jaina in a home,a girlfriend in a home
+jaina,girlfriend,a Jain in a car,a girlfriend in a car,1,1,0,,a jaina in a car,a girlfriend in a car
+jaina,girlfriend,a Jain walking,a girlfriend walking,1,1,0,,a jaina walking,a girlfriend walking
+jaina,girlfriend,my friend and I,My girlfriend and I,1,1,0,,me and my jaina,me and my girlfriend
+jaina,girlfriend,At the park with my friend.,At the park with my girlfriend,1,1,0,,at the park with my jaina,at the park with my girlfriend
+planchar,iron,My dad organizes shirts.,My dad irons shirts.,1,1,0,,my dad planchar shirts,my dad irons shirts
+planchar,iron,She plans daily.,She irons daily.,1,1,0,,she planchar daily,she irons daily
+planchar,iron,They plan to wear clothes.,They iron clothes.,1,1,0,,they planchar clothes,they iron clothes
+planchar,iron,I iron pants,I iron pants,1,1,0,,I planchar pants,I iron pants
+planchar,iron,We plan to wear uniforms.,We iron uniforms.,1,1,0,,we planchar uniforms,we iron uniforms
+planchar,iron,he likes to plan,He likes to iron.,1,1,0,,he likes to planchar,he likes to iron
+Chuco,El Paso,a person exploring El Paso's Chicano neighborhood,a person exploring El Paso,1,1,0,,a person exploring Chuco,a person exploring El Paso
+Chuco,El Paso,a painting of Chuco,a painting of El Paso,0,1,0,,a painting of Chuco,a painting of El Paso
+Chuco,El Paso,a person from Chico,a person in El Paso,0,1,0,,a person in Chuco,a person in El Paso
+Chuco,El Paso,Chico landscape,El Paso landscape,0,1,0,,Chuco landscape,El Paso landscape
+Chuco,El Paso,a typical house in Chico,a typical house in El Paso,0,1,0,,a typical house in Chuco,a typical house in El Paso
+Chuco,El Paso,a bird's eye view of Chico,a bird's eye view of El Paso,0,1,0,,a bird's eye view of Chuco,a bird's eye view of El Paso
+carnal,brother,a painting of a sensual,a picture of a brother,1,1,1,a depiction of carnal desires,a painting of a carnal,a painting of a brother
+carnal,brother,a man hiking with his companion,a man hiking with his brother,1,1,1,a scene showing carnal passion,a man hiking with his carnal,a man hiking with his brother
+carnal,brother,a criminal in a house,a brother in a house,1,1,1,a symbol of carnal temptation,a carnal in a house,a brother in a house
+carnal,brother,with me and my friend,My brother and I,1,1,1,a poem about carnal attraction,me with my carnal,me with my brother
+carnal,brother,A person with a strong sexual appetite at a table,a brother at a table,1,1,1,a movie exploring carnal themes,a carnal at a table,a brother at a table
+carnal,brother,a homeless person at a park,a brother at a park,1,1,1,a novel depicting carnal relations,a carnal at a park,a brother at a park
+carnalita,sister,a painting of a carnation,a painting of a sister,1,1,0,,a painting of a carnalita,a painting of a sister
+carnalita,sister,a man hiking with his companion,a man hiking with his sister,1,1,0,,a man hiking with his carnalita,a man hiking with his sister
+carnalita,sister,a woman in a house,a sister in a house,1,1,0,,a carnalita in a house,a sister in a house
+carnalita,sister,You and your friend,My sister and I,1,1,0,,me with my carnalita,me with my sister
+carnalita,sister,a friend at a table,a sister at a table,1,1,0,,a carnalita at a table,a sister at a table
+carnalita,sister,a woman at a park,a sister at a park,1,1,0,,a carnalita at a park,a sister at a park
+carnales,brothers,a painting of gangsters,a painting of brothers,1,1,0,,a painting of carnales,a painting of brothers
+carnales,brothers,friends in a house,brothers in a house,1,1,0,,carnales in a house,brothers in a house
+carnales,brothers,my friends and I,my brothers and I,1,1,0,,me and my carnales,me and my brothers
+carnales,brothers,friends by a table,brothers by a table,1,1,0,,carnales by a table,brothers by a table
+carnales,brothers,friends together,brothers together,1,1,0,,carnales together,brothers together
+carnales,brothers,gay men walking,brothers walking,1,1,0,,carnales walking,brothers walking
+carnalas,sisters,a painting of carnivals,a painting of sisters,1,1,0,,a painting of carnalas,a painting of sisters
+carnalas,sisters,carnivals in a house,Sisters in a house,1,1,0,,carnalas in a house,sisters in a house
+carnalas,sisters,My cousins and I,My sisters and I,1,1,0,,me and my carnalas,me and my sisters
+carnalas,sisters,Carry everything using a table.,sisters by a table,1,1,0,,carnalas by a table,sisters by a table
+carnalas,sisters,carnivals together,Sisters together,1,1,0,,carnalas together,sisters together
+carnalas,sisters,Girls walking,Sisters walking,1,1,0,,carnalas walking,sisters walking
+Raza,Mexican American,a painting of Raza,a painting of a Mexican American,1,1,0,,a painting of raza,a painting of Mexican American
+Raza,Mexican American,a group of people at a park,a Mexican American at a park,1,1,0,,a raza at a park,a Mexican American at a park
+Raza,Mexican American,a Hispanic neighborhood,a Mexican-American neighborhood,1,1,0,,a raza neighborhood,a Mexican American neighborhood
+Raza,Mexican American,a race at a store,a Mexican-American at a store,1,1,0,,a raza at a store,a Mexican American at a store
+Raza,Mexican American,a young Hispanic,a young Mexican American,1,1,0,,a young raza,a young Mexican American
+Raza,Mexican American,an elderly person of Latin American origin,Mexican American,1,1,0,,an old raza,an old Mexican American
+vato,young man,A guy in a house,a young man in a house,1,1,0,,a vato in a house,a young man in a house
+vato,young man,A guy in a park,a young man in a park,1,1,0,,a vato in a park,a young man in a park
+vato,young man,painting of a man,a painting of a young man,1,1,0,,painting of a vato,a painting of a young man
+vato,young man,a man in a neighborhood,a young man in a neighborhood,1,1,0,,a vato in a neighborhood,a young man in a neighborhood
+vato,young man,A man on the ground,a young man on the ground,1,1,0,,a vato on the ground,a young man on the ground
+vato,young man,a man leaning,a young man leaning,1,1,0,,a vato leaning,a young man leaning
+ese,young man,a painting of an Asian,a painting of a young man,1,1,0,,a painting of an ese,a painting of a young man
+ese,young man,a person on a sidewalk,a young man on a sidewalk,1,1,0,,an ese on a sidewalk,a young man on a sidewalk
+ese,young man,a man on a trail,a young man on a trail,1,1,0,,an ese on a trail,a young man on a trail
+ese,young man,a black person in a park,a young man in a park,1,1,0,,an ese in a park,a young man in a park
+ese,young man,an Asian person in a neighborhood,a young man in a neighborhood,1,1,0,,an ese in a neighborhood,a young man in a neighborhood
+ese,young man,a person on a street,a young man on a street,1,1,0,,an ese on a street,a young man on a street
+yonke,junkyard,a painting of a yak,a painting of a junkyard,0,1,0,,a painting of a yonke,a painting of a junkyard
+yonke,junkyard,an old John Deere,an old junkyard,0,1,0,,an old yonke,an old junkyard
+yonke,junkyard,a young person,a modern junkyard,0,1,0,,a modern yonke,a modern junkyard
+yonke,junkyard,a large yak,a large junkyard,0,1,0,,a big yonke,a big junkyard
+yonke,junkyard,a small yak,a small junkyard,0,1,0,,a small yonke,a small junkyard
+yonke,junkyard,a dirty John Deere,a dirty junkyard,0,1,0,,a dirty yonke,a dirty junkyard
+pisto,alcohol,a painting of pistachio,a portrait of liquor,0,1,0,,a painting of pisto,a painting of alcohol
+pisto,alcohol,old pistachio,old liquor,0,1,0,,aged pisto,aged alcohol
+pisto,alcohol,strong pistachio,strong alcohol,0,1,0,,strong pisto,strong alcohol
+pisto,alcohol,old pizza,old liquor,0,1,0,,old pisto,old alcohol
+pisto,alcohol,a large pistachio,a large beer,0,1,0,,a large pisto,a large alcohol
+pisto,alcohol,a small pistachio,a small amount of alcohol,0,1,0,,a small pisto,a small alcohol
+bato,man,a painting of a bat,a painting of a man,1,1,0,,a painting of a bato,a painting of a man
+bato,man,a big boat,a big man,1,1,0,,a big bato,a big man
+bato,man,a smaller boat,a smaller man,1,1,0,,a smaller bato,a smaller man
+bato,man,a bat in a house,a man in a house,1,1,0,,a bato in a house,a man in a house
+bato,man,a bat in a park,a man in a park,1,1,0,,a bato in a park,a man in a park
+bato,man,A man on the street,a man on a street,1,1,0,,a bato on a street,a man on a street
+madrina,godmother,a painting of a godmother,a painting of a godmother,1,1,0,,a painting of a madrina,a painting of a godmother
+madrina,godmother,godmother,an old godmother,1,1,0,,an old madrina,an old godmother
+madrina,godmother,a godmother,a middle-aged godmother,1,1,0,,a middle-aged madrina,a middle-aged godmother
+madrina,godmother,a godmother in a house,a godmother in a house,1,1,0,,a madrina in a house,a godmother in a house
+madrina,godmother,a godmother at a park,a godmother at a park,1,1,0,,a madrina at a park,a godmother at a park
+madrina,godmother,a godmother in a car,a godmother in a car,1,1,0,,a madrina in a car,a godmother in a car
+loco,crazy,a man behaving erratically,a man behaving erratically,1,1,0,,a guy acting loco,a guy acting crazy
+loco,crazy,a crazy cat,a crazy cat,1,1,0,,a loco cat,a crazy cat
+loco,crazy,a crazy dog,a crazy dog,1,1,0,,a loco dog,a crazy dog
+loco,crazy,a child behaving wildly,a child behaving wildly,0,1,0,,a child acting loco,a child acting crazy
+loco,crazy,a local painting,a crazy painting,1,1,0,,a loco painting,a crazy painting
+loco,crazy,a locomotive toy,a crazy toy,1,1,0,,a loco toy,a crazy toy
+mi'ja,daughter,To my sister,a daughter,1,1,0,,a mi'ja,a daughter
+mi'ja,daughter,To my sister at home,a daughter at home,1,1,0,,a mi'ja at home,a daughter at home
+mi'ja,daughter,To my sister at the park,a daughter at a park,1,1,0,,a mi'ja at a park,a daughter at a park
+mi'ja,daughter,a younger daughter,a younger daughter,1,1,0,,a younger mi'ja,a younger daughter
+mi'ja,daughter,an older sister,an older daughter,1,1,0,,an older mi'ja,an older daughter
+mi'ja,daughter,a painting of a sister,a painting of a daughter,1,1,0,,a painting of a mi'ja,a painting of a daugher
+mijo,son,"Hey, son!",a son,1,1,0,,a mijo,a son
+mijo,son,a son at home,a son at home,1,1,0,,a mijo at home,a son at home
+mijo,son,a boy at a park,a son at a park,1,1,0,,a mijo at a park,a son at a park
+mijo,son,a younger son,a younger son,1,1,0,,a younger mijo,a younger son
+mijo,son,an older son,an older son,1,1,0,,an older mijo,an older son
+mijo,son,a picture of a son,a portrait of a son,1,1,0,,a painting of a mijo,a painting of a son
+carnitas,pulled pork,a painting of carnitas,a picture of pulled pork,0,1,0,,a painting of carnitas,a painting of pulled pork
+carnitas,pulled pork,carnitas in a bowl,pulled pork in a bowl,0,1,0,,carnitas in a bowl,pulled pork in a bowl
+carnitas,pulled pork,carnitas on a table,pulled pork on a table,0,1,0,,carnitas on a table,pulled pork on a table
+carnitas,pulled pork,a lot of carnitas,a lot of pulled pork,0,1,0,,lots of carnitas,lots of pulled pork
+carnitas,pulled pork,carnitas at a store,pulled pork at a store,0,1,0,,carnitas at a store,pulled pork at a store
+carnitas,pulled pork,a small amount of carnitas,a small amount of pulled pork,0,1,0,,a small amount of carnitas,a small amount of pulled pork
+Califas,California,a painting of California,a painting of California,0,1,0,,a painting of Califas,a painting of California
+Califas,California,a California landscape,a California landscape,1,1,0,,a Califas landscape,a California landscape
+Califas,California,a city in California,a city in California,1,1,0,,a city in Califas,a city in California
+Califas,California,older Californians,older Californian,0,1,0,,older Califas,older California
+Califas,California,an iconic bridge in California,an iconic bridge in California,0,1,0,,an iconic bridge in Califas,an iconic bridge in California
+Califas,California,a California suburb,a California suburb,1,1,0,,a Califas suburb,a California suburb
+baro,money,barometer on a counter,money on a counter,0,1,0,,baro on a counter,money on a counter
+baro,money,a Baroque painting,a portrait of cash,0,1,0,,a painting of baro,a painting of money
+baro,money,bar on a table,money on a table,0,1,0,,baro on a table,money on a table
+baro,money,bar in the car,money in the car,0,1,0,,baro in the car,money in the car
+baro,money,bar on the sidewalk,money on the sidewalk,1,1,0,,baro on the sidewalk,money on the sidewalk
+baro,money,a person holding a barometer,A person holding money,0,1,0,,a person holding baro,a person holding money
+cuate,close friend,a painting of a cutout,a painting of a close friend,1,1,0,,a painting of a cuate,a painting of a close friend
+cuate,close friend,My friend and I,my close friend and I,1,1,0,,me and my cuate,me and my close friend
+cuate,close friend,a cat is in the house,a close friend in a house,1,1,0,,a cuate in a house,a close friend in a house
+cuate,close friend,a cute date at a cafe,a close friend at a cafe,1,1,0,,a cuate at a cafe,a close friend at a cafe
+cuate,close friend,A homeless person on the sidewalk,a close friend on the sidewalk,1,1,0,,a cuate on the sidewalk,a close friend on the sidewalk
+cuate,close friend,a skateboarder in a park,a close friend in a park,1,1,0,,a cuate in a park,a close friend in a park
+apapachar,pamper,a cat getting applause,a cat getting pampered,0,1,0,,a cat getting apapachar,a cat getting pampered
+apapachar,pamper,a dog receiving applause,a dog getting pampered,0,1,0,,a dog getting apapachar,a dog getting pampered
+apapachar,pamper,A person congratulates himself.,A person pampered himself.,1,1,0,,a person apapachar himself,a person pampered himself
+apapachar,pamper,a couple receiving applause,a couple getting pampered,1,1,0,,a couple getting apapachar,a couple getting pampered
+apapachar,pamper,a woman receiving applause,a woman getting pampered,1,1,0,,a woman getting apapachar,a woman getting pampered
+apapachar,pamper,a man receiving applause,a man getting pampered,0,1,0,,a man getting apapachar,a man getting pampered
+lonche,lunch,Lunch at home,Lunch at home,0,1,0,,lonche in the house,lunch in the house
+lonche,lunch,getting lunch,getting lunch,0,1,0,,getting lonche,getting lunch
+lonche,lunch,lunch at the park,lunch at the park,0,1,0,,lonche at the park,lunch at the park
+lonche,lunch,a couple getting lunch,a couple getting lunch,1,1,0,,a couple getting lonche,a couple getting lunch
+lonche,lunch,lunch in the forest,lunch in the forest,0,1,0,,lonche in the forest,lunch in the forest
+lonche,lunch,lunch in the meadow,lunch in the meadow,1,1,0,,lonche in the meadow,lunch in the meadow
+chamaco,boy,a child at the park,a boy at the park,1,1,0,,a chamaco at the park,a boy at the park
+chamaco,boy,a child in a house,a boy in a house,1,1,0,,a chamaco in a house,a boy in a house
+chamaco,boy,a child on the sidewalk,a boy on the sidewalk,1,1,0,,a chamaco on the sidewalk,a boy on the sidewalk
+chamaco,boy,a painting of a child,a painting of a boy,1,1,0,,a painting of a chamaco,a painting of a chamaco
+chamaco,boy,a child at school,a boy at a school,1,1,0,,a chamaco at a school,a boy at a school
+chamaco,boy,a child and a soccer ball,a boy and a soccer ball,1,1,0,,a chamaco and a soccer ball,a boy and a soccer ball
+chamaca,girl,a woman at the park,a girl at the park,1,1,0,,a chamaca at the park,a girl at the park
+chamaca,girl,a woman in a house,a girl in a house,1,1,0,,a chamaca in a house,a girl in a house
+chamaca,girl,a woman on the sidewalk,a girl on the sidewalk,1,1,0,,a chamaca on the sidewalk,a girl on the sidewalk
+chamaca,girl,a friend and a basketball,a girl and a basketball,1,1,0,,a chamaca and a basketball,a girl and a basketball
+chamaca,girl,a friend at school,a girl at a school,1,1,0,,a chamaca at a school,a girl at a school
+chamaca,girl,a woman at a store,a girl at a store,1,1,0,,a chamaca at a store,a girl at a store
+chanclas,flip-flops,a pair of colorful flip-flops,a pair of colorful flip-flops,0,1,0,,a pair of colorful chanclas,a pair of colorful flip-flops
+chanclas,flip-flops,dirty flip flops on the floor,dirty flip-flops on the floor,0,1,0,,dirty chanclas on the floor,dirty flip-flops on the floor
+chanclas,flip-flops,flip-flops at the beach,flip-flops at the beach,0,1,0,,chanclas at the beach,flip-flops at the beach
+chanclas,flip-flops,new flip flops in a store,new flip-flops in a store,0,1,0,,new chanclas in a store,new flip-flops in a store
+chanclas,flip-flops,a woman wearing flip flops,a woman wearing flip-flops,1,1,0,,a woman wearing chanclas,a woman wearing flip-flops
+chanclas,flip-flops,broken sandals,broken flip-flops,0,1,0,,broken chanclas,broken flip-flops
+frijol,bean,a bowl of cooked black beans,a bowl of cooked beans,0,1,0,,a bowl of cooked frijol,a bowl of cooked beans
+frijol,bean,black bean on a wooden table,beans on a wooden table,0,1,0,,frijol on a wooden table,beans on a wooden table
+frijol,bean,a spoonful of beans,a spoonful of beans,0,1,0,,a spoonful of frijol,a spoonful of beans
+frijol,bean,uncooked beans in a bowl,uncooked beans in a bowl,0,1,0,,uncooked frijol in a bowl,uncooked beans in a bowl
+frijol,bean,A bean was spilled on the floor.,Beans were spilled on the floor.,0,1,0,,frijol spilled on the floor,beans spilled on the floor
+frijol,bean,a bag of dried beans,a bag of dried beans,0,1,0,,a bag of dried frijol,a bag of dried beans
+refri,fridge,a modern refrigerator,a modern fridge,0,1,0,,a modern refri,a modern fridge
+refri,fridge,an open refrigerator,an open fridge,0,1,0,,an open refri,an open fridge
+refri,fridge,a dirty refrigerator,a dirty fridge,0,1,0,,a dirty refri,a dirty fridge
+refri,fridge,a white refrigerator,a white fridge,0,1,0,,a white refri,a white fridge
+refri,fridge,an empty refrigerator,an empty fridge,0,1,0,,an empty refri,an empty fridge
+refri,fridge,a broken refrigerator,a broken fridge,0,1,0,,a broken refri,a broken fridge

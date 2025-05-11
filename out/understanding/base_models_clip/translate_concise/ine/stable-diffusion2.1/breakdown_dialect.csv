@@ -1,0 +1,217 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Score
+0,a medieval math,a medieval monastery,0.2227
+1,a math problem on a hill,a monastery on a hill,0.221
+2,a small math,a small monastery,0.1958
+3,a picture of math,a painting of a monastery,0.0
+4,a crowded math,a crowded monastery,0.2457
+5,a mystery in a dark forest,a monastery in a dark forest,0.2547
+6,simkin on a wooden table,champagne on a wooden table,0.2297
+7,family members in a cabinet,champagne in a cabinet,0.0
+8,Simkin on a table outside,champagne on a table outside,0.0
+9,a painting of a monkey,a painting of some champagne,0.0
+10,Simkin on the beach,champagne on the beach,0.0
+11,Simkin on top of a piano,champagne on top of a piano,0.0
+12,an old day,an old midwife,0.2125
+13,a day with a woman,a midwife with a woman,0.2085
+14,a painting of a day,a painting of a midwife,0.2277
+15,a new day,a young midwife,0.0
+16,a day spent sitting,a midwife sitting down,0.0
+17,a photograph of a deer with a cat,a photograph of a midwife with a cat,0.1496
+18,a doctor at a table,a medical practitioner at a table,0.2927
+19,an old doctor,an old medical practitioner,0.2839
+20,a doctor at a park,a medical practitioner at a park,0.3382
+21,a doctor with a woman,a medical practitioner with a woman,0.3139
+22,a doctor with a notebook,a medical practitioner with a notepad,0.3077
+23,a portrait of a doctor,a painting of a medical practitioner,0.3111
+24,a window covered with chicken wire,a window covered with bamboo blinds,0.2679
+25,a doorway with chickens,a doorway with bamboo blinds,0.2314
+26,handmade chicken,hand-crafted bamboo blinds,0.1784
+27,Sun-weathered woman,sun-faded bamboo blinds,0.187
+28,Decorative trim chicken,bamboo blinds with decorative trim,0.164
+29,tattered chick,tattered bamboo blinds,0.1736
+30,a dark ghost,a dark mountain pass,0.2313
+31,a ghat covered in snow,a mountain pass covered in snow,0.2333
+32,a crowded dock,a crowded mountain pass,0.2252
+33,a boat on a nearby lake,a mountain pass with a nearby lake,0.0
+34,a painting of a beautiful riverbank,a painting of a beautiful mountain pass,0.2667
+35,an abandoned dock,an abandoned mountain pass,0.2256
+36,an old grocery store,an old convenience store,0.3175
+37,a modern grocery store,a modern convenience store,0.2713
+38,a busy grocery store,a busy convenience store,0.2522
+39,a grocery store on fire,a convenience store on fire,0.3124
+40,a vacant grocery store,an empty convenience store,0.2686
+41,a painting of a grocery store,a painting of a convenience store,0.0
+42,an old pavilion,an old temple,0.2727
+43,a mandapa on a hill,a temple on a hill,0.3114
+44,a painting of a mandapa,a painting of a temple,0.3484
+45,a mandapa in a dark forest,a temple in a dark forest,0.3028
+46,a pavilion in a city,a temple in a city,0.2637
+47,an abandoned mandapa,an abandoned temple,0.0
+48,an ant in red,a barber in red,0.229
+49,an old man,an old barber,0.2865
+50,a small nail shop,a small barber shop,0.2398
+51,a busy nail salon,a busy barber shop,0.0
+52,a man by the chair,a barber by the chair,0.2458
+53,an AI working,a barber working,0.1767
+54,a police station in a city,a police station in a city,0.0
+55,busier than usual,a busy police station,0.0
+56,a police station in a small town,a police station in a small town,0.0
+57,a person entering a police station,a person walking into a police station,0.299
+58,a painting of a police station,a painting of a police station,0.0
+59,a photograph of a modern police station,a photograph of a modern police station,0.0
+60,an abbey in front of a house,a father in front of a house,0.2006
+61,A girl standing with her mother,a girl standing with her father,0.2734
+62,a crying Abba,a crying father,0.1878
+63,an album on a bed,a father on a bed,0.2457
+64,an old man with a dog,an old father with a dog,0.3412
+65,an old woman in the kitchen,an old father in the kitchen,0.0
+66,a beautiful pearl,a beautiful veranda,0.193
+67,an expensive-looking pearl,an expensive looking veranda,0.194
+68,a modern-looking pie plate,a modern looking veranda,0.1515
+69,a green pearl,a green veranda,0.2385
+70,a dimly lit pool,a dimly lit veranda,0.2349
+71,a painting of a pearl,a painting of a veranda,0.2325
+72,A watercourse or drainage channel that is dry or dry seasonally.,a dry riverbed,0.2864
+73,a beautiful creek in a painting,a beautiful riverbed in a painting,0.3282
+74,a stream in a forest,a riverbed in a forest,0.2895
+75,a narrow gully,a narrow riverbed,0.2858
+76,A gully,a small riverbed,0.2578
+77,a dry creek,a wet riverbed,0.2917
+78,a beautiful queen,a beautiful queen,0.2561
+79,a queen in a garden,a queen in a garden,0.2975
+80,a portrait of an elderly queen,a painting of an old queen,0.324
+81,A woman covered in snow,a queen covered in snow,0.2639
+82,a queen in a large hall,a queen in a large hall,0.3244
+83,an elderly woman on a bed,an old queen on a bed,0.2549
+84,Eggplant,a sliced eggplant,0.2896
+85,Eggplant on a table,an eggplant on a table,0.0
+86,Eggplant in a basket,eggplant in a basket,0.3437
+87,a painting of an eggplant,a painting of a eggplant,0.3815
+88,a moldy eggplant,a moldy eggplant,0.3252
+89,a dish with eggplant,a dish with eggplant,0.3125
+90,a table of food,a table of food,0.2913
+91,a basket with food,a basket with food,0.2861
+92,healthy food,healthy food,0.275
+93,food in a cabinet,food in a cabinet,0.0
+94,a person with some food,a person with some food,0.2445
+95,a family enjoying dinner,a family enjoying food,0.297
+96,a busy town,a bustling town,0.2846
+97,an abandoned neighborhood,an abandoned town,0.2762
+98,view of a city,view of a town,0.0
+99,a beautiful snake,a beautiful town,0.1647
+100,a painting of a nagappa,a painting of a town,0.1987
+101,a lively horse,a lively town,0.0
+102,a dying ant,a dying camel,0.1807
+103,an ant next to water,a camel next to water,0.0
+104,a painting of a large elephant,a painting of a large camel,0.285
+105,an ant eating food,a camel eating food,0.1788
+106,a man on the street,a camel in the street,0.2284
+107,an ant walking in the heat,a camel walking in the heat,0.1833
+108,incense sticks in a house,incense in a house,0.2986
+109,incense sticks on a table,incense on a table,0.2965
+110,a painting of incense sticks,a painting of incense,0.3031
+111,incense stick burning,incense burning,0.2722
+112,red barber,red incense,0.1688
+113,incense sticks on a shelf,incense on a shelf,0.2865
+114,a painting of a beautiful kangaroo,a painting of a beautiful crane bird,0.2575
+115,a large group of people,a large group of crane birds,0.2191
+116,a dirty mango,a dirty crane bird,0.1981
+117,two coolants next to each other,two crane birds next to each other,0.1578
+118,a sleeping person,a sleeping crane bird,0.2239
+119,"What does ""a kulang"" mean?",a crane bird eating food,0.1708
+120,a large warehouse,a enormous warehouse,0.3152
+121,an abandoned warehouse,an abandoned warehouse,0.2991
+122,a warehouse,a busy warehouse,0.2969
+123,a warehouse painting,a painting of a warehouse,0.335
+124,a warehouse on fire,a warehouse on fire,0.3097
+125,a dark abandoned warehouse,a dark abandoned warehouse,0.3033
+126,painting of a hospital corridor,painting of a pharmacy,0.2764
+127,a modern medical hall,a modern pharmacy,0.2741
+128,inside a medical hall,inside a pharmacy,0.2427
+129,a busy medical clinic,a busy pharmacy,0.0
+130,Entrance of a medical building,entrance of a pharmacy,0.251
+131,a rural medical clinic,a rural pharmacy,0.2893
+132,an abandoned gas station,an abandoned gas station,0.3366
+133,a gas station in a desert,a gas station in a desert,0.343
+134,a photograph of a modern gas station,a photograph of a modern gas station,0.3128
+135,a very busy gas station,a very busy gas station,0.2903
+136,a gas station in a large city,a gas station in a big city,0.2911
+137,a dirty fuel tank,a dirty gas station,0.2417
+138,a man with a blue motorcycle,a man with a blue motorcycle,0.3141
+139,a black bicycle,a black motorcycle,0.254
+140,three motorcycles on the road,three motorcycles on the road,0.2946
+141,a broken bicycle,a broken motorcycle,0.2739
+142,a mountain bike in the forest,a motorcycle in the forest,0.2653
+143,a group of motorcycles,a group of motorcycles,0.3209
+144,two books leaning on each other,two rifles leaning on each other,0.1984
+145,a person holding a rifle,a person holding a rifle,0.2932
+146,a broken rifle,a broken rifle,0.2776
+147,a rusty rifle,a rusty rifle,0.3262
+148,a book in a store,a rifle in a store,0.2258
+149,a book on the ground,a rifle on the ground,0.2334
+150,an old craftsman,an old craftsman,0.3012
+151,a group of craftsmen,a group of craftsmen,0.3157
+152,a craftsman in a house,a craftsman in a house,0.3051
+153,a dirty craftsman,a dirty craftsman,0.2893
+154,a craftsman wearing orange,a craftsman in orange,0.3237
+155,a craftsman in a large city,a craftsman in a big city,0.282
+156,an angry person in charge,an angry supervisor,0.0
+157,an old manager,an old supervisor,0.2548
+158,a person in charge in a room,a supervisor in a room,0.2834
+159,a portrait of a leader,a painting of a supervisor,0.3024
+160,an office manager,a supervisor in the office,0.2409
+161,a leader with a group of people,a supervisor with a group of people,0.2693
+162,Some bread on the table,some water on the table,0.1814
+163,a child with anxiety,a child with water,0.2445
+164,Dirty water,dirty water,0.2588
+165,bread in the forest,water in the forest,0.2239
+166,What's good in the house?,water in the house,0.2171
+167,bread in the well,water in the well,0.2756
+168,a colorful pilgrimage,a colorful festival,0.2839
+169,a lively pilgrimage,a lively festival,0.2585
+170,a trek in the summer,a festival in the summer,0.2248
+171,pilgrimage,an indoor festival,0.2166
+172,a busy trip,a bustling festival,0.2301
+173,a trek in the winter,a festival in the winter,0.2428
+174,a man next to a neighbor,a man next to a checkpoint,0.2188
+175,a small red apple,a small red checkpoint,0.2196
+176,a busy place,a busy checkpoint,0.2118
+177,an empty parking lot,a empty checkpoint,0.253
+178,an abandoned neighborhood,an abandoned checkpoint,0.2372
+179,In the winter,a checkpoint in the winter,0.2679
+180,picnic,an outdoor luncheon,0.2894
+181,a light meal,a lively luncheon,0.2318
+182,a lunch in the building,a luncheon in the building,0.2741
+183,A snack or light meal eaten indoors.,an indoor luncheon,0.2428
+184,a picnic in the city,a luncheon in the city,0.27
+185,a lunch at school,a luncheon at school,0.2982
+186,the interior of a betting den,the inside of a gambling den,0.0
+187,A casino room,a gambling room,0.302
+188,a place of settlement,a place of gambling,0.2455
+189,a busy coffee shop,a bustling gambling den,0.2169
+190,a luxurious sauna room,a luxurious gambling den,0.0
+191,a group of people sitting,a group of people gambling,0.251
+192,a luxurious wardrobe,a luxurious wardrobe,0.3252
+193,an old wardrobe,an old wardrobe,0.3077
+194,a painting of a wardrobe,a painting of a wardrobe,0.3574
+195,a dresser in the bedroom,a wardrobe in the bedroom,0.2696
+196,a broken dresser,a broken wardrobe,0.2537
+197,a green armoire,a green wardrobe,0.3142
+198,a suitcase filled with luggage,a car trunk filled with luggage,0.2642
+199,a door left open,a car trunk left open,0.2089
+200,a spacious red vest,a spacious red car trunk,0.215
+201,a damaged tie,a damaged car trunk,0.1991
+202,a suitcase in a trunk,a suitcase in a car trunk,0.3224
+203,a rusty toilet,a rusty car trunk,0.2256
+204,a trailer mounted on a vehicle,a spare tire mounted on a vehicle,0.2264
+205,a worn-out spare tire,a worn-out spare tire,0.3067
+206,a step stool leaning against a wall,a spare tire leaning against a wall,0.2113
+207,a black taxi,a black spare tire,0.223
+208,a mechanic inspecting a spare tire,a mechanic inspecting a spare tire,0.32
+209,a step van lying on the road,a spare tire lying on the road,0.2279
+210,a group photo of my classmates,a group photo of my classmates,0.2786
+211,my classmate is smiling,my classmate smiling,0.2775
+212,two classmates studying,two classmates studying,0.2817
+213,a classmate at a desk,a classmate at a desk,0.2798
+214,classmates outside the school,classmates outside the school,0.0
+215,a classmate playing basketball,a classmate playing basketball,0.3061

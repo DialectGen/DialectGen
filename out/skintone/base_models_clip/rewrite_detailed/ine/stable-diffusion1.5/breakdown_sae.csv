@@ -1,0 +1,114 @@
+Prompt_Index,SAE_Prompt,Normalized_Score
+0,an older person entering a monastery,0.2834
+1,a monastery with a crowd of people outside,0.4769
+2,a person holding a bottle of champagne,0.7144
+3,a person pouring champagne into a glass,0.5454
+4,a midwife in a hospital,0.5579
+5,a midwife walking into a house,0.3455
+6,a woman in a bed with a midwife next to it,0.41
+7,a midwife talking with a doctor,0.3851
+8,a midwife holding a bottle of medicine,0.3963
+9,a midwife talking with a nurse,0.4928
+10,a medical practitioner sitting at a table outside,0.456
+11,two medical practitioners in a conference room,0.634
+12,a medical practitioner walking in a park,0.1595
+13,the medical practitioner talking with a patient in a room,0.3594
+14,a medical practitioner standing outside a building,0.193
+15,a medical practitioner talking with a nurse,0.2052
+16,people standing outside a temple,0.1773
+17,a well-dressed person in front of a temple,0.3964
+18,a family in front of a temple,0.4589
+19,an old temple with lots of people,0.1925
+20,a barber cutting a man's hair,0.7636
+21,a barber cutting a woman's hair,0.8346
+22,a friendly local barber,0.8879
+23,a child getting his hair cut by a barber,0.889
+24,three people in a barber shop,0.8684
+25,officers working inside a police station,0.4172
+26,a person standing outside a police station,0.319
+27,a person talking to an officer inside a police station,0.2252
+28,two officers speaking to an arrested person in a police station,0.3205
+29,a boy standing with his father,0.5887
+30,a girl standing with her father near the school gate,0.1218
+31,a man hiking with his father,0.5582
+32,a woman in a car with her father,0.7197
+33,a woman walking with her father and a dog,0.3904
+34,a man sitting at a table with his father,0.5152
+35,people relaxing under a veranda,0.4155
+36,two people walking through a river-bed,0.6005
+37,a queen sitting on a throne,0.2477
+38,a queen making a speech,0.5854
+39,a queen in a palace,0.3464
+40,a queen sitting at a banquet,0.4996
+41,a queen in a garden surrounded by blooming flowers,0.4715
+42,a queen riding in a large car,0.631
+43,eggplant being sliced,0.3154
+44,a person eating food,0.351
+45,a couple enjoying food at a restaurant,0.6707
+46,a person cooking food on the stove,0.4511
+47,a person buying food from a grocery store,0.5062
+48,a family enjoying lots of food,0.5656
+49,a couple walking in a town,0.3816
+50,a person riding a camel in the desert,0.301
+51,a person giving water to a camel,0.2249
+52,a person holding a bundle of incense,0.6019
+53,a person looking at a crane bird,0.6737
+54,a warehouse with lots of people inside,0.5361
+55,a person walking inside a warehouse,0.4072
+56,a person driving a forklift inside a warehouse,0.612
+57,a person walking inside a pharmacy,0.4647
+58,a person talking to a worker inside a pharmacy,0.5403
+59,a pharmacy with lots of people outside,0.2464
+60,a person getting gas for their car at a gas station,0.5974
+61,a very busy gas station with people refueling,0.6947
+62,a man riding a blue motorcycle,0.4204
+63,a woman riding a black motorcycle,0.1834
+64,three motorcycles riding on a road,0.2279
+65,a person riding a motorcycle on a dirt road,0.2717
+66,a person riding a motorcycle in a big city,0.5375
+67,a person holding a rifle in the countryside,0.2299
+68,a woman aiming a rifle,0.2333
+69,several soldiers holding rifles,0.1955
+70,a police officer holding a rifle,0.2828
+71,a craftsman weaving a rug,0.4266
+72,a skilled craftsman at work,0.6558
+73,an elderly craftsman sharing his wisdom,0.5907
+74,a talented craftsman from the village,0.0993
+75,an innovative craftsman designing jewelry,0.3162
+76,my supervisor talking to me,0.7158
+77,a new supervisor at the construction site,0.7982
+78,a supervisor giving instructions to the team,0.8304
+79,a friendly supervisor helping out,0.8289
+80,a supervisor in the office breakroom,0.7
+81,a supervisor working at a computer,0.4044
+82,a vendor selling water bottles,0.5392
+83,a colorful festival in the city,0.4711
+84,a festival filled with dance and music,0.3742
+85,an autumn festival in the town center,0.3194
+86,food stalls at a festival,0.2415
+87,a festival with lots of people,0.3955
+88,a festival in winter,0.2321
+89,a checkpoint guarded by armed forces,0.0598
+90,a checkpoint on the highway,0.3903
+91,a long queue at the toll checkpoint,0.364
+92,a checkpoint at the national border,0.1904
+93,a checkpoint with police officers,0.2175
+94,a checkpoint with very few cars,0.5137
+95,an outdoor luncheon with lots of people,0.5544
+96,two people having a luncheon,0.6747
+97,a company having a luncheon,0.6528
+98,a fancy indoor luncheon,0.7238
+99,a plant-based luncheon,0.4319
+100,a luncheon with lots of salad,0.6429
+101,a gambling den hidden away in an alley,0.1945
+102,a group of people gambling in a room,0.4093
+103,a place of gambling in a big city,0.439
+104,an illegal gambling den,0.2232
+105,a place of gambling with lots of people,0.2861
+106,a group of people gambling at a table,0.3756
+107,a man loading groceries into the car trunk,0.5571
+108,a white car with an empty car trunk,0.7215
+109,a woman retrieving bags from the car trunk,0.4663
+110,a dirty car trunk covered with mud stains,0.2524
+111,a mechanic repairing a broken car trunk,0.5156
+112,children hiding inside an open car trunk,0.719

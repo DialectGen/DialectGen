@@ -1,0 +1,155 @@
+Prompt_Index,SAE_Prompt,Normalized_Score
+0,a little boy playing with a yoyo,0.85
+1,a little girl playing with a toy car,0.7713
+2,a little baby wrapped in a blanket,0.8116
+3,a man driving his car,0.759
+4,a woman driving her blue car,0.545
+5,a man driving a new car on the freeway,0.6037
+6,a man in front of his house,0.4061
+7,a woman in front of her house,0.1467
+8,a family in front of their new house,0.6643
+9,a retiree and her one story house with a flower garden,0.6643
+10,a man holler at a girl across the street,0.478
+11,a man holler at a woman near the bus stop,0.2349
+12,a man holler at a woman walking past him,0.4598
+13,a man holler at his close friend from the balcony,0.482
+14,a loud holler from the audience during the show,0.6936
+15,she heard a holler from across the street,0.4828
+16,me and my close friend hanging out at a cafe,0.7453
+17,my close friend talking on the phone,0.4822
+18,my close friend waiting outside the store,0.401
+19,me and my close friend eating together at lunch,0.7715
+20,a close friend from childhood playing video games together,0.5573
+21,a close friend with a skateboard,0.7721
+22,me and my friends hanging out after school,0.6572
+23,me and my friends at a restaurant,0.7901
+24,taking a selfie with my friends,0.9324
+25,me and my friends hanging out at a cafe,0.4987
+26,my friends hanging out at the park,0.6386
+27,a group of friends in matching shirts,0.8035
+28,an old grandma in front of a new england style house,0.6023
+29,my grandmother and my dad,0.7669
+30,my grandmother with my mom,0.5519
+31,my grandmother and her cat,0.7159
+32,a grandma knitting a sweater,0.6175
+33,a grandma baking cookies,0.7014
+34,a picture of my lover smiling at the beach,0.383
+35,me and my lover holding hands at sunset,0.2646
+36,my lover posing in a botanical garden,0.6653
+37,my lover drinking coffee,0.618
+38,a lover holding a bouquet of roses,0.7273
+39,a lover taking a selfie,0.7277
+40,a man paying money to the cashier,0.7216
+41,a woman paying money to the shopkeeper,0.2011
+42,a man wearing sneakers,0.5506
+43,a girl wearing white leather sneakers,0.3959
+44,a man aiming his gun,0.2061
+45,a man aiming his gun in a dark alley,0.2297
+46,a woman firing her gun at the target,0.1254
+47,a soldier carrying a gun,0.0813
+48,a man wearing cool clothes,0.8018
+49,a woman wearing cool clothes,0.4334
+50,a man wearing minimalist clothes,0.6665
+51,a woman wearing vintage clothes,0.6849
+52,a man wearing dental jewelry over the teeth,0.3836
+53,a rapper with dental jewelry,0.2682
+54,a man wearing green dental jewelry,0.5818
+55,a woman wearing dental jewelry with a confident smile,0.4882
+56,a rapper showing off his dental jewelry,0.3651
+57,gold dental jewelry on a smiling face,0.3275
+58,a woman driving her convertible car,0.6505
+59,a man driving his convertible car on the hilly road,0.5008
+60,two people riding in a convertible car,0.6528
+61,a man driving a sporty convertible car,0.6765
+62,a grandpa wearing a baseball cap,0.8167
+63,a woman wearing an orange cap,0.5115
+64,a man wearing a red cap,0.7642
+65,a man with a blue cap,0.7739
+66,a boy wearing a cap matching his outfit,0.9486
+67,a man looking at his reflection in a mirror,0.6257
+68,a woman looking at her reflection in a mirror,0.3482
+69,a couple looking at their reflection in a mirror,0.5802
+70,a man holding his gun,0.4177
+71,a woman holding a large gun,0.2243
+72,a couple of soldiers with guns,0.2743
+73,a group of people with guns,0.2775
+74,a man wearing a gold necklace,0.1499
+75,a woman wearing a gold necklace,0.1515
+76,a man wearing a rose gold necklace,0.6478
+77,some gold necklaces around the neck,0.331
+78,a man wearing a dark gray necklace,0.3922
+79,a woman driving a car,0.7082
+80,a guy riding in a car,0.7922
+81,a group of friends in a car,0.8406
+82,a person firing a gun,0.2067
+83,a man aiming a gun at a target,0.2189
+84,a person firing a small gun,0.262
+85,a woman aiming a gun,0.1273
+86,a policeman shooting a gun,0.321
+87,two people enjoying tasty food,0.5538
+88,a man enjoying tasty food,0.6035
+89,a woman buying tasty food,0.4704
+90,walking through the bland suburban neighborhood,0.5327
+91,kids playing in the neighborhood,0.6636
+92,a cashier counting the money from the customer,0.6726
+93,a woman getting money from her checking account at the ATM,0.5865
+94,the foodtruck worker getting money from the customer for the purchase,0.6583
+95,a man paying back his friend the money for the coffee,0.632
+96,a rich businessman showing off a large stack of bills,0.8314
+97,hanging out with my close friends,0.6829
+98,hanging out with my close friends at a cafe,0.4769
+99,studying with my close friends at a library,0.4968
+100,me and my close friends gathered for a barbecue,0.7308
+101,a group picture with close friends at the beach,0.6733
+102,going on a road trip with my close friends,0.5833
+103,spending time with my lover at home,0.7175
+104,getting stuff from the grocery store with my lover,0.518
+105,a woman and her lover at a fancy restaurant,0.5228
+106,a man and his lover on a flight,0.8303
+107,me holding hands at the movie with my lover,0.444
+108,me and my lover sharing an umbrella in the rain,0.195
+109,me and my close friend hiking in the mountains,0.7548
+110,a woman and her close friend getting coffee,0.3087
+111,a man and his close friend walking a golden retriever,0.5643
+112,me and my close friend playing video games on the television,0.7781
+113,my close friend helping me with a move,0.7887
+114,my close friend riding a skateboard,0.8751
+115,my close friend from the neighborhood,0.5113
+116,me and my close friend in front of a big house,0.6653
+117,an evening hanging out with my close friend,0.6349
+118,me and my close friend eating at a cafe,0.5562
+119,my go-to close friend for advice,0.5523
+120,a heart-to-heart with my oldest close friend,0.5621
+121,a summer day causing some serious hair frizziness,0.528
+122,my hair frizziness on full display in the humidity,0.7257
+123,a struggle to manage the morning hair frizziness,0.517
+124,hair frizziness making a statement today,0.5817
+125,my natural hair frizziness showing its beauty,0.6917
+126,two people with visible hair frizziness in their hair,0.4515
+127,flashy jewelry that caught everyone's eye at the party,0.4625
+128,my flashy jewelry representing my style,0.5547
+129,an outfit completed with some serious flashy jewelry,0.3745
+130,a statement made with just the right flashy jewelry,0.3978
+131,my outfit for the club tonight,0.3917
+132,an outfit that screams confidence,0.2567
+133,an outfit that looks like it's from a Korean drama,0.041
+134,my go-to outfit for first dates,0.4852
+135,a breezy summer outfit for hot days,0.4469
+136,a new outfit for a cold snowy winter in a big city,0.3981
+137,a new pair of glasses to change my look,0.5433
+138,a pair of black round glasses worn by a man,0.5706
+139,a pair of modern glasses worn by a woman,0.4153
+140,my stylish glasses with the gold frame,0.7494
+141,my friend holding her pair of glasses,0.7097
+142,my first tattoo on my forearm,0.4675
+143,a tattoo representing my journey,0.6182
+144,a tattoo artist known for intricate designs,0.4818
+145,a tattoo on a woman's neck,0.4629
+146,a tattoo on a man's leg,0.6718
+147,a dreamy design for my next tattoo,0.4091
+148,my dreadlocks reaching my shoulders now,0.5639
+149,a new style for my dreadlocks this summer,0.2423
+150,taking care of my dreadlocks with essential oils,0.7232
+151,two people with long dreadlocks sitting on a bench,0.2554
+152,my dreadlocks tied up in a bun,0.6641
+153,my dreadlocks reaching down to my waist,0.4799

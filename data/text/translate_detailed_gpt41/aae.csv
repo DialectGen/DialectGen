@@ -1,0 +1,205 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt,Original_Dialect_Prompt,Original_SAE_Prompt
+lil,little,a little boy playing with a yoyo,a little boy playing with a yoyo,1,1,0,,a lil boy playing with a yoyo,a little boy playing with a yoyo
+lil,little,a little girl playing with a toy car,a little girl playing with a toy car,1,1,0,,a lil girl playing with a toy car,a little girl playing with a toy car
+lil,little,a small cat sitting on top of the piano,a little cat sitting on top of the piano,0,1,0,,a lil cat sitting on top of the piano,a little cat sitting on top of the piano
+lil,little,a little dog playing in the backyard,a little dog playing in the backyard,0,1,0,,a lil dog playing in the backyard,a little dog playing in the backyard
+lil,little,a small one-story blue house,a little one story blue house,0,1,0,,a lil one story blue house,a little one story blue house
+lil,little,a little baby wrapped in a blanket,a little baby wrapped in a blanket,1,1,0,,a lil baby wrapped in a blanket,a little baby wrapped in a blanket
+whip,car,a man driving his car,a man driving his car,1,2,1,a leather whip coiled on a wooden table,a guy driving his whip,a man driving his car
+whip,car,a woman driving her blue car,a woman driving her blue car,1,1,1,a horse rider holding a braided whip,a woman driving her blue whip,a woman driving her blue car
+whip,car,a man driving a new car on the freeway,a man driving a new car on the freeway,1,1,1,a vintage bullwhip used in performance,a man driving a new whip on the freeway,a man driving a new car on the freeway
+whip,car,a red sports car parked in the garage,a red car parked in the garage,0,1,1,a whip used for equestrian training hanging on a wall,a red whip parked in the garage,a red car parked in the garage
+whip,car,a car parked by the curb,a car parked by the curb,0,1,1,a coiled black whip next to a cowboy hat,a whip parked by the curb,a car parked by the curb
+whip,car,a black car with chrome rims,a black car with chrome rims,0,1,1,a ceremonial whip with ornate handle,a black whip with chrome rims,a black car with chrome rims
+crib,house,a man standing in front of his house,a man in front of his house,1,1,1,a baby sleeping peacefully in a white crib,a guy in front of his crib,a man in front of his house
+crib,house,a woman in front of her crib,a woman in front of her house,1,1,1,a nursery with a wooden crib and soft blankets,a woman in front of her crib,a woman in front of her house
+crib,house,a family in front of their new house,a family in front of their new house,1,1,1,a brand new crib decorated with toys,a family in front of their new crib,a family in front of their new house
+crib,house,a retiree and her one-story house with a flower garden,a retiree and her one story house with a flower garden,1,1,1,a hand-painted crib with a mobile above,a retiree and her one story crib with a flower garden,a retiree and her one story house with a flower garden
+crib,house,a crib with a white picket fence,a house with a white picket fence,0,1,1,a gently rocking crib near a window,a crib with a white picket fence,a house with a white picket fence
+crib,house,a brick shed with a garden,a brick house with a garden,0,1,1,a vintage crib stored in an attic,a brick crib with a garden,a brick house with a garden
+holla,holler,A man calls out to a woman across the street.,a man holler at a girl across the street,1,1,0,,a man holla at a girl across the street,a man holler at a girl across the street
+holla,holler,A man calls out to a woman near the bus stop.,a man holler at a woman near the bus stop,1,1,0,,a man holla at a woman near the bus stop,a man holler at a woman near the bus stop
+holla,holler,A man calls out to a woman walking past him.,a man holler at a woman walking past him,1,2,0,,a guy holla at a woman walking past him,a man holler at a woman walking past him
+holla,holler,A man calls out to his friend from the balcony.,a man holler at his close friend from the balcony,1,3,0,,a guy holla at his homie from the balcony,a man holler at his close friend from the balcony
+holla,holler,a loud shout from the audience during the show,a loud holler from the audience during the show,1,1,0,,a loud holla from the audience during the show,a loud holler from the audience during the show
+holla,holler,She heard a shout from across the street.,she heard a holler from across the street,1,1,0,,she heard a holla from across the street,she heard a holler from across the street
+homie,close friend,My friend and I are hanging out at a cafe.,me and my close friend hanging out at a cafe,1,1,0,,me and homie hanging out at a cafe,me and my close friend hanging out at a cafe
+homie,close friend,My friend is talking on the phone.,my close friend talking on the phone,1,1,0,,my homie talking on the phone,my close friend talking on the phone
+homie,close friend,My friend is waiting outside the store.,my close friend waiting outside the store,1,1,0,,my homie waiting outside the store,my close friend waiting outside the store
+homie,close friend,My friend and I are eating together at lunch.,me and my close friend eating together at lunch,1,1,0,,me and my homie eating together at lunch,me and my close friend eating together at lunch
+homie,close friend,a childhood friend playing video games together,a close friend from childhood playing video games together,1,1,0,,a homie from childhood playing video games together,a close friend from childhood playing video games together
+homie,close friend,a friend with a skateboard,a close friend with a skateboard,1,1,0,,a homie with a skateboard,a close friend with a skateboard
+my crew,my friends,My friends and I are hanging out after school.,me and my friends hanging out after school,1,1,1,a ship's crew preparing to set sail,me and my crew hanging out after school,me and my friends hanging out after school
+my crew,my friends,My friends and I are at a restaurant.,me and my friends at a restaurant,1,1,1,a flight crew posing at the airport,me and my crew at a restaurant,me and my friends at a restaurant
+my crew,my friends,Taking a selfie with my friends.,taking a selfie with my friends,1,1,1,a construction crew wearing hard hats,taking a selfie with my crew,taking a selfie with my friends
+my crew,my friends,My friends and I are hanging out at a cafe.,me and my friends hanging out at a cafe,1,1,1,a movie set crew adjusting lighting equipment,me and my crew hanging out at a cafe,me and my friends hanging out at a cafe
+my crew,my friends,My friends and I are hanging out at the park.,my friends hanging out at the park,1,1,1,a yacht crew in matching uniforms,my crew hanging out at the park,my friends hanging out at the park
+my crew,my friends,a crew in matching shirts,a group of friends in matching shirts,1,1,1,a TV production crew on set,a crew in matching shirts,a group of friends in matching shirts
+nana,grandma,an elderly woman in front of a New England style house,an old grandma in front of a new england style house,1,1,0,,an old nana in front of a new england style house,an old grandma in front of a new england style house
+nana,grandma,my grandmother and my father,my grandmother and my dad,1,1,0,,my nana and my dad,my grandmother and my dad
+nana,grandma,my grandmother with my mother,my grandmother with my mom,1,1,0,,my nana with my mom,my grandmother with my mom
+nana,grandma,my grandmother and her cat,my grandmother and her cat,1,1,0,,my nana and her cat,my grandmother and her cat
+nana,grandma,a grandmother knitting a sweater,a grandma knitting a sweater,1,1,0,,a nana knitting a sweater,a grandma knitting a sweater
+nana,grandma,a grandmother baking cookies,a grandma baking cookies,1,1,0,,a nana baking cookies,a grandma baking cookies
+bae,lover,a picture of my significant other smiling at the beach,a picture of my lover smiling at the beach,1,1,0,,a picture of my bae smiling at the beach,a picture of my lover smiling at the beach
+bae,lover,My partner and I are holding hands at sunset.,me and my lover holding hands at sunset,1,1,0,,me and my bae holding hands at sunset,me and my lover holding hands at sunset
+bae,lover,my significant other posing in a botanical garden,my lover posing in a botanical garden,1,1,0,,my bae posing in a botanical garden,my lover posing in a botanical garden
+bae,lover,My significant other is drinking coffee.,my lover drinking coffee,1,1,0,,my bae drinking coffee,my lover drinking coffee
+bae,lover,a person holding a bouquet of roses,a lover holding a bouquet of roses,1,1,0,,a bae holding a bouquet of roses,a lover holding a bouquet of roses
+bae,lover,a person taking a selfie,a lover taking a selfie,1,1,0,,a bae taking a selfie,a lover taking a selfie
+dough,money,a wallet full of money,a wallet full of money,0,1,1,raw bread dough being kneaded on a floured table,a wallet full of dough,a wallet full of money
+dough,money,pay with some money,pay with some money,0,1,1,a mixing bowl full of sticky cookie dough,pay with some dough,pay with some money
+dough,money,a man paying money to the cashier,a man paying money to the cashier,1,1,1,a rolling pin flattening dough for pizza,a man paying dough to the cashier,a man paying money to the cashier
+dough,money,a woman paying money to the shopkeeper,a woman paying money to the shopkeeper,1,1,1,a baker shaping dough into loaves,a woman paying dough to the shopkeeper,a woman paying money to the shopkeeper
+dough,money,a wallet overflowing with fresh green cash,a wallet overflowing with fresh green money,0,1,1,several balls of dough resting before baking,a wallet overflowing with fresh green dough,a wallet overflowing with fresh green money
+dough,money,an armored cash carrier transporting bags of money,an armored cash carrier carrying bags of money,0,1,1,a plastic-wrapped bag of pastry dough in a freezer,an armored cash carrier carrying bags of dough,an armored cash carrier carrying bags of money
+kicks,sneakers,a man wearing sneakers,a man wearing sneakers,1,2,0,,a guy wearing kicks,a man wearing sneakers
+kicks,sneakers,a girl wearing white leather sneakers,a girl wearing white leather sneakers,1,1,0,,a girl wearing white leather kicks,a girl wearing white leather sneakers
+kicks,sneakers,a pair of stylish sneakers,a pair of stylish sneakers,0,1,0,,a pair of stylish kicks,a pair of stylish sneakers
+kicks,sneakers,a pair of gray sneakers,a pair of gray sneakers,0,1,0,,a pair of gray kicks,a pair of gray sneakers
+kicks,sneakers,a row of sneakers in a store,a row of sneakers in a store,0,1,0,,a row of kicks in a store,a row of sneakers in a store
+kicks,sneakers,a pair of sneakers hanging on a wire,a pair of sneakers hanging on a wire,0,1,0,,a pair of kicks hanging on a wire,a pair of sneakers hanging on a wire
+piece,gun,a man aiming his gun,a man aiming his gun,1,2,1,a chess piece captured mid-move,a guy aiming his piece,a man aiming his gun
+piece,gun,a man aiming his gun in a dark alley,a man aiming his gun in a dark alley,1,1,1,a puzzle piece placed into a nearly finished puzzle,a man aiming his piece in a dark alley,a man aiming his gun in a dark alley
+piece,gun,a woman shooting her gun at the target,a woman firing her gun at the target,1,1,1,a broken piece of ceramic on the floor,a woman firing her piece at the target,a woman firing her gun at the target
+piece,gun,a soldier carrying a gun,a soldier carrying a gun,1,1,1,a silver collectible coin piece,a soldier carrying a piece,a soldier carrying a gun
+piece,gun,a gun in a holster,a gun in a holster,0,1,1,a missing piece of a Lego set,a piece in a holster,a gun in a holster
+piece,gun,a piece tucked into a waistband,a gun tucked into a waistband,0,1,1,a piece of fabric folded neatly,a piece tucked into a waistband,a gun tucked into a waistband
+threads,clothes,a man wearing stylish clothes,a man wearing cool clothes,1,1,1,colorful sewing threads on wooden spools,a man wearing cool threads,a man wearing cool clothes
+threads,clothes,a woman wearing stylish clothes,a woman wearing cool clothes,1,1,1,metallic threads embroidered into fabric,a woman wearing cool threads,a woman wearing cool clothes
+threads,clothes,a man wearing minimalist clothing,a man wearing minimalist clothes,1,1,1,threads laid out for weaving on a loom,a man wearing minimalist threads,a man wearing minimalist clothes
+threads,clothes,some new clothes on a mannequin,some fresh clothes on a mannequin,0,1,1,spools of threads in a tailor’s kit,some fresh threads on a mannequin,some fresh clothes on a mannequin
+threads,clothes,a woman wearing vintage clothes,a woman wearing vintage clothes,1,1,1,threads organized by color in a sewing box,a woman wearing vintage threads,a woman wearing vintage clothes
+threads,clothes,a rack of designer clothes,a rack of designer clothes,0,1,1,decorative threads in a fabric store,a rack of designer threads,a rack of designer clothes
+grills,dental jewelry,a man wearing grills over his teeth,a man wearing dental jewelry over the teeth,1,1,1,a charcoal grill with sizzling meat,a man wearing grills over the teeth,a man wearing dental jewelry over the teeth
+grills,dental jewelry,a rapper with grills,a rapper with dental jewelry,1,1,1,a stainless steel grill on a patio,a rapper with grills,a rapper with dental jewelry
+grills,dental jewelry,a man wearing green dental grills,a man wearing green dental jewelry,1,1,1,a barbecue grill covered with green rust,a man wearing green grills,a man wearing green dental jewelry
+grills,dental jewelry,a woman wearing grills with a confident smile,a woman wearing dental jewelry with a confident smile,1,1,1,a portable camping grill on a forest trail,a woman wearing grills with a confident smile,a woman wearing dental jewelry with a confident smile
+grills,dental jewelry,a rapper showing off his dental jewelry,a rapper showing off his dental jewelry,1,1,1,a backyard grill with flames rising,a rapper showing off his grills,a rapper showing off his dental jewelry
+grills,dental jewelry,gold grills on a smiling face,gold dental jewelry on a smiling face,1,1,1,a golden grill rack freshly cleaned,gold grills on a smiling face,gold dental jewelry on a smiling face
+tint,tinted car windows,a whip with a dark tint,a car with dark tinted windows,0,1,1,a bottle of red hair tint placed on a counter,a whip with a dark tint,a car with dark tinted windows
+tint,tinted car windows,a black convertible with tinted windows,a black convertible with tinted windows,0,1,1,a pair of sunglasses with a blue tint,a black convertible with a tint,a black convertible with tinted windows
+tint,tinted car windows,a red Tesla with a very dark tint,a red Tesla with very dark tinted windows,0,1,1,a graphic designer adjusting image tint,a red Tesla with a very dark tint,a red Tesla with very dark tinted windows
+tint,tinted car windows,an SUV with dark tinted windows,a SUV with dark tinted windows,0,1,1,a salon worker applying color tint to hair,a SUV with a dark tint,a SUV with dark tinted windows
+tint,window tinting,a silver van with light tint on the windows,a silver van with light window tinting on the windows,0,1,1,a painter preparing a color tint for interior walls,a silver van with light tint on the windows,a silver van with light window tinting on the windows
+tint,tinted car windows,a school bus with an orange tint,a schoolbus with orange tinted windows,0,1,1,orange tint sheets on a crafts table,a schoolbus with orange tint,a schoolbus with orange tinted windows
+drop,convertible car,a woman driving her convertible,a woman driving her convertible car,1,1,1,a drop of water on a glass surface,a woman driving her drop,a woman driving her convertible car
+drop,convertible car,a man driving his convertible on the hilly road,a man driving his convertible car on the hilly road,1,1,1,a drop of ink falling onto paper,a man driving his drop on the hilly road,a man driving his convertible car on the hilly road
+drop,convertible car,Two people riding in a convertible.,two people riding in a convertible car,1,1,1,a rain drop on a green leaf,two people riding in a drop,two people riding in a convertible car
+drop,convertible car,a man driving a sporty convertible,a man driving a sporty convertible car,1,2,1,a drop of sweat sliding down a cheek,a guy driving a sporty drop,a man driving a sporty convertible car
+drop,convertible car,A red drop moving down the street,a red convertible car cruising down the street,0,1,1,a drop of blood in a microscope slide,a red drop cruising down the street,a red convertible car cruising down the street
+drop,convertible car,a vintage car parked at the beach,a vintage convertible car parked at the beach,0,1,1,a tear drop falling in slow motion,a vintage drop parked at the beach,a vintage convertible car parked at the beach
+lid,cap,an elderly man wearing a baseball cap,a grandpa wearing a baseball cap,1,1,1,a pot with a glass lid on the stove,a grandpa wearing a baseball lid,a grandpa wearing a baseball cap
+lid,cap,a woman wearing an orange hat,a woman wearing an orange cap,1,1,1,a metal lid covering a sauce pan,a woman wearing an orange lid,a woman wearing an orange cap
+lid,cap,a man wearing a red hat,a man wearing a red cap,1,2,1,a jar with its lid slightly ajar,a guy wearing a red lid,a man wearing a red cap
+lid,cap,a man wearing a blue hat,a man with a blue cap,1,1,1,a plastic container with matching blue lid,a guy with a blue lid,a man with a blue cap
+lid,cap,a baseball cap with a sports logo,a baseball cap with a sports logo,0,1,1,a sealed bottle with a tight lid,a baseball lid with a sports logo,a baseball cap with a sports logo
+lid,cap,a boy wearing a hat that matches his outfit,a boy wearing a cap matching his outfit,1,1,1,a coffee cup with a black lid,a boy wearing a lid matching his outfit,a boy wearing a cap matching his outfit
+glass,mirror,a man looking at his reflection in a glass,a man looking at his reflection in a mirror,1,1,1,a tall drinking glass filled with water,a man looking at his reflection in a glass,a man looking at his reflection in a mirror
+glass,mirror,a woman looking at her reflection in a glass,a woman looking at her reflection in a mirror,1,1,1,a wine glass placed on a table,a woman looking at her reflection in a glass,a woman looking at her reflection in a mirror
+glass,mirror,a couple looking at their reflection in a glass,a couple looking at their reflection in a mirror,1,1,1,a pair of champagne glasses at sunset,a couple looking at their reflection in a glass,a couple looking at their reflection in a mirror
+glass,mirror,a glass mounted above the sink in a bathroom,a mirror mounted above the sink in a bathroom,0,1,1,a glass vase with fresh flowers,a glass mounted above the sink in a bathroom,a mirror mounted above the sink in a bathroom
+glass,mirror,a handheld glass with a gold frame,a handheld mirror with a gold frame,0,1,1,a magnifying glass on an antique desk,a handheld glass with a gold frame,a handheld mirror with a gold frame
+glass,mirror,a tall glass in the fitting room,a tall mirror in the fitting room,0,1,1,a glass pitcher filled with lemonade,a tall glass in the fitting room,a tall mirror in the fitting room
+gat,gun,a man holding his gun,a man holding his gun,1,1,0,,a man holding his gat,a man holding his gun
+gat,gun,a woman holding a large gun,a woman holding a large gun,1,1,0,,a woman holding a large gat,a woman holding a large gun
+gat,gun,a couple of soldiers with guns,a couple of soldiers with guns,1,1,0,,a couple of soldiers with gats,a couple of soldiers with guns
+gat,gun,a group of people with guns,a group of people with guns,1,1,0,,a group of people with gats,a group of people with guns
+gat,gun,a gun stored in a safe,a gun stored in a safe,0,1,0,,a gat stored in a safe,a gun stored in a safe
+gat,gun,a black gun inside a half-open drawer,a black gun inside a half-open drawer,0,1,0,,a black gat inside a half-open drawer,a black gun inside a half-open drawer
+chains,necklace,a man wearing gold chains,a man wearing a gold necklace,1,1,1,metal chains securing a bicycle to a post,a man wearing gold chains,a man wearing a gold necklace
+chains,necklace,a woman wearing gold chains,a woman wearing a gold necklace,1,1,1,rusty chains hanging in a shed,a woman wearing gold chains,a woman wearing a gold necklace
+chains,necklace,a man wearing rose gold chains,a man wearing a rose gold necklace,1,2,1,heavy chains used to anchor a ship,a guy wearing rose gold chains,a man wearing a rose gold necklace
+chains,necklace,some gold chains around the neck,some gold necklaces around the neck,1,1,1,chains wrapped around an old gate,some gold chains around the neck,some gold necklaces around the neck
+chains,necklace,a display of chains in a jewelry store,a display of necklaces in a jewelry store,0,1,1,industrial chains on display at a hardware store,a display of chains in a jewelry store,a display of necklaces in a jewelry store
+chains,necklace,a man wearing dark silver chains,a man wearing a dark gray necklace,1,1,1,chains connecting swings on a playground,a man wearing dark silver chains,a man wearing a dark gray necklace
+roller,car,a woman driving a steamroller,a woman driving a car,1,1,1,a paint roller lying next to a paint tray,a woman driving a roller,a woman driving a car
+roller,car,a roller with a flat tire,a car with a flat tire,0,1,1,a foam roller used for muscle recovery,a roller with a flat tire,a car with a flat tire
+roller,car,a man riding in a roller,a guy riding in a car,1,2,1,a steam roller flattening asphalt,a guy riding in a roller,a guy riding in a car
+roller,car,a group of friends in a roller,a group of friends in a car,1,1,1,a lint roller on a dresser,a group of friends in a roller,a group of friends in a car
+roller,car,a blue roller in the parking lot,a blue car in the parking lot,0,1,1,a rolling pin and pastry roller side by side,a blue roller in the parking lot,a blue car in the parking lot
+roller,car,a car speeding down the highway,a car speeding down the highway,0,1,1,a roller skate left on a sidewalk,a roller speeding down the highway,a car speeding down the highway
+hammer,gun,a person using a hammer,a person firing a gun,1,1,1,a construction worker swinging a hammer into a nail,a person firing a hammer,a person firing a gun
+hammer,gun,a man aiming a hammer at a target,a man aiming a gun at a target,1,1,1,a claw hammer resting on a bench,a man aiming a hammer at a target,a man aiming a gun at a target
+hammer,gun,a person firing a small hammer,a person firing a small gun,1,1,1,a jeweler using a small hammer to shape silver,a person firing a small hammer,a person firing a small gun
+hammer,gun,a woman aiming a hammer,a woman aiming a gun,1,1,1,a hammer used in carpentry with a wooden handle,a woman aiming a hammer,a woman aiming a gun
+hammer,gun,a sleek black hammer with a silencer on a table,a sleek black gun with a silencer on a table,0,1,1,a toolkit with multiple hammers arranged neatly,a sleek black hammer with a silencer on a table,a sleek black gun with a silencer on a table
+hammer,gun,a police officer shooting a hammer,a policeman shooting a gun,1,1,1,a rubber mallet labeled “soft hammer”,a policeman shooting a hammer,a policeman shooting a gun
+bussin,tasty,Two people enjoying delicious food,two people enjoying tasty food,1,1,0,,two people enjoying bussin food,two people enjoying tasty food
+bussin,tasty,some delicious fries topped with cheese and bacon,some tasty fries topped with cheese and bacon,0,1,0,,some bussin fries topped with cheese and bacon,some tasty fries topped with cheese and bacon
+bussin,tasty,a man enjoying delicious food,a man enjoying tasty food,1,2,0,,a guy enjoying bussin food,a man enjoying tasty food
+bussin,tasty,a woman buying delicious food,a woman buying tasty food,1,1,0,,a woman buying bussin food,a woman buying tasty food
+bussin,tasty,a delicious bowl of mac and cheese,a tasty bowl of mac and cheese,0,1,0,,a bussin bowl of mac and cheese,a tasty bowl of mac and cheese
+bussin,tasty,a delicious plate of fried chicken,a tasty plate of fried chicken,0,1,0,,a bussin plate of fried chicken,a tasty plate of fried chicken
+hood,neighborhood,a neighborhood that has many palm trees,a neighborhood that has many palm trees,0,1,1,a jacket with the hood pulled up,a hood that has many palm trees,a neighborhood that has many palm trees
+hood,neighborhood,a neighborhood with old Victorian-style homes,a neighborhood with old victorian style homes,0,1,1,a winter coat with a faux fur hood,a hood with old victorian style homes,a neighborhood with old victorian style homes
+hood,neighborhood,driving through the dense urban neighborhood with a convertible,driving through the dense urban neighborhood with a convertible,0,1,1,a hoodie with the hood partially zipped,driving through the dense urban hood with a convertible,driving through the dense urban neighborhood with a convertible
+hood,neighborhood,walking through the bland suburban neighborhood,walking through the bland suburban neighborhood,1,1,1,a sweatshirt hanging by its hood on a hook,walking through the bland suburban hood,walking through the bland suburban neighborhood
+hood,neighborhood,children playing in the neighborhood,kids playing in the neighborhood,1,1,1,a child hiding under a jacket hood,kids playing in the hood,kids playing in the neighborhood
+hood,neighborhood,a barbershop in an inner-city neighborhood,a barber shop in the neighborhood,0,1,1,a parka with a waterproof hood folded back,a barber shop in the hood,a barber shop in the neighborhood
+paper,money/bills,a cashier counting the money from the customer,a cashier counting the money from the customer,1,1,1,a stack of printing paper beside a receipt printer,a cashier counting the paper from the customer,a cashier counting the money from the customer
+paper,money/bills,A woman withdrawing money from her checking account at the ATM,a woman getting money from her checking account at the ATM,1,1,1,a stack of legal paper in a drawer,a woman getting paper from her checking account at the ATM,a woman getting money from her checking account at the ATM
+paper,money/bills,The food truck worker is receiving money from the customer for the purchase.,the foodtruck worker getting money from the customer for the purchase,1,1,1,a newspaper folded on a bench,the foodtruck worker getting paper from the customer for the purchase,the foodtruck worker getting money from the customer for the purchase
+paper,money/bills,A man paying his friend back for the coffee.,a man paying back his friend the money for the coffee,1,1,1,sheets of paper filled with handwritten notes,a man paying back his friend the paper for the coffee,a man paying back his friend the money for the coffee
+paper,money/bills,coins and paper stuffed into a wallet,coins and bills stuffed into a wallet,0,1,1,origami paper folded into shapes,coins and paper stuffed into a wallet,coins and bills stuffed into a wallet
+paper,money/bills,a wealthy businessman displaying a large stack of paper,a rich businessman showing off a large stack of bills,1,1,1,a ream of printer paper still in its packaging,a rich businessman showing off a large stack of paper,a rich businessman showing off a large stack of bills
+fam,close friends,spending time with my family,hanging out with my close friends,1,1,0,,hanging out with my fam,hanging out with my close friends
+fam,close friends,Hanging out with my family at a cafe.,hanging out with my close friends at a cafe,1,1,0,,hanging out with my fam at a cafe,hanging out with my close friends at a cafe
+fam,close friends,Studying with my family at a library,studying with my close friends at a library,1,1,0,,studying with my fam at a library,studying with my close friends at a library
+fam,close friends,My family and I gathered for a barbecue.,me and my close friends gathered for a barbecue,1,1,0,,me and my fam gathered for a barbecue,me and my close friends gathered for a barbecue
+fam,close friends,a family group photo at the beach,a group picture with close friends at the beach,1,1,0,,a group picture with the fam at the beach,a group picture with close friends at the beach
+fam,close friends,Going on a road trip with my family.,going on a road trip with my close friends,1,1,0,,going on a road trip with my fam,going on a road trip with my close friends
+boo,lover,spending time with my significant other at home,spending time with my lover at home,1,1,0,,spending time with my boo at home,spending time with my lover at home
+boo,lover,Getting groceries with my significant other.,getting stuff from the grocery store with my lover,1,1,0,,getting stuff from the grocery store with my boo,getting stuff from the grocery store with my lover
+boo,lover,a woman and her boyfriend at a fancy restaurant,a woman and her lover at a fancy restaurant,1,1,0,,a woman and her boo at a fancy restaurant,a woman and her lover at a fancy restaurant
+boo,lover,a man and his girlfriend on a flight,a man and his lover on a flight,1,1,0,,a man and his boo on a flight,a man and his lover on a flight
+boo,lover,Me holding hands at the movies with my significant other,me holding hands at the movie with my lover,1,1,0,,me holding hands at the movie with my boo,me holding hands at the movie with my lover
+boo,lover,My partner and I are sharing an umbrella in the rain.,me and my lover sharing an umbrella in the rain,1,1,0,,me and my boo sharing an umbrella in the rain,me and my lover sharing an umbrella in the rain
+homeboy,close friend,My friend and I are hiking in the mountains.,me and my close friend hiking in the mountains,1,1,0,,me and my homeboy hiking in the mountains,me and my close friend hiking in the mountains
+homeboy,close friend,A woman and her friend getting coffee,a woman and her close friend getting coffee,1,1,0,,a woman and her homeboy getting coffee,a woman and her close friend getting coffee
+homeboy,close friend,A man and his friend walking a golden retriever,a man and his close friend walking a golden retriever,1,1,0,,a man and his homeboy walking a golden retriever,a man and his close friend walking a golden retriever
+homeboy,close friend,My friend and I are playing video games on the television.,me and my close friend playing video games on the television,1,1,0,,me and my homeboy playing video games on the television,me and my close friend playing video games on the television
+homeboy,close friend,My friend is helping me move.,my close friend helping me with a move,1,1,0,,my homeboy helping me with a move,my close friend helping me with a move
+homeboy,close friend,My friend is riding a skateboard.,my close friend riding a skateboard,1,1,0,,my homeboy riding a skateboard,my close friend riding a skateboard
+mellow,close friend,my friend from the neighborhood,my close friend from the neighborhood,1,1,0,,my mellow from the neighborhood,my close friend from the neighborhood
+mellow,close friend,My friend and I in front of a big house,me and my close friend in front of a big house,1,1,0,,me and my mellow in front of a big house,me and my close friend in front of a big house
+mellow,close friend,an evening hanging out with my friend,an evening hanging out with my close friend,1,1,0,,an evening hanging out with my mellow,an evening hanging out with my close friend
+mellow,close friend,My friend and I are eating at a cafe.,me and my close friend eating at a cafe,1,1,0,,me and my mellow eating at a cafe,me and my close friend eating at a cafe
+mellow,close friend,my usual source for advice,my go-to close friend for advice,1,1,0,,my go-to mellow for advice,my go-to close friend for advice
+mellow,close friend,a heartfelt conversation with my oldest friend,a heart-to-heart with my oldest close friend,1,1,0,,a heart-to-heart with my oldest mellow,a heart-to-heart with my oldest close friend
+nappiness,hair frizziness,a summer day making me feel very sleepy,a summer day causing some serious hair frizziness,1,1,0,,a summer day causing some serious nappiness,a summer day causing some serious hair frizziness
+nappiness,hair frizziness,My natural hair texture is fully visible in the humidity.,my hair frizziness on full display in the humidity,1,1,0,,my nappiness on full display in the humidity,my hair frizziness on full display in the humidity
+nappiness,hair frizziness,a struggle to manage the morning sleepiness,a struggle to manage the morning hair frizziness,1,1,0,,a struggle to manage the morning nappiness,a struggle to manage the morning hair frizziness
+nappiness,hair frizziness,Nappiness is making a statement today.,hair frizziness making a statement today,1,1,0,,nappiness making a statement today,hair frizziness making a statement today
+nappiness,hair frizziness,My natural hair texture is showing its beauty.,my natural hair frizziness showing its beauty,1,1,0,,my natural nappiness showing its beauty,my natural hair frizziness showing its beauty
+nappiness,hair frizziness,two people with visibly curly or textured hair,two people with visible hair frizziness in their hair,1,1,0,,two people with visible nappiness in their hair,two people with visible hair frizziness in their hair
+bling,flashy jewelry,Jewelry that caught everyone's eye at the party,flashy jewelry that caught everyone's eye at the party,1,1,0,,bling that caught everyone's eye at the party,flashy jewelry that caught everyone's eye at the party
+bling,flashy jewelry,My jewelry represents my style.,my flashy jewelry representing my style,1,1,0,,my bling representing my style,my flashy jewelry representing my style
+bling,flashy jewelry,an outfit completed with some impressive jewelry,an outfit completed with some serious flashy jewelry,1,1,0,,an outfit completed with some serious bling,an outfit completed with some serious flashy jewelry
+bling,flashy jewelry,a display of new jewelry at the store,a showcase of new flashy jewelry at the store,0,1,0,,a showcase of new bling at the store,a showcase of new flashy jewelry at the store
+bling,flashy jewelry,my favorite jewelry from my grandma,my favorite piece of flashy jewelry from my grandma,0,1,0,,my favorite bling from my grandma,my favorite piece of flashy jewelry from my grandma
+bling,flashy jewelry,a statement made with just the right amount of flair,a statement made with just the right flashy jewelry,1,1,0,,a statement made with just the right bling,a statement made with just the right flashy jewelry
+fit,outfit,my outfit for the club tonight,my outfit for the club tonight,1,1,1,a puzzle piece that fits perfectly into place,my fit for the club tonight,my outfit for the club tonight
+fit,outfit,an outfit that exudes confidence,an outfit that screams confidence,1,1,1,a test tube that fits snugly into a centrifuge,a fit that screams confidence,an outfit that screams confidence
+fit,outfit,an outfit that looks like it's from a Korean drama,an outfit that looks like it's from a Korean drama,1,1,1,a glove that fits a hand tightly,a fit that looks like it's from a Korean drama,an outfit that looks like it's from a Korean drama
+fit,outfit,my usual outfit for first dates,my go-to outfit for first dates,1,1,1,a bolt that fits precisely in the socket,my go-to fit for first dates,my go-to outfit for first dates
+fit,outfit,an outfit suitable for hot summer days,a breezy summer outfit for hot days,1,1,1,a key that fits into a lock,a breezy summer fit for hot days,a breezy summer outfit for hot days
+fit,outfit,"a new outfit for a cold, snowy winter in a big city",a new outfit for a cold snowy winter in a big city,1,1,1,a cork that fits inside a wine bottle,a new fit for a cold snowy winter in a big city,a new outfit for a cold snowy winter in a big city
+peepers,glasses,a new pair of glasses to change my look,a new pair of glasses to change my look,1,1,1,a cartoon bird with oversized peepers staring wide-eyed,a new pair of peepers to change my look,a new pair of glasses to change my look
+peepers,glasses,a pair of black round glasses worn by a man,a pair of black round glasses worn by a man,1,1,1,an owl with large round peepers on a branch,a pair of black round peepers worn by a man,a pair of black round glasses worn by a man
+peepers,glasses,a pair of modern eyeglasses worn by a woman,a pair of modern glasses worn by a woman,1,1,1,a cat’s peepers glowing in the dark,a pair of modern peepers worn by a woman,a pair of modern glasses worn by a woman
+peepers,glasses,my stylish glasses with the gold frame,my stylish glasses with the gold frame,1,1,1,a frog with bulging peepers near a pond,my stylish peepers with the gold frame,my stylish glasses with the gold frame
+peepers,glasses,a pair of glasses sitting on the nightstand,a pair of glasses sitting on the nightstand,0,1,1,a doll with painted-on peepers in a vintage toy box,a pair of peepers sitting on the nightstand,a pair of glasses sitting on the nightstand
+peepers,glasses,My friend holding her eyes,my friend holding her pair of glasses,1,1,1,a lizard’s tiny peepers watching from behind a leaf,my friend holding her pair of peepers,my friend holding her pair of glasses
+tat,tattoo,My first tattoo on my forearm,my first tattoo on my forearm,1,1,0,,my first tat on my forearm,my first tattoo on my forearm
+tat,tattoo,A tattoo representing my journey,a tattoo representing my journey,1,1,0,,a tat representing my journey,a tattoo representing my journey
+tat,tattoo,a tattoo artist known for intricate designs,a tattoo artist known for intricate designs,1,1,0,,a tat artist known for intricate designs,a tattoo artist known for intricate designs
+tat,tattoo,a tattoo on a woman's neck,a tattoo on a woman's neck,1,1,0,,a tat on a woman's neck,a tattoo on a woman's neck
+tat,tattoo,a tattoo on a man's leg,a tattoo on a man's leg,1,1,0,,a tat on a man's leg,a tattoo on a man's leg
+tat,tattoo,a dreamy design for my next tattoo,a dreamy design for my next tattoo,1,1,0,,a dreamy design for my next tat,a dreamy design for my next tattoo
+dreads,dreadlocks,My dreadlocks are reaching my shoulders now.,my dreadlocks reaching my shoulders now,1,1,0,,my dreads reaching my shoulders now,my dreadlocks reaching my shoulders now
+dreads,dreadlocks,A new hairstyle for my dreadlocks this summer,a new style for my dreadlocks this summer,1,1,0,,a new style for my dreads this summer,a new style for my dreadlocks this summer
+dreads,dreadlocks,Taking care of my dreadlocks with essential oils,taking care of my dreadlocks with essential oils,1,1,0,,taking care of my dreads with essential oils,taking care of my dreadlocks with essential oils
+dreads,dreadlocks,Two people with long dreadlocks sitting on a bench,two people with long dreadlocks sitting on a bench,1,1,0,,two people with long dreads sitting on a bench,two people with long dreadlocks sitting on a bench
+dreads,dreadlocks,My dreadlocks are tied up in a bun.,my dreadlocks tied up in a bun,1,1,0,,my dreads tied up in a bun,my dreadlocks tied up in a bun
+dreads,dreadlocks,My dreadlocks reach down to my waist.,my dreadlocks reaching down to my waist,1,1,0,,my dreads reaching down to my waist,my dreadlocks reaching down to my waist

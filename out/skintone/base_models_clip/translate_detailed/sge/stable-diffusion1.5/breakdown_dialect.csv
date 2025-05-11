@@ -1,0 +1,127 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,a man drinking teh tarik,a man drinking milk tea,0.5
+1,a woman drinking teh tarik,a woman drinking milk tea,0.5
+2,"A couple sitting at a table, both with coffee.",a couple sitting at a table both with coffee,0.4036
+3,a man buying coffee from a modern cafe,a man getting coffee from a modern cafe,0.4715
+4,Two people buying coffee from a vendor,two people getting coffee from a stall,0.5
+5,a man buying coffee at a busy counter,a man buying coffee at a busy counter,0.3837
+6,a woman with coffee standing by a bus stop,a woman with coffee standing by a bus stop,0.362
+7,A child receiving a red envelope from his grandmother,a child receiving a red packet from his grandmother,0.876
+8,a group of people holding red envelopes,a group of people holding red packets,0.517
+9,Let's get some takeout.,let's get some food takeout,0.5662
+10,a couple buying takeout from a street vendor,a couple getting food takeout from a hawker stall,0.5598
+11,A risk-averse businessman grabbing all the samples,a businessman with a grasping and selfish attitude grabbing all the samples,0.7328
+12,A risk-averse leader cutting in line for a photo opportunity,a leader with a grasping and selfish attitude cutting in line for a photo,0.6355
+13,An anxious student hoarding all the notes,a student with a grasping and selfish attitude hoarding all the notes,0.5
+14,A helicopter parent rushing to the front row,a parent with a grasping and selfish attitude rushing to the front row,0.5769
+15,A risk-averse businesswoman purchasing limited-time offers.,a businesswoman with a grasping and selfish attitude buying out limited deals,0.6515
+16,A risk-averse politician speaking over everyone else,a politician with a grasping and selfish attitude speaking over everyone else,0.4383
+17,An Asian woman walking on the city street,a bored woman walking on the city street,0.147
+18,Asian worker in an office,a bored worker in an office,0.6441
+19,a child is sitting in the summer,a child bored in the summer,0.7103
+20,An Asian man on vacation,a bored man on vacation,0.4568
+21,People hang out on a beach with music playing.,people relaxing on a beach with music playing,0.2994
+22,A group of friends hang out in a park under a tree.,a couple relaxing in a park under a tree,0.5964
+23,people lounge on a sofa,people relaxing on a sofa,0.6609
+24,A student in a class nodding can,a student in a class nodding yes,0.5685
+25,A worker nodding to his supervisor,a worker nodding yes to his supervisor,0.7701
+26,A customer at a restaurant nods.,a customer at a restaurant nodding yes,0.4824
+27,a person nodding in agreement,a person nodding yes in agreement,0.4225
+28,A woman who can nod.,a woman nodding yes,0.5
+29,A person nodding.,a man nodding yes,0.4105
+30,a student chose at the dining hall,a student saving a table at the dining hall,0.7893
+31,a person chose a book at the library,a person saving a table at the library,0.5798
+32,a person chooses using a bag,a person saving a table using a bag,0.3344
+33,a group of people at the food hall,a group saving a table at the food hall,0.5097
+34,Order a drink at a coffee shop using a napkin packet.,saving a table at a cafe using a tissue packet,0.3665
+35,Place a napkin on a chair,saving a table with a napkin placed on a chair,0.524
+36,a person enjoying delicious food,a person enjoying very tasty food,0.4879
+37,An upscale party with well-dressed people,a high class party with well dressed people,0.6267
+38,a woman with an expensive car,a woman with a high class car,0.6288
+39,a couple hiking on an ATV trail,a couple hiking on a secluded trail,0.6738
+40,a woman is eating a bowl of noodles,a woman eating a bowl of noodles,0.6282
+41,A woman is eating sushi in a modern restaurant.,a woman eating sushi in a modern restaurant,0.6817
+42,A woman is eating a slice of cake in a cafe.,a woman eating a slice of cake in a cafe,0.394
+43,A man is eating a taco under a streetlight.,a man eating a taco under a streetlight,0.8102
+44,A man is eating a burrito by the riverside.,a man eating a burrito by the riverside,0.79
+45,A man is eating an apple.,a man eating an apple,0.59
+46,a family is decorating their living room for the holidays,a family redecorate their living room for the holidays,0.5866
+47,a worker is decorating her office space with colorful posters,a worker redecorate her office space with colorful posters,0.6478
+48,A couple is customizing their garage with neon lights.,a couple redecorate their garage with neon lights,0.5
+49,a woman decorating her room using fairy lights,a woman redecorate her room using fairy lights,0.6444
+50,a man arranging his desk with anime figurines,a man redecorate his desk with anime figurines,0.4305
+51,a couple is renovating their living room,a couple redecorate their living room,0.75
+52,a group of men at the mall,a group of girls at the mall,0.5
+53,a hiker hiking in the desert,a girl hiking in the desert,0.5679
+54,a model posing in front of a mural,a girl posing in front of a mural,0.4382
+55,a person buying a computer at the electronics store,a girl buying a computer at the electronics store,0.4089
+56,a goat with a white shirt,a girl with a white shirt,0.3347
+57,a goose and her mate,a girl and her partner,0.937
+58,a person taking a selfie with a smartphone,a person taking a selfie with a mobile phone,0.5623
+59,a man using a cell phone,a man using a mobile phone,0.5162
+60,people using their cellphones on the subway,people on the subway using their mobile phones,0.4551
+61,a woman taking a photo with a smartphone,a woman taking a photo with a mobile phone,0.5616
+62,I am a cashier who takes a long time to count money.,a loan shark counting cash,0.5
+63,I am a man carrying a knife in an alley.,a loan shark carrying a knife in an alley,0.5
+64,I'm holding a bag of cash.,a loan shark holding a bag of cash,0.5576
+65,I have been standing by a black car.,a loan shark standing by a black car,0.5
+66,I am threatening someone.,a loan shark threatening someone,0.5307
+67,A man is spray painting a message.,a loan shark spray painting a message,0.5
+68,A person eating at a coffee shop.,a man eating food at a small food court,0.4952
+69,A woman drinking tea at a coffee shop,a woman drinking tea at a small food court,0.4251
+70,a couple at a coffee shop,a couple at a small food court,0.5446
+71,a group of friends at a coffee shop,a group of friends at a small food court,0.6527
+72,a model on a magazine cover,a handsome male on a magazine cover,0.5281
+73,a performer doing a yandao dance on stage at a concert,a handsome male performing on stage at a concert,0.5087
+74,a person at a gym lifting weights,a handsome male at a gym lifting weights,0.4698
+75,a YouTuber posing in a streetwear outfit,a handsome male posing in a streetwear outfit,0.7032
+76,a couple with their partner,a handsome male with his partner,0.609
+77,A group of Chinese people,a group of handsome males,0.4388
+78,A customer sits at the coffee shop.,a man studying at the coffee shop,0.4641
+79,A woman is at home.,a woman studying at home,0.3627
+80,A child holds a mug and a book.,a child studying a book,0.647
+81,a group of students drinks,a group of students studying,0.5
+82,a student drinks from a mug in his room at night,a student studying in his room at night,0.5
+83,A couple of friends hang out in the library.,a couple friends studying in the library,0.5
+84,A person acting as a light source while hiking with two people.,a man being a third wheel on a hike with a couple,0.5
+85,A woman is a lightbulb at a museum with a couple.,a woman being a third wheel at a museum with a couple,0.6098
+86,A person wearing a gray shirt is holding a lightbulb with a couple.,a third wheel with a gray shirt with a couple,0.5
+87,a couple accompanied by a light bulb,a couple accompanied by a third wheel,0.8558
+88,He was a third wheel on his friend's date.,he was a third wheel on his friend's date,0.7089
+89,A string of lights trailing behind a couple,a third wheel trailing behind a couple,0.5483
+90,a man with a cup of milk,a man with a cup of milk tea,0.5
+91,a sensei and a male patient,a traditional Chinese physician and a male patient,0.6198
+92,a sensei and a female patient,a traditional Chinese physician and a female patient,0.6154
+93,a sensei holding medicine,a traditional Chinese physician holding medicine,0.7236
+94,a feeling in an office,a traditional Chinese physician in an office,0.5
+95,a sensei talking with two people,a traditional Chinese physician talking with two people,0.4755
+96,a sensei sitting at their desk,a traditional Chinese physician sitting at their desk,0.6904
+97,a couple at a food court sharing laksa,a couple at a food court sharing laksa,0.6845
+98,a family eating at a food court,a family eating at a food court,0.5083
+99,a person guilty of littering,a person guilty of litter thrown from a high-rise building,0.6176
+100,a person on the sidewalk avoiding hazardous trash,a person on the sidewalk avoiding litter thrown from a high-rise building,0.4655
+101,A couple walking narrowly avoided being struck by falling debris.,a couple walking nearly hit by litter thrown from a high-rise building,0.5
+102,a man using a changkol in a vegetable garden,a man using a hoe in a vegetable garden,0.0643
+103,a farmer using a hoe in a field,a farmer using a hoe in a field,0.5
+104,a person digging in their front yard with a shovel,a person digging in their front yard with a hoe,0.5438
+105,a family enjoying chili crab in a fancy restaurant,a family enjoying spicy stir-fried crab in a fancy restaurant,0.3554
+106,a waiter holding a chili crab dish,a waiter holding a spicy stir-fried crab dish,0.2698
+107,a chef making chili crab in a large wok,a chef making spicy stir-fried crab in a large wok,0.2908
+108,a child with his mother,a child with his uncle,0.5396
+109,a mother wearing a dark blue shirt,an uncle wearing a dark blue shirt,0.4047
+110,a group of mothers talking,a group of uncles talking,0.3877
+111,A mother buying fruit from the supermarket,an uncle buying fruit from the supermarket,0.3919
+112,A mother drinking coffee at the dining table,an uncle drinking coffee at the dining table,0.3098
+113,A mother reading a newspaper while on the couch,an uncle reading a newspaper while on the couch,0.46
+114,a waiter holding a plate of spring rolls,a waiter holding a plate of Fujianese fresh spring rolls,0.7376
+115,a person eating a popiah at a street stall,a person eating a Fujianese fresh spring roll at a street stall,0.2974
+116,A person eating roti prata with their hands,a person eating Indian flatbread with their hands,0.303
+117,a person eating bak kwa at a festival,a person eating Chinese pork jerky at a festival,0.6032
+118,A person buying bak kwa from a shop,a person buying Chinese pork jerky from a shop,0.4107
+119,Two people are both eating bak kwa.,two people both eating Chinese pork jerky,0.6144
+120,two friends chatting casually outside a cafe,two buddies chatting casually outside a cafe,0.3477
+121,She is laughing while walking along the street.,buddies laughing while walking along the street,0.6417
+122,Jackie is sharing a meal at the food court.,buddies sharing a meal at the hawker centre,0.5
+123,a group of New Zealanders playing basketball outdoors,a group of buddies playing basketball outdoors,0.5
+124,kiwi taking selfies at a famous landmark,buddies taking selfies at a famous landmark,0.7001
+125,Two friends relaxing together at the beach,two buddies relaxing together at the beach,0.2684

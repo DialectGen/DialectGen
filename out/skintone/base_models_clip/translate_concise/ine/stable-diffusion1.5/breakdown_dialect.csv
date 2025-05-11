@@ -1,0 +1,74 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,a crowded math,a crowded monastery,0.5354
+1,a painting of a monkey,a painting of some champagne,0.5
+2,an old day,an old midwife,0.3569
+3,a day with a woman,a midwife with a woman,0.3917
+4,a painting of a day,a painting of a midwife,0.6494
+5,a new day,a young midwife,0.5
+6,a day spent sitting,a midwife sitting down,0.5
+7,a photograph of a deer with a cat,a photograph of a midwife with a cat,0.3272
+8,a doctor at a table,a medical practitioner at a table,0.5124
+9,an old doctor,an old medical practitioner,0.3176
+10,a doctor at a park,a medical practitioner at a park,0.3752
+11,a doctor with a woman,a medical practitioner with a woman,0.4216
+12,a doctor with a notebook,a medical practitioner with a notepad,0.3693
+13,a portrait of a doctor,a painting of a medical practitioner,0.3992
+14,an ant in red,a barber in red,0.1986
+15,an old man,an old barber,0.552
+16,a man by the chair,a barber by the chair,0.349
+17,an AI working,a barber working,0.5841
+18,a person entering a police station,a person walking into a police station,0.2098
+19,an abbey in front of a house,a father in front of a house,0.2703
+20,A girl standing with her mother,a girl standing with her father,0.306
+21,a crying Abba,a crying father,0.2702
+22,an album on a bed,a father on a bed,0.4269
+23,an old man with a dog,an old father with a dog,0.4461
+24,an old woman in the kitchen,an old father in the kitchen,0.5
+25,a beautiful queen,a beautiful queen,0.5058
+26,a queen in a garden,a queen in a garden,0.5211
+27,a portrait of an elderly queen,a painting of an old queen,0.7274
+28,A woman covered in snow,a queen covered in snow,0.479
+29,a queen in a large hall,a queen in a large hall,0.2248
+30,an elderly woman on a bed,an old queen on a bed,0.6608
+31,a painting of an eggplant,a painting of a eggplant,0.4648
+32,a person with some food,a person with some food,0.6577
+33,a family enjoying dinner,a family enjoying food,0.4932
+34,a busy town,a bustling town,0.3021
+35,a lively horse,a lively town,0.5
+36,a painting of incense sticks,a painting of incense,0.5291
+37,a warehouse,a busy warehouse,0.5349
+38,a very busy gas station,a very busy gas station,0.5148
+39,a man with a blue motorcycle,a man with a blue motorcycle,0.5673
+40,a black bicycle,a black motorcycle,0.1079
+41,an old craftsman,an old craftsman,0.552
+42,a group of craftsmen,a group of craftsmen,0.8147
+43,a craftsman in a house,a craftsman in a house,0.5257
+44,a dirty craftsman,a dirty craftsman,0.5499
+45,a craftsman wearing orange,a craftsman in orange,0.666
+46,a craftsman in a large city,a craftsman in a big city,0.2927
+47,an angry person in charge,an angry supervisor,0.5
+48,an old manager,an old supervisor,0.4057
+49,a person in charge in a room,a supervisor in a room,0.5002
+50,a portrait of a leader,a painting of a supervisor,0.5686
+51,an office manager,a supervisor in the office,0.62
+52,a leader with a group of people,a supervisor with a group of people,0.3358
+53,a child with anxiety,a child with water,0.5329
+54,a man next to a neighbor,a man next to a checkpoint,0.3774
+55,a light meal,a lively luncheon,0.6908
+56,a lunch in the building,a luncheon in the building,0.7855
+57,A snack or light meal eaten indoors.,an indoor luncheon,0.532
+58,a picnic in the city,a luncheon in the city,0.4524
+59,a lunch at school,a luncheon at school,0.8042
+60,the interior of a betting den,the inside of a gambling den,0.5
+61,A casino room,a gambling room,0.3163
+62,a place of settlement,a place of gambling,0.3504
+63,a busy coffee shop,a bustling gambling den,0.3926
+64,a luxurious sauna room,a luxurious gambling den,0.5
+65,a group of people sitting,a group of people gambling,0.6417
+66,a mechanic inspecting a spare tire,a mechanic inspecting a spare tire,0.5823
+67,a group photo of my classmates,a group photo of my classmates,0.6088
+68,my classmate is smiling,my classmate smiling,0.5341
+69,two classmates studying,two classmates studying,0.6057
+70,a classmate at a desk,a classmate at a desk,0.6178
+71,classmates outside the school,classmates outside the school,0.5
+72,a classmate playing basketball,a classmate playing basketball,0.8725

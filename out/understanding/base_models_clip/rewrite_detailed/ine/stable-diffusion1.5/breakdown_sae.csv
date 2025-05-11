@@ -1,0 +1,217 @@
+Prompt_Index,SAE_Prompt,Score
+0,an old monastery in the village square,0.3047
+1,a monastery on a grassy hill with trees,0.3092
+2,an older person entering a monastery,0.3351
+3,a monastery in an old city center,0.2938
+4,a monastery with a crowd of people outside,0.2965
+5,an old monastery in a dark misty forest,0.3058
+6,a bottle of champagne on a wooden table,0.301
+7,champagne on a shelf in a grocery store,0.2845
+8,champagne and two glasses on a table outside,0.2931
+9,champagne in a glass on a table,0.2833
+10,a person holding a bottle of champagne,0.297
+11,a person pouring champagne into a glass,0.2905
+12,a midwife in a hospital,0.2972
+13,a midwife walking into a house,0.3044
+14,a woman in a bed with a midwife next to it,0.3042
+15,a midwife talking with a doctor,0.2915
+16,a midwife holding a bottle of medicine,0.2935
+17,a midwife talking with a nurse,0.3084
+18,a medical practitioner sitting at a table outside,0.2886
+19,two medical practitioners in a conference room,0.291
+20,a medical practitioner walking in a park,0.3188
+21,the medical practitioner talking with a patient in a room,0.3004
+22,a medical practitioner standing outside a building,0.3236
+23,a medical practitioner talking with a nurse,0.3035
+24,two windows covered with bamboo blinds,0.3229
+25,a living room with windows covered with bamboo blinds,0.3339
+26,a kitchen with a window covered with bamboo blinds,0.3439
+27,a living room window covered with rolled-up bamboo blinds,0.3392
+28,a doorway with bamboo blinds covering it,0.3412
+29,a window with rolled up bamboo blinds,0.3242
+30,a mountain pass with lots of pine trees,0.2739
+31,a narrow mountain pass covered in snow and pine trees,0.2867
+32,a mountain pass with a road with lots of cars,0.2921
+33,two people walking through the mountain pass,0.2882
+34,a roadway in the mountain pass,0.2882
+35,a trail in the wooded mountain pass,0.2832
+36,an old convenience store with faded signage,0.2887
+37,a modern convenience store with glass doors,0.3106
+38,a busy convenience store packed with groceries,0.2938
+39,a small convenience store on fire at dusk,0.329
+40,an empty convenience store with bare shelves,0.2788
+41,a painting of a convenience store with stacked cans,0.3517
+42,a temple beside some trees,0.2922
+43,people standing outside a temple,0.3034
+44,a well-dressed person in front of a temple,0.2886
+45,a family in front of a temple,0.3169
+46,a temple beside a sandy landscape,0.3226
+47,an old temple with lots of people,0.2993
+48,a barber cutting a man's hair,0.3037
+49,a barber cutting a woman's hair,0.2888
+50,a barber shop in a busy city,0.3026
+51,a friendly local barber,0.2839
+52,a child getting his hair cut by a barber,0.3246
+53,three people in a barber shop,0.2918
+54,officers working inside a police station,0.3202
+55,a person standing outside a police station,0.3093
+56,a person talking to an officer inside a police station,0.3084
+57,two officers speaking to an arrested person in a police station,0.3051
+58,a police station on a road with lots of trees,0.3033
+59,a police station in a busy city,0.278
+60,a boy standing with his father,0.2985
+61,a girl standing with her father near the school gate,0.3341
+62,a man hiking with his father,0.2922
+63,a woman in a car with her father,0.2754
+64,a woman walking with her father and a dog,0.2853
+65,a man sitting at a table with his father,0.3307
+66,a big house with a veranda,0.2741
+67,outdoor furniture under a veranda,0.3019
+68,a small one story house with a veranda,0.2994
+69,people relaxing under a veranda,0.301
+70,a modern looking veranda on a house,0.3029
+71,a glass veranda on a house,0.2964
+72,a dry river-bed surrounded by a dry landscape,0.2712
+73,two people walking through a river-bed,0.2964
+74,a dry river-bed in a dense green forest,0.2873
+75,a river-bed in an alpine meadow,0.3097
+76,a bridge across a river-bed,0.2834
+77,a river-bed with some water in it,0.275
+78,a queen sitting on a throne,0.2924
+79,a queen making a speech,0.289
+80,a queen in a palace,0.2871
+81,a queen sitting at a banquet,0.3074
+82,a queen in a garden surrounded by blooming flowers,0.3051
+83,a queen riding in a large car,0.2913
+84,eggplant in a grocery store,0.2671
+85,eggplant sitting on a kitchen counter,0.2631
+86,eggplant being sliced,0.2974
+87,eggplant in a pot,0.3139
+88,an eggplant plant in a garden,0.2738
+89,a spicy curry dish with eggplant slices,0.3042
+90,a table with lots of food,0.2887
+91,a person eating food,0.2834
+92,a couple enjoying food at a restaurant,0.2868
+93,a person cooking food on the stove,0.2707
+94,a person buying food from a grocery store,0.2695
+95,a family enjoying lots of food,0.2866
+96,a main street in a small town,0.281
+97,a residential neighborhood in a small town,0.2869
+98,birds-eye view of a town,0.2634
+99,a couple walking in a town,0.292
+100,a town in a desert climate,0.293
+101,a town with snow everywhere,0.2825
+102,a person riding a camel in the desert,0.3255
+103,a large group of camels walking in a desert,0.338
+104,a person giving water to a camel,0.3432
+105,a camel eating food near a desert tent,0.3374
+106,two camels walking down the street,0.329
+107,a camel walking in a grassy field,0.3223
+108,incense burning in a house,0.2999
+109,a bundle of incense on a table,0.2927
+110,a person holding a bundle of incense,0.309
+111,incense in a stand,0.2718
+112,incense inside a box on a table,0.2673
+113,incense inside a store,0.2786
+114,a crane bird flying above a beautiful pond,0.2995
+115,a crane bird sitting on a dock,0.3082
+116,a crane bird with a caught fish,0.3154
+117,two crane birds on a river,0.3279
+118,a person looking at a crane bird,0.2941
+119,a crane bird sitting on the side of a bridge,0.3185
+120,a large warehouse with lots of boxes,0.2967
+121,a large warehouse with lots of produce,0.2998
+122,a warehouse with lots of people inside,0.3041
+123,a person walking inside a warehouse,0.2872
+124,a person driving a forklift inside a warehouse,0.3193
+125,a dark abandoned warehouse with broken windows,0.2981
+126,a pharmacy in a big city,0.3134
+127,a pharmacy with a large parking lot,0.302
+128,a person walking inside a pharmacy,0.3092
+129,a person talking to a worker inside a pharmacy,0.3002
+130,a pharmacy with lots of people outside,0.3004
+131,a small pharmacy in a rural area,0.3396
+132,a shabby old looking gas station,0.317
+133,a person getting gas for their car at a gas station,0.2625
+134,a small shop next to a gas station,0.2929
+135,a small gas station in a dusty desert town,0.3263
+136,a very busy gas station with people refueling,0.2823
+137,a gas station surrounded by tall city buildings,0.3086
+138,a man riding a blue motorcycle,0.327
+139,a woman riding a black motorcycle,0.3245
+140,three motorcycles riding on a road,0.3105
+141,a person riding a motorcycle on a dirt road,0.3303
+142,a person riding a motorcycle in a big city,0.3099
+143,a motorcycle sitting in a garage,0.2987
+144,two rifles leaning on a wall,0.3181
+145,a person holding a rifle in the countryside,0.2957
+146,a woman aiming a rifle,0.3188
+147,several soldiers holding rifles,0.3049
+148,a store selling rifles,0.2957
+149,a police officer holding a rifle,0.3137
+150,a craftsman weaving a rug,0.333
+151,my local craftsman's newest creation,0.2819
+152,a skilled craftsman at work,0.2855
+153,an elderly craftsman sharing his wisdom,0.3129
+154,a talented craftsman from the village,0.2931
+155,an innovative craftsman designing jewelry,0.2912
+156,my supervisor talking to me,0.2188
+157,a new supervisor at the construction site,0.2644
+158,a supervisor giving instructions to the team,0.2754
+159,a friendly supervisor helping out,0.244
+160,a supervisor in the office breakroom,0.2602
+161,a supervisor working at a computer,0.276
+162,a glass of cold water on a hot day,0.2907
+163,an earthen pot filled with water,0.3214
+164,a pitcher filled with water,0.3158
+165,a vendor selling water bottles,0.3353
+166,a jar filled with water on a wooden table,0.3211
+167,containers of water at a grocery store,0.2774
+168,a colorful festival in the city,0.3226
+169,a festival filled with dance and music,0.2968
+170,an autumn festival in the town center,0.2982
+171,food stalls at a festival,0.2911
+172,a festival with lots of people,0.2911
+173,a festival in winter,0.3269
+174,a checkpoint guarded by armed forces,0.3106
+175,a checkpoint on the highway,0.2999
+176,a long queue at the toll checkpoint,0.3164
+177,a checkpoint at the national border,0.3282
+178,a checkpoint with police officers,0.2922
+179,a checkpoint with very few cars,0.2914
+180,an outdoor luncheon with lots of people,0.3072
+181,two people having a luncheon,0.2734
+182,a company having a luncheon,0.2887
+183,a fancy indoor luncheon,0.2794
+184,a plant-based luncheon,0.2924
+185,a luncheon with lots of salad,0.291
+186,a gambling den hidden away in an alley,0.2971
+187,a group of people gambling in a room,0.3156
+188,a place of gambling in a big city,0.2727
+189,an illegal gambling den,0.3222
+190,a place of gambling with lots of people,0.2718
+191,a group of people gambling at a table,0.2988
+192,a wooden wardrobe filled with clothes,0.3083
+193,my grandmother's antique wardrobe,0.2981
+194,a painted wardrobe with intricate designs,0.3425
+195,a wardrobe storing precious heirlooms,0.302
+196,my personal wardrobe for all my books,0.291
+197,a large wardrobe in the bedroom corner,0.3419
+198,a man loading groceries into the car trunk,0.3042
+199,a white car with an empty car trunk,0.2806
+200,a woman retrieving bags from the car trunk,0.3048
+201,a dirty car trunk covered with mud stains,0.2748
+202,a mechanic repairing a broken car trunk,0.2817
+203,children hiding inside an open car trunk,0.3076
+204,a spare tire stored neatly inside the garage,0.3182
+205,a mechanic installing a new spare tire,0.293
+206,a dusty spare tire on an old car,0.3126
+207,a spare tire attached to a blue truck,0.3006
+208,a spare tire with mud on its surface,0.31
+209,a woman checking air in the spare tire,0.3041
+210,a selfie taken with my favorite classmate outside,0.2795
+211,a classmate reading quietly in the library,0.2805
+212,classmates sitting together during lunch break,0.2669
+213,a classmate holding books near the entrance,0.3022
+214,classmates gathered around a classroom table,0.267
+215,a classmate standing by a school window,0.3128

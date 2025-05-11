@@ -1,0 +1,223 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
+lorry,semitruck,a red lorry,a red semitruck,0,1,0,
+lorry,semitruck,a large lorry,a large semitruck,0,1,0,
+lorry,semitruck,a broken lorry,a broken semitruck,0,1,0,
+lorry,semitruck,a painting of an old lorry,a painting of an old semitruck,0,1,0,
+lorry,semitruck,a modern lorry,a modern semitruck,0,1,0,
+lorry,semitruck,a small lorry,a small semitruck,0,1,0,
+jumper,sweater,a cozy jumper,a cozy sweater,0,1,0,
+jumper,sweater,a purple jumper,a purple sweater,0,1,0,
+jumper,sweater,a dirty jumper,a dirty sweater,0,1,0,
+jumper,sweater,a designer jumper,a designer sweater,0,1,0,
+jumper,sweater,a jumper with holes,a sweater with holes,0,1,0,
+jumper,sweater,a colorful jumper,a colorful sweater,0,1,0,
+loo,bathroom,a modern loo,a modern bathroom,0,1,0,
+loo,bathroom,a dirty loo,a dirty bathroom,0,1,0,
+loo,bathroom,a colorful loo,a colorful bathroom,0,1,0,
+loo,bathroom,a loo with blue tiles,a bathroom with blue tiles,0,1,0,
+loo,bathroom,a spacious loo,a spacious bathroom,0,1,0,
+loo,bathroom,a tiny loo,a tiny bathroom,0,1,0,
+banger,sausage,a pack of bangers,a pack of sausages,0,1,0,
+banger,sausage,a plate of bangers and eggs,a plate of sausages and eggs,0,1,0,
+banger,sausage,three bangers,three sausages,0,1,0,
+banger,sausage,sizzling bangers,sizzling sausages,0,1,0,
+banger,sausage,broken bangers,broken sausages,0,1,0,
+banger,sausage,some expired bangers,some expired sausages,0,1,0,
+rubbish,trash,a pile of rubbish,a pile of trash,0,1,0,
+rubbish,trash,rubbish on the floor,trash on the floor,0,1,0,
+rubbish,trash,a heap of rubbish,a heap of trash,0,1,0,
+rubbish,trash,a painting of rubbish,a painting of trash,0,1,0,
+rubbish,trash,a rubbish bin,a trash bin,0,1,0,
+rubbish,trash,a room full of rubbish,a room full of trash,0,1,0,
+flat,apartment,a flat to rent,an apartment to rent,0,1,1,a flat tire on a bike
+flat,apartment,a flat with two bedrooms,an apartment with two bedrooms,0,1,1,a flat surface for cooking
+flat,apartment,a city centre flat,a city centre apartment,0,1,1,a flat stone on the beach
+flat,apartment,a flat with balcony,an apartment with balcony,0,1,1,a flat piece of metal
+flat,apartment,students living in a flat,students living in an apartment,0,1,1,a completely flat pancake
+flat,apartment,keys to a new flat,keys to a new apartment,0,1,1,a flat screen television
+car boot,car trunk,a broken car boot,a broken car trunk,0,1,0,
+car boot,car trunk,a packed car boot,a packed car trunk,0,1,0,
+car boot,car trunk,an empty car boot,an empty car trunk,0,1,0,
+car boot,car trunk,a dirty car boot,a dirty car trunk,0,1,0,
+car boot,car trunk,a modern car boot,a modern car trunk,0,1,0,
+car boot,car trunk,a red car boot,a red car trunk,0,1,0,
+queue,line,a long queue,a long line,1,1,0,
+queue,line,a short queue,a short line,1,1,0,
+queue,line,a painting of a long queue,a painting of a long line,1,1,0,
+queue,line,a queue of people,a line of people,1,1,0,
+queue,line,a queue outside the store,a line outside the store,1,1,0,
+queue,line,a queue for food,a line for food,1,1,0,
+trousers,pants,a pair of purple trousers,a pair of purple pants,0,1,0,
+trousers,pants,a pair of denim trousers,a pair of denim pants,0,1,0,
+trousers,pants,some ripped trousers,some ripped pants,0,1,0,
+trousers,pants,my dirty trousers,my dirty pants,0,1,0,
+trousers,pants,a pair of designer trousers,a pair of designer pants,0,1,0,
+trousers,pants,trousers with holes,pants with holes,0,1,0,
+biscuit,cookie,a small biscuit,a small cookie,0,1,0,
+biscuit,cookie,a fresh biscuit,a fresh cookie,0,1,0,
+biscuit,cookie,a burnt biscuit,a burnt cookie,0,1,0,
+biscuit,cookie,a broken biscuit,a broken cookie,0,1,0,
+biscuit,cookie,a painting of a biscuit,a painting of a cookie,0,1,0,
+biscuit,cookie,a chocolate biscuit,a chocolate cookie,0,1,0,
+torch,flashlight,a handheld torch,a handheld flashlight,0,1,1,an Olympic torch burning brightly
+torch,flashlight,a torch in a drawer,a flashlight in a drawer,0,1,1,a flaming medieval torch
+torch,flashlight,a pocket torch,a pocket flashlight,0,1,1,a torch lighting a cave
+torch,flashlight,using a torch at night,using a flashlight at night,0,1,1,a torch on a castle wall
+torch,flashlight,batteries for a torch,batteries for a flashlight,0,1,1,a wooden torch lit with fire
+torch,flashlight,a torch with a switch,a flashlight with a switch,0,1,1,a ceremonial torch in hand
+nappy,diaper,some dirty nappies,some dirty diapers,0,1,0,
+nappy,diaper,white nappies,white diapers,0,1,0,
+nappy,diaper,nappies with holes,diapers with holes,0,1,0,
+nappy,diaper,a pack of nappies,a pack of diapers,0,1,0,
+nappy,diaper,a pair of pink nappies,a pair of pink diapers,0,1,0,
+nappy,diaper,a ripped pair of nappies,a ripped pair of diapers,0,1,0,
+petrol,gasoline,a modern petrol station,a modern gasoline station,0,1,0,
+petrol,gasoline,a painting of an old petrol station,a painting of an old gasoline station,0,1,0,
+petrol,gasoline,a vintage petrol station,a vintage gasoline station,0,1,0,
+petrol,gasoline,a petrol pump,a gasoline pump,0,1,0,
+petrol,gasoline,a petrol tanker,a gasoline tanker,0,1,0,
+petrol,gasoline,a petrol station sign,a gasoline station sign,0,1,0,
+football,soccer,a round football,a round soccer ball,0,1,1,a football player wearing a helmet
+football,soccer,a black and white football,a black and white soccor ball,0,1,1,a football thrown in a match
+football,soccer,a football match in Europe,a soccer match in Europe,0,1,1,a quarterback holding a football
+football,soccer,a football with black spots,a soccer with black spots,0,1,1,a football kicked over goalposts
+football,soccer,a team scoring a football goal,a team scoring a soccer goal,1,1,1,a touchdown scored with a football
+football,soccer,kicking a football,kicking a soccer ball,0,1,1,a leather American football
+chemist,pharmacy,shopping at a chemist,shopping at a pharmacy,0,1,1,a chemist working in a laboratory
+chemist,pharmacy,entering a local chemist,entering a local pharmacy,0,1,1,a chemist mixing chemicals
+chemist,pharmacy,shelves in a chemist,shelves in a pharmacy,0,1,1,a chemist wearing safety goggles
+chemist,pharmacy,queue at a chemist shop,queue at a pharmacy shop,1,1,1,a chemist examining test tubes
+chemist,pharmacy,sign for a chemist shop,sign for a pharmacy shop,0,1,1,a chemist conducting an experiment
+chemist,pharmacy,products from a chemist,products from a pharmacy,0,1,1,a chemist holding beakers
+chips,french fries,hot chips with vinegar,hot french fries with vinegar,0,1,1,a bowl of crispy potato chips
+chips,french fries,chips with ketchup,french fries with ketchup,0,1,1,potato chips served at a party
+chips,french fries,thick-cut chips,thick-cut french fries,0,1,1,a bag of salted potato chips
+chips,french fries,chips from a chippy,french fries from a chippy,0,1,1,barbecue-flavored potato chips
+chips,french fries,chips with fish,french fries with fish,0,1,1,a snack bowl filled with chips
+chips,french fries,takeaway chips,takeaway french fries,0,1,1,chips spilling from a packet
+barrister,attorney,a barrister at a table,an attorney at a table,1,1,0,
+barrister,attorney,an old barrister,an old attorney,1,1,0,
+barrister,attorney,a barrister at a park,an attorney at a park,1,1,0,
+barrister,attorney,a barrister with a woman,an attorney with a woman,1,1,0,
+barrister,attorney,a barrister with a notepad,an attorney with a notepad,1,1,0,
+barrister,attorney,a painting of a barrister,a painting of an attorney,1,1,0,
+caretaker,janitor,a school caretaker,a school janitor,1,1,1,a caretaker looking after pets
+caretaker,janitor,a dirty caretaker,a dirty janitor,1,1,1,a caretaker of an elderly person
+caretaker,janitor,a tired caretaker,a tired janitor,1,1,1,a caretaker feeding animals
+caretaker,janitor,a busy caretaker,a busy janitor,1,1,1,a caretaker watering plants
+caretaker,janitor,a painting of an old caretaker,a painting of an old janitor,1,1,1,a caretaker comforting a patient
+caretaker,janitor,a caretaker in a mall,a janitor in a mall,1,1,1,a caretaker assisting residents
+cooker,stove,a burning cooker,a burning stove,0,1,0,
+cooker,stove,an old gas cooker,an old gas stove,0,1,0,
+cooker,stove,a modern electric cooker,a modern electric stove,0,1,0,
+cooker,stove,a dirty cooker,a dirty stove,0,1,0,
+cooker,stove,a rusty cooker,a rusty stove,0,1,0,
+cooker,stove,a large cooker,a large stove,0,1,0,
+cot,crib,a baby in a cot,a baby in a crib,0,1,1,a camping cot in a tent
+cot,crib,a wooden nursery cot,a wooden nursery crib,0,1,1,a portable cot folded up
+cot,crib,toys beside a cot,toys beside a crib,0,1,1,a cot set up outdoors
+cot,crib,a cot with mobile,a crib with mobile,0,1,1,a cot in a military camp
+cot,crib,a cot with bars,a crib with bars,0,1,1,a green cot for camping
+cot,crib,an infant's cot,an infant's crib,0,1,1,a cot placed inside a cabin
+hoarding,billboard,a hoarding in a city,a billboard in a city,0,1,0,
+hoarding,billboard,a broken hoarding,a broken billboard,0,1,0,
+hoarding,billboard,a colorful hoarding,a colorful billboard,0,1,0,
+hoarding,billboard,a bright red hoarding,a bright red billboard,0,1,0,
+hoarding,billboard,a hoarding lit up,a billboard lit up,0,1,0,
+hoarding,billboard,a dirty hoarding,a dirty billboard,0,1,0,
+hoover,vacuum cleaner,a bright red hoover,a bright red vacuum cleaner,0,1,0,
+hoover,vacuum cleaner,a hoover with a long cord,a vacuum cleaner with a long cord,0,1,0,
+hoover,vacuum cleaner,a modern hoover,a modern vacuum cleaner,0,1,0,
+hoover,vacuum cleaner,a broken hoover,a broken vacuum cleaner,0,1,0,
+hoover,vacuum cleaner,a dirty hoover,a dirty vacuum cleaner,0,1,0,
+hoover,vacuum cleaner,a painting of an old hoover,a painting of an old vacuum cleaner,0,1,0,
+jug,pitcher,a filled jug,a filled pitcher,0,1,0,
+jug,pitcher,an empty jug,an empty pitcher,0,1,0,
+jug,pitcher,a broken jug,a broken pitcher,0,1,0,
+jug,pitcher,a dirty jug,a dirty pitcher,0,1,0,
+jug,pitcher,a colorful jug,a colorful pitcher,0,1,0,
+jug,pitcher,a bright blue jug,a bright blue pitcher,0,1,0,
+postman,mailman,a young postman,a young mailman,1,1,0,
+postman,mailman,a lazy postman,a lazy mailman,1,1,0,
+postman,mailman,a tired postman,a tired mailman,1,1,0,
+postman,mailman,a busy postman,a busy mailman,1,1,0,
+postman,mailman,a painting of an old postman,a painting of an old mailman,1,1,0,
+postman,mailman,a postman on the street,a mailman on the street,1,1,0,
+pram,baby carriage,a colorful pram,a colorful baby carriage,0,1,0,
+pram,baby carriage,a pram with a sunshade,a baby carriage with a sunshade,0,1,0,
+pram,baby carriage,a bright pink pram,a bright pink baby carriage,0,1,0,
+pram,baby carriage,a dirty pram,a dirty baby carriage,0,1,0,
+pram,baby carriage,a painting of a vintage pram,a painting of a vintage baby carriage,0,1,0,
+pram,baby carriage,a modern pram,a modern baby carriage,0,1,0,
+saloon,sedan,a luxurious saloon,a luxurious sedan,0,1,0,
+saloon,sedan,a bright red saloon,a bright red sedan,0,1,0,
+saloon,sedan,a dirty saloon,a dirty sedan,0,1,0,
+saloon,sedan,a saloon on the street,a sedan on the street,0,1,0,
+saloon,sedan,a broken saloon,a broken sedan,0,1,0,
+saloon,sedan,a painting of a vintage saloon,a painting of a vintage sedan,0,1,0,
+bonnet,hood of car,an open bonnet,an open hood of car,0,1,0,
+bonnet,hood of car,a dirty bonnet,a dirty hood of car,0,1,0,
+bonnet,hood of car,a bright red bonnet,a bright red hood of car,0,1,0,
+bonnet,hood of car,a bonnet with stripes,a hood of car with stripes,0,1,0,
+bonnet,hood of car,a broken bonnet,a broken hood of car,0,1,0,
+bonnet,hood of car,a colorful bonnet,a colorful hood of car,0,1,0,
+coriander,cilantro,chopped coriander,chopped cilantro,0,1,0,
+coriander,cilantro,coriander on a table,cilantro on a table,0,1,0,
+coriander,cilantro,coriander in a basket,cilantro in a basket,0,1,0,
+coriander,cilantro,a painting of coriander,a painting of cilantro,0,1,0,
+coriander,cilantro,a basket of coriander,a basket of cilantro,0,1,0,
+coriander,cilantro,a dish with coriander,a dish with cilantro,0,1,0,
+courgette,zucchini,a sliced courgette,a sliced zucchini,0,1,0,
+courgette,zucchini,a courgette on the table,a zucchini on the table,0,1,0,
+courgette,zucchini,courgette in a basket,zucchini in a basket,0,1,0,
+courgette,zucchini,a painting of a courgette,a painting of a zucchini,0,1,0,
+courgette,zucchini,a moldy courgette,a moldy zucchini,0,1,0,
+courgette,zucchini,a dish with courgette,a dish with zucchini,0,1,0,
+tube,subway,inside of the tube,inside of the subway,1,1,0,
+tube,subway,a tube station,a subway station,1,1,0,
+tube,subway,a dirty tube,a dirty subway,0,1,0,
+tube,subway,a modern tube,a modern subway,0,1,0,
+tube,subway,a painting of the tube,a painting of the subway,0,1,0,
+tube,subway,an abandoned tube station,an abandoned subway station,0,1,0,
+aubergine,eggplant,a sliced aubergine,a sliced eggplant,1,1,0,
+aubergine,eggplant,an aubergine on the table,an eggplant on the table,1,1,0,
+aubergine,eggplant,aubergine in a basket,eggplant in a basket,1,1,0,
+aubergine,eggplant,a painting of an aubergine,a painting of an eggplant,1,1,0,
+aubergine,eggplant,a moldy aubergine,a moldy eggplant,1,1,0,
+aubergine,eggplant,a dish with aubergine,a dish with eggplant,1,1,0,
+zebra crossing,crosswalk,people on a zebra crossing,people on a crosswalk,1,1,0,
+zebra crossing,crosswalk,a busy zebra crossing,a busy crosswalk,1,1,0,
+zebra crossing,crosswalk,a painted zebra crossing,a painted crosswalk,0,1,0,
+zebra crossing,crosswalk,a wide zebra crossing,a wide crosswalk,0,1,0,
+zebra crossing,crosswalk,a woman on a zebra crossing,a woman on a crosswalk,1,1,0,
+zebra crossing,crosswalk,an empty zebra crossing,an empty crosswalk,0,1,0,
+motorway,highway,cars on a busy motorway,cars on a busy highway,0,1,0,
+motorway,highway,an empty motorway,an empty highway,0,1,0,
+motorway,highway,a motorway at sunset,a highway at sunset,0,1,0,
+motorway,highway,a motorway sign,a highway sign,0,1,0,
+motorway,highway,a motorway with traffic cones,a highway with traffic cones,0,1,0,
+motorway,highway,a snowy motorway,a snowy highway,0,1,0,
+plaster,band-aid,a plaster wrapped around a finger,a band-aid wrapped around a finger,1,1,1,spreading plaster on a wall
+plaster,band-aid,a plaster covering a small cut,a band-aid covering a small cut,1,1,1,mixing plaster for repairs
+plaster,band-aid,a plaster on an injured knee,a band-aid on an injured knee,1,1,1,a worker applying wall plaster
+plaster,band-aid,a colorful plaster on an elbow,a colorful band-aid on an elbow,1,1,1,smooth plaster finish on ceiling
+plaster,band-aid,a plaster for a cut,a band-aid for a cut,1,1,1,a cracked plaster wall
+plaster,band-aid,a plaster peeling off skin,a band-aid peeling off skin,1,1,1,a bucket of fresh plaster
+bin liner,trash bag,a torn bin liner,a torn trash bag,0,1,0,
+bin liner,trash bag,a black bin liner,a black trash bag,0,1,0,
+bin liner,trash bag,an overflowing bin liner,an overflowing trash bag,0,1,0,
+bin liner,trash bag,a roll of bin liners,a roll of trash bags,0,1,0,
+bin liner,trash bag,a bin liner on the ground,a trash bag on the ground,0,1,0,
+bin liner,trash bag,a transparent bin liner,a transparent trash bag,0,1,0,
+waistcoat,vest,a waistcoat under a suit jacket,a vest under a suit jacket,0,1,1,a waistcoat worn by a chef
+waistcoat,vest,a formal waistcoat on a hanger,a formal vest on a hanger,0,1,1,a reflective safety waistcoat
+waistcoat,vest,a waistcoat worn over a shirt,a vest worn over a shirt,0,1,1,a construction waistcoat
+waistcoat,vest,a velvet waistcoat on display,a velvet vest on display,0,1,1,a bright orange safety waistcoat
+waistcoat,vest,a striped waistcoat displayed in a store,a striped vest displayed in a store,0,1,1,a high-visibility waistcoat
+waistcoat,vest,a velvet waistcoat laid flat,a velvet vest laid flat,0,1,1,a waterproof waistcoat for cycling
+rocket,arugula,a salad bowl filled with rocket,a salad bowl filled with arugula,0,1,0,
+rocket,arugula,chopped rocket leaves,chopped arugula leaves,0,1,0,
+rocket,arugula,a sandwich layered with rocket,a sandwich layered with arugula,0,1,0,
+rocket,arugula,fresh rocket on a dinner plate,fresh arugula on a dinner plate,0,1,0,
+rocket,arugula,a pizza topped generously with rocket,a pizza topped generously with arugula,0,1,0,
+rocket,arugula,a pile of washed rocket leaves,a pile of washed arugula leaves,0,1,0,

@@ -1,0 +1,205 @@
+Prompt_Index,SAE_Prompt,Score
+0,a painting of milk tea,0.7588
+1,a photo of milk tea,0.7674
+2,selling milk tea,0.8093
+3,a large milk tea,0.793
+4,a small milk tea,0.7496
+5,milk tea on a counter,0.8202
+6,coffee on a table,0.9729
+7,coffee on a counter,0.9325
+8,a painting of coffee,0.9611
+9,two people getting coffee,0.8568
+10,a man buying coffee,0.868
+11,a woman with coffee,0.9734
+12,a painting of a red packet,0.7337
+13,two red packets on a table,0.8786
+14,a red packet on a counter,0.5842
+15,a person holding a red packet,0.9376
+16,a red packet on the ground,0.9489
+17,a child holding a red packet,0.9552
+18,a painting of squid,0.8878
+19,squid on a table,0.9075
+20,a squid in a market,0.7037
+21,a squid in an aquarium,0.832
+22,a squid on a counter,0.7206
+23,squid in a box,0.9363
+24,a person getting takeout,0.9036
+25,takeout on a table,0.9706
+26,takeout from the food truck,0.8898
+27,let's get some food takeout,0.8481
+28,chinese food takeout,0.979
+29,a couple getting food takeout,0.8917
+30,a businessman with a grasping and selfish attitude,0.6643
+31,a leader with a grasping and selfish attitude,0.6645
+32,a student with a grasping and selfish attitude,0.4851
+33,a parent with a grasping and selfish attitude,0.328
+34,a businesswoman with a grasping and selfish attitude,0.5582
+35,a politician with a grasping and selfish attitude,0.6568
+36,a bored cat,0.7947
+37,a bored woman,0.911
+38,a bored worker,0.8609
+39,a child bored,0.9389
+40,a bored dog,0.882
+41,a bored man,0.8925
+42,a relaxing dog,0.9591
+43,people relaxing on a beach,0.9839
+44,people relaxing on a coach,0.8676
+45,a couple relaxing in a park,0.9802
+46,a cat relaxing,0.9326
+47,a relaxing setting,0.9866
+48,a person gesturing yes,0.7134
+49,a person answering yes,0.6751
+50,a worker gesturing yes,0.8325
+51,a student gesturing yes,0.7037
+52,a woman gesturing yes,0.7309
+53,a man gesturing yes,0.745
+54,a student saving a table,0.7313
+55,a man saving a table,0.713
+56,a woman saving a table,0.6638
+57,a group saving a table,0.7239
+58,saving a table at a cafe,0.6141
+59,saving a table with a napkin,0.7868
+60,a counter with tasty things,0.9746
+61,a painting of something that is very tasty,0.9761
+62,a table with very tasty stuff,0.9784
+63,a photo of something that is tasty,0.9357
+64,something tasty,0.9087
+65,a person enjoying something that is tasty,0.9027
+66,a high class clothing store,0.9658
+67,a high class party,0.9312
+68,a painting of something that is high class,0.8331
+69,a high class restaurant,0.9717
+70,a high class car,0.8867
+71,a high class house,0.9779
+72,a secluded beach,0.9279
+73,a secluded street,0.9217
+74,a secluded trail,0.9496
+75,a secluded locale,0.9619
+76,a secluded house,0.9526
+77,a secluded town,0.8983
+78,a woman eating noodles,0.9382
+79,a painting of someone eating,0.978
+80,a person eating a salad,0.8474
+81,a man eating a taco,0.9171
+82,people eating,0.9082
+83,a man eating a burrito,0.6407
+84,a family redecorates their house,0.5235
+85,a worker redecorates her office space,0.6784
+86,a couple redecorate their garage,0.3789
+87,a woman redecorates her room,0.5626
+88,a man redecorates his desk,0.6033
+89,a person redecorates their kitchen,0.574
+90,a tall girl,0.7748
+91,a girl buying a computer,0.8558
+92,a girl hiking,0.9723
+93,a girl,0.8185
+94,a girl in a city,0.9787
+95,a painting of a girl,0.985
+96,a mobile phone on a table,0.9685
+97,a woman holding a mobile phone,0.9876
+98,a mobile phone on the ground,0.981
+99,a man with a mobile phone,0.9777
+100,a painting of a mobile phone,0.9634
+101,a mobile phone on a lawn,0.9756
+102,a loan shark handling cash,0.6234
+103,a loan shark carrying a knife,0.5673
+104,a loan shark holding a bag,0.5729
+105,a loan shark,0.6862
+106,a loan shark talking to someone,0.4374
+107,a loan shark spray painting,0.3869
+108,a man at a coffee shop,0.9748
+109,a woman at a coffee shop,0.9658
+110,buying something at a coffee shop,0.9107
+111,a coffee shop,0.9865
+112,a modern coffee shop,0.8521
+113,an old coffee shop,0.9176
+114,a painting of a handsome male,0.8827
+115,a handsome male buying food,0.8417
+116,a handsome male walking,0.5335
+117,a photo of a handsome male,0.6275
+118,a handsome male,0.5828
+119,a handsome male at a gym,0.8716
+120,a man studying for finals,0.7442
+121,a woman studying at home,0.945
+122,a child busy studying,0.9328
+123,a group of people studying,0.9725
+124,an older person studying,0.9717
+125,studying at a table,0.9619
+126,a man being a third wheel,0.632
+127,a woman being a third wheel,0.6442
+128,a third wheel sitting with a couple,0.6244
+129,a person feeling like a third wheel,0.6928
+130,scene with an awkward third wheel,0.4696
+131,a young third wheel,0.7636
+132,a painting of black tea,0.7069
+133,tea in a store,0.9224
+134,a container with tea,0.7065
+135,a tea shop in a city,0.9231
+136,white tea,0.8491
+137,a jar with dry tea,0.9419
+138,a plate of stir-fried rice noodles,0.9098
+139,a bowl of stir-fried rice noodles,0.9036
+140,a painting of stir-fried rice noodles,0.8835
+141,stir-fried rice noodle with vegetables,0.9073
+142,stir-fried rice noodles with fruit,0.7503
+143,two plates of stir-fried rice noodles,0.9045
+144,a traditional Chinese physician and a man,0.8184
+145,a traditional Chinese physician and a woman,0.8906
+146,a painting of a traditional Chinese physician,0.8823
+147,a traditional Chinese physician,0.876
+148,a traditional Chinese physician with two people,0.8533
+149,a traditional Chinese physician sitting,0.8893
+150,a large food court,0.9585
+151,a couple at a food court,0.9262
+152,a modern food court,0.9602
+153,an older food court,0.5949
+154,a person at a food court,0.937
+155,a busy food court,0.9791
+156,litter thrown from a high-rise building falling,0.8039
+157,litter thrown from a high-rise building from window,0.8897
+158,a sign about litter thrown from a high-rise building,0.8389
+159,a painting of litter thrown from a high-rise building,0.9053
+160,a person avoiding litter thrown from a high-rise building,0.7418
+161,a person nearly hit by litter thrown from a high-rise building,0.7561
+162,a man holding a hoe,0.7234
+163,a hoe on a shelf,0.3313
+164,a painting of a hoe,0.6993
+165,an old hoe,0.4816
+166,a new hoe,0.6381
+167,a hoe leaning on a wall,0.5977
+168,a spicy stir-fried crab on a table,0.8559
+169,a family enjoying spicy stir-fried crab,0.701
+170,two plates of spicy stir-fried crab,0.7644
+171,a large spicy stir-fried crab with rice,0.8099
+172,a waiter serving spicy stir-fried crab,0.8165
+173,a chef making spicy stir-fried crab,0.805
+174,my uncle,0.6106
+175,an uncle in blue,0.8624
+176,a uncle talking,0.8785
+177,an uncle buying fruit,0.7593
+178,an uncle drinking coffee,0.9117
+179,an uncle reading a newspaper,0.9549
+180,a plate of Fujianese fresh spring roll,0.841
+181,one Fujianese fresh spring roll,0.7314
+182,a painting of Fujianese fresh spring roll,0.8799
+183,a person eating a Fujianese fresh spring roll,0.7598
+184,Fujianese fresh spring roll on a table,0.8487
+185,Fujianese fresh spring roll in a bowl,0.4085
+186,a plate of Indian flatbread,0.918
+187,a painting of Indian flat bread,0.8556
+188,a table with Indian flatbread,0.9342
+189,a person eating Indian flatbread,0.7407
+190,Indian flatbread on a counter,0.9084
+191,Indian flatbread on a table,0.8637
+192,a person eating Chinese pork jerky,0.7661
+193,Chinese pork jerky in a bag,0.8402
+194,a painting of Chinese pork jerky,0.8524
+195,a shop with Chinese pork jerky,0.9288
+196,one piece of Chinese pork jerky,0.4599
+197,a person holding Chinese pork jerky,0.9366
+198,two buddies chatting,0.8759
+199,buddies playing soccer,0.8799
+200,buddies having coffee,0.9372
+201,buddies laughing together,0.9428
+202,a group of buddies outdoors,0.9698
+203,buddies watching a movie,0.7894

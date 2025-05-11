@@ -1,0 +1,83 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,a man wearing a purple sweater,a man wearing a purple sweater,0.5067
+1,a woman knitting a brown sweater,a woman knitting a brown sweater,0.5004
+2,a girl knocking on the bathroom door,a girl knocking on the bathroom door,0.3344
+3,a line of people waiting outside the restroom,a line of people waiting outside the bathroom,0.586
+4,a man cutting a sausage in half,a man cutting a sausage in half,0.6598
+5,a woman throwing away the trash,a woman throwing away the trash,0.6169
+6,a man loading luggage into the car trunk,a man loading luggage into the car trunk,0.6229
+7,a woman putting groceries in the trunk,a woman putting groceries in the car trunk,0.4251
+8,a boy waiting in the queue at a grocery store,a boy waiting in the line at a grocery store,0.484
+9,a line for the rollercoaster,a line for the rollercoaster,0.5
+10,a line at the ticket counter,a line at the ticket counter,0.5
+11,a line for the morning bus,a line for the morning bus,0.5
+12,a line at the post office,a line at the post office,0.5
+13,a man ironing creases in his pants,a man ironing creases in his pants,0.5
+14,a child wearing blue pants,a kid wearing a pair of blue pants,0.5
+15,a woman enjoying a cup of tea with a biscuit,a woman enjoying a cup of tea with a cookie,0.267
+16,a man baking homemade biscuits,a man baking homemade cookies,0.6327
+17,a man searching in the dark with a flashlight,a man searching in the dark with a flashlight,0.4043
+18,a police officer shining a flashlight at the suspect,a policeman shining a flashlight at the suspect,0.4324
+19,a mother changing her baby's diaper,a mother changing her baby's diaper,0.4783
+20,a happy baby wearing pink diapers,a happy baby wearing pink diapers,0.8289
+21,a man filling up his car with gasoline,a man filling up his car with gasoline,0.6826
+22,a group of kids kicking a soccer ball,a group of kids kicking a soccer ball,0.5
+23,a football player in the stadium,a soccer player in the stadium,0.6035
+24,a football player celebrating a win,a soccer player celebrating a win,0.8119
+25,a soccer goalkeeper on the field,a soccer goalie in the field,0.7249
+26,a soccer goalkeeper trying to catch a soccer ball,a goalkeeper trying to catch a soccer ball,0.5
+27,a woman picking up a prescription at the pharmacy,a woman picking up a precription at the pharmacy,0.4334
+28,a group of people waiting at the pharmacy,a group of people waiting at the pharmacy,0.5028
+29,a boy eating chips,a boy eating french fries,0.7311
+30,a lawyer talking to his client,an attorney talking to his client,0.6314
+31,a man attending a meeting with his lawyer,a man attending a meeting with his attorney,0.6025
+32,a lawyer in a courtroom,an attorney in a courtroom,0.5
+33,My lawyer is discussing the case.,my attorney discussing the case,0.5
+34,a lawyer with legal books,an attorney with legal books,0.5
+35,a school custodian sweeping the hallway,a school janitor sweeping the hallway,0.3946
+36,a man talking to a caretaker at the mall,a man talking to a janitor at the mall,0.6449
+37,a tired caretaker in an empty hallway,a tired janitor in an empty hallway,0.0968
+38,a caretaker sweeping the school hallway,a janitor sweeping the school hallway,0.3802
+39,a facilities manager in a storage room,an office janitor in a supply closet,0.6498
+40,a janitor taking out the trash,a building janitor taking out the trash,0.6479
+41,a man preparing dinner on the stove,a man preparing dinner on the stove,0.6931
+42,a woman putting the baby down in the crib,a woman putting the baby down in the crib,0.5
+43,a man setting up a cot,a man setting up a crib,0.6824
+44,a baby in a colorful crib,a baby in a colorful crib,0.8264
+45,a worker changing the image on the billboard,a worker changing the image on the billboard,0.5755
+46,a group of people staring at a large billboard,a group of people staring at a large billboard,0.5185
+47,a woman using a vacuum cleaner to clean the carpet,a woman using a vacuum cleaner to clean the carpet,0.6473
+48,a man using a vacuum cleaner on a carpeted floor,a man using a vacuum cleaner on a carpeted floor,0.7713
+49,a man holding a water jug,a man holding a water pitcher,0.5504
+50,a boy refilling his cup with a water jug,a boy refilling his cup with a water pitcher,0.7169
+51,a postman delivering packages,a mailman delivering packages,0.6276
+52,a man having a friendly chat with the postman,a man having a friendly chat with the mailman,0.5763
+53,a postman in a blue uniform,a mailman in blue uniform,0.5928
+54,a postman on a bicycle,a mailman in a truck,0.3953
+55,a postman at the front door,a mailman at the front door,0.6221
+56,my mail carrier with a large package,my mailman with a big bag,0.8785
+57,a woman taking a walk with her baby in the stroller,a woman taking a walk with her baby in the baby carriage,0.5929
+58,a stroller with a sleeping baby,a baby carriage with a sleeping baby,0.4511
+59,a man walking with a stroller on a cobblestone street,a man walking with a baby carriage on a cobblestone street,0.2639
+60,a man inside a black sedan,a man inside a black sedan,0.5
+61,a boy sitting on the hood of the car,a boy sitting on the hood of the car,0.8375
+62,a woman chopping cilantro in the kitchen,a woman chopping cilantro in the kitchen,0.5
+63,a man slicing a zucchini in the kitchen,a man slicing a zucchini in the kitchen,0.5
+64,a woman picking a zucchini at the market,a woman picking a zucchini at the market,0.3238
+65,a crowd of people waiting for the subway,a crowd of people waiting for the subway,0.4425
+66,a man sitting inside the subway train,a man sitting inside the subway,0.5
+67,my subway ride during rush hour,my subway ride during rush hour,0.4161
+68,a grandma slicing an eggplant in the kitchen,a grandma slicing an eggplant in the kitchen,0.4028
+69,a man picking an eggplant at the market,a man picking an eggplant at the market,0.3011
+70,a bandage,a band-aid covering a small wound,0.5805
+71,a bandage on someone's forehead,a band-aid on someone's forehead,0.5341
+72,a float in a swimming pool,a band-aid floating in a swimming pool,0.5928
+73,a discarded bandage on the sidewalk,a discarded band-aid on the sidewalk,0.5
+74,a bandage with cartoon characters,a band-aid with cartoon characters,0.5
+75,a waterproof cast on a hand,a waterproof band-aid on a hand,0.5182
+76,a waistcoat displayed on a mannequin,a vest displayed on a mannequin,0.3283
+77,a checked waistcoat on display,a checked vest on display,0.4701
+78,a man buttoning his waistcoat,a man buttoning his vest,0.3324
+79,a silk waistcoat in a boutique,a silk vest in a boutique,0.3186
+80,a vest matching formal trousers,a vest matching formal pants,0.5
+81,a waistcoat embroidered with flowers,a vest embroidered with flowers,0.5478

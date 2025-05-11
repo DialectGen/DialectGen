@@ -1,0 +1,135 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,a painting of shaved ice,a painting of shaved ice,0.7944
+1,a man enjoying snow cones,a man enjoying shaved ice,0.5
+2,cup of shaved ice on a table,cup of shaved ice on a table,0.6899
+3,a blue snow cone,a blue shaved ice,0.6217
+4,a click,a friend group,0.3437
+5,a loud click,a big friend group,0.28
+6,a click at school,a friend group at school,0.0356
+7,a visit to the park,a friend group at the park,0.6004
+8,a loud click,a loud friend group,0.28
+9,a painting of a godfather,a painting of a godfather,0.7688
+10,Godfather,a godfather,0.6766
+11,a godfather in a house,a godfather in a house,0.5899
+12,godfather,an old godfather,0.6278
+13,a man with a godfather,a man with a godfather,0.5823
+14,a woman with a godfather,a woman with a godfather,0.7154
+15,a large file,a big field,0.5
+16,a person at a restaurant,a person at a field,0.5303
+17,a green file,a green field,0.5906
+18,an old paint,an old jail,0.597
+19,a modern ship,a modern jail,0.3881
+20,a small pint,a small prison,0.3348
+21,Go to Pinta.,go to prison,0.5
+22,a painting of a Jain,a painting of a girlfriend,0.3982
+23,a Jain in a home,a girlfriend in a home,0.0403
+24,a Jain in a car,a girlfriend in a car,0.1158
+25,a Jain walking,a girlfriend walking,0.0667
+26,my friend and I,me and my girlfriend,0.4717
+27,At the park with my friend.,at the park with my girlfriend,0.5
+28,My dad organizes shirts.,my dad irons shirts,0.5
+29,She plans daily.,she irons daily,0.6099
+30,They plan to wear clothes.,they iron clothes,0.3043
+31,I iron pants,I iron pants,0.3703
+32,We plan to wear uniforms.,we iron uniforms,0.4731
+33,he likes to plan,he likes to iron,0.7665
+34,a person exploring El Paso's Chicano neighborhood,a person exploring El Paso,0.4886
+35,a painting of a sensual,a painting of a brother,0.2833
+36,a man hiking with his companion,a man hiking with his brother,0.4105
+37,a criminal in a house,a brother in a house,0.4184
+38,with me and my friend,me with my brother,0.5
+39,a person with a strong sexual appetite at a table,a brother at a table,0.5967
+40,a homeless person at a park,a brother at a park,0.2946
+41,a painting of a carnation,a painting of a sister,0.8618
+42,a man hiking with his companion,a man hiking with his sister,0.4105
+43,a woman in a house,a sister in a house,0.2491
+44,You with your little friend,me with my sister,0.5
+45,a friend at a table,a sister at a table,0.5
+46,a woman at a park,a sister at a park,0.2202
+47,a painting of gangsters,a painting of brothers,0.4023
+48,friends in a house,brothers in a house,0.5
+49,My friends and I,me and my brothers,0.5
+50,friends by a table,brothers by a table,0.5
+51,friends together,brothers together,0.5
+52,homosexuals walking,brothers walking,0.6549
+53,a painting of carnivals,a painting of sisters,0.535
+54,carnivals in a house,sisters in a house,0.3408
+55,My cousins and I,me and my sisters,0.5
+56,Carry everything using a table.,sisters by a table,0.5
+57,carnivals together,sisters together,0.1763
+58,Girls walking,sisters walking,0.3878
+59,a painting of Raza,a painting of Mexican American,0.7084
+60,a group of people at a park,a Mexican American at a park,0.5527
+61,a Hispanic neighborhood,a Mexican American neighborhood,0.3126
+62,a race at a store,a Mexican American at a store,0.3655
+63,a young Latino,a young Mexican American,0.3379
+64,an old person of Latin American descent,an old Mexican American,0.5287
+65,A guy in a house,a young man in a house,0.5827
+66,A guy in a park,a young man in a park,0.6257
+67,painting of a man,a painting of a young man,0.5
+68,a man in a neighborhood,a young man in a neighborhood,0.5
+69,A man on the ground,a young man on the ground,0.5
+70,a man leaning,a young man leaning,0.5
+71,a painting of an Asian,a painting of a young man,0.707
+72,a person on a sidewalk,a young man on a sidewalk,0.4767
+73,a man on a trail,a young man on a trail,0.5742
+74,a Black person in a park,a young man in a park,0.5
+75,an Asian in a neighborhood,a young man in a neighborhood,0.6219
+76,a person on a street,a young man on a street,0.2589
+77,a painting of a bat,a painting of a man,0.217
+78,a big boat,a big man,0.3243
+79,a smaller boat,a smaller man,0.4276
+80,a bat in a house,a man in a house,0.0627
+81,a bat in a park,a man in a park,0.0549
+82,A man on the street,a man on a street,0.3114
+83,a painting of a godmother,a painting of a godmother,0.8053
+84,godmother,an old godmother,0.7789
+85,a godmother,a middle-aged godmother,0.3496
+86,a godmother in a house,a godmother in a house,0.1322
+87,a godmother at a park,a godmother at a park,0.6953
+88,a godmother in a car,a godmother in a car,0.6427
+89,a man behaving erratically,a guy acting crazy,0.5
+90,a crazy cat,a crazy cat,0.6535
+91,a crazy dog,a crazy dog,0.6358
+92,a local painting,a crazy painting,0.5624
+93,a locomotive toy,a crazy toy,0.1692
+94,To my sister,a daughter,0.8184
+95,To my sister at home,a daughter at home,0.8354
+96,To my sister at the park,a daughter at a park,0.5904
+97,a younger daughter,a younger daughter,0.8092
+98,an older sister,an older daughter,0.721
+99,a painting of a sister,a painting of a daugher,0.6127
+100,"Hey, son!",a son,0.8763
+101,a son at home,a son at home,0.7764
+102,a boy at a park,a son at a park,0.8374
+103,a younger son,a younger son,0.8092
+104,an older son,an older son,0.8571
+105,a picture of a son,a painting of a son,0.8333
+106,a California landscape,a California landscape,0.4657
+107,a city in California,a city in California,0.5844
+108,a California suburb,a California suburb,0.6853
+109,bar on the sidewalk,money on the sidewalk,0.4098
+110,a painting of a cutout,a painting of a close friend,0.6372
+111,My friend and I,me and my close friend,0.5
+112,a cat is in the house,a close friend in a house,0.6153
+113,a cute date at a cafe,a close friend at a cafe,0.5823
+114,A homeless person on the sidewalk,a close friend on the sidewalk,0.255
+115,a skateboarder in a park,a close friend in a park,0.6611
+116,A person congratulates himself.,a person pampered himself,0.5
+117,a couple receiving applause,a couple getting pampered,0.5
+118,a woman receiving applause,a woman getting pampered,0.5
+119,a couple getting lunch,a couple getting lunch,0.5705
+120,lunch in the meadow,lunch in the meadow,0.7146
+121,a child at the park,a boy at the park,0.544
+122,a child in a house,a boy in a house,0.6456
+123,a child on the sidewalk,a boy on the sidewalk,0.7449
+124,a painting of a child,a painting of a chamaco,0.723
+125,a child at school,a boy at a school,0.6564
+126,a child and a soccer ball,a boy and a soccer ball,0.7603
+127,a woman at the park,a girl at the park,0.2848
+128,a woman in a house,a girl in a house,0.2491
+129,a woman on the sidewalk,a girl on the sidewalk,0.2897
+130,a friend and a basketball,a girl and a basketball,0.5922
+131,a friend at school,a girl at a school,0.618
+132,a woman at a store,a girl at a store,0.5316
+133,a woman wearing flip flops,a woman wearing flip-flops,0.4272

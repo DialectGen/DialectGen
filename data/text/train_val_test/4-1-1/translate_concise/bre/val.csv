@@ -1,0 +1,38 @@
+Dialect_Word,SAE_Word,Dialect_Prompt,SAE_Prompt,person_in_prompt,dialect_word_count,polysemic,Polysemy_Prompt
+lorry,semitruck,a modern truck,a modern semitruck,0,1,0,
+jumper,sweater,a sweater with holes,a sweater with holes,0,1,0,
+loo,bathroom,a spacious bathroom,a spacious bathroom,0,1,0,
+banger,sausage,broken sausages,broken sausages,0,1,0,
+rubbish,trash,a trash can,a trash bin,0,1,0,
+flat,apartment,students living in an apartment,students living in an apartment,0,1,1,a completely flat pancake
+car boot,car trunk,a modern trunk,a modern car trunk,0,1,0,
+queue,line,a queue outside the store,a line outside the store,1,1,0,
+trousers,pants,a pair of designer trousers,a pair of designer pants,0,1,0,
+biscuit,cookie,a painting of a biscuit,a painting of a cookie,0,1,0,
+torch,flashlight,batteries for a flashlight,batteries for a flashlight,0,1,1,a wooden torch lit with fire
+nappy,diaper,a pair of pink diapers,a pair of pink diapers,0,1,0,
+petrol,gasoline,a gasoline tanker,a gasoline tanker,0,1,0,
+football,soccer,a team scoring a football goal,a team scoring a soccer goal,1,1,1,a touchdown scored with a football
+chemist,pharmacy,pharmacy,sign for a pharmacy shop,0,1,1,a chemist conducting an experiment
+chips,french fries,fish and chips,french fries with fish,0,1,1,a snack bowl filled with chips
+barrister,attorney,a barrister with a notepad,an attorney with a notepad,1,1,0,
+caretaker,janitor,a painting of an old caretaker,a painting of an old janitor,1,1,1,a caretaker comforting a patient
+cooker,stove,a rusty cooker,a rusty stove,0,1,0,
+cot,crib,a crib with bars,a crib with bars,0,1,1,a green cot for camping
+hoarding,billboard,a lighting up,a billboard lit up,0,1,0,
+hoover,vacuum cleaner,a dirty vacuum cleaner,a dirty vacuum cleaner,0,1,0,
+jug,pitcher,a colorful jug,a colorful pitcher,0,1,0,
+postman,mailman,a painting of an old postman,a painting of an old mailman,1,1,0,
+pram,baby carriage,a painting of a vintage pram,a painting of a vintage baby carriage,0,1,0,
+saloon,sedan,a broken saloon,a broken sedan,0,1,0,
+bonnet,hood of car,a broken hood,a broken hood of car,0,1,0,
+coriander,cilantro,a basket of coriander,a basket of cilantro,0,1,0,
+courgette,zucchini,a moldy zucchini,a moldy zucchini,0,1,0,
+tube,subway,a painting of the subway,a painting of the subway,0,1,0,
+aubergine,eggplant,a moldy eggplant,a moldy eggplant,1,1,0,
+zebra crossing,crosswalk,a woman on a zebra crossing,a woman on a crosswalk,1,1,0,
+motorway,highway,a highway with traffic cones,a highway with traffic cones,0,1,0,
+plaster,band-aid,a bandage for a cut,a band-aid for a cut,1,1,1,a cracked plaster wall
+bin liner,trash bag,a trash bag on the ground,a trash bag on the ground,0,1,0,
+waistcoat,vest,a striped waistcoat displayed in a store,a striped vest displayed in a store,0,1,1,a high-visibility waistcoat
+rocket,arugula,arugula,a pizza topped generously with arugula,0,1,0,

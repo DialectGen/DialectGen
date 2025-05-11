@@ -1,0 +1,44 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,a long line,a long line,1.0
+1,a short line,a short line,1.0
+2,a painting of a long line,a painting of a long line,0.0
+3,a line of people,a line of people,0.5
+4,a line outside the store,a line outside the store,0.5
+5,a line for food,a line for food,0.5
+6,a team scoring a soccer goal,a team scoring a soccer goal,0.5
+7,pharmacy,queue at a pharmacy shop,1.0
+8,a lawyer at a table,an attorney at a table,0.5
+9,an old lawyer,an old attorney,0.5
+10,a lawyer at a park,an attorney at a park,1.0
+11,a lawyer with a woman,an attorney with a woman,0.0
+12,a lawyer with a notepad,an attorney with a notepad,0.5
+13,a painting of a lawyer,a painting of an attorney,1.0
+14,a school custodian,a school janitor,0.0
+15,a dirty janitor,a dirty janitor,0.0
+16,a tired caretaker,a tired janitor,1.0
+17,a busy caretaker,a busy janitor,1.0
+18,a painting of an old caretaker,a painting of an old janitor,0.0
+19,a security guard in a shopping mall,a janitor in a mall,0.0
+20,a young postman,a young mailman,1.0
+21,a lazy postman,a lazy mailman,1.0
+22,a tired postman,a tired mailman,1.0
+23,a busy postman,a busy mailman,1.0
+24,a painting of an old postman,a painting of an old mailman,1.0
+25,a postman on the street,a mailman on the street,0.9935
+26,inside the tube,inside of the subway,1.0
+27,a subway station,a subway station,0.5
+28,a sliced eggplant,a sliced eggplant,0.0001
+29,an eggplant on the table,an eggplant on the table,0.0
+30,eggplant in a basket,eggplant in a basket,0.0
+31,a painting of an eggplant,a painting of an eggplant,0.0
+32,a moldy eggplant,a moldy eggplant,0.0
+33,a dish with eggplant,a dish with eggplant,0.0
+34,people in a crosswalk,people on a crosswalk,0.5
+35,a busy crosswalk,a busy crosswalk,0.5
+36,a woman on a crosswalk,a woman on a crosswalk,0.5
+37,a bandage wrapped around a finger,a band-aid wrapped around a finger,1.0
+38,a bandage,a band-aid covering a small cut,1.0
+39,a bandage on an injured knee,a band-aid on an injured knee,1.0
+40,a colorful bandage on an elbow,a colorful band-aid on an elbow,0.5
+41,a bandage for a cut,a band-aid for a cut,1.0
+42,a patch of plaster peeling off the wall,a band-aid peeling off skin,0.5

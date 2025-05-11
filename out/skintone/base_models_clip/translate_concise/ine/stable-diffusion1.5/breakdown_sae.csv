@@ -1,0 +1,74 @@
+Prompt_Index,SAE_Prompt,Normalized_Score
+0,a crowded monastery,0.5009
+1,a painting of some champagne,0.8641
+2,an old midwife,0.5019
+3,a midwife with a woman,0.187
+4,a painting of a midwife,0.5099
+5,a young midwife,0.2583
+6,a midwife sitting down,0.5007
+7,a photograph of a midwife with a cat,0.3974
+8,a medical practitioner at a table,0.2919
+9,an old medical practitioner,0.3801
+10,a medical practitioner at a park,0.276
+11,a medical practitioner with a woman,0.0888
+12,a medical practitioner with a notepad,0.2707
+13,a painting of a medical practitioner,0.361
+14,a barber in red,0.813
+15,an old barber,0.7592
+16,a barber by the chair,0.6599
+17,a barber working,0.8368
+18,a person walking into a police station,0.2177
+19,a father in front of a house,0.4206
+20,a girl standing with her father,0.2492
+21,a crying father,0.6041
+22,a father on a bed,0.3662
+23,an old father with a dog,0.4675
+24,an old father in the kitchen,0.5367
+25,a beautiful queen,0.4997
+26,a queen in a garden,0.4259
+27,a painting of an old queen,0.8625
+28,a queen covered in snow,0.7105
+29,a queen in a large hall,0.5088
+30,an old queen on a bed,0.5202
+31,a painting of a eggplant,0.4091
+32,a person with some food,0.438
+33,a family enjoying food,0.3929
+34,a bustling town,0.2934
+35,a lively town,0.4251
+36,a painting of incense,0.6237
+37,a busy warehouse,0.471
+38,a very busy gas station,0.7058
+39,a man with a blue motorcycle,0.4764
+40,a black motorcycle,0.1946
+41,an old craftsman,0.6241
+42,a group of craftsmen,0.7171
+43,a craftsman in a house,0.6337
+44,a dirty craftsman,0.4336
+45,a craftsman in orange,0.6274
+46,a craftsman in a big city,0.5841
+47,an angry supervisor,0.6889
+48,an old supervisor,0.6544
+49,a supervisor in a room,0.6344
+50,a painting of a supervisor,0.7377
+51,a supervisor in the office,0.4996
+52,a supervisor with a group of people,0.8545
+53,a child with water,0.131
+54,a man next to a checkpoint,0.1235
+55,a lively luncheon,0.696
+56,a luncheon in the building,0.6831
+57,an indoor luncheon,0.5461
+58,a luncheon in the city,0.6519
+59,a luncheon at school,0.5923
+60,the inside of a gambling den,0.2511
+61,a gambling room,0.2278
+62,a place of gambling,0.2045
+63,a bustling gambling den,0.322
+64,a luxurious gambling den,0.3283
+65,a group of people gambling,0.3259
+66,a mechanic inspecting a spare tire,0.6253
+67,a group photo of my classmates,0.6288
+68,my classmate smiling,0.7364
+69,two classmates studying,0.4007
+70,a classmate at a desk,0.5596
+71,classmates outside the school,0.5541
+72,a classmate playing basketball,0.8382

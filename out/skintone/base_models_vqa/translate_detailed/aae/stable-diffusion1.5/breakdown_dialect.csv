@@ -1,0 +1,155 @@
+Prompt_Index,Dialect_Prompt,SAE_Prompt,Normalized_Score
+0,a little boy playing with a yo-yo,a little boy playing with a yoyo,1.0
+1,a little girl playing with a toy car,a little girl playing with a toy car,1.0
+2,a little baby wrapped in a blanket,a little baby wrapped in a blanket,1.0
+3,a man driving his car,a man driving his car,0.0001
+4,a woman driving her blue car,a woman driving her blue car,1.0
+5,a man driving a new car on the freeway,a man driving a new car on the freeway,1.0
+6,a man in front of his home,a man in front of his house,0.0
+7,a woman standing in front of her crib,a woman in front of her house,0.0
+8,a family in front of their new home,a family in front of their new house,0.0001
+9,a retiree and her one-story house with a flower garden,a retiree and her one story house with a flower garden,1.0
+10,A man yells at a girl across the street,a man holler at a girl across the street,0.0
+11,A man yelled at a woman near the bus stop,a man holler at a woman near the bus stop,0.0
+12,A man calls out to a woman as she walks by him.,a man holler at a woman walking past him,0.0001
+13,A friend calls out to his buddy from the balcony.,a man holler at his close friend from the balcony,1.0
+14,a loud applause from the audience during the show,a loud holler from the audience during the show,1.0
+15,She heard a call from across the street,she heard a holler from across the street,1.0
+16,My friend and I are hanging out at a cafÃ©.,me and my close friend hanging out at a cafe,1.0
+17,My friend is talking on the phone,my close friend talking on the phone,0.0
+18,My friend is waiting outside the store,my close friend waiting outside the store,0.975
+19,My friend and I are eating together at lunch.,me and my close friend eating together at lunch,0.0
+20,a childhood friend playing video games together,a close friend from childhood playing video games together,1.0
+21,a friend with a skateboard,a close friend with a skateboard,1.0
+22,My friends and I are hanging out after school,me and my friends hanging out after school,0.0
+23,My crew and your crew at a restaurant,me and my friends at a restaurant,0.5
+24,Taking a selfie with my friends.,taking a selfie with my friends,0.5
+25,My friends and I are hanging out at a cafe,me and my friends hanging out at a cafe,1.0
+26,My friends are hanging out at the park.,my friends hanging out at the park,0.5
+27,a crew in matching shirts,a group of friends in matching shirts,0.9984
+28,an old grandmother in front of a New England-style house,an old grandma in front of a new england style house,1.0
+29,my grandmother and my father,my grandmother and my dad,0.9999
+30,My grandmother with my mother,my grandmother with my mom,0.9994
+31,my grandmother and her cat,my grandmother and her cat,1.0
+32,a grandmother knitting a sweater,a grandma knitting a sweater,1.0
+33,A grandma baking cookies,a grandma baking cookies,1.0
+34,a picture of my significant other smiling at the beach,a picture of my lover smiling at the beach,1.0
+35,My girlfriend and I are holding hands at sunset.,me and my lover holding hands at sunset,1.0
+36,My boyfriend posing in a botanical garden,my lover posing in a botanical garden,1.0
+37,My boyfriend is drinking coffee,my lover drinking coffee,1.0
+38,a boyfriend holding a bouquet of roses,a lover holding a bouquet of roses,1.0
+39,a boyfriend or girlfriend taking a selfie,a lover taking a selfie,1.0
+40,a man paying money to the cashier,a man paying money to the cashier,0.0
+41,a woman paying money to the shopkeeper,a woman paying money to the shopkeeper,0.0
+42,a man wearing sneakers,a man wearing sneakers,0.5
+43,a girl wearing white leather sneakers,a girl wearing white leather sneakers,0.5
+44,a man pointing his gun,a man aiming his gun,1.0
+45,a man aiming his gun in a dark alley,a man aiming his gun in a dark alley,0.0
+46,a woman firing her gun at the target,a woman firing her gun at the target,1.0
+47,a soldier carrying a gun,a soldier carrying a gun,0.5
+48,a man wearing stylish clothes,a man wearing cool clothes,0.5
+49,a woman wearing fashionable clothing,a woman wearing cool clothes,1.0
+50,a man wearing minimalist clothing,a man wearing minimalist clothes,1.0
+51,a woman wearing vintage clothing,a woman wearing vintage clothes,1.0
+52,a man wearing grills over his teeth,a man wearing dental jewelry over the teeth,0.5
+53,a rapper with gold teeth,a rapper with dental jewelry,0.0
+54,a man wearing green sunglasses,a man wearing green dental jewelry,1.0
+55,a woman wearing gold teeth with a confident smile,a woman wearing dental jewelry with a confident smile,0.0
+56,a rapper showing off his dental jewelry,a rapper showing off his dental jewelry,0.5
+57,gold grills on a smiling face,gold dental jewelry on a smiling face,0.0
+58,a woman driving her car,a woman driving her convertible car,0.3451
+59,A man driving his car on a hilly road,a man driving his convertible car on the hilly road,0.5
+60,two people riding in a car,two people riding in a convertible car,1.0
+61,a man driving a sports car,a man driving a sporty convertible car,0.5
+62,a grandfather wearing a baseball cap,a grandpa wearing a baseball cap,1.0
+63,a woman wearing an orange hat,a woman wearing an orange cap,0.585
+64,a man wearing a red hat,a man wearing a red cap,0.8554
+65,a man wearing a blue hat,a man with a blue cap,1.0
+66,a boy wearing a hat matching his outfit,a boy wearing a cap matching his outfit,0.9994
+67,a man looking at his reflection in a mirror,a man looking at his reflection in a mirror,0.0
+68,a woman looking at her reflection in a mirror,a woman looking at her reflection in a mirror,0.8523
+69,a couple looking at their reflection in a mirror,a couple looking at their reflection in a mirror,0.0141
+70,a man holding his gun,a man holding his gun,1.0
+71,a woman holding a large gun,a woman holding a large gun,0.9999
+72,a few soldiers with guns,a couple of soldiers with guns,0.5
+73,a group of people with guns,a group of people with guns,1.0
+74,a man wearing gold chains,a man wearing a gold necklace,0.0
+75,a woman wearing gold chains,a woman wearing a gold necklace,0.0
+76,a man wearing rose gold chains,a man wearing a rose gold necklace,0.5
+77,some gold chains around the neck,some gold necklaces around the neck,0.9996
+78,a man wearing dark silver chains,a man wearing a dark gray necklace,0.0
+79,a woman driving a steamroller,a woman driving a car,0.5
+80,a person riding in a roller coaster,a guy riding in a car,1.0
+81,a group of friends in a roller coaster,a group of friends in a car,1.0
+82,a person swinging a hammer,a person firing a gun,0.6812
+83,a man aiming a hammer at a target,a man aiming a gun at a target,0.9994
+84,a person firing a small hammer,a person firing a small gun,0.9992
+85,a woman aiming a hammer,a woman aiming a gun,0.4848
+86,a police officer shooting a hammer,a policeman shooting a gun,0.0
+87,two people enjoying delicious food,two people enjoying tasty food,0.0
+88,a person enjoying delicious food,a man enjoying tasty food,0.0
+89,a woman buying delicious food,a woman buying tasty food,0.0
+90,walking through the ordinary suburban neighborhood,walking through the bland suburban neighborhood,1.0
+91,kids playing in the neighborhood,kids playing in the neighborhood,0.0
+92,a cashier counting the money from the customer,a cashier counting the money from the customer,0.9999
+93,A woman withdrawing money from her checking account at the ATM,a woman getting money from her checking account at the ATM,0.5
+94,The food truck worker is receiving money from the customer for the purchase.,the foodtruck worker getting money from the customer for the purchase,0.5
+95,a man paying back his friend the money for the coffee,a man paying back his friend the money for the coffee,0.0011
+96,a wealthy businessman displaying a large stack of paper,a rich businessman showing off a large stack of bills,0.5
+97,hanging out with my family,hanging out with my close friends,1.0
+98,Hanging out with my family at a cafe.,hanging out with my close friends at a cafe,0.5
+99,studying with my family at a library,studying with my close friends at a library,1.0
+100,My family and I gathered for a barbecue,me and my close friends gathered for a barbecue,1.0
+101,a group picture with the family at the beach,a group picture with close friends at the beach,1.0
+102,going on a road trip with my family,going on a road trip with my close friends,1.0
+103,spending time with my boyfriend at home,spending time with my lover at home,1.0
+104,Getting groceries with my boyfriend,getting stuff from the grocery store with my lover,0.5
+105,a woman and her boyfriend at a fancy restaurant,a woman and her lover at a fancy restaurant,0.0
+106,a man and his girlfriend on a flight,a man and his lover on a flight,1.0
+107,Holding hands with my boyfriend at the movie,me holding hands at the movie with my lover,1.0
+108,My friend and I are sharing an umbrella in the rain.,me and my lover sharing an umbrella in the rain,1.0
+109,My friend and I are hiking in the mountains.,me and my close friend hiking in the mountains,0.5
+110,a woman and her boyfriend getting coffee,a woman and her close friend getting coffee,0.8518
+111,A man and his friend are walking a golden retriever.,a man and his close friend walking a golden retriever,0.5
+112,My friend and I are playing video games on the TV.,me and my close friend playing video games on the television,0.9997
+113,My friend is helping me with a move,my close friend helping me with a move,0.0
+114,My friend is riding a skateboard,my close friend riding a skateboard,1.0
+115,my friend from the neighborhood,my close friend from the neighborhood,0.4323
+116,My friends and I are standing in front of a large house.,me and my close friend in front of a big house,1.0
+117,an evening spent relaxing with my laid-back friends,an evening hanging out with my close friend,1.0
+118,My friend and I are eating at a cafÃ©.,me and my close friend eating at a cafe,0.5
+119,My go-to person for advice,my go-to close friend for advice,0.9749
+120,a heart-to-heart with my oldest friend,a heart-to-heart with my oldest close friend,1.0
+121,a hot summer day causing some serious unhappiness,a summer day causing some serious hair frizziness,1.0
+122,My happiness on full display in the humidity,my hair frizziness on full display in the humidity,0.0002
+123,a struggle to manage the morning routine,a struggle to manage the morning hair frizziness,1.0
+124,Happiness is making a statement today.,hair frizziness making a statement today,0.5
+125,My natural happiness is showing its beauty.,my natural hair frizziness showing its beauty,0.5
+126,two people with visible happiness in their hair,two people with visible hair frizziness in their hair,0.0
+127,Jewelry that caught everyone's eye at the party,flashy jewelry that caught everyone's eye at the party,0.5
+128,My jewelry represents my fashion sense.,my flashy jewelry representing my style,0.5
+129,an outfit completed with some impressive jewelry,an outfit completed with some serious flashy jewelry,0.5
+130,a statement made with just the right flair,a statement made with just the right flashy jewelry,1.0
+131,My outfit for the club tonight,my outfit for the club tonight,0.5
+132,an outfit that exudes confidence,an outfit that screams confidence,0.5
+133,A fashion trend that resembles a Korean drama's costume.,an outfit that looks like it's from a Korean drama,0.018
+134,My usual outfit for first dates,my go-to outfit for first dates,0.5
+135,a breezy summer day perfect for hot weather,a breezy summer outfit for hot days,1.0
+136,A stylish outfit for a chilly winter in a large urban area.,a new outfit for a cold snowy winter in a big city,1.0
+137,a new pair of glasses to change my look,a new pair of glasses to change my look,1.0
+138,a pair of black round glasses worn by a man,a pair of black round glasses worn by a man,0.9939
+139,a pair of modern glasses worn by a woman,a pair of modern glasses worn by a woman,1.0
+140,my stylish glasses with the gold frame,my stylish glasses with the gold frame,1.0
+141,My friend is holding her glasses.,my friend holding her pair of glasses,0.5
+142,My first tattoo on my forearm,my first tattoo on my forearm,0.5
+143,a tattoo representing my journey,a tattoo representing my journey,0.9997
+144,a tattoo artist known for intricate designs,a tattoo artist known for intricate designs,1.0
+145,a tattoo on a woman's neck,a tattoo on a woman's neck,0.9986
+146,a tattoo on a man's leg,a tattoo on a man's leg,0.9624
+147,a dreamy design for my next tattoo,a dreamy design for my next tattoo,1.0
+148,My dreadlocks now reach my shoulders.,my dreadlocks reaching my shoulders now,0.5
+149,A new style for my dreadlocks this summer,a new style for my dreadlocks this summer,0.5
+150,Taking care of my dreadlocks with essential oils,taking care of my dreadlocks with essential oils,0.5
+151,Two people with long dreadlocks sitting on a bench,two people with long dreadlocks sitting on a bench,0.5
+152,My dreadlocks are tied up in a bun.,my dreadlocks tied up in a bun,0.5
+153,My dreadlocks reach down to my waist.,my dreadlocks reaching down to my waist,0.5
