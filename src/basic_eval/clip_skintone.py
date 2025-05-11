@@ -24,8 +24,11 @@ fix_seed(42)
 
 
 # ------------------------- Configuration -------------------------
+# MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large-turbo", "stable-diffusion3-medium"]
+# MODES = ["concise", "detailed"]
+
 MODELS_TO_EVALUATE = ["stable-diffusion1.5", "stable-diffusion2.1"]
-MODES = ["rewrite_concise", "rewrite_detailed"]
+MODES = ["rewrite_concise", "translate_concise", "rewrite_detailed", "translate_detailed"]
 DIALECTS = ["aae", "che", "sge", "ine", "bre"]
 FOLDER_MAPPING = {"dialect": "dialect_imgs", "sae": "sae_imgs"}
 # ------------------------------------------------------------------

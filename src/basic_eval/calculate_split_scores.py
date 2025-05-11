@@ -33,7 +33,7 @@ SPLIT_ROOT = Path(
 )
 
 DIALECTS = ["aae", "bre", "che", "ine", "sge"]
-MODES = ["concise", "detailed"]
+MODES = ["concise", "detailed", "rewrite_concise", "rewrite_detailed", "translate_concise", "translate_detailed"]
 SPLITS = ["train", "val", "test"]
 
 logging.basicConfig(level=logging.INFO, format="[%(levelname)s] %(message)s")
