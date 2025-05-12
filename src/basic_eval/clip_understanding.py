@@ -23,11 +23,11 @@ fix_seed(42)
 
 
 # ------------------------- Configuration -------------------------
-MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large-turbo", "stable-diffusion3-medium"]
-MODES = ["concise", "detailed"]
+# MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large-turbo", "stable-diffusion3-medium"]
+# MODES = ["concise", "detailed"]
 
-# MODELS_TO_EVALUATE = ["stable-diffusion1.5", "stable-diffusion2.1"]
-# MODES = ["rewrite_concise", "translate_concise", "rewrite_detailed", "translate_detailed"]
+MODELS_TO_EVALUATE = ["stable-diffusion1.5"]
+MODES = ["rewrite_concise", "translate_concise", "translate_concise_gpt41", "rewrite_detailed", "translate_detailed", "translate_detailed_gpt41"]
 DIALECTS = ["aae", "che", "sge", "ine", "bre"]
 # ------------------------------------------------------------------
 
@@ -88,6 +88,8 @@ def main():
 
             dialect_prompts = df["Dialect_Prompt"].tolist()
             sae_prompts = df["SAE_Prompt"].tolist()
+            if mode in ["rewrite_concise", "translate_concise", "translate_concise_gpt41", "rewrite_detailed", "translate_detailed", "translate_detailed_gpt41"]:
+                original_sae_prompts = df["Original_SAE_Prompt"].tolist()
 
             for model in MODELS_TO_EVALUATE:
                 NUM_IMAGES = 1 if model in ["dalle2", "dalle3"] else 9
@@ -109,10 +111,17 @@ def main():
                 for i in tqdm(range(len(dialect_prompts)), desc="Processing prompts"):
                     dialect_prompt = dialect_prompts[i]
                     sae_prompt = sae_prompts[i]
+                    if mode in ["rewrite_concise", "translate_concise", "translate_concise_gpt41", "rewrite_detailed", "translate_detailed", "translate_detailed_gpt41"]:
+                        original_sae_prompt = original_sae_prompts[i]
 
-                    score_dialect = get_average_score(
-                        img_dir, model, "dialect_imgs", dialect_prompt, sae_prompt, NUM_IMAGES, use_hash=use_hash
-                    )
+                    if mode in ["rewrite_concise", "translate_concise", "translate_concise_gpt41", "rewrite_detailed", "translate_detailed", "translate_detailed_gpt41"]:
+                        score_dialect = get_average_score(
+                            img_dir, model, "dialect_imgs", dialect_prompt, original_sae_prompt, NUM_IMAGES, use_hash=use_hash
+                        )
+                    else:
+                        score_dialect = get_average_score(
+                            img_dir, model, "dialect_imgs", dialect_prompt, sae_prompt, NUM_IMAGES, use_hash=use_hash
+                        )
                     results_dialect.append({
                         "Prompt_Index": i,
                         "Dialect_Prompt": dialect_prompt,
@@ -121,9 +130,14 @@ def main():
                     })
                     print(f"Mode: {mode} | Dialect: {dialect} | Prompt {i} (dialect) | '{dialect_prompt}': {score_dialect:.4f}")
 
-                    score_sae = get_average_score(
-                        img_dir, model, "sae_imgs", sae_prompt, sae_prompt, NUM_IMAGES, use_hash=False
-                    )
+                    if mode in ["rewrite_concise", "translate_concise", "translate_concise_gpt41", "rewrite_detailed", "translate_detailed", "translate_detailed_gpt41"]:
+                        score_sae = get_average_score(
+                            img_dir, model, "sae_imgs", sae_prompt, original_sae_prompt, NUM_IMAGES, use_hash=use_hash
+                        )
+                    else:
+                        score_sae = get_average_score(
+                            img_dir, model, "sae_imgs", sae_prompt, sae_prompt, NUM_IMAGES, use_hash=use_hash
+                        )
                     results_sae.append({
                         "Prompt_Index": i,
                         "SAE_Prompt": sae_prompt,

@@ -22,11 +22,11 @@ def fix_seed(seed: int):
 fix_seed(42)
 
 # ------------------------- Configuration -------------------------
-MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large-turbo", "stable-diffusion3-medium"]
-MODES = ["concise", "detailed"]
+# MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large-turbo", "stable-diffusion3-medium"]
+# MODES = ["concise", "detailed"]
 
-# MODELS_TO_EVALUATE = ["stable-diffusion1.5", "stable-diffusion2.1"]
-# MODES = ["rewrite_concise", "translate_concise", "rewrite_detailed", "translate_detailed"]
+MODELS_TO_EVALUATE = ["stable-diffusion1.5"]
+MODES = ["rewrite_concise", "translate_concise", "translate_concise_gpt41", "rewrite_detailed", "translate_detailed", "translate_detailed_gpt41"]
 DIALECTS = ["aae", "che", "sge", "ine", "bre"]
 # ------------------------------------------------------------------
 
@@ -131,8 +131,8 @@ def main():
 
                     # SAE
                     folder = FOLDER_MAPPING["sae"]
-                    score_light = get_average_score(img_dir, model, folder, sae_prompt, LIGHT_SKIN_PROMPT, NUM_IMAGES)
-                    score_dark = get_average_score(img_dir, model, folder, sae_prompt, DARK_SKIN_PROMPT, NUM_IMAGES)
+                    score_light = get_average_score(img_dir, model, folder, sae_prompt, LIGHT_SKIN_PROMPT, NUM_IMAGES, use_hash=use_hash)
+                    score_dark = get_average_score(img_dir, model, folder, sae_prompt, DARK_SKIN_PROMPT, NUM_IMAGES, use_hash=use_hash)
                     norm_sae = round(compute_normalized_score(score_light, score_dark), 4)
                     results_sae.append({
                         "Prompt_Index": i,
