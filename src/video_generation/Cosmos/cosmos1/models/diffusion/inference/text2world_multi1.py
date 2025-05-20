@@ -39,7 +39,7 @@ ENTIGEN_PREFIXES = {
 }
 SAE_PREFIX = "In Standard American English, "
 
-BASE_DIR = '/local/cipeng/multimodal-dialectal-bias/'
+BASE_DIR = 'home/multimodal-dialectal-bias/'
 
 torch.set_grad_enabled(False)
 

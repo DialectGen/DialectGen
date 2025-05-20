@@ -108,7 +108,7 @@ class BasePretrainedImageVAE(BaseVAE):
         self.name = name
 
     def register_mean_std(self, vae_dir: str) -> None:
-        latent_mean, latent_std = torch.load(os.path.join(vae_dir, "image_mean_std.pt"), weights_only=True)
+        latent_mean, latent_std = torch.load(os.path.join(vae_dir, "image_mean_std.pt"), weights_only=False)
 
         target_shape = [1, self.latent_ch, 1, 1] if self.is_image else [1, self.latent_ch, 1, 1, 1]
 
@@ -195,7 +195,7 @@ class JITVAE(BasePretrainedImageVAE):
         """
         Load the encoder from the remote store.
         """
-        self.encoder = torch.load(os.path.join(vae_dir, "encoder.jit"), weights_only=True)
+        self.encoder = torch.load(os.path.join(vae_dir, "encoder.jit"), weights_only=False)
 
         self.encoder.eval()
         for param in self.encoder.parameters():
@@ -206,7 +206,7 @@ class JITVAE(BasePretrainedImageVAE):
         """
         Load the decoder from the remote store.
         """
-        self.decoder = torch.load(os.path.join(vae_dir, "decoder.jit"), weights_only=True)
+        self.decoder = torch.load(os.path.join(vae_dir, "decoder.jit"), weights_only=False)
 
         self.decoder.eval()
         for param in self.decoder.parameters():
@@ -340,7 +340,7 @@ class BasePretrainedVideoTokenizer(ABC):
         self.max_dec_batch_size = max_dec_batch_size
 
     def register_mean_std(self, vae_dir: str) -> None:
-        latent_mean, latent_std = torch.load(os.path.join(vae_dir, "mean_std.pt"), weights_only=True)
+        latent_mean, latent_std = torch.load(os.path.join(vae_dir, "mean_std.pt"), weights_only=False)
 
         latent_mean = latent_mean.view(self.latent_ch, -1)[:, : self.latent_chunk_duration]
         latent_std = latent_std.view(self.latent_ch, -1)[:, : self.latent_chunk_duration]

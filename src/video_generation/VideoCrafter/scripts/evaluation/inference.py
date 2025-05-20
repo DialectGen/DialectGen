@@ -26,8 +26,7 @@ ENTIGEN_PREFIXES = {
 }
 SAE_PREFIX = "In Standard American English, "
 
-# BASE_DIR = Path(s__file__).reolve().parents[6]
-BASE_DIR = Path("/local/cipeng/multimodal-dialectal-bias")
+BASE_DIR = Path("/home/multimodal-dialectal-bias")
 
 class PromptDataset(Dataset):
     def __init__(self, csv_path, mode, dialect):
@@ -65,11 +64,11 @@ def generate(model, prompt, output_path, fps, args):
         model, cond, noise_shape, args.num_samples,
         args.ddim_steps, args.ddim_eta, args.guidance_scale
     )
-    batch_samples = batch_ddim_sampling(
-            model, cond, noise_shape, args.n_samples,
-            args.ddim_steps, args.ddim_eta,
-            args.unconditional_guidance_scale
-        )
+    # batch_samples = batch_ddim_sampling(
+    #         model, cond, noise_shape, args.n_samples,
+    #         args.ddim_steps, args.ddim_eta,
+    #         args.unconditional_guidance_scale
+    #     )
     save_videos(batch_samples, output_path.parent, [output_path.stem], fps=fps)
 
 def main():
@@ -123,8 +122,6 @@ def main():
     model.eval()
 
     for batch in tqdm(dataloader, disable=rank != 0):
-        # print(batch)
-        # print(batch[0])
         dialect_prompt, sae_prompt = batch[0][0], batch[1][0]
 
         for j in range(args.num_samples):

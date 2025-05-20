@@ -1,6 +1,4 @@
-export CUDA_VISIBLE_DEVICES=0,1,2,3
-
-#!/bin/bash
+export CUDA_VISIBLE_DEVICES=2,3,4,5,6,7
 
 # Define dialects and modes
 DIALECTS=("aae" "bre" "che" "ine" "sge")
@@ -20,17 +18,17 @@ for dialect in "${DIALECTS[@]}"; do
     echo "=================================================="
     
     # Run with waiting
-    torchrun --nproc_per_node=4 --master_port=29505 generate_multi.py \
+    torchrun --nproc_per_node=6 --master_port=29505 generate_multi.py \
         --dialect $dialect \
         --mode $mode \
         --task t2v-14B \
         --size 832*480 \
         --frame_num 10 \
-        --ckpt_dir /local2/cipeng/weights/Wan2.1-T2V-14B \
+        --ckpt_dir ../Wan2.1-T2V-14B \
         --dit_fsdp \
         --t5_fsdp \
-        --ring_size 4 \
-        --ulysses_size 1 \
+        --ring_size 3 \
+        --ulysses_size 2 \
         --sample_steps 12 \
         --sample_shift 5.0 \
         --sample_guide_scale 5.0 \

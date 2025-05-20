@@ -405,10 +405,6 @@ def generate(args):
                 value_range=(-1, 1))
     logging.info("Finished.")
 
-# CUDA_VISIBLE_DEVICES=1,2,3,4,5,6 torchrun --nproc_per_node=6 generate.py --task t2v-14B --size 832*480 --frame_num 61 --ckpt_dir /local2/cipeng/weights/Wan2.1-T2V-14B --dit_fsdp --ring_size 6 --ulysses_size 1 --prompt "Two anthropomorphic cats in comfy boxing gear and bright gloves fight intensely on a spotlighted stage."
-
-# CUDA_VISIBLE_DEVICES=1,2,3,4,5,6 torchrun --nproc_per_node=6 generate.py --task t2v-14B --size 1280*720 --ckpt_dir /local2/cipeng/weights/Wan2.1-T2V-14B --dit_fsdp --t5_fsdp --ring_size 6 --ulysses_size 1 --prompt "Two anthropomorphic cats in comfy boxing gear and bright gloves fight intensely on a spotlighted stage."
-# 27 min
 if __name__ == "__main__":
     args = _parse_args()
     generate(args)

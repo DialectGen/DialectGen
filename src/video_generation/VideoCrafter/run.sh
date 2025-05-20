@@ -3,8 +3,8 @@
 # Define dialects and modes
 DIALECTS=("aae" "bre" "che" "ine" "sge")
 MODES=("concise" "detailed")
-BASE_MASTER_PORT=29500
-BASE_RDZV_PORT=30500
+BASE_MASTER_PORT=29589
+BASE_RDZV_PORT=30598
 
 for dialect in "${DIALECTS[@]}"; do
   for mode in "${MODES[@]}"; do
@@ -18,19 +18,20 @@ for dialect in "${DIALECTS[@]}"; do
     echo "=================================================="
     
     # Run with waiting
-    CUDA_VISIBLE_DEVICES=1,2 torchrun \
-        --nproc-per-node=2 \
+    CUDA_VISIBLE_DEVICES=0 torchrun \
+        --nproc-per-node=1 \
         --master-port=$CURRENT_MASTER_PORT \
         --rdzv-endpoint=localhost:$CURRENT_RDZV_PORT \
         scripts/evaluation/inference.py \
         --dialect $dialect \
         --mode $mode \
         --config 'configs/inference_t2v_512_v2.0.yaml' \
-        --ckpt '/local2/cipeng/weights/VideoCrafter2/model.ckpt' \
+        --ckpt '../model.ckpt' \
         --guidance_scale 12.0 \
         --ddim_steps 50 \
         --ddim_eta 1.0 \
-        --overwrite
+        --num_samples 1 \
+        # --overwrite
 
     # Increment ports for next run
     BASE_MASTER_PORT=$((BASE_MASTER_PORT + 1))
