@@ -21,7 +21,7 @@ for dialect in "${DIALECTS[@]}"; do
     sed -i "s/^dialect *=.*/dialect = '$dialect'/" config.py
     sed -i "s/^mode *=.*/mode = '$mode'/" config.py
     
-    CUDA_VISIBLE_DEVICES=0 torchrun --nproc-per-node=1 --master-port=$CURRENT_MASTER_PORT scripts/inference_multi.py /local/cipeng/multimodal-dialectal-bias/src/video_generation/Open-Sora/config.py \
+    CUDA_VISIBLE_DEVICES=0 torchrun --nproc-per-node=1 --master-port=$CURRENT_MASTER_PORT scripts/inference_multi.py /home/multimodal-dialectal-bias/src/video_generation/Open-Sora/config.py \
        --num-frames 51 --resolution 720p --aspect-ratio 9:16 --batch-size 1
 
     # Increment ports for next run

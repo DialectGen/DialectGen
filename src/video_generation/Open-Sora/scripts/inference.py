@@ -37,10 +37,10 @@ from opensora.utils.inference_utils import (
 from opensora.utils.misc import all_exists, create_logger, is_distributed, is_main_process, to_torch_dtype
 
 
-PROMPT_FILE = "/local2/cipeng/datasets/videophy/action_prompts_simple_gpt4o_try5.csv"
+PROMPT_FILE = "home/datasets/videophy/action_prompts_simple_gpt4o_try5.csv"
 CSV_COLUMN = "prompt"
-OUTPUT_CSV = "/local2/cipeng/datasets/videophy/opensora_5.csv"
-SAVE_DIR = "/local2/cipeng/datasets/videophy/opensora_5"
+OUTPUT_CSV = "home/datasets/videophy/opensora_5.csv"
+SAVE_DIR = "home/datasets/videophy/opensora_5"
 
 def main():
     torch.set_grad_enabled(False)
