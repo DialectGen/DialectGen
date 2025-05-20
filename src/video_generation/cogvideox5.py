@@ -58,15 +58,6 @@ class PromptDataset(Dataset):
 # Main Functions
 # ---------------------------
 def prepare_directory(args, path: Path):
-    # if path.exists():
-    #     # if any(path.iterdir()) and dist.get_rank() == 0:
-    #     #     response = input(f"Directory {path} exists. Overwrite? (y/n): ").lower()
-    #     #     if response != "y":
-    #     #         sys.exit(1)
-    #     if args.overwrite:
-    #         shutil.rmtree(path)
-    #     else:
-    #         raise Error("path exists")
     path.mkdir(parents=True, exist_ok=True)
 
 def generate_video(pipe, prompt, output_dir, seed):
@@ -84,9 +75,7 @@ def generate_video(pipe, prompt, output_dir, seed):
             guidance_scale=6,
             generator=torch.Generator(device="cuda").manual_seed(seed+i)
         )
-        # print(result)
         export_to_video(result.frames[0], str(output_path), fps=8)
-    # return str(output_path)
 
 def main():
     # ---------------------------
