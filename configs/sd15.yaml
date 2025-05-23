@@ -1,0 +1,46 @@
+---
+seed: 42
+
+dialect_file_folder: ./data/text/train_val_test/4-1-1/
+stable_diffusion_model: runwayml/stable-diffusion-v1-5
+hf_token: YOUR_HF_TOKEN
+
+optimizer:  # specify the optimizer and its parameters from torch.optim for training.
+  AdamW:
+    lr: 0.0001 #1e-6
+    betas: [0.9, 0.999]
+    eps: 1.0e-08
+    weight_decay: 0.0
+
+lr_scheduler: # option to provide a learning rate scheduler from torch.optim.
+  CosineAnnealingLR:
+    T_max: 30
+
+training: # select the training parameters.
+  epochs: 30
+  clean_batch_size: 32
+  polysemy_batch_size: 32
+  num_threads: 16
+  dataloader_num_workers: 8
+  save_path: models
+  loss_fkt: SimilarityLoss
+  weight_unlearn: 1.0
+  weight_kl_reg: 1.0
+  weight_polysemy: 1.0
+
+wandb: # options for WandB logging.
+  enable_logging: true # Set to true to activate the logging.
+  args: # arguments for wandb.init call. See https://docs.wandb.ai/ref/python/init for a complete overview.
+    project: Dialect Unlearning
+    name: dialect_unlearning
+    save_code: true
+
+caption_dataset:
+  caption_file_path: ./data/mscoco/annotations/captions_val2017.json
+  image_folder_path: ./data/generated/images/mscoco_orig
+  batch_size: 128
+  control_size: 1024
+  control_size_eval: 256
+  mode: text # [image, text]
+
+clip_model: openai/clip-vit-large-patch14
