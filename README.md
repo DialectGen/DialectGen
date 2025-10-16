@@ -33,7 +33,7 @@
 
 <p align="center">
     <a href="https://dialectgen.github.io/" target="_blank">
-        <img src="./assets/method.png" alt="CoDA" width="90%" height="90%" border="10" />
+        <img src="./assets/teaser.png" alt="DialectGen" width="90%" height="90%" border="10" />
     </a>
 </p>
 
@@ -84,16 +84,16 @@ python src/img_generation/sd35-turbo.py --dialects aae bre che ine sge --mode co
 ```
 DialectGen/
 ├── data/
-│   └── image/
-│       └── {mode}/
-│           └── {model}/
-│               ├── sae_images/
-│                   └── ...
-│               └── dialect_imgs/
-│                   └── {prompt}
-│                       ├── 0.jpg
-│                       ├── ...
-│                       ├── 9.jpg
+   └── image/
+       └── {mode}/
+           └── {model}/
+               ├── sae_images/
+                   └── ...
+               └── dialect_imgs/
+                   └── {prompt}
+                       ├── 0.jpg
+                       ├── ...
+                       ├── 9.jpg
 ```
 
 ### 1.2 Video Generation
@@ -192,7 +192,7 @@ If you find our work helpful, please kindly cite our work :)
 @article{zhou2025dialectgen,
   title={DialectGen: Benchmarking and Improving Dialect Robustness in Multimodal Generation},
   author={Zhou, Yu and An, Sohyun and Deng, Haikang and Yin, Da and Peng, Clark and Hsieh, Cho-Jui and Chang, Kai-Wei and Peng, Nanyun},
-#   journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:},
   year={2025}
 } 
 ```
