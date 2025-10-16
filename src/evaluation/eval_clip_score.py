@@ -1,4 +1,8 @@
+#!/usr/bin/env python3
 import os
+import sys
+import re
+import argparse
 import hashlib
 import pandas as pd
 from tqdm import tqdm
@@ -10,6 +14,16 @@ import random
 import numpy as np
 from transformers import set_seed
 
+# ------------------------- Defaults -------------------------
+DEFAULT_MODELS = ["stable-diffusion-3.5-large-turbo", "stable-diffusion3-medium"]
+DEFAULT_MODES = [
+    "rewrite_concise", "translate_concise", "translate_concise_gpt41",
+    "rewrite_detailed", "translate_detailed", "translate_detailed_gpt41"
+]
+ALLOWED_DIALECTS = ["aae", "che", "sge", "ine", "bre"]
+DEFAULT_DIALECTS = ALLOWED_DIALECTS[:]
+# ------------------------------------------------------------
+
 def fix_seed(seed: int):
     """Sets the seed for reproducibility across various libraries."""
     random.seed(seed)
@@ -18,23 +32,54 @@ def fix_seed(seed: int):
     torch.cuda.manual_seed_all(seed)
     set_seed(seed)
 
+def parse_args(argv=None):
+    def split_list(s: str):
+        # Accept comma or whitespace separated lists
+        return [x for x in re.split(r"[,\s]+", s.strip()) if x]
+
+    parser = argparse.ArgumentParser(
+        description="CLIP-based evaluation with 4-digit rounding and drop metrics."
+    )
+    parser.add_argument(
+        "--models",
+        type=str,
+        default=",".join(DEFAULT_MODELS),
+        help="List of model names. Comma or space separated. No restrictions."
+    )
+    parser.add_argument(
+        "--modes",
+        type=str,
+        default=",".join(DEFAULT_MODES),
+        help="List of evaluation modes. Comma or space separated. No restrictions."
+    )
+    parser.add_argument(
+        "--dialects",
+        type=str,
+        default=",".join(DEFAULT_DIALECTS),
+        help=f"List of dialects. Comma or space separated. Must be in {ALLOWED_DIALECTS}."
+    )
+
+    args = parser.parse_args(argv)
+
+    models = split_list(args.models)
+    modes = split_list(args.modes)
+    dialects = split_list(args.dialects)
+
+    invalid = [d for d in dialects if d not in ALLOWED_DIALECTS]
+    if invalid:
+        parser.error(f"Invalid dialect(s): {invalid}. Allowed: {ALLOWED_DIALECTS}")
+
+    return models, modes, dialects
+
 # Fix the seed for reproducibility
 fix_seed(42)
 
-
-# ------------------------- Configuration -------------------------
-# MODELS_TO_EVALUATE = ["stable-diffusion-3.5-large-turbo", "stable-diffusion3-medium"]
-# MODES = ["concise", "detailed"]
-
-MODELS_TO_EVALUATE = ["stable-diffusion1.5"]
-MODES = ["rewrite_concise", "translate_concise", "translate_concise_gpt41", "rewrite_detailed", "translate_detailed", "translate_detailed_gpt41"]
-DIALECTS = ["aae", "che", "sge", "ine", "bre"]
-# ------------------------------------------------------------------
-
+# ------------------------- Configuration kept as constants -------------------------
 TASK = "understanding"
 BASE_DIR = "/local1/bryanzhou008/Dialect/multimodal-dialectal-bias"
 DATA_DIR = os.path.join(BASE_DIR, "data")
 OUTPUT_DIR = os.path.join(BASE_DIR, f"out/{TASK}/base_models_clip")
+# -----------------------------------------------------------------------------------
 
 # Set up the CLIP model
 device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -70,11 +115,11 @@ def get_average_score(img_dir, model_name, folder, gen_prompt, ref_prompt, num_i
 
     return sum(scores) / len(scores) if scores else 0.0
 
-def main():
-    for mode in MODES:
+def main(models, modes, dialects):
+    for mode in modes:
         use_hash = "rewrite" in mode
 
-        for dialect in DIALECTS:
+        for dialect in dialects:
             data_file = os.path.join(DATA_DIR, "text", mode, f"{dialect}.csv")
             img_dir = os.path.join(DATA_DIR, "image", mode, dialect)
 
@@ -88,10 +133,11 @@ def main():
 
             dialect_prompts = df["Dialect_Prompt"].tolist()
             sae_prompts = df["SAE_Prompt"].tolist()
-            if mode in ["rewrite_concise", "translate_concise", "translate_concise_gpt41", "rewrite_detailed", "translate_detailed", "translate_detailed_gpt41"]:
+            if mode in ["rewrite_concise", "translate_concise", "translate_concise_gpt41",
+                        "rewrite_detailed", "translate_detailed", "translate_detailed_gpt41"]:
                 original_sae_prompts = df["Original_SAE_Prompt"].tolist()
 
-            for model in MODELS_TO_EVALUATE:
+            for model in models:
                 NUM_IMAGES = 1 if model in ["dalle2", "dalle3"] else 9
                 output_model_dir = os.path.join(OUTPUT_DIR, mode, dialect, model)
                 os.makedirs(output_model_dir, exist_ok=True)
@@ -111,10 +157,12 @@ def main():
                 for i in tqdm(range(len(dialect_prompts)), desc="Processing prompts"):
                     dialect_prompt = dialect_prompts[i]
                     sae_prompt = sae_prompts[i]
-                    if mode in ["rewrite_concise", "translate_concise", "translate_concise_gpt41", "rewrite_detailed", "translate_detailed", "translate_detailed_gpt41"]:
+                    if mode in ["rewrite_concise", "translate_concise", "translate_concise_gpt41",
+                                "rewrite_detailed", "translate_detailed", "translate_detailed_gpt41"]:
                         original_sae_prompt = original_sae_prompts[i]
 
-                    if mode in ["rewrite_concise", "translate_concise", "translate_concise_gpt41", "rewrite_detailed", "translate_detailed", "translate_detailed_gpt41"]:
+                    if mode in ["rewrite_concise", "translate_concise", "translate_concise_gpt41",
+                                "rewrite_detailed", "translate_detailed", "translate_detailed_gpt41"]:
                         score_dialect = get_average_score(
                             img_dir, model, "dialect_imgs", dialect_prompt, original_sae_prompt, NUM_IMAGES, use_hash=use_hash
                         )
@@ -130,7 +178,8 @@ def main():
                     })
                     print(f"Mode: {mode} | Dialect: {dialect} | Prompt {i} (dialect) | '{dialect_prompt}': {score_dialect:.4f}")
 
-                    if mode in ["rewrite_concise", "translate_concise", "translate_concise_gpt41", "rewrite_detailed", "translate_detailed", "translate_detailed_gpt41"]:
+                    if mode in ["rewrite_concise", "translate_concise", "translate_concise_gpt41",
+                                "rewrite_detailed", "translate_detailed", "translate_detailed_gpt41"]:
                         score_sae = get_average_score(
                             img_dir, model, "sae_imgs", sae_prompt, original_sae_prompt, NUM_IMAGES, use_hash=use_hash
                         )
@@ -167,4 +216,5 @@ def main():
                 print(f"Results saved to: {output_model_dir}\n")
 
 if __name__ == "__main__":
-    main()
+    models, modes, dialects = parse_args(sys.argv[1:])
+    main(models, modes, dialects)
