@@ -188,7 +188,7 @@ Navigate to the directory by running the following command:
 ```bash
 cd src/mitigation
 ```
-You need to install the following additional packages in the Conda environment that you created from `environment.yml`.
+Switch back to the DialectGen environment and install the following additional packages.
 ```bash
 pip install wandb
 pip install datasets==3.1.0
@@ -244,7 +244,10 @@ python generate_images_mscoco.py --model $model --encoder models/... --swap sge
 
 ### 3.5 Evaluation
 
-Once all images are generated, perform scoring using the VQA metric. 
+Once all images are generated, perform scoring using the VQA metric. To do this, first switch back to the `t2v` environment.
+```bash
+conda activate t2v
+```
 
 #### Dialect/SAE
 
