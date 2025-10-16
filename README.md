@@ -64,7 +64,7 @@ Build the DialectGen environment from conda:
 
 ## 2. Evaluate Image or Video Generative Models on DialectGen
 
-### 1.1 Image Generation
+### 2.1 Image Generation
 
 For existing models in the DialectGen paper, please use scripts in `src/img_generation`. To evaluate your own model, please duplicate any existing script in `src/img_generation` and modify with your model generation function.
 
@@ -96,7 +96,7 @@ DialectGen/
                        ├── 9.jpg
 ```
 
-### 1.2 Video Generation
+### 2.2 Video Generation
 
 
 #### Installation
@@ -143,7 +143,7 @@ bash gen_cog.sh
 ```
 
 
-### 1.3 Evaluation
+### 2.3 Evaluation
 
 #### Installation
 
@@ -180,10 +180,100 @@ python src/evaluation/eval_clip_score.py --models stable-diffusion-3.5-large-tur
 For aggregating evaluation results and calculating final scores for each dataset split, please refer to `src/evaluation/aggragate_model_scores.py` and `src/evaluation/calculate_split_scores.py`.
 
 
-## 3. Mitigation
+## 3. Mitigation Method
+
+### 3.1 Installation
+
+Navigate to the directory by running the following command:
+```bash
+cd src/mitigation
+```
+You need to install the following additional packages in the Conda environment that you created from `environment.yml`.
+```bash
+pip install wandb
+pip install datasets==3.1.0
+```
 
 
-......
+### 3.2 Download MS COCO dataset
+
+If the MSCOCO dataset is not available, you will need to first download it. Run `download_mscoco.sh` for this purpose. This will create a folder named `mscoco` under the `data` directory and download the data into it.
+```bash
+bash download_mscoco.sh
+```
+
+
+### 3.3 Fine-tune a text encoder
+
+Fine-tune a text encoder using the following command. The relevant configuration is included in `configs` folder.
+```bash
+python finetune.py --config configs/sd15.yaml
+```
+
+#### Arguments
+
+- `--config`: The path to the `yaml` file that contains the configuration used for fine-tuning.
+- `--dialect`: The types of dialects to be used for fine-tuning
+- `--mode`: The mode of dialect (`concise` or `detailed`)
+
+
+### 3.4 Generate images
+After the encoder has been fine-tuned, images are generated using the fine-tuned encoder. Specify the path to the fine-tuned encoder in `encoder_path`. If `swap=1`, the image is generated using the fine-tuned encoder (i.e., swapped in). If `SWAP=0`, the original encoder is used for image generation.
+
+#### Diaelct/SAE
+```bash
+python generate_images.py --model stable-diffusion-v1-5/stable-diffusion-v1-5 --encoder models/... --swap 1 --dialect sge
+```
+
+#### SAE Polysemy
+```bash
+python generate_images_polysemy.py --model stable-diffusion-v1-5/stable-diffusion-v1-5 --encoder models/... --swap 1 --dialect sge
+```
+
+#### SAE MSCOCO
+```bash
+python generate_images_mscoco.py --model $model --encoder models/... --swap sge
+```
+
+##### Arguments
+
+- `--encoder`: The path to the fine-tuned encoder used for image generation.
+- `--swap`: If set to 1, uses the fine-tuned encoder; if 0, uses the original encoder.
+- `--dialect`: The target dialect for image generation.
+
+
+### 3.5 Evaluation
+
+Once all images are generated, perform scoring using the VQA metric. 
+
+#### Dialect/SAE
+
+```bash
+python vqa_score_understanding.py --res_dir data/generated/... --dialect sge
+```
+
+#### SAE Polysemy
+
+```bash
+python vqa_score_understanding_polysemy.py --res_dir data/generated/... --dialect sge
+```
+
+Then a file named `vqa_score_understanding_polysemy.json` will be created under the `res_dir` directory. Run the following script to aggregate the results.
+
+```bash
+python aggregate_polysemy_res.py --res_path home/.../vqa_score_understanding_polysemy.json
+```
+`res_path` refers to the absolute path of `vqa_score_understanding_polysemy.json`.
+
+#### SAE MSCOCO
+
+```bash
+python vqa_score_understanding_mscoco.py --res_dir data/generated/...
+```
+
+##### Arguments
+
+- `res_dir`: The directory where the images were generated.
 
 
 # BibTex
