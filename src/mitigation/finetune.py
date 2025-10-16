@@ -129,8 +129,8 @@ def main(args):
     else:
         reference_logits, mode_embeds = text_encoder_inference(tokenizer, encoder_reference, caption_dataset, device)
         reference_logits_eval, mode_embeds_eval = text_encoder_inference(tokenizer, encoder_reference, caption_dataset_eval, device)
-    print(f"reference_logits shape: {reference_logits.shape}")
-    print(f"mode_embeds shape: {mode_embeds.shape}")
+    # print(f"reference_logits shape: {reference_logits.shape}")
+    # print(f"mode_embeds shape: {mode_embeds.shape}")
 
     # --- Optimizer and Scheduler ---
     optimizer = config.create_optimizer(encoder_policy)
@@ -242,7 +242,7 @@ def main(args):
             if config.clip_model != "none":
                 text_embeds = clip_model.text_projection(text_embeds) # [1000, 768]
                 text_embeds = text_embeds / text_embeds.norm(p=2, dim=-1, keepdim=True) # [1000, 768]
-                print(f'text_embeds shape: {text_embeds.shape}')
+                # print(f'text_embeds shape: {text_embeds.shape}')
 
                 # cosine similarity as logits
                 logit_scale = clip_model.logit_scale.exp() # 100.0
@@ -250,7 +250,7 @@ def main(args):
                 logits_per_image = logits_per_text.T
             else:
                 text_embeds = text_embeds / text_embeds.norm(p=2, dim=-1, keepdim=True) # [1000, 768]
-                print(f'text_embeds shape: {text_embeds.shape}')
+                # print(f'text_embeds shape: {text_embeds.shape}')
 
                 # cosine similarity as logits
                 logit_scale = 100.
@@ -370,14 +370,14 @@ def main(args):
         if config.clip_model != "none":
             text_embeds_eval = clip_model.text_projection(text_embeds_eval) # [1000, 768]
             text_embeds_eval = text_embeds_eval / text_embeds_eval.norm(p=2, dim=-1, keepdim=True) # [1000, 768]
-            print(f'text_embeds_eval shape: {text_embeds_eval.shape}')
+            # print(f'text_embeds_eval shape: {text_embeds_eval.shape}')
             # cosine similarity as logits
             logit_scale = clip_model.logit_scale.exp() # 100.0
             logits_per_text_eval = torch.matmul(text_embeds_eval, mode_embeds_eval.t()) * logit_scale # [1000, 1000]
             logits_per_image_eval = logits_per_text_eval.T
         else:
             text_embeds_eval = text_embeds_eval / text_embeds_eval.norm(p=2, dim=-1, keepdim=True) # [1000, 768]
-            print(f'text_embeds_eval shape: {text_embeds_eval.shape}')
+            # print(f'text_embeds_eval shape: {text_embeds_eval.shape}')
             # cosine similarity as logits
             logit_scale = 100.
             logits_per_text_eval = torch.matmul(text_embeds_eval, mode_embeds_eval.t()) * logit_scale # [1000, 1000]
