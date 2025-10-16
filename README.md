@@ -24,7 +24,7 @@
     <a href="https://cownowan.github.io/">Sohyun An*</a>, 
     <a href="https://haikangdeng.github.io/">Haikang Deng*</a>, 
     <a href="https://wadeyin9712.github.io/">Da Yin</a>, 
-    <a href="https://clarkipeng.github.io/">Clark Peng</a>, <br>
+    <a href="https://clarkipeng.github.io/">Clark Peng</a>,
     <a href="https://web.cs.ucla.edu/~chohsieh/">Cho-Jui Hsieh</a>,
     <a href="https://web.cs.ucla.edu/~kwchang/">Kai-Wei Chang</a>, 
     <a href="https://violetpeng.github.io/">Nanyun Peng</a>
@@ -33,7 +33,7 @@
 
 <p align="center">
     <a href="https://dialectgen.github.io/" target="_blank">
-        <img src="./assets/teaser.png" alt="DialectGen" width="90%" height="90%" border="10" />
+        <img src="./assets/teaser.png" alt="DialectGen" width="100%" height="100%" border="10" />
     </a>
 </p>
 
@@ -183,7 +183,7 @@ For aggregating evaluation results and calculating final scores for each dataset
 ## 3. Mitigation
 
 
-
+......
 
 
 # BibTex
