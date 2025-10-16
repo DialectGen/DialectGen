@@ -1,4 +1,4 @@
-name: dialect
+name: DialectGen
 channels:
   - defaults
   - https://repo.anaconda.com/pkgs/main
