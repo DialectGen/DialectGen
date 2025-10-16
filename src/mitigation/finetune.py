@@ -1,3 +1,4 @@
+import pdb
 import argparse
 import os
 from datetime import datetime
@@ -427,7 +428,7 @@ def main(args):
     print(f"Model saved to: {save_path}")
 
     if config.wandb['enable_logging'] and 'wandb_run' in locals():
-        model_artifact = wandb.Artifact(f'policy_encoder_{args.dialect}', type='model')
+        model_artifact = wandb.Artifact(f'policy_encoder', type='model')
         model_artifact.add_dir(save_path)
         wandb_run.log_artifact(model_artifact)
         wandb.summary['model_save_path'] = save_path
@@ -509,15 +510,15 @@ def process_polysemy_data(folder, dialect_str):
 
 
 def parse_arguments():
-    parser = argparse.ArgumentParser(description='Dialect Unlearning with KL Regularization')
+    parser = argparse.ArgumentParser()
     parser.add_argument('-c',
                         '--config',
                         default="configs/sd15.yaml",
                         type=str,
                         dest="config",
                         help='Config .yaml file path (default: configs/sd15.yaml)')
-    parser.add_argument('--dialect', type=str, default='aae,bre,che,ine,sge', help="For multiple dialects, use comma. e.g., aae,bre")
-    parser.add_argument('--mode', type=str, default="concise")
+    parser.add_argument('--dialect', type=str, default='aae,bre,che,ine,sge', help="for multiple dialects, use comma. e.g., aae,bre")
+    parser.add_argument('--mode', type=str, default="concise", help="the mode of dialect", choices=["concise", "detailed"])
     return parser.parse_args()
 
 

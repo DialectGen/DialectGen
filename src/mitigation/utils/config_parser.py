@@ -1,10 +1,6 @@
-from pathlib import Path
-
-import datasets
 import torch
 import torch.optim as optim
 import yaml
-from datasets import load_dataset
 from torch.nn.functional import cosine_similarity
 from transformers import CLIPTextModel, CLIPTokenizer
 from diffusers import StableDiffusionPipeline

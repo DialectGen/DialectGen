@@ -48,10 +48,10 @@ def main(args):
 
 
 def parse_arguments():
-    parser = ArgumentParser(description="Generate images using a stable diffusion model.")
+    parser = ArgumentParser()
     parser.add_argument("--model", type=str, default="stable-diffusion-v1-5/stable-diffusion-v1-5", 
                         choices=["stable-diffusion-v1-5/stable-diffusion-v1-5"])
-    parser.add_argument("--encoder", type=str, default="models/sge/singlish_kl_iac_20ep")
+    parser.add_argument("--encoder", type=str, default="models/...", help="encoder path")
     parser.add_argument("--swap", type=int, default=0, help="Swap in the trained text encoder.")
     return parser.parse_args()
 

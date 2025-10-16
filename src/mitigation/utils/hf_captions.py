@@ -1,25 +1,7 @@
-import torch
 import datasets
 from datasets import Features, Value, Sequence, Image as HFImage # Renamed PIL.Image to avoid conflict
 import json
 import os
-from PIL import Image as PILImage # Keep PIL for potential use in transforms
-from torchvision import transforms
-
-# CLIP_MEAN = (0.48145466, 0.4578275, 0.40821073)
-# CLIP_STD = (0.26862954, 0.26130258, 0.27577711)
-# INPUT_RESOLUTION = 224
-
-# # Canonical transform for evaluation/inference
-# coco_transform = transforms.Compose([
-#     transforms.Resize(INPUT_RESOLUTION, interpolation=transforms.InterpolationMode.BICUBIC),
-#     transforms.CenterCrop(INPUT_RESOLUTION),
-#     # ToTensor() should come before Normalize
-#     # The HF Image feature loads as PIL, so ToTensor is needed if outputting tensors
-#     transforms.ToTensor(),
-#     transforms.Normalize(CLIP_MEAN, CLIP_STD),
-# ])
-
 
 def generate_coco_examples(caption_file_path: str, image_folder_path: str):
     """
@@ -110,17 +92,6 @@ def create_hf_coco_dataset(caption_file_path, image_folder_path):
             "caption_file_path": caption_file_path,
             "image_folder_path": image_folder_path,
         },
-        # cache_dir="/data2/haikang/projects/cloned/Dialet-Biases-Unlearning/data",
         cache_dir="./data",
     )
     return hf_dataset
-
-
-# def apply_transforms(batch):
-#     """
-#     Applies the predefined coco_transform to the 'image' column.
-#     Assumes the 'image' column contains PIL Images loaded by the HF Image feature.
-#     """
-#     # The transform expects PIL images, which HF Image() provides by default
-#     batch['image'] = [coco_transform(img) for img in batch['image']]
-#     return batch

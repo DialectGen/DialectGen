@@ -85,9 +85,9 @@ def main(args):
 
 def parse_arguments():
     parser = ArgumentParser()
-    parser.add_argument("--res_dir", type=str, default="", help="the parent results directory with subfolders like sae and sge")
+    parser.add_argument("--res_dir", type=str, default="", help="the parent results directory with subfolders like xxx_polysemy")
     parser.add_argument("--data_dir", type=str, default="../../data/text/train_val_test/4-1-1/")
-    parser.add_argument("--mode", type=str, default="concise")
+    parser.add_argument("--mode", type=str, default="concise", help="the mode of dialect")
     parser.add_argument("--dialect", type=str, default="sge")
     return parser.parse_args()
 

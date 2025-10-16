@@ -1,30 +1,20 @@
-import torch
-from torch.utils.data import Dataset, DataLoader
+from torch.utils.data import Dataset
 import json
 import os
 from PIL import Image # Import PIL for image loading if needed later
-from torchvision import transforms
-from torchvision.datasets.coco import CocoCaptions
+
 
 # These are the standard mean/std values published for CLIP models (ViT-B/32)
 CLIP_MEAN = (0.48145466, 0.4578275, 0.40821073)
 CLIP_STD = (0.26862954, 0.26130258, 0.27577711)
 INPUT_RESOLUTION = 224 # Or the resolution your specific CLIP model expects
 
-# # Canonical transform for evaluation/inference
-# coco_transform = transforms.Compose([
-#     transforms.Resize(INPUT_RESOLUTION, interpolation=transforms.InterpolationMode.BICUBIC),
-#     transforms.CenterCrop(INPUT_RESOLUTION),
-#     transforms.ToTensor(),
-#     transforms.Normalize(CLIP_MEAN, CLIP_STD),
-# ])
-
 
 class MSCOCOCaptionDataset(Dataset):
 
     def __init__(self, caption_file_path, image_folder_path=None, transform=None):
         if not os.path.exists(caption_file_path):
-             raise FileNotFoundError(f"Caption file not found: {caption_file_path}")
+            raise FileNotFoundError(f"Caption file not found: {caption_file_path}")
 
         with open(caption_file_path, 'r') as f:
             caption_data = json.load(f)
@@ -131,5 +121,5 @@ def coco_collate_fn(batch):
     }
 
     if images is not None:
-       collated_batch['images'] = images
+        collated_batch['images'] = images
     return collated_batch

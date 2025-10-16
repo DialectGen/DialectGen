@@ -1,3 +1,22 @@
+## Setup
+Navigate to the directory by running the following command:
+```
+cd src/mitigation
+```
+You need to install the following additional packages in the Conda environment that you created from `environment.yml`.
+```
+pip install wandb
+pip install datasets==3.1.0
+```
+
+
+## Download MS COCO dataset
+First, if the MSCOCO dataset is not available, you will need to download it. Please refer to the `download_mscoco.sh` for instructions. This will create a folder named `mscoco` under the `data` directory and download the data into it.
+```
+bash download_mscoco.sh
+```
+
+
 ## Fine-tune the text encoder
 You can fine-tune the text encoder using the following command. The relevant configuration is included in `configs` folder.
 ```
@@ -19,8 +38,6 @@ CUDA_VISIBLE_DEVICES=[GPU] python generate_images_polysemy.py --model stable-dif
 ```
 
 ### SAE MSCOCO
-First, if the MSCOCO dataset is not available, you will need to download it. Please refer to the `download_mscoco.sh` for instructions. This will create a folder named `mscoco` under the `data` directory and download the data into it.
-Then, please use the following script to generate it.
 ```
 CUDA_VISIBLE_DEVICES=[GPU] python generate_images_mscoco.py --model $model --encoder [ENCODER_PATH] --swap [SWAP]
 ```

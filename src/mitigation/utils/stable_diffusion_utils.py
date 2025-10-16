@@ -1,13 +1,11 @@
+# code is partly based on https://huggingface.co/blog/stable_diffusion
 from typing import List
-
 import torch
 from diffusers import AutoencoderKL, LMSDiscreteScheduler, UNet2DConditionModel
 from PIL import Image
 from torch import autocast
 from tqdm.auto import tqdm
 from transformers import CLIPTextModel, CLIPTokenizer
-
-# code is partly based on https://huggingface.co/blog/stable_diffusion
 
 
 def generate(prompt: List[int],

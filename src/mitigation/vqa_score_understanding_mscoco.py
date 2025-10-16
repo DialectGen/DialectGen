@@ -64,7 +64,7 @@ def main(args):
 
 def parse_arguments():
     parser = ArgumentParser()
-    parser.add_argument("--res_dir", type=str, default="", help="the parent results directory with subfolders like sae and sge")
+    parser.add_argument("--res_dir", type=str, default="", help="the parent results directory with prompt subfolders")
     return parser.parse_args()
 
 

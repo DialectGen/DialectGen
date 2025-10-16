@@ -28,7 +28,7 @@ def main(args):
     else:
         base_dir = BASE_ORIG_DIR
 
-    print(">>> encoder name: " + args.encoder.split("/")[-1])
+    print(">>> encoder name: " + "/".join(args.encoder.split("/")[-2:]))
     for i in range(len(polysemy_prompts)):
         polysemy_prompt = polysemy_prompts[i]
         
@@ -54,14 +54,14 @@ def main(args):
 
 
 def parse_arguments():
-    parser = ArgumentParser(description="Generate images using a stable diffusion model.")
+    parser = ArgumentParser()
     parser.add_argument("--model", type=str, default="stable-diffusion-v1-5/stable-diffusion-v1-5", 
                         choices=["stable-diffusion-v1-5/stable-diffusion-v1-5"])
-    parser.add_argument("--encoder", type=str, default="models/sge/singlish_kl_iac_20ep")
+    parser.add_argument("--encoder", type=str, default="models/...", help="encoder path")
     parser.add_argument("--swap", type=int, default=0, help="Swap in the trained text encoder.")
     parser.add_argument("--data_dir", type=str, default="../../data/text/train_val_test/4-1-1/")
-    parser.add_argument("--mode", type=str, default="concise")
-    parser.add_argument("--dialect", type=str, default="sge")
+    parser.add_argument("--mode", type=str, default="concise", help="the mode of dialect")
+    parser.add_argument("--dialect", type=str, default="sge", help="the target dialect for image generation")
     args = parser.parse_args()
     return args
 
