@@ -5,7 +5,7 @@
 
 
 <p align="center">
-    <a href="https://arxiv.org/">
+    <a href="https://arxiv.org/pdf/2510.14949">
         <img src="https://img.shields.io/badge/arXiv-2410.07166-B31B1B.svg?style=plastic&logo=arxiv" alt="arXiv">
     </a>
     <a href="https://dialectgen.github.io/">
@@ -285,7 +285,7 @@ If you find our work helpful, please kindly cite our work :)
 @article{zhou2025dialectgen,
   title={DialectGen: Benchmarking and Improving Dialect Robustness in Multimodal Generation},
   author={Zhou, Yu and An, Sohyun and Deng, Haikang and Yin, Da and Peng, Clark and Hsieh, Cho-Jui and Chang, Kai-Wei and Peng, Nanyun},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2510.14949},
   year={2025}
 } 
 ```
