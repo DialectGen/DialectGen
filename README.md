@@ -11,7 +11,7 @@
     <a href="https://dialectgen.github.io/">
         <img src="https://img.shields.io/badge/Website-DialectGen-purple?style=plastic&logo=Google%20chrome" alt="Website">
     </a>
-    <a href="https://huggingface.co/datasets/uclanlp/" target="_blank">
+    <a href="https://huggingface.co/datasets/uclanlp/DialectGen" target="_blank">
         <img src="https://img.shields.io/badge/Dataset-Download-yellow?style=plastic&logo=huggingface" alt="Download the EmbodiedAgentInterface Dataset from Hugging Face">
     <a href="https://opensource.org/licenses/MIT">
         <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=plastic" alt="License: MIT">
